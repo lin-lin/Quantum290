@@ -37,6 +37,7 @@
 [Problem-free time-dependent variational principle for open quantum systems](http://arxiv.org/abs/1501.02025v3)
 
 > L. Joubert-Doriol, A.F. Izmaylov
+> 
 > **J. Chem. Phys. 142 (2015) 1--9**
 
 1.  K. Jacobs, D.A. Steck, A straightforward introduction to continuous
