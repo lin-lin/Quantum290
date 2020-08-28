@@ -31,7 +31,7 @@
 ###### 1. 
 [Problem-free time-dependent variational principle for open quantum systems](http://arxiv.org/abs/1501.02025v3)
 
-> L. Joubert-Doriol, A.F. Izmaylov
+> Loic Joubert-Doriol, Artur F. Izmaylov
 > 
 > **J. Chem. Phys. 142 (2015) 1--9**
 
@@ -39,7 +39,7 @@
 
 [A straightforward introduction to continuous quantum measurement](https://arxiv.org/pdf/quant-ph/0611067.pdf)
 
-> K. Jacobs, D.A. Steck
+> Kurt Jacobs, Daniel A. Steck
 >
 > **Contemp. Phys. 47 (2006) 279--303**
 
@@ -47,29 +47,37 @@
 
  [Variational Schrieffer-Wolff Transformations for Quantum Many-Body Dynamics](https://arxiv.org/pdf/1910.11889.pdf)
 
-> J. Wurtz, P. Claeys, A. Polkovnikov
+> Jonathan Wurtz, Pieter Claeys, Anatoli Polkovnikov
 >
 > **PhysRevB , 014302 (2019) 1--16**
 
+###### 4 
+
+[Variational Fast Forwarding for Quantum Simulation Beyond the Coherence Time](https://arxiv.org/pdf/1910.04292.pdf)
+
+> Cristina Cirstoiu, Zoe Holmes, Joseph Iosue, Lukasz Cincio, Patrick J. Coles, Andrew Sornborger
+>
+>**Arxiv 2019**
+
+###### 5
+
+[Quantum simulations of materials on near-term quantum computers](https://arxiv.org/pdf/2002.11173.pdf)
+
+> He Ma, Marco Govoni, Giulia Galli
+> 
+> **Arxiv 2020**
+
+###### 6
+
+[Hamiltonian Simulation Algorithms for Near-Term Quantum Hardware](https://arxiv.org/pdf/2003.06886.pdf)
+
+> Laura Clinton, Johannes Bausch, Toby Cubitt
+> 
+> **Arxiv 2020**
 
 
 
 
-
-2.  J. Wurtz, P. Claeys, A. Polkovnikov, Variational Schrieffer-Wolff
-    Transformations for Quantum Many-Body Dynamics, 014302 (2019) 1--16.
-    doi:10.1103/PhysRevB.101.014302.
-    
-3.  C. Cirstoiu, Z. Holmes, J. Iosue, L. Cincio, P.J. Coles, A.
-    Sornborger, Variational Fast Forwarding for Quantum Simulation
-    Beyond the Coherence Time, (2019) 1--13.
-    http://arxiv.org/abs/1910.04292.
-    
-4.  ###### H. Ma, M. Govoni, G. Galli, Quantum simulations of materials on
-  
-    near-term quantum computers, (2020) 1--23.
-    http://arxiv.org/abs/2002.11173.
-    
 5.  L. Clinton, J. Bausch, T. Cubitt, Hamiltonian Simulation Algorithms
     for Near-Term Quantum Hardware, (2020) 1--63.
     http://arxiv.org/abs/2003.06886.
