@@ -1,4 +1,4 @@
-# MATH 290
+# MATH 290:electron:	
 
 ### 🌟 Virtual quantum many-body seminar, 2020 Fall to 2021 Summer
 
