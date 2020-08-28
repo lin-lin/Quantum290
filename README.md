@@ -5,6 +5,7 @@
 - **When:** Fridays 10AM-12PM
 - **Where:** 💻 Zoom. Please send me an email to ask for the zoom id.
 
+<br>
 <div align="center">
   <h3>Week 1</h3>
   <h1>fast matrix-vector multiplication algorithms for dense kernel matrices [Placeholder now]</h1>
