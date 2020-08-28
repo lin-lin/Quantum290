@@ -13,11 +13,11 @@
 |------|-------|-------|------------------|------------|
 | 1    | 9/4   |       |                  |            |
 | 2    | 9/11  |       |                  |            |
-| 3    | 9/18  |       | Yu Tong          | [11](#Reading-materials)     |
-| 4    | 9/25  |       | Fabian Faulstish | [8](#6)      |
+| 3    | 9/18  |       | Yu Tong          | [11](#11)  |
+| 4    | 9/25  |       | Fabian Faulstish | [8](#6)    |
 | 5    | 10/2  |       |                  |            |
-| 6    | 10/9  |       | Xin Xing         | \[21\]     |
-| 7    | 10/16 |       | Jiasu Wang       | \[15\]     |
+| 6    | 10/9  |       | Xin Xing         | [21](#21)  |
+| 7    | 10/16 |       | Jiasu Wang       | [15](#15)  |
 | 8    | 10/23 |       |                  |            |
 | 9    | 10/30 |       |                  |            |
 | 10   | 11/6  |       |                  |            |
@@ -196,3 +196,10 @@
 > Holzmann, Markus; Clay, Raymond C.; Morales, Miguel A.; Tubman, Norm M.; Ceperley, David M.; Pierleoni, Carlo
 >
 > **Phys. Rev. B. 94 (2016)**
+
+###### 23
+
+[Quantum simulation via randomized product formulas: Low gate complexity with accuracy guarantees](https://arxiv.org/pdf/2008.11751.pdf)
+> Chi-Fang Chen, Hsin-Yuan (Robert)Huang, Richard Kueng, Joel A. Tropp
+>
+> **Arxiv 2020**
