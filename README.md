@@ -3,9 +3,14 @@
 ### Virtual quantum many-body seminar, 2020 Fall to 2021 Summer
 
 - **When:** Fridays 10AM-12PM
-- **Where:** Zoom. Please send me an email to ask for the zoom id.
+- **Where:** 💻 Zoom. Please send me an email to ask for the zoom id.
 
-
+<div align="center">
+  <h3>Week 1</h3>
+  <h1>fast matrix-vector multiplication algorithms for dense kernel matrices [Placeholder now]</h1>
+  <strong>Xin Xing</strong>
+  <h6>September 4 th, 10AM-12PM</h6>
+</div>
 
 ## Schedule
 
@@ -26,7 +31,7 @@
 
 
 
-## Reading materials 
+## 🗂 Reading materials 
 
 ###### 1
 [Problem-free time-dependent variational principle for open quantum systems](http://arxiv.org/abs/1501.02025v3)
