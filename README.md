@@ -28,24 +28,34 @@
 
 ## Reading materials 
 
-1.  L. Joubert-Doriol, A.F. Izmaylov, Problem-free time-dependent
-    variational principle for open quantum systems, J. Chem. Phys.
-    142 (2015) 1--9. http://arxiv.org/abs/1501.02025v3
-
- **Problem-free time-dependent variational principle for open quantum systems** (2015), L. Joubert-Doriol, A.F. Izmaylov. J. Chem. Phys. 142 (2015) 1--9 [[pdf]](http://arxiv.org/abs/1501.02025v3)
-
-
-
+###### 1. 
 [Problem-free time-dependent variational principle for open quantum systems](http://arxiv.org/abs/1501.02025v3)
 
 > L. Joubert-Doriol, A.F. Izmaylov
 > 
 > **J. Chem. Phys. 142 (2015) 1--9**
 
-1.  K. Jacobs, D.A. Steck, A straightforward introduction to continuous
-    quantum measurement, Contemp. Phys. 47 (2006) 279--303.
-    doi:10.1080/00107510601101934.
-    
+###### 2
+
+[A straightforward introduction to continuous quantum measurement](https://arxiv.org/pdf/quant-ph/0611067.pdf)
+
+> K. Jacobs, D.A. Steck
+>
+> **Contemp. Phys. 47 (2006) 279--303**
+
+###### 3
+
+ [Variational Schrieffer-Wolff Transformations for Quantum Many-Body Dynamics](https://arxiv.org/pdf/1910.11889.pdf)
+
+> J. Wurtz, P. Claeys, A. Polkovnikov
+>
+> **PhysRevB , 014302 (2019) 1--16**
+
+
+
+
+
+
 2.  J. Wurtz, P. Claeys, A. Polkovnikov, Variational Schrieffer-Wolff
     Transformations for Quantum Many-Body Dynamics, 014302 (2019) 1--16.
     doi:10.1103/PhysRevB.101.014302.
