@@ -17,6 +17,7 @@
 </div>
 
 -----
+## 📌 Schedule
 
 <style>
 table th:first-of-type {
@@ -36,11 +37,10 @@ table th:nth-of-type(5) {
 }
 </style>
 
-## 📌 Schedule
-
 | Week | Date  | Topic                                        | &nbsp;&nbsp;&nbsp; Speaker  &nbsp;&nbsp;&nbsp;       | References |
 | ---- | ----- | -------------------------------------------- | ---------------------- | ---------- |
 | 1    | 9/4   | <ul><li>Machine learning exchange-correlation energy</li><li>Solving Quantum Linear Algebra Problems and a Proposal of Quantum LINPACK Benchmark</li></ul> | <ul><li>Qinyi Zhu</li><li>Yulong Dong</li></ul> |            |
+
 | 2    | 9/11  |                                              |                        |            |
 | 3    | 9/18  |                                              | Yu Tong                | [11](#11)  |
 | 4    | 9/25  |                                              | Fabian Faulstish       | [8](#6)    |
@@ -48,7 +48,7 @@ table th:nth-of-type(5) {
 | 6    | 10/9  |                                              | Xin Xing               | [21](#21)  |
 | 7    | 10/16 |                                              | Jiasu Wang             | [15](#15)  |
 | 8    | 10/23 |                                              |                        |            |
-| 9    | 10/30 |                                              |                        |            |
+| 9    | 10/30 |                                              | Yulong Dong            |  [12](#12) |
 | 10   | 11/6  |                                              |                        |            |
 | 11   | 11/13 |                                              |                        |            |
 | 12   | 11/20 |                                              |                        |            |
