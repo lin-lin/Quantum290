@@ -21,7 +21,7 @@
 
 | Week | Date  | Topic         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                                | Speaker        | References |
 | ---- | ----- | -------------------------------------------- | ---------------------- | ---------- |
-| 1    | 9/4   | <ul><li>Machine learning exchange-correlation energy</li><li>Solving Quantum Linear Algebra Problems </li></ul> | <ul><li>Qinyi Zhu</li><li>Yulong Dong</li></ul> |            |
+| 1    | 9/4   | Machine learning exchange-correlation energy<<br> Solving Quantum Linear Algebra Problems and a Proposal of Quantum LINPACK Benchmark | Qinyi Zhu<br>Yulong Dong |            |
 | 2    | 9/11  |                                              |                        |            |
 | 3    | 9/18  |                                              | Yu Tong                | [11](#11)  |
 | 4    | 9/25  |                                              | Fabian Faulstish       | [8](#6)    |
