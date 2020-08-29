@@ -20,7 +20,7 @@
 
 ## 📌 Schedule
 
-| Week | Date  | Topic                                        | Speaker                | References |
+| Week | Date  | Topic                                        | Speaker        &nbsp       | References |
 | ---- | ----- | -------------------------------------------- | ---------------------- | ---------- |
 | 1    | 9/4   | <ul><li>Machine learning exchange-correlation energy</li><li>Solving Quantum Linear Algebra Problems and a Proposal of Quantum LINPACK Benchmark</li></ul> | <ul><li>Qinyi Zhu</li><li>Yulong Dong</li></ul> |            |
 | 2    | 9/11  |                                              |                        |            |
