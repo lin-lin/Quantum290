@@ -21,8 +21,8 @@
 
 | Week | Date  | Topic                                                                                | Speaker          | References |
 |------|-------|--------------------------------------------------------------------------------------|------------------|------------|
-| 1    | 9/4   | Machine Learning Exchange-Correlation Energy                                         | Qinyi Zhu        |            |
-|      |       | Solving Quantum Linear Algebra Problems <br> A Proposal of Quantum LINPACK Benchmark | Yulong Dong      |            |
+| 1    | 9/4   | Machine Learning Exchange-Correlation Energy                                         | Qinyi Zhu        |    [24](#24)        |
+|      |       | Solving Quantum Linear Algebra Problems <br> A Proposal of Quantum LINPACK Benchmark | Yulong Dong      |     [25](#25)        |
 | 2    | 9/11  |                                                                                      |                  |            |
 | 3    | 9/18  |                                                                                      | Yu Tong          | [11](#11)  |
 | 4    | 9/25  |                                                                                      | Fabian Faulstish | [8](#6)    |
@@ -212,5 +212,17 @@
 
 [Quantum simulation via randomized product formulas: Low gate complexity with accuracy guarantees](https://arxiv.org/pdf/2008.11751.pdf)
 > Chi-Fang Chen, Hsin-Yuan (Robert)Huang, Richard Kueng, Joel A. Tropp
+>
+> **Arxiv 2020**
+
+###### 24
+[Machine learning accurate exchange and correlation functionals of the electronic density](https://www.nature.com/articles/s41467-020-17265-7)
+> Sebastian Dick and Marivi Fernandez-Serra 
+> 
+> **Nature Communications (2020)**
+
+###### 25
+[Random circuit block-encoded matrix and a proposal of quantum LINPACK benchmark](https://arxiv.org/pdf/2006.04010.pdf)
+> Yulong Dong, Lin Lin
 >
 > **Arxiv 2020**
