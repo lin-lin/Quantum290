@@ -7,34 +7,34 @@
 
 ---------
 
-
-
 <div align="center">
   <h3>Week 1</h3>
-  <h1>fast matrix-vector multiplication algorithms for dense kernel matrices [Placeholder now]</h1>
-  <strong>Xin Xing</strong>
+  <h1>Machine Learning Exchange-Correlation Energy</h1>
+  <strong>Qinyi Zhu</strong>
+  <h1>Solving Quantum Linear Algebra Problems and a Proposal of Quantum LINPACK Benchmark </h1>
+  <strong>Yulong Dong</strong>
   <h6>September 4 th, 10AM-12PM</h6>
 </div>
 
 -----
-
 ## 📌 Schedule
 
-| Week | Date  | Topic                                        | Speaker                | References |
-| ---- | ----- | -------------------------------------------- | ---------------------- | ---------- |
-| 1    | 9/4   | <ul><li>item1</li><li>item2</li></ul> | Qinyi Zhu; Yulong Dong |            |
-| 2    | 9/11  |                                              |                        |            |
-| 3    | 9/18  |                                              | Yu Tong                | [11](#11)  |
-| 4    | 9/25  |                                              | Fabian Faulstish       | [8](#6)    |
-| 5    | 10/2  |                                              |                        |            |
-| 6    | 10/9  |                                              | Xin Xing               | [21](#21)  |
-| 7    | 10/16 |                                              | Jiasu Wang             | [15](#15)  |
-| 8    | 10/23 |                                              |                        |            |
-| 9    | 10/30 |                                              |                        |            |
-| 10   | 11/6  |                                              |                        |            |
-| 11   | 11/13 |                                              |                        |            |
-| 12   | 11/20 |                                              |                        |            |
-
+| Week | Date  | Topic                                                                                | Speaker          | References |
+|------|-------|--------------------------------------------------------------------------------------|------------------|------------|
+| 1    | 9/4   | Machine Learning Exchange-Correlation Energy                                         | Qinyi Zhu        | [24](#24)  |
+|      |       | Solving Quantum Linear Algebra Problems <br> A Proposal of Quantum LINPACK Benchmark | Yulong Dong      | [25](#25)  |
+| 2    | 9/11  | Computational Optimal Transport                                                      | Jeffmin Lin      |            |
+|      |       | Fast Matrix-Vector Multiplication Algorithms for Dense Kernel Matrices               | Xin Xing         |            |
+| 3    | 9/18  |                                                                                      | Yu Tong          | [11](#11)  |
+| 4    | 9/25  |                                                                                      | Fabian Faulstish | [8](#6)    |
+| 5    | 10/2  |                                                                                      |                  |            |
+| 6    | 10/9  |                                                                                      | Xin Xing         | [21](#21)  |
+| 7    | 10/16 |                                                                                      | Jiasu Wang       | [15](#15)  |
+| 8    | 10/23 |                                                                                      |                  |            |
+| 9    | 10/30 |                                                                                      | Yulong Dong      | [12](#12)  |
+| 10   | 11/6  |                                                                                      |                  |            |
+| 11   | 11/13 |                                                                                      |                  |            |
+| 12   | 11/20 |                                                                                      |                  |            |
 
 
 ## 🗂 Reading materials 
@@ -212,5 +212,17 @@
 
 [Quantum simulation via randomized product formulas: Low gate complexity with accuracy guarantees](https://arxiv.org/pdf/2008.11751.pdf)
 > Chi-Fang Chen, Hsin-Yuan (Robert)Huang, Richard Kueng, Joel A. Tropp
+>
+> **Arxiv 2020**
+
+###### 24
+[Machine learning accurate exchange and correlation functionals of the electronic density](https://www.nature.com/articles/s41467-020-17265-7)
+> Sebastian Dick and Marivi Fernandez-Serra 
+> 
+> **Nature Communications (2020)**
+
+###### 25
+[Random circuit block-encoded matrix and a proposal of quantum LINPACK benchmark](https://arxiv.org/pdf/2006.04010.pdf)
+> Yulong Dong, Lin Lin
 >
 > **Arxiv 2020**
