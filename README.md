@@ -7,8 +7,6 @@
 
 ---------
 
-
-
 <div align="center">
   <h3>Week 1</h3>
   <h1>Machine Learning Exchange-Correlation Energy</h1>
