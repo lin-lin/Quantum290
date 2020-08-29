@@ -11,8 +11,10 @@
 
 <div align="center">
   <h3>Week 1</h3>
-  <h1>fast matrix-vector multiplication algorithms for dense kernel matrices [Placeholder now]</h1>
-  <strong>Xin Xing</strong>
+  <h1>Machine Learning Exchange-Correlation Energy</h1>
+  <strong>Qinyi Zhu</strong>
+  <h1>Solving Quantum Linear Algebra Problems and a Proposal of Quantum LINPACK Benchmark </h1>
+  <strong>Yulong Dong</strong>
   <h6>September 4 th, 10AM-12PM</h6>
 </div>
 
@@ -21,10 +23,10 @@
 
 | Week | Date  | Topic                                                                                | Speaker          | References |
 |------|-------|--------------------------------------------------------------------------------------|------------------|------------|
-| 1    | 9/4   | Machine Learning Exchange-Correlation Energy                                         | Qinyi Zhu        |    [24](#24)        |
-|      |       | Solving Quantum Linear Algebra Problems <br> A Proposal of Quantum LINPACK Benchmark | Yulong Dong      |     [25](#25)        |
-| 2    | 9/11  |                           Computational Optimal Transport                                                           |                  Jeffmin Lin |            |
-|    |  |                   fast matrix-vector multiplication algorithms for dense kernel matrices                                                                   |        Xin Xing          |            |
+| 1    | 9/4   | Machine Learning Exchange-Correlation Energy                                         | Qinyi Zhu        | [24](#24)  |
+|      |       | Solving Quantum Linear Algebra Problems <br> A Proposal of Quantum LINPACK Benchmark | Yulong Dong      | [25](#25)  |
+| 2    | 9/11  | Computational Optimal Transport                                                      | Jeffmin Lin      |            |
+|      |       | Fast Matrix-Vector Multiplication Algorithms for Dense Kernel Matrices               | Xin Xing         |            |
 | 3    | 9/18  |                                                                                      | Yu Tong          | [11](#11)  |
 | 4    | 9/25  |                                                                                      | Fabian Faulstish | [8](#6)    |
 | 5    | 10/2  |                                                                                      |                  |            |
@@ -35,7 +37,6 @@
 | 10   | 11/6  |                                                                                      |                  |            |
 | 11   | 11/13 |                                                                                      |                  |            |
 | 12   | 11/20 |                                                                                      |                  |            |
-
 
 
 ## 🗂 Reading materials 
