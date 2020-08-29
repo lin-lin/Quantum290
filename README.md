@@ -23,7 +23,8 @@
 |------|-------|--------------------------------------------------------------------------------------|------------------|------------|
 | 1    | 9/4   | Machine Learning Exchange-Correlation Energy                                         | Qinyi Zhu        |    [24](#24)        |
 |      |       | Solving Quantum Linear Algebra Problems <br> A Proposal of Quantum LINPACK Benchmark | Yulong Dong      |     [25](#25)        |
-| 2    | 9/11  |                                                                                      |                  |            |
+| 2    | 9/11  |                           Computational Optimal Transport                                                           |                  Jeffmin Lin |            |
+|    |  |                   fast matrix-vector multiplication algorithms for dense kernel matrices                                                                   |        Xin Xing          |            |
 | 3    | 9/18  |                                                                                      | Yu Tong          | [11](#11)  |
 | 4    | 9/25  |                                                                                      | Fabian Faulstish | [8](#6)    |
 | 5    | 10/2  |                                                                                      |                  |            |
