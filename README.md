@@ -19,25 +19,7 @@
 -----
 ## 📌 Schedule
 
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 60%;
-}
-table th:nth-of-type(4) {
-    width: 10%;
-}
-table th:nth-of-type(5) {
-    width: 10%;
-}
-</style>
-
-| Week | Date  | Topic                                        | &nbsp;&nbsp;&nbsp; Speaker  &nbsp;&nbsp;&nbsp;       | References |
+| Week | Date  | Topic         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                                | Speaker        | References |
 | ---- | ----- | -------------------------------------------- | ---------------------- | ---------- |
 | 1    | 9/4   | <ul><li>Machine learning exchange-correlation energy</li><li>Solving Quantum Linear Algebra Problems and a Proposal of Quantum LINPACK Benchmark</li></ul> | <ul><li>Qinyi Zhu</li><li>Yulong Dong</li></ul> |            |
 | 2    | 9/11  |                                              |                        |            |
