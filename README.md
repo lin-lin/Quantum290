@@ -3,7 +3,9 @@
 ### 🌟 Virtual quantum many-body seminar, 2020 Fall to 2021 Summer
 
 - **When:** 🕒 Fridays 10AM-12PM
-- **Where:** 💻 Zoom. Please send me an email to ask for the zoom id.
+- **Where:** 💻 Zoom. Please send me an email (linlin at math dot
+  berkeley dot edu) to ask for the zoom id.
+- **Moderator**: Jiahao Yao
 
 ---------
 
@@ -32,7 +34,7 @@
 | 7    | 10/16 |                                                                                      | Jiasu Wang       | [15](#15)  |
 | 8    | 10/23 |                                                                                      |                  |            |
 | 9    | 10/30 |                                                                                      | Yulong Dong      | [12](#12)  |
-| 10   | 11/6  |                                                                                      |                  |            |
+| 10   | 11/6  |                                                                                      | Subhayan Moulik  | [14](#14)  |
 | 11   | 11/13 |                                                                                      |                  |            |
 | 12   | 11/20 |                                                                                      |                  |            |
 
