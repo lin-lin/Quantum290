@@ -15,7 +15,7 @@
   <strong>Jeffmin Lin</strong>
   <h1>Fast Matrix-Vector Multiplication Algorithms for Dense Kernel Matrices </h1>
   <strong>Xin Xing</strong>
-  <h6>September 11 th, 10AM-12PM</h6>
+  <h6>September 14 th, 10AM-12PM</h6>
 </div>
 
 -----
