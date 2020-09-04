@@ -3,17 +3,19 @@
 ### 🌟 Virtual quantum many-body seminar, 2020 Fall to 2021 Summer
 
 - **When:** 🕒 Fridays 10AM-12PM
-- **Where:** 💻 Zoom. Please send me an email to ask for the zoom id.
+- **Where:** 💻 Zoom. Please send me an email (linlin at math dot
+  berkeley dot edu) to ask for the zoom id.
+- **Moderator**: Jiahao Yao
 
 ---------
 
 <div align="center">
   <h3>Week 1</h3>
-  <h1>Machine Learning Exchange-Correlation Energy</h1>
-  <strong>Qinyi Zhu</strong>
-  <h1>Solving Quantum Linear Algebra Problems and a Proposal of Quantum LINPACK Benchmark </h1>
-  <strong>Yulong Dong</strong>
-  <h6>September 4 th, 10AM-12PM</h6>
+  <h1>Computational Optimal Transport</h1>
+  <strong>Jeffmin Lin</strong>
+  <h1>Fast Matrix-Vector Multiplication Algorithms for Dense Kernel Matrices </h1>
+  <strong>Xin Xing</strong>
+  <h6>September 11 th, 10AM-12PM</h6>
 </div>
 
 -----
@@ -30,9 +32,9 @@
 | 5    | 10/2  |                                                                                      |                  |            |
 | 6    | 10/9  |                                                                                      | Xin Xing         | [21](#21)  |
 | 7    | 10/16 |                                                                                      | Jiasu Wang       | [15](#15)  |
-| 8    | 10/23 |                                                                                      |                  |            |
+| 8    | 10/23 | Continuous quantum error correction for evolution under time-dependent Hamiltonians  | Song Zhang       | [26](#26)  |
 | 9    | 10/30 |                                                                                      | Yulong Dong      | [12](#12)  |
-| 10   | 11/6  |                                                                                      |                  |            |
+| 10   | 11/6  |                                                                                      | Subhayan Moulik  | [14](#14)  |
 | 11   | 11/13 |                                                                                      |                  |            |
 | 12   | 11/20 |                                                                                      |                  |            |
 
@@ -224,5 +226,11 @@
 ###### 25
 [Random circuit block-encoded matrix and a proposal of quantum LINPACK benchmark](https://arxiv.org/pdf/2006.04010.pdf)
 > Yulong Dong, Lin Lin
+>
+> **Arxiv 2020**
+
+###### 26
+[Continuous quantum error correction for evolution under time-dependent Hamiltonians](https://arxiv.org/pdf/2003.11248.pdf)
+> J. Atalaya, S. Zhang, M. Y. Niu, A. Babakhani, H. C. H. Chan, J. Epstein, K. B. Whaley
 >
 > **Arxiv 2020**
