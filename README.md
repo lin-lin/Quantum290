@@ -41,6 +41,9 @@
 
 ## 🗂 Reading materials 
 
+<details>
+<summary>View contents</summary>
+  
 ###### 1
 [Problem-free time-dependent variational principle for open quantum systems](http://arxiv.org/abs/1501.02025v3)
 
@@ -247,4 +250,6 @@
 > Gabriel Peyré, Marco Cuturi, Justin Solomon
 >
 > **ICML 2016**
+<br>[⬆ Back to top](#🗂Reading-materials)
 
+</details>
