@@ -25,7 +25,7 @@
 |------|-------|--------------------------------------------------------------------------------------|------------------|------------|
 | 1    | 9/4   | Machine Learning Exchange-Correlation Energy                                         | Qinyi Zhu        | [24](#24)  |
 |      |       | Solving Quantum Linear Algebra Problems <br> A Proposal of Quantum LINPACK Benchmark | Yulong Dong      | [25](#25)  |
-| 2    | 9/14  | Computational Optimal Transport                                                      | Jeffmin Lin      |            |
+| 2    | 9/14  | Computational Optimal Transport                                                      | Jeffmin Lin      | [27](#27) [28](#28) |
 |      |       | Fast Matrix-Vector Multiplication Algorithms for Dense Kernel Matrices               | Xin Xing         |            |
 | 3    | 9/18  |                                                                                      | Yu Tong          | [11](#11)  |
 | 4    | 9/25  |                                                                                      | Fabian Faulstish | [8](#6)    |
@@ -35,7 +35,7 @@
 | 8    | 10/23 | Continuous Quantum Error Correction  <br> for Evolution under Time-Dependent Hamiltonians  | Song Zhang | [26](#26)  |
 | 9    | 10/30 |                                                                                      | Yulong Dong      | [12](#12)  |
 | 10   | 11/6  |                                                                                      | Subhayan Moulik  | [14](#14)  |
-| 11   | 11/13 |                                                                                      |                  |            |
+| 11   | 11/13 |                                                                                      | Di Fang          |  [2](#2)   |
 | 12   | 11/20 |                                                                                      |                  |            |
 
 
@@ -234,3 +234,17 @@
 > J. Atalaya, S. Zhang, M. Y. Niu, A. Babakhani, H. C. H. Chan, J. Epstein, K. B. Whaley
 >
 > **Arxiv 2020**
+
+###### 27
+[Computational Optimal Transport](https://arxiv.org/pdf/1803.00567.pdf)
+> Gabriel Peyré, Marco Cuturi
+>
+> **Arxiv 2018**
+
+
+###### 28
+[Gromov-Wasserstein Averaging of Kernel and Distance Matrices](http://proceedings.mlr.press/v48/peyre16.pdf)
+> Gabriel Peyré, Marco Cuturi, Justin Solomon
+>
+> **ICML 2016**
+
