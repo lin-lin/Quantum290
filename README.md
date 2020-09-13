@@ -250,6 +250,7 @@
 > Gabriel Peyré, Marco Cuturi, Justin Solomon
 >
 > **ICML 2016**
-<br>[⬆ Back to top](#🗂Reading-materials)
+
+<br>[⬆ Back to top](#-reading-materials)
 
 </details>
