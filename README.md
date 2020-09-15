@@ -29,14 +29,14 @@
 |      |       | Fast Matrix-Vector Multiplication Algorithms for Dense Kernel Matrices               | Xin Xing         |            |
 | 3    | 9/18  |                                                                                      | Yu Tong          | [11](#11)  |
 | 4    | 9/25  |                                                                                      | Fabian Faulstish | [8](#6)    |
-| 5    | 10/2  |                                                                                      |                  |            |
+| 5    | 10/2  |                                                                                      |   TBD            |            |
 | 6    | 10/9  |                                                                                      | Xin Xing         | [21](#21)  |
 | 7    | 10/16 |                                                                                      | Jiasu Wang       | [15](#15)  |
 | 8    | 10/23 | Continuous Quantum Error Correction  <br> for Evolution under Time-Dependent Hamiltonians  | Song Zhang | [26](#26)  |
 | 9    | 10/30 |                                                                                      | Yulong Dong      | [12](#12)  |
 | 10   | 11/6  |                                                                                      | Subhayan Moulik  | [14](#14)  |
 | 11   | 11/13 |                                                                                      | Di Fang          |  [2](#2)   |
-| 12   | 11/20 |                                                                                      |                  |            |
+| 12   | 11/20 |                                                                                      | Jiahao Yao       |            |
 
 
 ## 🗂 Reading materials 
