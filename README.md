@@ -10,12 +10,12 @@
 ---------
 
 <div align="center">
-  <h3>Week 2</h3>
-  <h1>Computational Optimal Transport</h1>
-  <strong>Jeffmin Lin</strong>
-  <h1>Fast Matrix-Vector Multiplication Algorithms for Dense Kernel Matrices </h1>
-  <strong>Xin Xing</strong>
-  <h6>September 14 th, 10AM-12PM</h6>
+  <h3>Week 3</h3>
+  <h1>TBD</h1>
+  <strong>Yu Tong</strong>
+  <h1>TBD</h1>
+  <strong>Hongli Zhao</strong>
+  <h6>September 18 th, 10AM-12PM</h6>
 </div>
 
 -----
