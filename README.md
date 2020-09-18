@@ -252,6 +252,12 @@
 >
 > **ICML 2016**
 
+###### 29
+[Generative training of quantum Boltzmann machines with hidden units](https://arxiv.org/pdf/1905.09902.pdf)
+> Nathan Wiebe, Leonard Wossnig
+>
+> **Arxiv 2019**
+
 <br>[⬆ Back to top](#-reading-materials)
 
 </details>
