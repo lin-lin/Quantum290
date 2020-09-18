@@ -30,7 +30,7 @@
 | 3    | 9/18  | Quantum State Verification in the Linear System Problem                              | Yu Tong          | [11](#11)  |
 |      |       | Data-Driven PDF Method for Langevin Equations with Colored Noise                     | Hongli Zhao      |            |
 | 4    | 9/25  |                                                                                      | Fabian Faulstish | [8](#6)    |
-| 5    | 10/2  |                                                                                      |   TBD            |            |
+| 5    | 10/2  |                                                            | [Kailai Xu](http://stanford.edu/~kailaix/) |            |
 | 6    | 10/9  |                                                                                      | Xin Xing         | [21](#21)  |
 | 7    | 10/16 |                                                                                      | Jiasu Wang       | [15](#15)  |
 | 8    | 10/23 | Continuous Quantum Error Correction  <br> for Evolution under Time-Dependent Hamiltonians  | Song Zhang | [26](#26)  |
