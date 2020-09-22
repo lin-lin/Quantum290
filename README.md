@@ -10,12 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 3</h3>
-  <h1>Quantum State Verification in the Linear System Problem</h1>
-  <strong>Yu Tong</strong>
-  <h1>Data-Driven PDF Method for Langevin Equations with Colored Noise</h1>
-  <strong>Hongli Zhao</strong>
-  <h6>September 18 th, 10AM-12PM</h6>
+  <h3>Week 4</h3>
+  <h1>DMFT, DMET, and RISB: A unified perspective </h1>
+  <strong>Fabian Faulstish</strong>
+  <h6>September 25 th, 10AM-12PM</h6>
 </div>
 
 -----
