@@ -12,7 +12,7 @@
 <div align="center">
   <h3>Week 5</h3>
   <h1>Machine Learning for Inverse Problems in Computational Engineering</h1>
-  <strong>[Kailai Xu](http://stanford.edu/~kailaix/)</strong>
+  <strong><a href="http://stanford.edu/~kailaix/">Kailai Xu</a></strong>
   <h6>October 2 nd, 10AM-12PM</h6>
 </div>
 
