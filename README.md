@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 4</h3>
-  <h1>DMFT, DMET, and RISB: A unified perspective </h1>
-  <strong>Fabian Faulstish</strong>
-  <h6>September 25 th, 10AM-12PM</h6>
+  <h3>Week 5</h3>
+  <h1>Machine Learning for Inverse Problems in Computational Engineering</h1>
+  <strong>[Kailai Xu](http://stanford.edu/~kailaix/)</strong>
+  <h6>October 2 nd, 10AM-12PM</h6>
 </div>
 
 -----
@@ -28,8 +28,8 @@
 | 3    | 9/18  | Quantum State Verification in the Linear System Problem                              | Yu Tong          | [11](#11)  |
 |      |       | Data-Driven PDF Method for Langevin Equations with Colored Noise                     | Hongli Zhao      |            |
 | 4    | 9/25  | DMFT, DMET, and RISB: A unified perspective                                          | Fabian Faulstish | [8](#6)    |
-| 5    | 10/2  |                                                            | [Kailai Xu](http://stanford.edu/~kailaix/) |            |
-| 6    | 10/9  |                                                                                      | Xin Xing         | [21](#21)  |
+| 5    | 10/2  | Machine Learning for Inverse Problems in Computational Engineering                   | [Kailai Xu](http://stanford.edu/~kailaix/) |    |
+| 6    | 10/9  |                                                                                      | Xin Xing   (1 hour)      | [21](#21)  |
 | 7    | 10/16 |                                                                                      | Jiasu Wang       | [15](#15)  |
 | 8    | 10/23 | Continuous Quantum Error Correction  <br> for Evolution under Time-Dependent Hamiltonians  | Song Zhang | [26](#26)  |
 | 9    | 10/30 |                                                                                      | Yulong Dong      | [12](#12)  |
