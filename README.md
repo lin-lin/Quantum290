@@ -35,7 +35,8 @@
 | 9    | 10/30 |                                                                                      | Yulong Dong      | [12](#12)  |
 | 10   | 11/6  |                                                                                      | Subhayan Moulik  | [14](#14)  |
 | 11   | 11/13 |                                                                                      | Di Fang          |  [2](#2)   |
-| 12   | 11/20 |                                                                                      | Jiahao Yao       |            |
+| 12   | 11/20 |                                                                                      | TBD              |            |
+| 14   | 12/4  |                                                                                      | Jiahao Yao       |            |
 
 
 ## 🗂 Reading materials 
