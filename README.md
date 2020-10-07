@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 5</h3>
-  <h1>Machine Learning for Inverse Problems in Computational Engineering</h1>
-  <strong><a href="http://stanford.edu/~kailaix/">Kailai Xu</a></strong>
-  <h6>October 2 nd, 10AM-12PM</h6>
+  <h3>Week 6</h3>
+  <h1>Finite-size correction for periodic MP2 and CCSD calculations </h1>
+  <strong>Xin Xing</strong>
+  <h6>October 9 th, 10AM-12PM</h6>
 </div>
 
 -----
@@ -29,7 +29,7 @@
 |      |       | Data-Driven PDF Method for Langevin Equations with Colored Noise                     | Hongli Zhao      |            |
 | 4    | 9/25  | DMFT, DMET, and RISB: A unified perspective                                          | Fabian Faulstish | [8](#6)    |
 | 5    | 10/2  | Machine Learning for Inverse Problems in Computational Engineering                   | [Kailai Xu](http://stanford.edu/~kailaix/) |    |
-| 6    | 10/9  |                                                                                      | Xin Xing   (1 hour)      | [21](#21)  |
+| 6    | 10/9  | Finite-size correction for periodic MP2 and CCSD calculations                        | Xin Xing         | [21](#21)  |
 | 7    | 10/16 |                                                                                      | Jiasu Wang       | [15](#15)  |
 | 8    | 10/23 | Continuous Quantum Error Correction  <br> for Evolution under Time-Dependent Hamiltonians  | Song Zhang | [26](#26)  |
 | 9    | 10/30 |                                                                                      | Yulong Dong      | [12](#12)  |
