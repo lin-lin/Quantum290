@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 7</h3>
-  <h1>Quantum Approach to Discrete Combinatorial Optimization </h1>
-  <strong>Jiasu Wang</strong>
-  <h6>October 16 th, 10AM-12PM</h6>
+  <h3>Week 8</h3>
+  <h1>Continuous Quantum Error Correction for Time-dependent Hamiltonian</h1>
+  <strong>Song Zhang</strong>
+  <h6>October 23 th, 10AM-12PM</h6>
 </div>
 
 -----
@@ -29,13 +29,13 @@
 |      |       | Data-Driven PDF Method for Langevin Equations with Colored Noise                     | Hongli Zhao      |            |
 | 4    | 9/25  | DMFT, DMET, and RISB: A unified perspective                                          | Fabian Faulstish | [8](#6)    |
 | 5    | 10/2  | Machine Learning for Inverse Problems in Computational Engineering                   | [Kailai Xu](http://stanford.edu/~kailaix/) |    |
-| 6    | 10/9  | Finite-size correction for periodic MP2 and CCSD calculations                        | Xin Xing         | [21](#21)  |
+| 6    | 10/9  | Finite-size Correction for Periodic MP2 and CCSD Calculations                        | Xin Xing         | [21](#21)  |
 | 7    | 10/16 | Quantum Approach to Discrete Combinatorial Optimization                              | Jiasu Wang       | [15](#15)  |
-| 8    | 10/23 | Continuous Quantum Error Correction  <br> for Evolution under Time-Dependent Hamiltonians  | Song Zhang | [26](#26)  |
+| 8    | 10/23 | Continuous Quantum Error Correction for Time-dependent Hamiltonian  | Song Zhang | [26](#26)  |
 | 9    | 10/30 |                                                                                      | Yulong Dong      | [12](#12)  |
 | 10   | 11/6  |                                                                                      | Subhayan Moulik  | [14](#14)  |
 | 11   | 11/13 |                                                                                      | Di Fang          |  [2](#2)   |
-| 12   | 11/20 |   Localized edge modes in subwavelength resonator arrays                             | Erik Hiltunen    |            |
+| 12   | 11/20 |   Localized Edge Modes in Subwavelength Resonator Arrays                             | Erik Hiltunen    |            |
 | 14   | 12/4  |                                                                                      | Jiahao Yao       |            |
 
 
