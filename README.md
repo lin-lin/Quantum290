@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 8</h3>
-  <h1>Continuous Quantum Error Correction for Time-dependent Hamiltonian</h1>
-  <strong>Song Zhang</strong>
-  <h6>October 23 th, 10AM-12PM</h6>
+  <h3>Week 9</h3>
+  <h1>Hamiltonian simulation in the low energy subspace</h1>
+  <strong>Yulong Dong</strong>
+  <h6>October 30 th, 10AM-12PM</h6>
 </div>
 
 -----
@@ -32,7 +32,7 @@
 | 6    | 10/9  | Finite-size Correction for Periodic MP2 and CCSD Calculations                        | Xin Xing         | [21](#21)  |
 | 7    | 10/16 | Quantum Approach to Discrete Combinatorial Optimization                              | Jiasu Wang       | [15](#15)  |
 | 8    | 10/23 | Continuous Quantum Error Correction for Time-dependent Hamiltonian  | Song Zhang | [26](#26)  |
-| 9    | 10/30 |                                                                                      | Yulong Dong      | [12](#12)  |
+| 9    | 10/30 | Hamiltonian simulation in the low energy subspace                                    | Yulong Dong      | [12](#12)  |
 | 10   | 11/6  |                                                                                      | Subhayan Moulik  | [14](#14)  |
 | 11   | 11/13 |                                                                                      | Di Fang          |  [2](#2)   |
 | 12   | 11/20 |   Localized Edge Modes in Subwavelength Resonator Arrays                             | Erik Hiltunen    |            |
