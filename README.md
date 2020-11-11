@@ -11,9 +11,9 @@
 
 <div align="center">
   <h3>Week 10</h3>
-  <h1>Efficient Distributed Quantum Computing</h1>
-  <strong>Subhayan Moulik</strong>
-  <h6>Novmber 6 th, 10AM-12PM</h6>
+  <h1>A straightforward introduction to continuous quantum measurement</h1>
+  <strong>Di Fang</strong>
+  <h6>Novmber 13 th, 10AM-12PM</h6>
 </div>
 
 -----
@@ -33,10 +33,10 @@
 | 7    | 10/16 | Quantum Approach to Discrete Combinatorial Optimization                              | Jiasu Wang       | [15](#15)  |
 | 8    | 10/23 | Continuous Quantum Error Correction for Time-dependent Hamiltonian  | Song Zhang | [26](#26)  |
 | 9    | 10/30 | Hamiltonian Simulation in the Low Energy Subspace                                    | Yulong Dong      | [12](#12)  |
-| 10   | 11/6  | Efficient Distributed Quantum Computing                                              | Subhayan Moulik  | [14](#14)  |
-| 11   | 11/13 |                                                                                      | Di Fang          |  [2](#2)   |
-| 12   | 11/20 |   Localized Edge Modes in Subwavelength Resonator Arrays                             | Erik Hiltunen    |            |
-| 14   | 12/4  |                                                                                      | Jiahao Yao       |            |
+| 10   | 11/13 | A straightforward introduction to continuous quantum measurement                     | Di Fang          |  [2](#2)   |
+| 11   | 11/20 | Localized Edge Modes in Subwavelength Resonator Arrays                               | Erik Hiltunen    |            |
+| 12   | 12/4  | Efficient Distributed Quantum Computing                                              | Subhayan Moulik  | [14](#14)  |
+| 13   | 12/11 |                                                                                      | Jiahao Yao       |            |
 
 
 ## 🗂 Reading materials 
