@@ -10,7 +10,7 @@
 ---------
 
 <div align="center">
-  <h3>Week 12</h3>
+  <h3>Week 11</h3>
   <h1>Localized edge modes in subwavelength resonator arrays</h1>
   <strong>Erik Hiltunen</strong>
   <h6>November 20 th, 10AM-12PM</h6>
