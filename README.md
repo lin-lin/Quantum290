@@ -9,17 +9,11 @@
 
 ---------
 
-<div align="center">
-  <h3>Week 11</h3>
-  <h1>Localized edge modes in subwavelength resonator arrays</h1>
-  <strong>Erik Hiltunen</strong>
-  <h6>November 20 th, 10AM-12PM</h6>
-</div>
-
-<div align="left">
-  <h5>Abstract</h5>
-  <h6>A topological insulator is a material which is insulating in the bulk but conducting along its edge. Intriguingly, the existence of conducting edge modes stems not from the structure of the edge, but from the insulating bulk. The goal of this talk is to generalize these concepts to the setting of high-contrast subwavelength resonators. The main mathematical challenges comes from the discontinuous material parameters, which we solve using layer potential techniques. We set out by computing the well-studied topological number called the Zak phase of the material, thereby proving that it can support a topologically nontrivial frequency band gap. We then perturb the periodic structure by introducing a dislocation. This way, mid-gap frequencies (corresponding to edge modes), enter the band gap and converge to a single frequency as the dislocation becomes arbitrarily large. Finally, we show that edge modes can alternatively appear by introducing gain and loss, without altering the periodic geometry.</h6>
-</div>
+<p align="center">
+  <img alt="Thanksgiving" src="https://cityofsugarhill.com/wp-content/uploads/2017/11/shutterstock_739468219.jpg" width="300">
+  <br>
+  <em>Happy Thanksgiving!</em>
+</p>
 
 -----
 ## 📌 Schedule
@@ -42,6 +36,7 @@
 | 11   | 11/20 | Localized Edge Modes in Subwavelength Resonator Arrays                               | Erik Hiltunen    |            |
 | 12   | 12/4  | Efficient Distributed Quantum Computing                                              | Subhayan Moulik  | [14](#14)  |
 | 13   | 12/11 |                                                                                      | Jiahao Yao       |            |
+| 14   | 12/18 | Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions | Fabian Faulstish | [30](#30)  |
 
 
 ## 🗂 Reading materials 
@@ -261,6 +256,12 @@
 > Nathan Wiebe, Leonard Wossnig
 >
 > **Arxiv 2019**
+
+###### 30
+[Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.223003)
+> J. Emiliano Deustua, Jun Shen, and Piotr Piecuch
+>
+> **Phys. Rev. Lett. 2017**
 
 <br>[⬆ Back to top](#-reading-materials)
 
