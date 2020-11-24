@@ -10,7 +10,7 @@
 ---------
 
 <p align="center">
-  <img alt="Thanksgiving" src="https://cityofsugarhill.com/wp-content/uploads/2017/11/shutterstock_739468219.jpg" width="300">
+  <img alt="Thanksgiving" src="https://user-images.githubusercontent.com/20907377/100142014-1896ef80-2e48-11eb-9eea-92cd14be1351.jpg?sanitize=true&raw=true" width="800">
   <br>
   <em>Happy Thanksgiving!</em>
 </p>
