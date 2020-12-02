@@ -9,11 +9,13 @@
 
 ---------
 
-<p align="center">
-  <img alt="Thanksgiving" src="https://user-images.githubusercontent.com/20907377/100142014-1896ef80-2e48-11eb-9eea-92cd14be1351.jpg?sanitize=true&raw=true" width="800">
-  <br>
-  <em>Happy Thanksgiving!</em>
-</p>
+<div align="center">
+  <h3>Week 12</h3>
+  <h1>Efficient Distributed Quantum Computing</h1>
+  <strong>Subhayan Roy Moulik</strong>
+  <h6>December 4 th, 10AM-12PM</h6>
+</div>
+
 
 -----
 ## 📌 Schedule
