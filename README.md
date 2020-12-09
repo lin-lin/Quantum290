@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 12</h3>
-  <h1>Efficient Distributed Quantum Computing</h1>
-  <strong>Subhayan Roy Moulik</strong>
-  <h6>December 4 th, 10AM-12PM</h6>
+  <h3>Week 13</h3>
+  <h1>No seminar this week</h1>
+  <strong>Stay tuned, with more coming next week</strong>
+  <h6>December 11 th</h6>
 </div>
 
 
@@ -37,8 +37,7 @@
 | 10   | 11/13 | A straightforward introduction to continuous quantum measurement                     | Di Fang          |  [2](#2)   |
 | 11   | 11/20 | Localized Edge Modes in Subwavelength Resonator Arrays                               | Erik Hiltunen    |            |
 | 12   | 12/4  | Efficient Distributed Quantum Computing                                              | Subhayan Moulik  | [14](#14)  |
-| 13   | 12/11 | TBD                                                                                  | TBD       |            |
-| 14   | 12/18 | Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions | Fabian Faulstish | [30](#30)  |
+| 13   | 12/18 | Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions | Fabian Faulstish | [30](#30)  |
 
 
 ## 🗂 Reading materials 
