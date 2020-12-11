@@ -277,16 +277,19 @@
 5. R.A. Lang, I.G. Ryabinkin, A.F. Izmaylov, Unitary transformation of the electronic Hamiltonian with an exact quadratic truncation of the Baker-Campbell-Hausdorff expansion, (2020) 1–38. doi:10.1021/acs.jctc.0c00170.
 6. P. Jakobsen, F. Jensen, Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets, (2020). doi:10.1021/acs.jctc.0c01029.
 7. D. Chaykin, C. Jansson, F. Keil, M. Lange, K.T. Ohlhus, S.M. Rump, Rigorous Lower Bounds for the Ground State Energy of Molecules by Employing Necessary N-Representability Conditions, J. Chem. Theory Comput. (2020). doi:10.1021/acs.jctc.0c00497.
-8. G.Q. Ai, et al Accurately computing electronic properties of materials using eigenenergies, (2020). https://arxiv.org/abs/2012.00921
-9. Y. Chen, et al, Spectral signatures of many-body localization with interacting photons, (n.d.). https://arxiv.org/pdf/1709.07108.pdf
-10. A. Hashim, R.K. Naik, A. Morvan, J.-L. Ville, B. Mitchell, J.M. Kreikebaum, M. Davis, E. Smith, C. Iancu, K.P. O’Brien, I. Hincks, J.J. Wallman, J. Emerson, I. Siddiqi, Randomized compiling for scalable quantum computing on a noisy superconducting quantum processor, (2020). http://arxiv.org/abs/2010.00215.
-11. A. Nahum, S. Vijay, J. Haah, Operator Spreading in Random Unitary Circuits, Phys. Rev. X. 8 (2018) 021014. doi:10.1103/PhysRevX.8.021014.
-12. C.W. Von Keyserlingk, T. Rakovszky, F. Pollmann, S.L. Sondhi, Operator Hydrodynamics, OTOCs, and Entanglement Growth in Systems without Conservation Laws, Phys. Rev. X. 8 (2018) 21013. doi:10.1103/PhysRevX.8.021013.
-13. F. Arute, et al Observation of separated dynamics of charge and spin in the Fermi-Hubbard model, (2020). http://arxiv.org/abs/2010.07965.
+8. P. V. Sriluckshmy, M. Nusspickel, E. Fertitta, G.H. Booth, Fully Algebraic and Self-consistent Effective Dynamics in a Static Quantum Embedding, (2020). http://arxiv.org/abs/2012.05837.
+9. D. Luo, G. Carleo, B.K. Clark, J. Stokes, Gauge equivariant neural networks for quantum lattice gauge theories, (2020). http://arxiv.org/abs/2012.05232.
+10. Q. Gu, L. Zhang, J. Feng, Neural network representation of electronic structure from ab initio molecular dynamics, (2020) 1–8. http://arxiv.org/abs/2011.13774.
+11. G.Q. Ai, et al Accurately computing electronic properties of materials using eigenenergies, (2020). https://arxiv.org/abs/2012.00921
+12. Y. Chen, et al, Spectral signatures of many-body localization with interacting photons, (n.d.). https://arxiv.org/pdf/1709.07108.pdf
+13. A. Hashim, R.K. Naik, A. Morvan, J.-L. Ville, B. Mitchell, J.M. Kreikebaum, M. Davis, E. Smith, C. Iancu, K.P. O’Brien, I. Hincks, J.J. Wallman, J. Emerson, I. Siddiqi, Randomized compiling for scalable quantum computing on a noisy superconducting quantum processor, (2020). http://arxiv.org/abs/2010.00215.
 14. A. Nahum, S. Vijay, J. Haah, Operator Spreading in Random Unitary Circuits, Phys. Rev. X. 8 (2018) 021014. doi:10.1103/PhysRevX.8.021014.
-15. S. Lu, M.C. Bañuls, J.I. Cirac, Algorithms for quantum simulation at finite energies, ArXiv. (2020) 1–18.
-16. I.D. Kivlichan, N. Wiebe, R. Babbush, A. Aspuru-Guzik, Bounding the costs of quantum simulation of many-body physics in real space, J. Phys. A Math. Theor. 50 (2017) 305301. doi:10.1088/1751-8121/aa77b8.
-17. M. Kolodrubetz, D. Sels, P. Mehta, A. Polkovnikov, Geometry and non-adiabatic response in quantum and classical systems, Phys. Rep. 697 (2017) 1–87. doi:10.1016/j.physrep.2017.07.001.
-18. G. Verdon, J. Marks, S. Nanda, S. Leichenauer, J. Hidary, Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm, (2019) 1–21.
-19. X. Yuan, S. Endo, Q. Zhao, Y. Li, S.C. Benjamin, Theory of variational quantum simulation, Quantum. 3 (2019) 191. doi:10.22331/q-2019-10-07-191.
-20. 
+15. C.W. Von Keyserlingk, T. Rakovszky, F. Pollmann, S.L. Sondhi, Operator Hydrodynamics, OTOCs, and Entanglement Growth in Systems without Conservation Laws, Phys. Rev. X. 8 (2018) 21013. doi:10.1103/PhysRevX.8.021013.
+16. F. Arute, et al Observation of separated dynamics of charge and spin in the Fermi-Hubbard model, (2020). http://arxiv.org/abs/2010.07965.
+17. A. Nahum, S. Vijay, J. Haah, Operator Spreading in Random Unitary Circuits, Phys. Rev. X. 8 (2018) 021014. doi:10.1103/PhysRevX.8.021014.
+18. S. Lu, M.C. Bañuls, J.I. Cirac, Algorithms for quantum simulation at finite energies, ArXiv. (2020) 1–18.
+19. I.D. Kivlichan, N. Wiebe, R. Babbush, A. Aspuru-Guzik, Bounding the costs of quantum simulation of many-body physics in real space, J. Phys. A Math. Theor. 50 (2017) 305301. doi:10.1088/1751-8121/aa77b8.
+20. M. Kolodrubetz, D. Sels, P. Mehta, A. Polkovnikov, Geometry and non-adiabatic response in quantum and classical systems, Phys. Rep. 697 (2017) 1–87. doi:10.1016/j.physrep.2017.07.001.
+21. G. Verdon, J. Marks, S. Nanda, S. Leichenauer, J. Hidary, Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm, (2019) 1–21.
+22. X. Yuan, S. Endo, Q. Zhao, Y. Li, S.C. Benjamin, Theory of variational quantum simulation, Quantum. 3 (2019) 191. doi:10.22331/q-2019-10-07-191.
+23. 
