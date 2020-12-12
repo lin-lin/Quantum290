@@ -332,4 +332,6 @@
 
 31. J. Helsen, I. Roth, E. Onorati, A.H. Werner, J. Eisert, A general framework for randomized benchmarking, (2020) 1–60. http://arxiv.org/abs/2010.07974.
 
+32. D. Grinko, J. Gacon, C. Zoufal, S. Woerner, Iterative quantum amplitude estimation, ArXiv. (2019) 1–13.
+
     
