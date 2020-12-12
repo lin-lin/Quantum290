@@ -37,7 +37,8 @@
 | 10   | 11/13 | A straightforward introduction to continuous quantum measurement                     | Di Fang          |  [2](#2)   |
 | 11   | 11/20 | Localized Edge Modes in Subwavelength Resonator Arrays                               | Erik Hiltunen    |            |
 | 12   | 12/4  | Efficient Distributed Quantum Computing                                              | Subhayan Moulik  | [14](#14)  |
-| 13   | 12/18 | Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions | Fabian Faulstish | [30](#30)  |
+| 13   | 12/17 |                                                                                      | Jiahao Yao       |            |
+| 14   | 12/18 | Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions | Fabian Faulstish | [30](#30)  |
 
 
 ## 🗂 Reading materials 
