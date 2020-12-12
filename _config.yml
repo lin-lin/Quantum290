@@ -17,8 +17,8 @@ title: MATH 290
 tagline: Virtual quantum many-body seminar
 description: MATH 290, 2020 Fall to 2021 Summer
 author: Jiahao Yao
-baseurl: '/2020To2021_290' # the subpath of your site, e.g. /blog
-url: 'https://lin-lin.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://math290.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 google_site_verification: 'QclY_1udbdKts462GzFHLmFoaioICIQ16kjZumjRJIg'
 
@@ -28,7 +28,7 @@ color_scheme: light
 search_enabled: false
 heading_anchors: false
 permalink: pretty
-footer_content: 'Kevin Lin &copy; 2020 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
+footer_content: 'Acknowledgements: thanks to Kevin Lin'
 
 # Collections for website data
 collections:
