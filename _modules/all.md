@@ -221,3 +221,10 @@ Dec 18
 
 32. [Iterative quantum amplitude estimation](https://arxiv.org/abs/1912.05559)
 
+1. [Integration with Respect to the Haar Measure on Unitary, Orthogonal and Symplectic Group](http://dx.doi.org/10.1007/s00220-006-1554-3)
+
+2. [Simulating Large Quantum Circuits on a Small Quantum Computer](https://arxiv.org/abs/1904.00102)
+
+3. [Quantum advantage with shallow circuits](https://arxiv.org/abs/1704.00690)
+
+1. [The maximum speed of dynamical evolution](https://arxiv.org/abs/quant-ph/9710043)
