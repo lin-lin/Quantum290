@@ -334,4 +334,6 @@
 
 32. D. Grinko, J. Gacon, C. Zoufal, S. Woerner, Iterative quantum amplitude estimation, ArXiv. (2019) 1–13.
 
+33. B. Collins, P. Śniady, Integration with respect to the Haar measure on unitary, orthogonal and symplectic group, Commun. Math. Phys. 264 (2006) 773–795. doi:10.1007/s00220-006-1554-3.
+
     
