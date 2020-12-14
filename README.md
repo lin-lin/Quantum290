@@ -37,7 +37,8 @@
 | 10   | 11/13 | A straightforward introduction to continuous quantum measurement                     | Di Fang          |  [2](#2)   |
 | 11   | 11/20 | Localized Edge Modes in Subwavelength Resonator Arrays                               | Erik Hiltunen    |            |
 | 12   | 12/4  | Efficient Distributed Quantum Computing                                              | Subhayan Moulik  | [14](#14)  |
-| 13   | 12/18 | Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions | Fabian Faulstish | [30](#30)  |
+| 13   | 12/17 |                                                                                      | Jiahao Yao       |            |
+| 14   | 12/18 | Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions | Fabian Faulstish | [30](#30)  |
 
 
 ## 🗂 Reading materials 
@@ -336,4 +337,3 @@
 
 33. B. Collins, P. Śniady, Integration with respect to the Haar measure on unitary, orthogonal and symplectic group, Commun. Math. Phys. 264 (2006) 773–795. doi:10.1007/s00220-006-1554-3.
 
-    
