@@ -335,4 +335,18 @@
 
 32. D. Grinko, J. Gacon, C. Zoufal, S. Woerner, Iterative quantum amplitude estimation, ArXiv. (2019) 1–13.
 
-    
+33. B. Collins, P. Śniady, Integration with respect to the Haar measure on unitary, orthogonal and symplectic group, Commun. Math. Phys. 264 (2006) 773–795. doi:10.1007/s00220-006-1554-3.
+
+34. Simulating Large Quantum Circuits on a Small Quantum Computer, https://arxiv.org/abs/1904.00102
+
+35. Quantum advantage with shallow circuits, https://arxiv.org/abs/1704.00690
+<details>
+<summary>Comments</summary>
+(Subhayan Roy Moulik: I'd say this is one of the most influential papers of the past decade because it shows a provable separation between quantum and classical computing for constant depth circuits and already has a strong literature build up on it.)
+</details>
+  
+36. The maximum speed of dynamical evolution, https://arxiv.org/abs/quant-ph/9710043
+<details>
+<summary>Comments</summary>
+(Subhayan Roy Moulik: This an old paper, and gives a fundamental limit on the speed of information processing.) 
+</details>
