@@ -1,14 +1,28 @@
 ---
 ---
-
-<div align="center">
-  <h1>🌟</h1>
-  <p style="font-size:1.875em">Week 13</p>
-  <p style="font-size:2.5em">No seminar this week</p>
-  <strong>Stay tuned, with more coming next week</strong><br>
-  December 11 th
-</div>
-
+      
+<section class="highlighted-text week-overview wrap-container" data-number="11">
+    <div class="wrap">
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 13-14
+            Overview</h3>
+        <p class="highlighted-byline">  </p>
+        <h2 class="highlighted-title">Variational Policy Gradient Theorem</h2>
+        <ul class="lists two-col animate-3">
+          <li><a href="https://arxiv.org/abs/2007.02151">Variational Policy Gradient Method for Reinforcement Learning with General Utilities</a></li>
+        </ul>
+        <strong>Jiahao Yao</strong><br>
+        <p class="highlighted-byline">Thursday, December 17 th, 10 am -- 12 pm</p>
+        <span class="dividing-bar"></span>
+        <h2 class="highlighted-title">Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions</h2>
+        <ul class="lists two-col animate-3">
+          <li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.223003">Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions</a></li>
+        </ul>
+        <strong>Fabian Faulstish</strong><br>
+        <p class="highlighted-byline">Friday, December 18 th, 10 am -- 12 pm</p>
+        <span class="dividing-bar"></span>
+    </div>
+</section>
+    
 ## 📌 Schedule
 
 Sep 4
@@ -79,6 +93,10 @@ Dec 4
 : [Efficient Distributed Quantum Computing](https://arxiv.org/pdf/1207.2307.pdf)                                              
   : Subhayan Moulik   
 
+Dec 17  
+: Variational Policy Gradient Theorem                                              
+  : Jiahao Yao
+: [Variational Policy Gradient Method for Reinforcement Learning with General Utilities](https://arxiv.org/abs/2007.02151)
 
 Dec 18 
 : [Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.223003)
@@ -149,7 +167,7 @@ Dec 18
 
 30. [Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.223003)
 
-
+1. [Variational Policy Gradient Method for Reinforcement Learning with General Utilities](https://arxiv.org/abs/2007.02151)
 
 ## Other materials (randomly ordered)
 1. [Determinantal Point Processes for Machine Learning](http://dx.doi.org/10.1561/2200000044)
