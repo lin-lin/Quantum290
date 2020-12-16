@@ -12,6 +12,11 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/lin-lin/2020To2021_290" data-icon="octicon-star" aria-label="Star lin-lin/2020To2021_290 on GitHub">Star</a>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdn.rawgit.com/mrvautin/typewrite/master/dist/typewrite.min.js"></script>
