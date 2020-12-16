@@ -62,8 +62,8 @@ seo:
                 {type: 'CCSD'},
                 {delay: 4500},
                 {remove: {num: 4, type: 'stepped'}},
-                {type: 'quantum!'}
-                {delay: 6000},
+                {type: 'quantum!'},
+                {delay: 60000},
             ]
         });
     });
