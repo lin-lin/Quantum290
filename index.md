@@ -25,7 +25,7 @@ seo:
                 {type: 'weclome '},
                 {delay: 1500},
                 {remove: {num: 1, type: 'stepped'}},
-                {select: {from: 11, to: 16}},
+                {select: {from: 12, to: 17}},
                 {delay: 2000},
                 {remove: {num: 5, type: 'whole'}},
                 {delay: 300},
