@@ -3,16 +3,8 @@
       
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 13-14
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 14
             Overview</h3>
-        <p class="highlighted-byline">  </p>
-        <h2 class="highlighted-title">Variational Policy Gradient Theorem</h2>
-        <ul class="lists two-col animate-3">
-          <li><a href="https://arxiv.org/abs/2007.02151">Variational Policy Gradient Method for Reinforcement Learning with General Utilities</a></li>
-        </ul>
-        <strong>Jiahao Yao</strong><br>
-        <p class="highlighted-byline">Thursday, December 17 th, 10 am -- 12 pm</p>
-        <span class="dividing-bar"></span>
         <h2 class="highlighted-title">Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions</h2>
         <ul class="lists two-col animate-3">
           <li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.223003">Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions</a></li>
@@ -23,7 +15,24 @@
     </div>
 </section>
     
-## 📌 Schedule
+<section class="highlighted-text week-overview wrap-container" data-number="11">
+    <div class="wrap">
+        <h3 class="highlighted-subtitle"><blink>📨</blink>Coming</h3>
+        <h2 class="highlighted-title">Block-encoding of sparse matrices</h2>
+        <strong>Lin Lin</strong><br>
+        <p class="highlighted-byline">Friday, January 8 th, 10 am -- 12 pm</p>
+        <span class="dividing-bar"></span>
+    </div>
+</section>
+
+
+## 📌 Schedule (2021 Spring)
+Jan 8
+: Block-encoding of sparse matrices
+  : Lin Lin
+
+
+#### Schedule (2020 Fall)
 
 Sep 4
 : Machine Learning Exchange-Correlation Energy 
@@ -246,3 +255,5 @@ Dec 18
 35. [The maximum speed of dynamical evolution](https://arxiv.org/abs/quant-ph/9710043)
 
 36. [Quantum Logspace Algorithm for Powering Matrices with Bounded Norm](https://eccc.weizmann.ac.il/report/2020/087/)
+
+1. [The ground state correlation energy of the random phase approximation from a ring coupled cluster doubles approach](http://dx.doi.org/10.1063/1.3043729)

@@ -10,10 +10,7 @@
 ---------
 
 <div align="center">
-  <h3>Week 13-14</h3>
-  <h1>Variational Policy Gradient Theorem</h1>
-  <strong>Jiahao Yao</strong>
-  <h6>December 17 th, 10am -- 12 pm</h6>
+  <h3>Week 14</h3>
   <h1>Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions</h1>
   <strong>Fabian Faulstish</strong>
   <h6>December 18 th, 10am -- 12 pm</h6>
@@ -21,8 +18,14 @@
 
 
 -----
-## 📌 Schedule
+## 📌 Schedule (2021 Spring)
 
+| Week | Date  | Topic                                                                                | Speaker          | References |
+|------|-------|--------------------------------------------------------------------------------------|------------------|------------|
+| 1    | 1/8   | Block-encoding of sparse matrices                                                    | Lin Lin          |            |
+
+
+#### Schedule (2020 Fall)
 | Week | Date  | Topic                                                                                | Speaker          | References |
 |------|-------|--------------------------------------------------------------------------------------|------------------|------------|
 | 1    | 9/4   | Machine Learning Exchange-Correlation Energy                                         | Qinyi Zhu        | [24](#24)  |
@@ -42,7 +45,6 @@
 | 12   | 12/4  | Efficient Distributed Quantum Computing                                              | Subhayan Moulik  | [14](#14)  |
 | 13   | 12/17 | Variational Policy Gradient Theorem                                                  | Jiahao Yao       | [31](#31)  |
 | 14   | 12/18 | Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions | Fabian Faulstish | [30](#30)  |
-
 
 ## 🗂 Reading materials 
 
@@ -360,3 +362,5 @@
 </details>
 
 36. Quantum Logspace Algorithm for Powering Matrices with Bounded Norm, https://eccc.weizmann.ac.il/report/2020/087/
+
+37. G.E. Scuseria, T.M. Henderson, D.C. Sorensen, The ground state correlation energy of the random phase approximation from a ring coupled cluster doubles approach, J. Chem. Phys. 129 (2008). doi:10.1063/1.3043729.
