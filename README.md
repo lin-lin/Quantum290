@@ -353,10 +353,10 @@
 (Subhayan Roy Moulik: I'd say this is one of the most influential papers of the past decade because it shows a provable separation between quantum and classical computing for constant depth circuits and already has a strong literature build up on it.)
 </details>
   
-36. The maximum speed of dynamical evolution, https://arxiv.org/abs/quant-ph/9710043
+35. The maximum speed of dynamical evolution, https://arxiv.org/abs/quant-ph/9710043
 <details>
 <summary>Comments</summary>
 (Subhayan Roy Moulik: This an old paper, and gives a fundamental limit on the speed of information processing.) 
 </details>
 
-1. Quantum Logspace Algorithm for Powering Matrices with Bounded Norm, https://eccc.weizmann.ac.il/report/2020/087/
+36. Quantum Logspace Algorithm for Powering Matrices with Bounded Norm, https://eccc.weizmann.ac.il/report/2020/087/
