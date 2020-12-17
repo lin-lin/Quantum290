@@ -317,8 +317,6 @@
 
 18. F. Arute, et al Observation of separated dynamics of charge and spin in the Fermi-Hubbard model, (2020). http://arxiv.org/abs/2010.07965.
 
-19. A. Nahum, S. Vijay, J. Haah, Operator Spreading in Random Unitary Circuits, Phys. Rev. X. 8 (2018) 021014. doi:10.1103/PhysRevX.8.021014.
-
 20. S. Lu, M.C. Bañuls, J.I. Cirac, Algorithms for quantum simulation at finite energies, ArXiv. (2020) 1–18.
 
 21. I.D. Kivlichan, N. Wiebe, R. Babbush, A. Aspuru-Guzik, Bounding the costs of quantum simulation of many-body physics in real space, J. Phys. A Math. Theor. 50 (2017) 305301. doi:10.1088/1751-8121/aa77b8.
@@ -360,3 +358,5 @@
 <summary>Comments</summary>
 (Subhayan Roy Moulik: This an old paper, and gives a fundamental limit on the speed of information processing.) 
 </details>
+
+1. Quantum Logspace Algorithm for Powering Matrices with Bounded Norm, https://eccc.weizmann.ac.il/report/2020/087/
