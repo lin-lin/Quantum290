@@ -23,6 +23,8 @@ seo:
 <script>
     $(document).ready(function(){
         $('#typewriteText').typewrite({
+            selectedBackground: '#7253ed',
+            selectedText: '#FFFFFF',
             continuous: true,
             actions: [
                 {type: 'hello! '},
