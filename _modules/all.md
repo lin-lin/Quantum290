@@ -17,7 +17,7 @@
     
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>📨</blink>Coming</h3>
+        <h3 class="highlighted-subtitle"><blink>📨</blink>Incoming</h3>
         <h2 class="highlighted-title">Block-encoding of sparse matrices</h2>
         <strong>Lin Lin</strong><br>
         <p class="highlighted-byline">Friday, January 8 th, 10 am -- 12 pm</p>
