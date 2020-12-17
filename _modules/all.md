@@ -204,45 +204,45 @@ Dec 18
 15. [Randomized compiling for scalable quantum computing on a noisy
   superconducting quantum processor](https://arxiv.org/abs/2010.00215)
 
-16. [Operator Spreading in Random Unitary Circuits](http://dx.doi.org/10.1103/physrevx.8.021014)
+16. [Operator Spreading in Random Unitary Circuits](http://dx.doi.org/10.1103/physrevx.8.021014), ✔️ (S.R.M & Y.D.)
 
-17. [Operator Hydrodynamics, OTOCs, and Entanglement Growth in Systems without Conservation Laws](http://dx.doi.org/10.1103/physrevx.8.021013)
+17. [Operator Hydrodynamics, OTOCs, and Entanglement Growth in Systems without Conservation Laws](http://dx.doi.org/10.1103/physrevx.8.021013), ✔️ (S.R.M & Y.D.)
 
 18. [Observation of separated dynamics of charge and spin in the
   Fermi-Hubbard model](https://arxiv.org/abs/2010.07965)
 
-19. [Operator Spreading in Random Unitary Circuits](http://dx.doi.org/10.1103/physrevx.8.021014)
+19. [Algorithms for quantum simulation at finite energies](https://arxiv.org/abs/2006.03032)
 
-20. [Algorithms for quantum simulation at finite energies](https://arxiv.org/abs/2006.03032)
+20. [Bounding the costs of quantum simulation of many-body physics in real space](http://dx.doi.org/10.1088/1751-8121/aa77b8)
 
-21. [Bounding the costs of quantum simulation of many-body physics in real space](http://dx.doi.org/10.1088/1751-8121/aa77b8)
+21. [Geometry and non-adiabatic response in quantum and classical systems](http://dx.doi.org/10.1016/j.physrep.2017.07.001)
 
-22. [Geometry and non-adiabatic response in quantum and classical systems](http://dx.doi.org/10.1016/j.physrep.2017.07.001)
+22. [Quantum Hamiltonian-Based Models and the Variational Quantum Thermalizer Algorithm](https://arxiv.org/abs/1910.02071)
 
-23. [Quantum Hamiltonian-Based Models and the Variational Quantum Thermalizer Algorithm](https://arxiv.org/abs/1910.02071)
+23. [Theory of variational quantum simulation](http://dx.doi.org/10.22331/q-2019-10-07-191)
 
-24. [Theory of variational quantum simulation](http://dx.doi.org/10.22331/q-2019-10-07-191)
+24. [Low depth algorithms for quantum amplitude estimation](https://arxiv.org/abs/2012.03348)
 
-25. [Low depth algorithms for quantum amplitude estimation](https://arxiv.org/abs/2012.03348)
+25. [Iterative Quantum Assisted Eigensolver](https://arxiv.org/abs/2010.05638)
 
-26. [Iterative Quantum Assisted Eigensolver](https://arxiv.org/abs/2010.05638)
+26. [Preparation of excited states on a quantum computer](https://arxiv.org/abs/2009.13485)
 
-27. [Preparation of excited states on a quantum computer](https://arxiv.org/abs/2009.13485)
+27. [Finding a marked node on any graph via continuous-time quantum walks](http://dx.doi.org/10.1103/physreva.102.022227)
 
-28. [Finding a marked node on any graph via continuous-time quantum walks](http://dx.doi.org/10.1103/physreva.102.022227)
+28. [Certified variational quantum algorithms for eigenstate preparation](http://dx.doi.org/10.1103/physreva.102.052610)
 
-29. [Certified variational quantum algorithms for eigenstate preparation](http://dx.doi.org/10.1103/physreva.102.052610)
+29. [Stochastic optimal control formalism for an open quantum system](http://dx.doi.org/10.1103/physreva.102.052605)
 
-30. [Stochastic optimal control formalism for an open quantum system](http://dx.doi.org/10.1103/physreva.102.052605)
+30. [A general framework for randomized benchmarking](https://arxiv.org/abs/2010.07974)
 
-31. [A general framework for randomized benchmarking](https://arxiv.org/abs/2010.07974)
+31. [Iterative quantum amplitude estimation](https://arxiv.org/abs/1912.05559)
 
-32. [Iterative quantum amplitude estimation](https://arxiv.org/abs/1912.05559)
+32. [Integration with Respect to the Haar Measure on Unitary, Orthogonal and Symplectic Group](http://dx.doi.org/10.1007/s00220-006-1554-3)
 
-1. [Integration with Respect to the Haar Measure on Unitary, Orthogonal and Symplectic Group](http://dx.doi.org/10.1007/s00220-006-1554-3)
+33. [Simulating Large Quantum Circuits on a Small Quantum Computer](https://arxiv.org/abs/1904.00102)
 
-2. [Simulating Large Quantum Circuits on a Small Quantum Computer](https://arxiv.org/abs/1904.00102)
+34. [Quantum advantage with shallow circuits](https://arxiv.org/abs/1704.00690)
 
-3. [Quantum advantage with shallow circuits](https://arxiv.org/abs/1704.00690)
+35. [The maximum speed of dynamical evolution](https://arxiv.org/abs/quant-ph/9710043)
 
-1. [The maximum speed of dynamical evolution](https://arxiv.org/abs/quant-ph/9710043)
+36. [Quantum Logspace Algorithm for Powering Matrices with Bounded Norm](https://eccc.weizmann.ac.il/report/2020/087/)
