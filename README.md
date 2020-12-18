@@ -364,3 +364,9 @@
 36. Quantum Logspace Algorithm for Powering Matrices with Bounded Norm, https://eccc.weizmann.ac.il/report/2020/087/
 
 37. G.E. Scuseria, T.M. Henderson, D.C. Sorensen, The ground state correlation energy of the random phase approximation from a ring coupled cluster doubles approach, J. Chem. Phys. 129 (2008). doi:10.1063/1.3043729.
+
+38. M. Cerezo, Andrew Arrasmith, Ryan Babbush, et al, Variational Quantum Algorithms, https://arxiv.org/pdf/2012.09265.pdf
+
+39. Yuan Su, Hsin-Yuan Huang, Earl T. Campbell, Nearly tight Trotterization of interacting electrons, https://arxiv.org/pdf/2012.09194.pdf
+
+40. Benjamin Zanger, Christian B. Mendl, Martin Schulz, Martin Schreiber, Quantum Algorithms for Solving Ordinary Differential Equations, https://arxiv.org/pdf/2012.09469.pdf
