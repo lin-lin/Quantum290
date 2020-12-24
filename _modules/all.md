@@ -1,19 +1,11 @@
 ---
 ---
       
-<section class="highlighted-text week-overview wrap-container" data-number="11">
-    <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 14
-            Overview</h3>
-        <h2 class="highlighted-title">Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions</h2>
-        <ul class="lists two-col animate-3">
-          <li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.223003">Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions</a></li>
-        </ul>
-        <strong>Fabian Faulstish</strong><br>
-        <p class="highlighted-byline">Friday, December 18 th, 10 am -- 12 pm</p>
-        <span class="dividing-bar"></span>
-    </div>
-</section>
+<p align="center">
+  <img alt="Christmas" src="https://user-images.githubusercontent.com/20907377/103102674-f4a70500-45d1-11eb-82d4-b2c5ae3abb86.jpg?sanitize=true&raw=true" width="800">
+  <br>
+  <em>Happy New Year!</em>
+</p>
     
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
