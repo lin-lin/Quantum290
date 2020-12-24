@@ -9,12 +9,12 @@
 
 ---------
 
-<div align="center">
-  <h3>Week 14</h3>
-  <h1>Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions</h1>
-  <strong>Fabian Faulstish</strong>
-  <h6>December 18 th, 10am -- 12 pm</h6>
-</div>
+<p align="center">
+  <img alt="Christmas" src="https://user-images.githubusercontent.com/20907377/103102674-f4a70500-45d1-11eb-82d4-b2c5ae3abb86.jpg?sanitize=true&raw=true" width="800">
+  <br>
+  <em>Happy New Year!</em>
+</p>
+
 
 
 -----
