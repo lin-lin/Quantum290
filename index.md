@@ -88,7 +88,7 @@ seo:
 
 <div id="typewriteText"></div>
 
-- 🆕✨🔨: [**reserve the time**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-01) for New Year!
+- 🆕✨🔨: [**reserve the time**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-01) for [New Year](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2020-21_V3.pdf)!
 - **When**: 🕒 Fridays 10AM-12PM
 - **Where**: 💻 Zoom. 
 - Please send me an email (linlin at math dot berkeley dot edu) - to ask for the zoom id.
