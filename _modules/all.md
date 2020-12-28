@@ -256,3 +256,8 @@ Dec 18
 
 3. [Quantum Algorithms for Solving Ordinary Differential Equations](https://arxiv.org/abs/2012.09469)
 
+## Tips for students 
+
+1. [How to write a technical paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html) 
+   
+2. [How to give a technical presentation (how to give a scientific talk)](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)
