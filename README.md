@@ -20,33 +20,51 @@
 -----
 ## 📌 Schedule (2021 Spring)
 
-| Week | Date  | Topic                                                                                | Speaker          | References |
-|------|-------|--------------------------------------------------------------------------------------|------------------|------------|
-| 1    | 1/8   | Block-encoding of sparse matrices                                                    | Lin Lin          |            |
-| 2    | 1/15  |                                                                                      |                  |            |
-| 3    | 1/22  | Polar decomposition, Petz recovery channels and pretty good measurements             | Yihui Quek (Stanford) |       |
+| Week | Date | Topic                                                                                     | Speaker               | References                                          |
+| ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | --------------------------------------------------- |
+| 1    | 1/8  | Block-encoding of sparse matrices                                                         | Lin Lin               |                                                     |
+| 2    | 1/15 |                                                                                           |                       |                                                     |
+| 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) | [paper](https://arxiv.org/pdf/2006.16924.pdf)       |
+| 4    | 1/29 |                                                                                           |                       |                                                     |
+| 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              | [paper](http://dx.doi.org/10.1021/acs.jctc.0c01029) |
+| 6    | 2/12 |                                                                                           |                       |                                                     |
+| 7    | 2/19 |                                                                                           |                       |                                                     |
+| 8    | 2/26 |                                                                                           |                       |                                                     |
+| 9    | 3/5  |                                                                                           |                       |                                                     |
+| 10   | 3/12 |                                                                                           |                       |                                                     |
+| 11   | 3/19 | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      | [paper](https://arxiv.org/abs/2010.05279)           |
+| 12   | 3/26 |                                                                                           |                       |                                                     |
+| 13   | 4/2  |                                                                                           |                       |                                                     |
+| 14   | 4/9  |                                                                                           |                       |                                                     |
+| 15   | 4/16 |                                                                                           |                       |                                                     |
+| 16   | 4/23 |                                                                                           |                       |                                                     |
+| 17   | 4/30 |                                                                                           |                       |                                                     |
+| 18   | 5/7  |                                                                                           |                       |                                                     |
+| 19   | 5/14 |                                                                                           |                       |                                                     |
+| 20   | 5/21 |                                                                                           |                       |                                                     |
+| 21   | 5/28 |                                                                                           |                       |                                                     |
 
 
 #### Schedule (2020 Fall)
-| Week | Date  | Topic                                                                                | Speaker          | References |
-|------|-------|--------------------------------------------------------------------------------------|------------------|------------|
-| 1    | 9/4   | Machine Learning Exchange-Correlation Energy                                         | Qinyi Zhu        | [24](#24)  |
-|      |       | Solving Quantum Linear Algebra Problems <br> A Proposal of Quantum LINPACK Benchmark | Yulong Dong      | [25](#25)  |
-| 2    | 9/14  | Computational Optimal Transport                                                      | Jeffmin Lin      | [27](#27), [28](#28) |
-|      |       | Fast Matrix-Vector Multiplication Algorithms for Dense Kernel Matrices               | Xin Xing         |            |
-| 3    | 9/18  | Quantum State Verification in the Linear System Problem                              | Yu Tong          | [11](#11)  |
-|      |       | Data-Driven PDF Method for Langevin Equations with Colored Noise                     | Hongli Zhao      |            |
-| 4    | 9/25  | DMFT, DMET, and RISB: A unified perspective                                          | Fabian Faulstish | [8](#6)    |
-| 5    | 10/2  | Machine Learning for Inverse Problems in Computational Engineering                   | [Kailai Xu](http://stanford.edu/~kailaix/) |    |
-| 6    | 10/9  | Finite-size Correction for Periodic MP2 and CCSD Calculations                        | Xin Xing         | [21](#21)  |
-| 7    | 10/16 | Quantum Approach to Discrete Combinatorial Optimization                              | Jiasu Wang       | [15](#15)  |
-| 8    | 10/23 | Continuous Quantum Error Correction for Time-dependent Hamiltonian  | Song Zhang | [26](#26)  |
-| 9    | 10/30 | Hamiltonian Simulation in the Low Energy Subspace                                    | Yulong Dong      | [12](#12)  |
-| 10   | 11/13 | A straightforward introduction to continuous quantum measurement                     | Di Fang          |  [2](#2)   |
-| 11   | 11/20 | Localized Edge Modes in Subwavelength Resonator Arrays                               | Erik Hiltunen    |            |
-| 12   | 12/4  | Efficient Distributed Quantum Computing                                              | Subhayan Moulik  | [14](#14)  |
-| 13   | 12/17 | Variational Policy Gradient Theorem                                                  | Jiahao Yao       | [31](#31)  |
-| 14   | 12/18 | Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions | Fabian Faulstish | [30](#30)  |
+| Week | Date  | Topic                                                                                          | Speaker                                    | References           |
+| ---- | ----- | ---------------------------------------------------------------------------------------------- | ------------------------------------------ | -------------------- |
+| 1    | 9/4   | Machine Learning Exchange-Correlation Energy                                                   | Qinyi Zhu                                  | [24](#24)            |
+|      |       | Solving Quantum Linear Algebra Problems <br> A Proposal of Quantum LINPACK Benchmark           | Yulong Dong                                | [25](#25)            |
+| 2    | 9/14  | Computational Optimal Transport                                                                | Jeffmin Lin                                | [27](#27), [28](#28) |
+|      |       | Fast Matrix-Vector Multiplication Algorithms for Dense Kernel Matrices                         | Xin Xing                                   |                      |
+| 3    | 9/18  | Quantum State Verification in the Linear System Problem                                        | Yu Tong                                    | [11](#11)            |
+|      |       | Data-Driven PDF Method for Langevin Equations with Colored Noise                               | Hongli Zhao                                |                      |
+| 4    | 9/25  | DMFT, DMET, and RISB: A unified perspective                                                    | Fabian Faulstish                           | [8](#6)              |
+| 5    | 10/2  | Machine Learning for Inverse Problems in Computational Engineering                             | [Kailai Xu](http://stanford.edu/~kailaix/) |                      |
+| 6    | 10/9  | Finite-size Correction for Periodic MP2 and CCSD Calculations                                  | Xin Xing                                   | [21](#21)            |
+| 7    | 10/16 | Quantum Approach to Discrete Combinatorial Optimization                                        | Jiasu Wang                                 | [15](#15)            |
+| 8    | 10/23 | Continuous Quantum Error Correction for Time-dependent Hamiltonian                             | Song Zhang                                 | [26](#26)            |
+| 9    | 10/30 | Hamiltonian Simulation in the Low Energy Subspace                                              | Yulong Dong                                | [12](#12)            |
+| 10   | 11/13 | A straightforward introduction to continuous quantum measurement                               | Di Fang                                    | [2](#2)              |
+| 11   | 11/20 | Localized Edge Modes in Subwavelength Resonator Arrays                                         | Erik Hiltunen                              |                      |
+| 12   | 12/4  | Efficient Distributed Quantum Computing                                                        | Subhayan Moulik                            | [14](#14)            |
+| 13   | 12/17 | Variational Policy Gradient Theorem                                                            | Jiahao Yao                                 | [31](#31)            |
+| 14   | 12/18 | Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions | Fabian Faulstish                           | [30](#30)            |
 
 ## 🗂 Reading materials 
 
