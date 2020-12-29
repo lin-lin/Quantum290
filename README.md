@@ -20,29 +20,29 @@
 -----
 ## 📌 Schedule (2021 Spring)
 
-| Week | Date | Topic                                                                                     | Speaker               | References                                          |
-| ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | --------------------------------------------------- |
-| 1    | 1/8  | Block-encoding of sparse matrices                                                         | Lin Lin               |                                                     |
-| 2    | 1/15 |                                                                                           |                       |                                                     |
-| 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) | [paper](https://arxiv.org/pdf/2006.16924.pdf)       |
-| 4    | 1/29 |                                                                                           |                       |                                                     |
-| 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              | [paper](http://dx.doi.org/10.1021/acs.jctc.0c01029) |
-| 6    | 2/12 |                                                                                           |                       |                                                     |
-| 7    | 2/19 |                                                                                           |                       |                                                     |
-| 8    | 2/26 |                                                                                           |                       |                                                     |
-| 9    | 3/5  |                                                                                           |                       |                                                     |
-| 10   | 3/12 |                                                                                           |                       |                                                     |
-| 11   | 3/19 | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      | [paper](https://arxiv.org/abs/2010.05279)           |
-| 12   | 3/26 |                                                                                           |                       |                                                     |
-| 13   | 4/2  |                                                                                           |                       |                                                     |
-| 14   | 4/9  |                                                                                           |                       |                                                     |
-| 15   | 4/16 |                                                                                           |                       |                                                     |
-| 16   | 4/23 |                                                                                           |                       |                                                     |
-| 17   | 4/30 |                                                                                           |                       |                                                     |
-| 18   | 5/7  |                                                                                           |                       |                                                     |
-| 19   | 5/14 |                                                                                           |                       |                                                     |
-| 20   | 5/21 |                                                                                           |                       |                                                     |
-| 21   | 5/28 |                                                                                           |                       |                                                     |
+| Week | Date | Topic                                                                                     | Speaker               | References |
+| ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
+| 1    | 1/8  | Block-encoding of sparse matrices                                                         | Lin Lin               |            |
+| 2    | 1/15 |                                                                                           |                       |            |
+| 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) |            |
+| 4    | 1/29 |                                                                                           |                       |            |
+| 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              |            |
+| 6    | 2/12 |                                                                                           |                       |            |
+| 7    | 2/19 |                                                                                           |                       |            |
+| 8    | 2/26 |                                                                                           |                       |            |
+| 9    | 3/5  |                                                                                           |                       |            |
+| 10   | 3/12 |                                                                                           |                       |            |
+| 11   | 3/19 | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      |            |
+| 12   | 3/26 |                                                                                           |                       |            |
+| 13   | 4/2  |                                                                                           |                       |            |
+| 14   | 4/9  |                                                                                           |                       |            |
+| 15   | 4/16 |                                                                                           |                       |            |
+| 16   | 4/23 |                                                                                           |                       |            |
+| 17   | 4/30 |                                                                                           |                       |            |
+| 18   | 5/7  |                                                                                           |                       |            |
+| 19   | 5/14 |                                                                                           |                       |            |
+| 20   | 5/21 |                                                                                           |                       |            |
+| 21   | 5/28 |                                                                                           |                       |            |
 
 
 #### Schedule (2020 Fall)
