@@ -24,7 +24,7 @@
 |------|-------|--------------------------------------------------------------------------------------|------------------|------------|
 | 1    | 1/8   | Block-encoding of sparse matrices                                                    | Lin Lin          |            |
 | 2    | 1/15  |                                                                                      |                  |            |
-| 3    | 1/22  | Polar decomposition, Petz recovery channels and pretty good measurements Block-encoding of sparse matrices    | Yihui Quek (Stanford) |            |
+| 3    | 1/22  | Polar decomposition, Petz recovery channels and pretty good measurements             | Yihui Quek (Stanford) |       |
 
 
 #### Schedule (2020 Fall)
