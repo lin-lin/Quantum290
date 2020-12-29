@@ -32,6 +32,11 @@ Feb 5
 : [Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets](http://dx.doi.org/10.1021/acs.jctc.0c01029)
   : Xin Xing 
 
+Mar 19
+: [Spectral characterization of magic angles in twisted bilayer graphene](https://arxiv.org/abs/2010.05279)
+  : Fabian Faulstich
+
+
 #### Schedule (2020 Fall)
 
 Sep 4
@@ -185,7 +190,7 @@ Dec 18
 
 3. [Recursive evaluation and iterative contraction of N-body equivariant features](http://dx.doi.org/10.1063/5.0021116)
 
-4. [Spectral characterization of magic angles in twisted bilayer graphene](https://arxiv.org/abs/2010.05279)
+4. [Spectral characterization of magic angles in twisted bilayer graphene](https://arxiv.org/abs/2010.05279), ✔️ (F.M.F.)
 
 5. [Unitary Transformation of the Electronic Hamiltonian with an Exact Quadratic Truncation of the Baker-Campbell-Hausdorff Expansion](http://dx.doi.org/10.1021/acs.jctc.0c00170)
 
