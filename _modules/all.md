@@ -24,7 +24,7 @@ Jan 8
   : Lin Lin
   
 Jan 22
-: [Polar decomposition, Petz recovery channels and pretty good measurements Block-encoding of sparse matrices](http://stanford.edu/~yquek/Slides/Petz_slides.pdf)
+: [Quantum algorithm for $P^3$](http://stanford.edu/~yquek/Slides/Petz_slides.pdf)
   : [Yihui Quek](http://stanford.edu/~yquek/)
 : [Quantum algorithm for Petz recovery channels and pretty good measurements](https://arxiv.org/pdf/2006.16924.pdf)
 
