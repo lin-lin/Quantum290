@@ -23,6 +23,8 @@
 | Week | Date  | Topic                                                                                | Speaker          | References |
 |------|-------|--------------------------------------------------------------------------------------|------------------|------------|
 | 1    | 1/8   | Block-encoding of sparse matrices                                                    | Lin Lin          |            |
+| 2    | 1/15  |                                                                                      |                  |            |
+| 3    | 1/22  | Polar decomposition, Petz recovery channels and pretty good measurements Block-encoding of sparse matrices    | Yihui Fan (Stanford) |            |
 
 
 #### Schedule (2020 Fall)
