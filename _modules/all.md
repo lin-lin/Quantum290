@@ -22,7 +22,15 @@
 Jan 8
 : Block-encoding of sparse matrices
   : Lin Lin
+  
+Jan 22
+: [Polar decomposition, Petz recovery channels and pretty good measurements Block-encoding of sparse matrices](http://stanford.edu/~yquek/Slides/Petz_slides.pdf)
+  : [Yihui Quek](http://stanford.edu/~yquek/)
+: [Quantum algorithm for Petz recovery channels and pretty good measurements](https://arxiv.org/pdf/2006.16924.pdf)
 
+Feb 5
+: [Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets](http://dx.doi.org/10.1021/acs.jctc.0c01029)
+  : Xin Xing 
 
 #### Schedule (2020 Fall)
 
@@ -181,7 +189,7 @@ Dec 18
 
 5. [Unitary Transformation of the Electronic Hamiltonian with an Exact Quadratic Truncation of the Baker-Campbell-Hausdorff Expansion](http://dx.doi.org/10.1021/acs.jctc.0c00170)
 
-6. [Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets](http://dx.doi.org/10.1021/acs.jctc.0c01029)
+6. [Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets](http://dx.doi.org/10.1021/acs.jctc.0c01029), ✔️ (X.X.)
 
 7. [Rigorous Lower Bounds for the Ground State Energy of Molecules by Employing Necessary N-Representability Conditions](http://dx.doi.org/10.1021/acs.jctc.0c00497)
 
