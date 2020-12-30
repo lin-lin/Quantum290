@@ -35,6 +35,10 @@ Feb 5
 Mar 19
 : [Spectral characterization of magic angles in twisted bilayer graphene](https://arxiv.org/abs/2010.05279)
   : Fabian Faulstich
+  
+Mar 26
+: [Quantum Logspace Algorithm for Powering Matrices with Bounded Norm](https://eccc.weizmann.ac.il/report/2020/087/)
+  : Subhayan Roy Moulik
 
 
 #### Schedule (2020 Fall)
