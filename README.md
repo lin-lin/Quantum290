@@ -33,7 +33,7 @@
 | 9    | 3/5  |                                                                                           |                       |            |
 | 10   | 3/12 |                                                                                           |                       |            |
 | 11   | 3/19 | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      |            |
-| 12   | 3/26 |                                                                                           |                       |            |
+| 12   | 3/26 | Quantum Logspace Algorithm for Powering Matrices with Bounded Norm                        | Subhayan Roy Moulik   |            |
 | 13   | 4/2  |                                                                                           |                       |            |
 | 14   | 4/9  |                                                                                           |                       |            |
 | 15   | 4/16 |                                                                                           |                       |            |
