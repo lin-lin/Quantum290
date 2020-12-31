@@ -39,6 +39,10 @@ Mar 19
 Mar 26
 : [Quantum Logspace Algorithm for Powering Matrices with Bounded Norm](https://eccc.weizmann.ac.il/report/2020/087/)
   : Subhayan Roy Moulik
+  
+Apr 23
+: TBD
+  : Di Fang
 
 
 #### Schedule (2020 Fall)
