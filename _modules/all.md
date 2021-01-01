@@ -38,7 +38,7 @@ Feb 19
 : an overview of recent progress on several quantum differential equation solvers
 
 Mar 12
-: TBD
+: [Determinantal Point Processes for Machine Learning](http://dx.doi.org/10.1561/2200000044)
   : Jiahao Yao
   
 Mar 19
@@ -50,7 +50,7 @@ Mar 26
   : Subhayan Roy Moulik
   
 Apr 23
-: TBD
+: [Preparation of excited states on a quantum computer](http://arxiv.org/abs/2009.13485)
   : Di Fang
 
 
@@ -201,7 +201,7 @@ Dec 18
 1. [Variational Policy Gradient Method for Reinforcement Learning with General Utilities](https://arxiv.org/abs/2007.02151)
 
 ## Other materials (randomly ordered)
-1. [Determinantal Point Processes for Machine Learning](http://dx.doi.org/10.1561/2200000044)
+1. [Determinantal Point Processes for Machine Learning](http://dx.doi.org/10.1561/2200000044), ✔️ (J.Y.)
 
 2. [Nevanlinna Analytical Continuation](https://arxiv.org/abs/2010.04572)
 
@@ -256,7 +256,7 @@ Dec 18
 
 25. [Iterative Quantum Assisted Eigensolver](https://arxiv.org/abs/2010.05638)
 
-26. [Preparation of excited states on a quantum computer](https://arxiv.org/abs/2009.13485)
+26. [Preparation of excited states on a quantum computer](https://arxiv.org/abs/2009.13485), ✔️ (D.F.)
 
 27. [Finding a marked node on any graph via continuous-time quantum walks](http://dx.doi.org/10.1103/physreva.102.022227)
 
