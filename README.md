@@ -33,13 +33,13 @@
 | 7    | 2/19 | Quantum algorithms for linear and nonlinear differential equations                        | Dong An               |            |
 | 8    | 2/26 |                                                                                           |                       |            |
 | 9    | 3/5  |                                                                                           |                       |            |
-| 10   | 3/12 | TBD                                                                                       | Jiahao Yao            |            |
+| 10   | 3/12 | Determinantal Point Processes for Machine Learning                                        | Jiahao Yao            |            |
 | 11   | 3/19 | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      |            |
 | 12   | 3/26 | Quantum Logspace Algorithm for Powering Matrices with Bounded Norm                        | Subhayan Roy Moulik   | ( Spring Recess?)   |
 | 13   | 4/2  |                                                                                           |                       |            |
 | 14   | 4/9  |                                                                                           |                       |            |
 | 15   | 4/16 |                                                                                           |                       |            |
-| 16   | 4/23 | TBD                                                                                       | Di Fang               |            |
+| 16   | 4/23 | Preparation of excited states on a quantum computer                                       | Di Fang               |            |
 | 17   | 4/30 |                                                                                           |                       |            |
 | 18   | 5/7  |                                                                                           |                       |            |
 | 19   | 5/14 |                                                                                           |                       |            |
