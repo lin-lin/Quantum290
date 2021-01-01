@@ -32,7 +32,7 @@ Feb 5
 : [Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets](http://dx.doi.org/10.1021/acs.jctc.0c01029)
   : Xin Xing 
   
-Feb 5
+Feb 19
 : Quantum algorithms for linear and nonlinear differential equations
   : Dong An
 : an overview of recent progress on several quantum differential equation solvers
