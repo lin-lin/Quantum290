@@ -28,7 +28,7 @@
 | 4    | 1/29 |                                                                                           |                       |            |
 | 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              |            |
 | 6    | 2/12 |                                                                                           |                       |            |
-| 7    | 2/19 |                                                                                           |                       |            |
+| 7    | 2/19 | Quantum algorithms for linear and nonlinear differential equations                        | Dong An               |            |
 | 8    | 2/26 |                                                                                           |                       |            |
 | 9    | 3/5  |                                                                                           |                       |            |
 | 10   | 3/12 |                                                                                           |                       |            |
