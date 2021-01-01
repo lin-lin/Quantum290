@@ -20,20 +20,22 @@
 -----
 ## 📌 Schedule (2021 Spring)
 
+🆕✨🔨: [**reserve the time**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-01) for [New Year](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2020-21_V3.pdf)!
+
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
 | 1    | 1/8  | Block-encoding of sparse matrices                                                         | Lin Lin               |            |
 | 2    | 1/15 |                                                                                           |                       |            |
-| 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) |            |
+| 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) |  ( Need Special Time?) |
 | 4    | 1/29 |                                                                                           |                       |            |
 | 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              |            |
 | 6    | 2/12 |                                                                                           |                       |            |
 | 7    | 2/19 | Quantum algorithms for linear and nonlinear differential equations                        | Dong An               |            |
 | 8    | 2/26 |                                                                                           |                       |            |
 | 9    | 3/5  |                                                                                           |                       |            |
-| 10   | 3/12 |                                                                                           |                       |            |
+| 10   | 3/12 | TBD                                                                                       | Jiahao Yao            |            |
 | 11   | 3/19 | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      |            |
-| 12   | 3/26 | Quantum Logspace Algorithm for Powering Matrices with Bounded Norm                        | Subhayan Roy Moulik   |            |
+| 12   | 3/26 | Quantum Logspace Algorithm for Powering Matrices with Bounded Norm                        | Subhayan Roy Moulik   | ( Spring Recess?)   |
 | 13   | 4/2  |                                                                                           |                       |            |
 | 14   | 4/9  |                                                                                           |                       |            |
 | 15   | 4/16 |                                                                                           |                       |            |
