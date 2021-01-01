@@ -31,6 +31,11 @@ Jan 22
 Feb 5
 : [Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets](http://dx.doi.org/10.1021/acs.jctc.0c01029)
   : Xin Xing 
+  
+Feb 5
+: Quantum algorithms for linear and nonlinear differential equations
+  : Dong An
+: an overview of recent progress on several quantum differential equation solvers
 
 Mar 19
 : [Spectral characterization of magic angles in twisted bilayer graphene](https://arxiv.org/abs/2010.05279)
