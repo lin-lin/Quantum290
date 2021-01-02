@@ -25,8 +25,8 @@
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
 | 1    | 1/8  | Block-encoding of sparse matrices                                                         | Lin Lin               |            |
-| 2    | 1/15 |                                                                                           |                       |            |
-| 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) |  ( Need Special Time?) |
+| 2    | 1/15 | TBD                                                                                       | Kevin Stubbs          |            |
+| 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) | Special Time: 4pm-5pm |
 | 4    | 1/29 |                                                                                           |                       |            |
 | 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              |            |
 | 6    | 2/12 |                                                                                           |                       |            |
@@ -36,7 +36,7 @@
 | 10   | 3/12 | Determinantal Point Processes for Machine Learning                                        | Jiahao Yao            |            |
 | 11   | 3/19 | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      |            |
 | 12   | 3/26 | Quantum Logspace Algorithm for Powering Matrices with Bounded Norm                        | Subhayan Roy Moulik   | ( Spring Recess?)   |
-| 13   | 4/2  |                                                                                           |                       |            |
+| 13   | 4/2  | Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm          | Yulong Dong           |            |
 | 14   | 4/9  |                                                                                           |                       |            |
 | 15   | 4/16 |                                                                                           |                       |            |
 | 16   | 4/23 | Preparation of excited states on a quantum computer                                       | Di Fang               |            |
