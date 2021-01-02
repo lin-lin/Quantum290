@@ -22,7 +22,11 @@
 Jan 8
 : Block-encoding of sparse matrices
   : Lin Lin
-  
+
+Jan 15
+: TBD
+  : Kevin Stubbs
+
 Jan 22
 : [Quantum algorithm for $P^3$](http://stanford.edu/~yquek/Slides/Petz_slides.pdf)
   : [Yihui Quek](http://stanford.edu/~yquek/)
@@ -48,6 +52,10 @@ Mar 19
 Mar 26
 : [Quantum Logspace Algorithm for Powering Matrices with Bounded Norm](https://eccc.weizmann.ac.il/report/2020/087/)
   : Subhayan Roy Moulik
+  
+Apr 2
+: [Quantum Hamiltonian-Based Models and the Variational Quantum Thermalizer Algorithm](https://arxiv.org/abs/1910.02071)
+  : Yulong Dong
   
 Apr 23
 : [Preparation of excited states on a quantum computer](http://arxiv.org/abs/2009.13485)
@@ -248,7 +256,7 @@ Dec 18
 
 21. [Geometry and non-adiabatic response in quantum and classical systems](http://dx.doi.org/10.1016/j.physrep.2017.07.001)
 
-22. [Quantum Hamiltonian-Based Models and the Variational Quantum Thermalizer Algorithm](https://arxiv.org/abs/1910.02071)
+22. [Quantum Hamiltonian-Based Models and the Variational Quantum Thermalizer Algorithm](https://arxiv.org/abs/1910.02071), ✔️ (Y.D.)
 
 23. [Theory of variational quantum simulation](http://dx.doi.org/10.22331/q-2019-10-07-191)
 
