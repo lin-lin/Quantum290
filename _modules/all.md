@@ -299,3 +299,5 @@ Dec 18
 1. [How to write a technical paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html) 
    
 2. [How to give a technical presentation (how to give a scientific talk)](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)
+
+3. [The 'Three Things' Exercise for getting things out of talks](http://math.stanford.edu/~vakil/threethings.html)
