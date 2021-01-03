@@ -1,18 +1,23 @@
 ---
 ---
-      
-<p align="center">
-  <img alt="Christmas" src="https://user-images.githubusercontent.com/20907377/103102674-f4a70500-45d1-11eb-82d4-b2c5ae3abb86.jpg?sanitize=true&raw=true" width="800">
-  <br>
-  <em>Happy New Year!</em>
-</p>
+       
+<section class="highlighted-text week-overview wrap-container" data-number="11">
+    <div class="wrap">
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 1
+            Overview</h3>
+        <h2 class="highlighted-title">Block-encoding of sparse matrices</h2>
+        <strong>Lin Lin</strong><br>
+        <p class="highlighted-byline">Friday, January 8 th, 10 am -- 12 pm</p>
+        <span class="dividing-bar"></span>
+    </div>
+</section>
     
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Block-encoding of sparse matrices</h2>
-        <strong>Lin Lin</strong><br>
-        <p class="highlighted-byline">Friday, January 8 th, 10 am -- 12 pm</p>
+        <h2 class="highlighted-title">TBD</h2>
+        <strong>Kevin Stubbs</strong><br>
+        <p class="highlighted-byline">Friday, January 15 th, 10 am -- 12 pm</p>
         <span class="dividing-bar"></span>
     </div>
 </section>
