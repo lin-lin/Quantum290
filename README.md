@@ -9,11 +9,13 @@
 
 ---------
 
-<p align="center">
-  <img alt="Christmas" src="https://user-images.githubusercontent.com/20907377/103102674-f4a70500-45d1-11eb-82d4-b2c5ae3abb86.jpg?sanitize=true&raw=true" width="800">
-  <br>
-  <em>Happy New Year!</em>
-</p>
+<div align="center">
+  <h3>Week 1</h3>
+  <h1>Block-encoding of sparse matrices</h1>
+  <strong>Lin Lin</strong>
+  <h6>January 8th, 10am -- 12 pm</h6>
+
+</div>
 
 
 
@@ -47,7 +49,9 @@
 | 21   | 5/28 |                                                                                           |                       |            |
 
 
-#### Schedule (2020 Fall)
+<details>
+<summary>Schedule (2020 Fall)</summary>
+  
 | Week | Date  | Topic                                                                                          | Speaker                                    | References           |
 | ---- | ----- | ---------------------------------------------------------------------------------------------- | ------------------------------------------ | -------------------- |
 | 1    | 9/4   | Machine Learning Exchange-Correlation Energy                                                   | Qinyi Zhu                                  | [24](#24)            |
@@ -68,6 +72,8 @@
 | 13   | 12/17 | Variational Policy Gradient Theorem                                                            | Jiahao Yao                                 | [31](#31)            |
 | 14   | 12/18 | Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions | Fabian Faulstish                           | [30](#30)            |
 
+</details>
+  
 ## 🗂 Reading materials 
 
 <details>
