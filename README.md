@@ -398,3 +398,5 @@
 39. Yuan Su, Hsin-Yuan Huang, Earl T. Campbell, Nearly tight Trotterization of interacting electrons, https://arxiv.org/pdf/2012.09194.pdf
 
 40. Benjamin Zanger, Christian B. Mendl, Martin Schulz, Martin Schreiber, Quantum Algorithms for Solving Ordinary Differential Equations, https://arxiv.org/pdf/2012.09469.pdf
+
+41. V. Papyan, X.Y. Han, D.L. Donoho, Prevalence of neural collapse during the terminal phase of deep learning training, 117 (2020). doi:10.1073/pnas.2015509117.
