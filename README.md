@@ -400,3 +400,5 @@
 40. Benjamin Zanger, Christian B. Mendl, Martin Schulz, Martin Schreiber, Quantum Algorithms for Solving Ordinary Differential Equations, https://arxiv.org/pdf/2012.09469.pdf
 
 41. V. Papyan, X.Y. Han, D.L. Donoho, Prevalence of neural collapse during the terminal phase of deep learning training, 117 (2020). doi:10.1073/pnas.2015509117.
+
+42. Chen, Y., Zhang, L. and Wang, H., 2020. DeePKS-kit: a package for developing machine learning-based chemically accurate energy and density functional models. arXiv preprint arXiv:2012.14615.
