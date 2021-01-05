@@ -27,7 +27,7 @@
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
 | 1    | 1/8  | Block-encoding of sparse matrices                                                         | Lin Lin               |            |
-| 2    | 1/15 | TBD                                                                                       | Kevin Stubbs          |            |
+| 2    | 1/15 | Projected Position Operators for Constructing Well Localized Bases                        | Kevin Stubbs          |            |
 | 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) | Special Time: 4pm-5pm |
 | 4    | 1/29 |                                                                                           |                       |            |
 | 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              |            |
