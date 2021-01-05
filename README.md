@@ -34,7 +34,7 @@
 | 6    | 2/12 |                                                                                           |                       |            |
 | 7    | 2/19 | Quantum algorithms for linear and nonlinear differential equations                        | Dong An               |            |
 | 8    | 2/26 |                                                                                           |                       |            |
-| 9    | 3/5  |                                                                                           |                       |            |
+| 9    | 3/5  | On Representing (Anti)Symmetric Functions                                                 | Jeffmin Lin           |            |
 | 10   | 3/12 | Determinantal Point Processes for Machine Learning                                        | Jiahao Yao            |            |
 | 11   | 3/19 | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      |            |
 | 12   | 3/26 | Quantum Logspace Algorithm for Powering Matrices with Bounded Norm                        | Subhayan Roy Moulik   | ( Spring Recess?)   |
