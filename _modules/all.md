@@ -295,13 +295,18 @@ Dec 18
 
 36. [Quantum Logspace Algorithm for Powering Matrices with Bounded Norm](https://eccc.weizmann.ac.il/report/2020/087/)
 
-1. [The ground state correlation energy of the random phase approximation from a ring coupled cluster doubles approach](http://dx.doi.org/10.1063/1.3043729)
+37. [The ground state correlation energy of the random phase approximation from a ring coupled cluster doubles approach](http://dx.doi.org/10.1063/1.3043729)
 
-1. [Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265)
+38. [Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265)
 
-2. [Nearly tight Trotterization of interacting electrons](https://arxiv.org/abs/2012.09194)
+39. [Nearly tight Trotterization of interacting electrons](https://arxiv.org/abs/2012.09194)
 
-3. [Quantum Algorithms for Solving Ordinary Differential Equations](https://arxiv.org/abs/2012.09469)
+40. [Quantum Algorithms for Solving Ordinary Differential Equations](https://arxiv.org/abs/2012.09469)
+
+41. [Prevalence of neural collapse during the terminal phase of deep learning training](http://dx.doi.org/10.1073/pnas.2015509117)
+
+42. [DeePKS-kit: a package for developing machine learning-based chemically accurate energy and density functional models](https://arxiv.org/abs/2012.14615)
+
 
 ## Tips for students 
 

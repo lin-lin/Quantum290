@@ -9,35 +9,39 @@
 
 ---------
 
-<p align="center">
-  <img alt="Christmas" src="https://user-images.githubusercontent.com/20907377/103102674-f4a70500-45d1-11eb-82d4-b2c5ae3abb86.jpg?sanitize=true&raw=true" width="800">
-  <br>
-  <em>Happy New Year!</em>
-</p>
+<div align="center">
+  <h3>Week 1</h3>
+  <h1>Block-encoding of sparse matrices</h1>
+  <strong>Lin Lin</strong>
+  <h6>January 8th, 10am -- 12 pm</h6>
+
+</div>
 
 
 
 -----
 ## 📌 Schedule (2021 Spring)
 
+🆕✨🔨: [**reserve the time**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-01) for [New Year](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2020-21_V3.pdf)!
+
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
 | 1    | 1/8  | Block-encoding of sparse matrices                                                         | Lin Lin               |            |
-| 2    | 1/15 |                                                                                           |                       |            |
-| 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) |            |
+| 2    | 1/15 | TBD                                                                                       | Kevin Stubbs          |            |
+| 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) | Special Time: 4pm-5pm |
 | 4    | 1/29 |                                                                                           |                       |            |
 | 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              |            |
 | 6    | 2/12 |                                                                                           |                       |            |
-| 7    | 2/19 |                                                                                           |                       |            |
+| 7    | 2/19 | Quantum algorithms for linear and nonlinear differential equations                        | Dong An               |            |
 | 8    | 2/26 |                                                                                           |                       |            |
-| 9    | 3/5  |                                                                                           |                       |            |
-| 10   | 3/12 |                                                                                           |                       |            |
+| 9    | 3/5  | On Representing (Anti)Symmetric Functions                                                 | Jeffmin Lin           |            |
+| 10   | 3/12 | Determinantal Point Processes for Machine Learning                                        | Jiahao Yao            |            |
 | 11   | 3/19 | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      |            |
-| 12   | 3/26 |                                                                                           |                       |            |
-| 13   | 4/2  |                                                                                           |                       |            |
+| 12   | 3/26 | Quantum Logspace Algorithm for Powering Matrices with Bounded Norm                        | Subhayan Roy Moulik   | ( Spring Recess?)   |
+| 13   | 4/2  | Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm          | Yulong Dong           |            |
 | 14   | 4/9  |                                                                                           |                       |            |
 | 15   | 4/16 |                                                                                           |                       |            |
-| 16   | 4/23 |                                                                                           |                       |            |
+| 16   | 4/23 | Preparation of excited states on a quantum computer                                       | Di Fang               |            |
 | 17   | 4/30 |                                                                                           |                       |            |
 | 18   | 5/7  |                                                                                           |                       |            |
 | 19   | 5/14 |                                                                                           |                       |            |
@@ -45,7 +49,9 @@
 | 21   | 5/28 |                                                                                           |                       |            |
 
 
-#### Schedule (2020 Fall)
+<details>
+<summary>Schedule (2020 Fall)</summary>
+  
 | Week | Date  | Topic                                                                                          | Speaker                                    | References           |
 | ---- | ----- | ---------------------------------------------------------------------------------------------- | ------------------------------------------ | -------------------- |
 | 1    | 9/4   | Machine Learning Exchange-Correlation Energy                                                   | Qinyi Zhu                                  | [24](#24)            |
@@ -66,6 +72,8 @@
 | 13   | 12/17 | Variational Policy Gradient Theorem                                                            | Jiahao Yao                                 | [31](#31)            |
 | 14   | 12/18 | Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions | Fabian Faulstish                           | [30](#30)            |
 
+</details>
+  
 ## 🗂 Reading materials 
 
 <details>
@@ -390,3 +398,7 @@
 39. Yuan Su, Hsin-Yuan Huang, Earl T. Campbell, Nearly tight Trotterization of interacting electrons, https://arxiv.org/pdf/2012.09194.pdf
 
 40. Benjamin Zanger, Christian B. Mendl, Martin Schulz, Martin Schreiber, Quantum Algorithms for Solving Ordinary Differential Equations, https://arxiv.org/pdf/2012.09469.pdf
+
+41. V. Papyan, X.Y. Han, D.L. Donoho, Prevalence of neural collapse during the terminal phase of deep learning training, 117 (2020). doi:10.1073/pnas.2015509117.
+
+42. Chen, Y., Zhang, L. and Wang, H., 2020. DeePKS-kit: a package for developing machine learning-based chemically accurate energy and density functional models. arXiv preprint arXiv:2012.14615.
