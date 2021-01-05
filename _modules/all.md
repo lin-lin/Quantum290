@@ -29,7 +29,7 @@ Jan 8
   : Lin Lin
 
 Jan 15
-: TBD
+: Projected Position Operators for Constructing Well Localized Bases
   : Kevin Stubbs
 
 Jan 22
