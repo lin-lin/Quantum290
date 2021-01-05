@@ -46,6 +46,10 @@ Feb 19
   : Dong An
 : an overview of recent progress on several quantum differential equation solvers
 
+Mar 5
+: [On Representing (Anti)Symmetric Functions](https://arxiv.org/pdf/2007.15298.pdf)
+  : Jeffmin Lin
+  
 Mar 12
 : [Determinantal Point Processes for Machine Learning](http://dx.doi.org/10.1561/2200000044)
   : Jiahao Yao
