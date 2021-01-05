@@ -15,7 +15,14 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">TBD</h2>
+        <h2 class="highlighted-title">Projected Position Operators for Constructing Well Localized Bases</h2>
+        <ul class="lists two-col animate-3">
+Abstract: In electron structure theory, we are often interested in constructing an orthogonal basis for the occupied states which is well localized in space. Mathematically speaking, we can pose this problem as finding a well localized basis for a subspace defined by an orthogonal projection P. In one spatial dimension, finding a well localized basis for the range of P is straightforward. For insulating systems in one dimension, a basis of exponentially localized functions can always be constructed by diagonalizing the "projected position operator", PXP. In two spatial dimensions and higher however, it is generically impossible to construct a well localized basis due to the existence of topological obstructions. In fact, in periodic insulators we have the "localization dichotomy" which comprises of two facts:
+1) P admits a basis with finite second moment if and only if it is topologically trivial.
+2) A material is topologically trivial if and only if P admits a basis which is exponentially localized.
+
+In this talk, we will discuss the recent work on an algorithm which provably constructs an exponentially localized basis for the range of P in both periodic and non-periodic insulators. We show that our algorithm can be used to establish a weaker localization dichotomy in both periodic and non-periodic insulators. Specifically, we show that if P admits a basis with sufficiently fast algebraic decay then it also admits a basis which is exponentially localized. This algorithm is based on matrix diagonalization and can be thought of as finding an approximate minimizer of the popular Foster-Boys functional.
+        </ul>
         <strong>Kevin Stubbs</strong><br>
         <p class="highlighted-byline">Friday, January 15 th, 10 am -- 12 pm</p>
         <span class="dividing-bar"></span>
