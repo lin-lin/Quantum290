@@ -40,6 +40,10 @@ Jan 22
   : [Yihui Quek](http://stanford.edu/~yquek/)
 : [Quantum algorithm for Petz recovery channels and pretty good measurements](https://arxiv.org/pdf/2006.16924.pdf)
 
+Jan 29
+: FBSDE based neural network algorithms for high-dimensional quasilinear parabolic PDEs
+  : Wenzhong Zhang
+  
 Feb 5
 : [Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets](http://dx.doi.org/10.1021/acs.jctc.0c01029)
   : Xin Xing 
