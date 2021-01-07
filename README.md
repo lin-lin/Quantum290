@@ -29,7 +29,7 @@
 | 1    | 1/8  | Block-encoding of sparse matrices                                                         | Lin Lin               |            |
 | 2    | 1/15 | Projected Position Operators for Constructing Well Localized Bases                        | Kevin Stubbs          |            |
 | 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) | Special Time: 4pm-5pm |
-| 4    | 1/29 |                                                                                           |                       |            |
+| 4    | 1/29 | FBSDE based neural network algorithms for high-dimensional quasilinear parabolic PDEs     | Wenzhong Zhang        |            |
 | 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              |            |
 | 6    | 2/12 |                                                                                           |                       |            |
 | 7    | 2/19 | Quantum algorithms for linear and nonlinear differential equations                        | Dong An               |            |
