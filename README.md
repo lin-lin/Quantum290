@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 1</h3>
-  <h1>Block-encoding of sparse matrices</h1>
-  <strong>Lin Lin</strong>
-  <h6>January 8th, 10am -- 12 pm</h6>
+  <h3>Week 2</h3>
+  <h1>Projected Position Operators for Constructing Well Localized Bases</h1>
+  <strong>Kevin Stubbs</strong>
+  <h6>January 15th, 10am -- 12 pm</h6>
 
 </div>
 
