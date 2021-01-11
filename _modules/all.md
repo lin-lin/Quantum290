@@ -3,11 +3,13 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 1
-            Overview</h3>
-        <h2 class="highlighted-title">Block-encoding of sparse matrices</h2>
-        <strong>Lin Lin</strong><br>
-        <p class="highlighted-byline">Friday, January 8 th, 10 am -- 12 pm</p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 2 Overview</h3>
+        <h2 class="highlighted-title">Projected Position Operators for Constructing Well Localized Bases</h2>
+        <ul class="lists two-col animate-3">
+In this talk, we will discuss the recent work on an algorithm which provably constructs an exponentially localized basis for the range of P in both periodic and non-periodic insulators. We show that our algorithm can be used to establish a weaker localization dichotomy in both periodic and non-periodic insulators. Specifically, we show that if P admits a basis with sufficiently fast algebraic decay then it also admits a basis which is exponentially localized. This algorithm is based on matrix diagonalization and can be thought of as finding an approximate minimizer of the popular Foster-Boys functional.
+        </ul>
+        <strong>Kevin Stubbs</strong><br>
+        <p class="highlighted-byline">Friday, January 15 th, 10 am -- 12 pm</p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -15,12 +17,12 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Projected Position Operators for Constructing Well Localized Bases</h2>
+        <h2 class="highlighted-title"><a href="http://stanford.edu/~yquek/Slides/Petz_slides.pdf">Quantum algorithm for $P^3$</a></h2>
         <ul class="lists two-col animate-3">
-In this talk, we will discuss the recent work on an algorithm which provably constructs an exponentially localized basis for the range of P in both periodic and non-periodic insulators. We show that our algorithm can be used to establish a weaker localization dichotomy in both periodic and non-periodic insulators. Specifically, we show that if P admits a basis with sufficiently fast algebraic decay then it also admits a basis which is exponentially localized. This algorithm is based on matrix diagonalization and can be thought of as finding an approximate minimizer of the popular Foster-Boys functional.
+          <li><a href="https://arxiv.org/pdf/2006.16924.pdf">Quantum algorithm for Petz recovery channels and pretty good measurements</a></li>
         </ul>
-        <strong>Kevin Stubbs</strong><br>
-        <p class="highlighted-byline">Friday, January 15 th, 10 am -- 12 pm</p>
+        <strong><a href="http://stanford.edu/~yquek/">Yihui Quek</a></strong><br>
+        <p class="highlighted-byline">Friday, January 22 th, <strong>4 pm -- 5 pm</strong> (<span style="color:red;">Special Time</span>)</p>
         <span class="dividing-bar"></span>
     </div>
 </section>
