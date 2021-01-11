@@ -18,6 +18,13 @@
 </div>
 
 
+</div>
+
+<div align="left">
+  <h5>Abstract</h5>
+  <h6>In this talk, we will discuss the recent work on an algorithm which provably constructs an exponentially localized basis for the range of P in both periodic and non-periodic insulators. We show that our algorithm can be used to establish a weaker localization dichotomy in both periodic and non-periodic insulators. Specifically, we show that if P admits a basis with sufficiently fast algebraic decay then it also admits a basis which is exponentially localized. This algorithm is based on matrix diagonalization and can be thought of as finding an approximate minimizer of the popular Foster-Boys functional.</h6>
+</div>
+
 
 -----
 ## 📌 Schedule (2021 Spring)
