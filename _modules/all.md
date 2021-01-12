@@ -39,7 +39,7 @@ Jan 15
 
 Jan 19
 : Multiconfigurational Electronic Structure Theories for Materials: Development and Applications	
-  : Hung Pham	
+  : [Hung Pham](http://hungpham2017.github.io/)
   
 Jan 22
 : [Quantum algorithm for $P^3$](http://stanford.edu/~yquek/Slides/Petz_slides.pdf)
