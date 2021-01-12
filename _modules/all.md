@@ -37,6 +37,10 @@ Jan 15
 : Projected Position Operators for Constructing Well Localized Bases
   : Kevin Stubbs
 
+Jan 19
+: Multiconfigurational Electronic Structure Theories for Materials: Development and Applications	
+  : Hung Pham	
+  
 Jan 22
 : [Quantum algorithm for $P^3$](http://stanford.edu/~yquek/Slides/Petz_slides.pdf)
   : [Yihui Quek](http://stanford.edu/~yquek/)
