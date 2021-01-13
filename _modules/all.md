@@ -49,6 +49,10 @@ Jan 22
 Jan 29
 : FBSDE based neural network algorithms for high-dimensional quasilinear parabolic PDEs
   : Wenzhong Zhang
+
+Jan 29
+: QIP 2021 presentation (<span style="color:red;">Special Time</span>: 4pm-4:30pm)
+  : Yu Tong
   
 Feb 5
 : [Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets](http://dx.doi.org/10.1021/acs.jctc.0c01029)
@@ -58,6 +62,9 @@ Feb 19
 : Quantum algorithms for linear and nonlinear differential equations
   : Dong An
 : an overview of recent progress on several quantum differential equation solvers
+
+Feb 26
+: APS March Meeting 2021 Presentation	
 
 Mar 5
 : [On Representing (Anti)Symmetric Functions](https://arxiv.org/pdf/2007.15298.pdf)
