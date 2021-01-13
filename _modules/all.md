@@ -51,9 +51,10 @@ Jan 29
   : Wenzhong Zhang
 
 Jan 29
-: QIP 2021 presentation (<span style="color:red;">Special Time</span>: 4pm-4:30pm)
+: QIP 2021 presentation 
   : Yu Tong
-  
+: <span style="color:red;">Special Time: 4pm-4:30pm</span>
+
 Feb 5
 : [Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets](http://dx.doi.org/10.1021/acs.jctc.0c01029)
   : Xin Xing 
