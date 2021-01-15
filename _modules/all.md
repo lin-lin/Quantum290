@@ -74,10 +74,10 @@ Mar 5
 Mar 12
 : [Determinantal Point Processes for Machine Learning](http://dx.doi.org/10.1561/2200000044)
   : Jiahao Yao
-  
+
 Mar 19
-: [Spectral characterization of magic angles in twisted bilayer graphene](https://arxiv.org/abs/2010.05279)
-  : Fabian Faulstich
+: TBA
+  : Su Yuan
   
 Mar 26
 : [Quantum Logspace Algorithm for Powering Matrices with Bounded Norm](https://eccc.weizmann.ac.il/report/2020/087/)
@@ -86,6 +86,11 @@ Mar 26
 Apr 2
 : [Quantum Hamiltonian-Based Models and the Variational Quantum Thermalizer Algorithm](https://arxiv.org/abs/1910.02071)
   : Yulong Dong
+  
+  
+Apr 9
+: [Spectral characterization of magic angles in twisted bilayer graphene](https://arxiv.org/abs/2010.05279)
+  : Fabian Faulstich
   
 Apr 23
 : [Preparation of excited states on a quantum computer](http://arxiv.org/abs/2009.13485)
