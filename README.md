@@ -10,20 +10,15 @@
 ---------
 
 <div align="center">
-  <h3>Week 2</h3>
-  <h1>Projected Position Operators for Constructing Well Localized Bases</h1>
-  <strong>Kevin Stubbs</strong>
-  <h6>January 15th, 10am -- 12 pm</h6>
-
+  <h3>Week 3</h3>
+  <h1>Multiconfigurational Electronic Structure Theories for Materials: Development and Applications</h1>
+  <strong>Hung Pham</strong>
+  <h6>January 19th, 10am -- 12 pm</h6>
+  <h1>Polar decomposition, Petz recovery channels and pretty good measurements</h1>
+  <strong>Yihui Quek</strong>
+  <h6>January 22th, 4am -- 5 pm</h6>
 </div>
 
-
-</div>
-
-<div align="left">
-  <h5>Abstract</h5>
-  <h6>In this talk, we will discuss the recent work on an algorithm which provably constructs an exponentially localized basis for the range of P in both periodic and non-periodic insulators. We show that our algorithm can be used to establish a weaker localization dichotomy in both periodic and non-periodic insulators. Specifically, we show that if P admits a basis with sufficiently fast algebraic decay then it also admits a basis which is exponentially localized. This algorithm is based on matrix diagonalization and can be thought of as finding an approximate minimizer of the popular Foster-Boys functional.</h6>
-</div>
 
 
 -----
