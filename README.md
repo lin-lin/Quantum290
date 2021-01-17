@@ -10,11 +10,13 @@
 ---------
 
 <div align="center">
-  <h3>Week 1</h3>
-  <h1>Block-encoding of sparse matrices</h1>
-  <strong>Lin Lin</strong>
-  <h6>January 8th, 10am -- 12 pm</h6>
-
+  <h3>Week 3</h3>
+  <h1>Multiconfigurational Electronic Structure Theories for Materials: Development and Applications</h1>
+  <strong>Hung Pham</strong>
+  <h6>January 19th, 10am -- 12 pm</h6>
+  <h1>Polar decomposition, Petz recovery channels and pretty good measurements</h1>
+  <strong>Yihui Quek</strong>
+  <h6>January 22th, 4am -- 5 pm</h6>
 </div>
 
 
@@ -27,19 +29,21 @@
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
 | 1    | 1/8  | Block-encoding of sparse matrices                                                         | Lin Lin               |            |
-| 2    | 1/15 | TBD                                                                                       | Kevin Stubbs          |            |
+| 2    | 1/15 | Projected Position Operators for Constructing Well Localized Bases                        | Kevin Stubbs          |            |
+| 3    | 1/19 | Multiconfigurational Electronic Structure Theories for Materials: Development and Applications| Hung Pham         |            |
 | 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) | Special Time: 4pm-5pm |
-| 4    | 1/29 |                                                                                           |                       |            |
+| 4    | 1/29 | FBSDE based neural network algorithms for high-dimensional quasilinear parabolic PDEs     | Wenzhong Zhang        |            |
+| 4    | 1/29 | QIP 2021 presentation                                                                     | Yu Tong               |            |
 | 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              |            |
 | 6    | 2/12 |                                                                                           |                       |            |
 | 7    | 2/19 | Quantum algorithms for linear and nonlinear differential equations                        | Dong An               |            |
-| 8    | 2/26 |                                                                                           |                       |            |
+| 8    | 2/26 | APS March Meeting 2021 Presentation                                                       |                       |            |
 | 9    | 3/5  | On Representing (Anti)Symmetric Functions                                                 | Jeffmin Lin           |            |
 | 10   | 3/12 | Determinantal Point Processes for Machine Learning                                        | Jiahao Yao            |            |
-| 11   | 3/19 | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      |            |
+| 11   | 3/19 | TBD                                                                                       | Yuan Su               |            |
 | 12   | 3/26 | Quantum Logspace Algorithm for Powering Matrices with Bounded Norm                        | Subhayan Roy Moulik   | ( Spring Recess?)   |
 | 13   | 4/2  | Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm          | Yulong Dong           |            |
-| 14   | 4/9  |                                                                                           |                       |            |
+| 14   | 4/9  | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      |            |
 | 15   | 4/16 |                                                                                           |                       |            |
 | 16   | 4/23 | Preparation of excited states on a quantum computer                                       | Di Fang               |            |
 | 17   | 4/30 |                                                                                           |                       |            |
@@ -402,3 +406,5 @@
 41. V. Papyan, X.Y. Han, D.L. Donoho, Prevalence of neural collapse during the terminal phase of deep learning training, 117 (2020). doi:10.1073/pnas.2015509117.
 
 42. Chen, Y., Zhang, L. and Wang, H., 2020. DeePKS-kit: a package for developing machine learning-based chemically accurate energy and density functional models. arXiv preprint arXiv:2012.14615.
+
+43. O. Marin, O. Runborg, A.K. Tornberg, Corrected trapezoidal rules for a class of singular functions, IMA J. Numer. Anal. 34 (2014) 1509–1540. doi:10.1093/imanum/drt046.
