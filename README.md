@@ -35,7 +35,7 @@
 | 4    | 1/29 | FBSDE based neural network algorithms for high-dimensional quasilinear parabolic PDEs     | Wenzhong Zhang        |            |
 | 4    | 1/29 | QIP 2021 presentation                                                                     | Yu Tong               |            |
 | 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              |            |
-| 6    | 2/12 |                                                                                           |                       |            |
+| 6    | 2/12 |  sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems    | Nilin  Abrahamsen (MIT) | |            |
 | 7    | 2/19 | Quantum algorithms for linear and nonlinear differential equations                        | Dong An               |            |
 | 8    | 2/26 | APS March Meeting 2021 Presentation                                                       |                       |            |
 | 9    | 3/5  | On Representing (Anti)Symmetric Functions                                                 | Jeffmin Lin           |            |
