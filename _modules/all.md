@@ -55,7 +55,11 @@ Jan 29
 Feb 5
 : [Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets](http://dx.doi.org/10.1021/acs.jctc.0c01029)
   : Xin Xing 
-  
+
+Feb 12
+: sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems
+  : [Nilin Abrahamsen](http://math.mit.edu/~nilin/)
+
 Feb 19
 : Quantum algorithms for linear and nonlinear differential equations
   : Dong An
@@ -89,6 +93,10 @@ Apr 9
 : [Spectral characterization of magic angles in twisted bilayer graphene](https://arxiv.org/abs/2010.05279)
   : Fabian Faulstich
   
+Apr 16
+: Chiral model for twisted bilayer graphene
+  : Maciej Zworski 
+
 Apr 23
 : [Preparation of excited states on a quantum computer](http://arxiv.org/abs/2009.13485)
   : Di Fang
