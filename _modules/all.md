@@ -338,6 +338,7 @@ Dec 18
 
 42. [DeePKS-kit: a package for developing machine learning-based chemically accurate energy and density functional models](https://arxiv.org/abs/2012.14615)
 
+43. [Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/pdf/2101.08448.pdf)
 
 ## Tips for students 
 
