@@ -410,4 +410,4 @@
 43. O. Marin, O. Runborg, A.K. Tornberg, Corrected trapezoidal rules for a class of singular functions, IMA J. Numer. Anal. 34 (2014) 1509–1540. doi:10.1093/imanum/drt046.
 
 44. Noisy intermediate-scale quantum (NISQ) algorithms, https://arxiv.org/pdf/2101.08448.pdf
-45. 
+
