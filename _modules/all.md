@@ -3,23 +3,22 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 3 Overview</h3>
-        <h2 class="highlighted-title">Multiconfigurational Electronic Structure Theories for Materials: Development and Applications</h2>
-        <strong><a href="http://hungpham2017.github.io/">Hung Pham</a></strong><br>
-        <p class="highlighted-byline">Tuesday, January 19 th, 10 am -- 12 pm</p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 4 Overview</h3>
+        <h2 class="highlighted-title">FBSDE based neural network algorithms for high-dimensional quasilinear parabolic PDEs</h2>
+        <strong>Wenzhong Zhang</strong><br>
+        <p class="highlighted-byline">Friday, January 29 th, 10 am -- 12 pm</p>
+        <h2 class="highlighted-title">Near-optimal ground state preparation (QIP 2021 presentation)</h2>
+        <strong>Yu Tong</strong><br>
+        <p class="highlighted-byline">Friday, January 29 th, 4 pm -- 5 pm</p>
         <span class="dividing-bar"></span>
-    </div>
 </section>
     
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title"><a href="http://stanford.edu/~yquek/Slides/Petz_slides.pdf">Quantum algorithm for $P^3$</a></h2>
-        <ul class="lists two-col animate-3">
-          <li><a href="https://arxiv.org/pdf/2006.16924.pdf">Quantum algorithm for Petz recovery channels and pretty good measurements</a></li>
-        </ul>
-        <strong><a href="http://stanford.edu/~yquek/">Yihui Quek</a></strong><br>
-        <p class="highlighted-byline">Friday, January 22 th, <strong>4 pm -- 5 pm</strong> (<span style="color:red;">Special Time</span>)</p>
+        <h2 class="highlighted-title">Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets</h2>
+        <strong>Xin Xing</strong><br>
+        <p class="highlighted-byline">Friday, February 5 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
