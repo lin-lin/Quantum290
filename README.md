@@ -10,13 +10,13 @@
 ---------
 
 <div align="center">
-  <h3>Week 3</h3>
-  <h1>Multiconfigurational Electronic Structure Theories for Materials: Development and Applications</h1>
-  <strong>Hung Pham</strong>
-  <h6>January 19th, 10am -- 12 pm</h6>
-  <h1>Polar decomposition, Petz recovery channels and pretty good measurements</h1>
-  <strong>Yihui Quek</strong>
-  <h6>January 22th, 4am -- 5 pm</h6>
+  <h3>Week 4</h3>
+  <h1>FBSDE based neural network algorithms for high-dimensional quasilinear parabolic PDEs</h1>
+  <strong>Wenzhong Zhang</strong>
+  <h6>January 29th, 10am -- 12 pm</h6>
+  <h1>Near-optimal ground state preparation (QIP 2021 presentation)</h1>
+  <strong>Yu Tong</strong>
+  <h6>January 29th, 4am -- 5 pm</h6>
 </div>
 
 
@@ -33,7 +33,7 @@
 | 3    | 1/19 | Multiconfigurational Electronic Structure Theories for Materials: Development and Applications| Hung Pham         |            |
 | 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) | Special Time: 4pm-5pm |
 | 4    | 1/29 | FBSDE based neural network algorithms for high-dimensional quasilinear parabolic PDEs     | Wenzhong Zhang        |            |
-| 4    | 1/29 | QIP 2021 presentation                                                                     | Yu Tong               |            |
+| 4    | 1/29 | QIP 2021 presentation                                                                     | QIP 2021 presentation              |            |
 | 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              |            |
 | 6    | 2/12 |  sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems    | Nilin  Abrahamsen (MIT) | |            |
 | 7    | 2/19 | Quantum algorithms for linear and nonlinear differential equations                        | Dong An               |            |
