@@ -11,6 +11,7 @@
         <strong>Yu Tong</strong><br>
         <p class="highlighted-byline">Friday, January 29 th, 4 pm -- 5 pm</p>
         <span class="dividing-bar"></span>
+    </div>
 </section>
     
 <section class="highlighted-text week-overview wrap-container" data-number="11">
