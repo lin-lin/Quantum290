@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 5</h3>
-  <h1>Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets</h1>
-  <strong>Xin Xing</strong>
-  <h6>February 5th, 10am -- 12 pm</h6>
+  <h3>Week 6</h3>
+  <h1>sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems</h1>
+  <strong>Nilin  Abrahamsen</strong>
+  <h6>February 12th, 10am -- 12 pm</h6>
 </div>
 
 
