@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 5 Overview</h3>
-        <h2 class="highlighted-title">Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets</h2>
-        <strong>Xin Xing</strong><br>
-        <p class="highlighted-byline">Friday, February 5 th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 6 Overview</h3>
+        <h2 class="highlighted-title">sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems</h2>
+        <strong><a href='http://math.mit.edu/~nilin/'>Nilin Abrahamsen</a></strong><br>
+        <p class="highlighted-byline">Friday, February 12 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -14,9 +14,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems</h2>
-        <strong><a href='http://math.mit.edu/~nilin/'>Nilin Abrahamsen</a></strong><br>
-        <p class="highlighted-byline">Friday, February 12 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Quantum algorithms for linear and nonlinear differential equations</h2>
+        <strong>Dong An</strong><br>
+        <p class="highlighted-byline">Friday, February 19 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
