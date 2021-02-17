@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 6</h3>
-  <h1>sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems</h1>
-  <strong>Nilin  Abrahamsen</strong>
-  <h6>February 12th, 10am -- 12 pm</h6>
+  <h3>Week 7</h3>
+  <h1>Quantum algorithms for linear and nonlinear differential equation</h1>
+  <strong>Dong  An</strong>
+  <h6>February 19th, 10am -- 12 pm</h6>
 </div>
 
 
@@ -21,7 +21,7 @@
 -----
 ## 📌 Schedule (2021 Spring)
 
-🆕✨🔨: [**reserve the time**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-01) for [New Year](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2020-21_V3.pdf)!
+🆕✨🔨: [**reserve the time**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-01) for [spring semester](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2020-21_V3.pdf)!
 
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
