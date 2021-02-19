@@ -10,10 +10,9 @@
 ---------
 
 <div align="center">
-  <h3>Week 7</h3>
-  <h1>Quantum algorithms for linear and nonlinear differential equation</h1>
-  <strong>Dong  An</strong>
-  <h6>February 19th, 10am -- 12 pm</h6>
+  <h3>Week 8</h3>
+  <h1>APS March Meeting 2021 Presentation</h1>
+  <h6>February 26th, 10am -- 12 pm</h6>
 </div>
 
 
