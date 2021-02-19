@@ -3,10 +3,14 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 7 Overview</h3>
-        <h2 class="highlighted-title">Quantum algorithms for linear and nonlinear differential equations</h2>
-        <strong>Dong An</strong><br>
-        <p class="highlighted-byline">Friday, February 19 th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 8 Overview</h3>
+        <h2 class="highlighted-title">APS March Meeting 2021 Presentation	</h2>
+        <p class="highlighted-byline">Friday, February 26 th, <strong> 10 am -- 12 pm</strong></p>
+        <ul>
+          <li>Yulong Dong, 10:00 am - 10:12 am</li>
+          <li>Fabian Faulstich, 10:12 am - 10:24 am </li>
+          <li>Jiahao Yao, 10:24 am - 10:36 am</li>
+        </ul>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -14,9 +18,11 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">APS March Meeting 2021 Presentation	</h2>
-        <p class="highlighted-byline">Friday, February 26 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">On Representing (Anti)Symmetric Functions</h2>
+        <strong>Jeffmin Lin</strong><br>
+        <p class="highlighted-byline">Friday, March 5 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
+
     </div>
 </section>
 
@@ -62,7 +68,10 @@ Feb 19
 : an overview of recent progress on several quantum differential equation solvers
 
 Feb 26
-: APS March Meeting 2021 Presentation	
+: APS March Meeting / SIAM 2021 Presentation	
+  : APS (10 + 2) / SIAM (15 + 5)
+: [speaker tips](https://www.aps.org/meetings/policies/speaker.cfm), [logistics](https://www.aps.org/meetings/policies/oral.cfm), [aps style talk](https://courses.physics.illinois.edu/phys499/fa2013/Lectures/APS_style_talk.pdf), [CSE21 Participation Guide](https://sinews.siam.org/Details-Page/cse21-participation-guide-for-presenters-and-session-organizers)
+
 
 Mar 5
 : [On Representing (Anti)Symmetric Functions](https://arxiv.org/pdf/2007.15298.pdf)
