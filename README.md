@@ -408,3 +408,5 @@
 44. Noisy intermediate-scale quantum (NISQ) algorithms, https://arxiv.org/pdf/2101.08448.pdf
 
 45. T. Shi, E. Demler, J.I. Cirac, Variational Approach for Many-Body Systems at Finite Temperature, Phys. Rev. Lett. 125 (2020) 180602. doi:10.1103/PhysRevLett.125.180602.
+
+46. R. Sweke, F. Wilde, J. Meyer, M. Schuld, P.K. Faehrmann, B. Meynard-Piganeau, J. Eisert, Stochastic gradient descent for hybrid quantum-classical optimization, Quantum. 4 (2020) 314. doi:10.22331/q-2020-08-31-314.
