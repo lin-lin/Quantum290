@@ -3,14 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 8 Overview</h3>
-        <h2 class="highlighted-title">APS March Meeting 2021 Presentation	</h2>
-        <p class="highlighted-byline">Friday, February 26 th, <strong> 10 am -- 12 pm</strong></p>
-        <ul>
-          <li>Yulong Dong, 10:00 am - 10:12 am</li>
-          <li>Fabian Faulstich, 10:12 am - 10:24 am </li>
-          <li>Jiahao Yao, 10:24 am - 10:36 am</li>
-        </ul>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 9 Overview</h3>
+        <h2 class="highlighted-title">On Representing (Anti)Symmetric Functions</h2>
+        <strong>Jeffmin Lin</strong><br>
+        <p class="highlighted-byline">Friday, March 5 th, <strong> <span style="color:red;">Special Time: 10:40</span>am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -18,9 +14,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">On Representing (Anti)Symmetric Functions</h2>
-        <strong>Jeffmin Lin</strong><br>
-        <p class="highlighted-byline">Friday, March 5 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Determinantal Point Processes for Machine Learning</h2>
+        <strong>Jiahao Yao</strong><br>
+        <p class="highlighted-byline">Friday, March 12 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
 
     </div>
@@ -352,3 +348,8 @@ Dec 18
 2. [How to give a technical presentation (how to give a scientific talk)](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)
 
 3. [The 'Three Things' Exercise for getting things out of talks](http://math.stanford.edu/~vakil/threethings.html)
+
+## Group server user guide 
+
+1. [brc slurm](https://github.com/JiahaoYao/brc-slurm) 
+   
