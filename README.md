@@ -10,9 +10,9 @@
 ---------
 
 <div align="center">
-  <h3>Week 8</h3>
-  <h1>APS March Meeting 2021 Presentation</h1>
-  <h6>February 26th, 10am -- 12 pm</h6>
+  <h3>Week 9</h3>
+  <h1>On Representing (Anti)Symmetric Functions </h1>
+  <h6>March 5th, 10:40 am -- 12 pm</h6>
 </div>
 
 
