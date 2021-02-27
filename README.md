@@ -12,6 +12,7 @@
 <div align="center">
   <h3>Week 9</h3>
   <h1>On Representing (Anti)Symmetric Functions </h1>
+  <strong>Jeffmin Lin</strong>
   <h6>March 5th, 10:40 am -- 12 pm</h6>
 </div>
 
