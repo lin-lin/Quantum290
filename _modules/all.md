@@ -341,6 +341,10 @@ Dec 18
 
 43. [Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/pdf/2101.08448.pdf)
 
+44. [Variational Approach for Many-Body Systems at Finite Temperature](http://dx.doi.org/10.1103/physrevlett.125.180602)
+
+45. [Stochastic gradient descent for hybrid quantum-classical optimization](http://dx.doi.org/10.22331/q-2020-08-31-314)
+
 ## Tips for students 
 
 1. [How to write a technical paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html) 
