@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 9 Overview</h3>
-        <h2 class="highlighted-title">On Representing (Anti)Symmetric Functions</h2>
-        <strong>Jeffmin Lin</strong><br>
-        <p class="highlighted-byline">Friday, March 5 th, <strong> <span style="color:red;">Special Time: 10:40</span>am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 10 Overview</h3>
+        <h2 class="highlighted-title">Determinantal Point Processes for Machine Learning</h2>
+        <strong>Jiahao Yao</strong><br>
+        <p class="highlighted-byline">Friday, March 12 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -14,9 +14,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Determinantal Point Processes for Machine Learning</h2>
-        <strong>Jiahao Yao</strong><br>
-        <p class="highlighted-byline">Friday, March 12 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title"><a href="https://berkeleyams.github.io/spring21/su.html">Nearly tight Trotterization of interacting electrons</a></h2>
+        <strong>Yuan Su</strong><br>
+        <p class="highlighted-byline">Friday, March 19 th, <strong> 10 am -- 11 pm</strong> (<span style="color:red;">Special Zoom: <a href="https://berkeley.zoom.us/j/186935273">https://berkeley.zoom.us/j/186935273</a></span>)</p>
         <span class="dividing-bar"></span>
 
     </div>
@@ -78,7 +78,7 @@ Mar 12
   : Jiahao Yao
 
 Mar 19
-: TBA
+: [Nearly tight Trotterization of interacting electrons](https://berkeleyams.github.io/spring21/su.html)
   : Su Yuan
   
 Mar 26
@@ -344,6 +344,11 @@ Dec 18
 44. [Variational Approach for Many-Body Systems at Finite Temperature](http://dx.doi.org/10.1103/physrevlett.125.180602)
 
 45. [Stochastic gradient descent for hybrid quantum-classical optimization](http://dx.doi.org/10.22331/q-2020-08-31-314)
+
+46. [Lanczos recursion on a quantum computer for the Green's function and ground state](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032404)
+
+47. [Benchmarking Quantum Chemistry Computations with Variational, Imaginary Time Evolution, and Krylov Space Solver Algorithms](https://arxiv.org/abs/2102.05511)
+
 
 ## Tips for students 
 

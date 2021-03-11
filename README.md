@@ -10,13 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 3</h3>
-  <h1>Multiconfigurational Electronic Structure Theories for Materials: Development and Applications</h1>
-  <strong>Hung Pham</strong>
-  <h6>January 19th, 10am -- 12 pm</h6>
-  <h1>Polar decomposition, Petz recovery channels and pretty good measurements</h1>
-  <strong>Yihui Quek</strong>
-  <h6>January 22th, 4am -- 5 pm</h6>
+  <h3>Week 9</h3>
+  <h1>On Representing (Anti)Symmetric Functions </h1>
+  <strong>Jeffmin Lin</strong>
+  <h6>March 5th, 10:40 am -- 12 pm</h6>
 </div>
 
 
@@ -24,7 +21,7 @@
 -----
 ## 📌 Schedule (2021 Spring)
 
-🆕✨🔨: [**reserve the time**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-01) for [New Year](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2020-21_V3.pdf)!
+🆕✨🔨: [**reserve the time**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-01) for [spring semester](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2020-21_V3.pdf)!
 
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
@@ -33,9 +30,9 @@
 | 3    | 1/19 | Multiconfigurational Electronic Structure Theories for Materials: Development and Applications| Hung Pham         |            |
 | 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) | Special Time: 4pm-5pm |
 | 4    | 1/29 | FBSDE based neural network algorithms for high-dimensional quasilinear parabolic PDEs     | Wenzhong Zhang        |            |
-| 4    | 1/29 | QIP 2021 presentation                                                                     | Yu Tong               |            |
+| 4    | 1/29 | QIP 2021 presentation                                                                     | QIP 2021 presentation              |            |
 | 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              |            |
-| 6    | 2/12 | sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems     | Nilin Abrahamsen (MIT) | |            |
+| 6    | 2/12 | sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems     | Nilin  Abrahamsen (MIT) | |            |
 | 7    | 2/19 | Quantum algorithms for linear and nonlinear differential equations                        | Dong An               |            |
 | 8    | 2/26 | APS March Meeting 2021 Presentation                                                       |                       |            |
 | 9    | 3/5  | On Representing (Anti)Symmetric Functions                                                 | Jeffmin Lin           |            |
@@ -408,3 +405,14 @@
 42. Chen, Y., Zhang, L. and Wang, H., 2020. DeePKS-kit: a package for developing machine learning-based chemically accurate energy and density functional models. arXiv preprint arXiv:2012.14615.
 
 43. O. Marin, O. Runborg, A.K. Tornberg, Corrected trapezoidal rules for a class of singular functions, IMA J. Numer. Anal. 34 (2014) 1509–1540. doi:10.1093/imanum/drt046.
+
+44. Noisy intermediate-scale quantum (NISQ) algorithms, https://arxiv.org/pdf/2101.08448.pdf
+
+45. T. Shi, E. Demler, J.I. Cirac, Variational Approach for Many-Body Systems at Finite Temperature, Phys. Rev. Lett. 125 (2020) 180602. doi:10.1103/PhysRevLett.125.180602.
+
+46. R. Sweke, F. Wilde, J. Meyer, M. Schuld, P.K. Faehrmann, B. Meynard-Piganeau, J. Eisert, Stochastic gradient descent for hybrid quantum-classical optimization, Quantum. 4 (2020) 314. doi:10.22331/q-2020-08-31-314.
+
+
+47. Baker, Thomas E. "Lanczos recursion on a quantum computer for the Green's function and ground state." Physical Review A 103.3 (2021): 032404.
+
+48. Yeter-Aydeniz, Kübra, et al. "Benchmarking Quantum Chemistry Computations with Variational, Imaginary Time Evolution, and Krylov Space Solver Algorithms." arXiv preprint arXiv:2102.05511 (2021).
