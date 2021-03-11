@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 9</h3>
-  <h1>On Representing (Anti)Symmetric Functions </h1>
-  <strong>Jeffmin Lin</strong>
-  <h6>March 5th, 10:40 am -- 12 pm</h6>
+  <h3>Week 10</h3>
+  <h1>Determinantal Point Processes for Machine Learning</h1>
+  <strong>Jiahao Yao</strong>
+  <h6>March 12th, 10:00 am -- 12 pm</h6>
 </div>
 
 
@@ -37,7 +37,7 @@
 | 8    | 2/26 | APS March Meeting 2021 Presentation                                                       |                       |            |
 | 9    | 3/5  | On Representing (Anti)Symmetric Functions                                                 | Jeffmin Lin           |            |
 | 10   | 3/12 | Determinantal Point Processes for Machine Learning                                        | Jiahao Yao            |            |
-| 11   | 3/19 | TBD                                                                                       | Yuan Su               |            |
+| 11   | 3/19 | Nearly tight Trotterization of interacting electrons                                      | Yuan Su               |            |
 | 12   | 3/26 | Quantum Logspace Algorithm for Powering Matrices with Bounded Norm                        | Subhayan Roy Moulik   | ( Spring Recess?)   |
 | 13   | 4/2  | Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm          | Yulong Dong           |            |
 | 14   | 4/9  | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      |            |
@@ -411,7 +411,6 @@
 45. T. Shi, E. Demler, J.I. Cirac, Variational Approach for Many-Body Systems at Finite Temperature, Phys. Rev. Lett. 125 (2020) 180602. doi:10.1103/PhysRevLett.125.180602.
 
 46. R. Sweke, F. Wilde, J. Meyer, M. Schuld, P.K. Faehrmann, B. Meynard-Piganeau, J. Eisert, Stochastic gradient descent for hybrid quantum-classical optimization, Quantum. 4 (2020) 314. doi:10.22331/q-2020-08-31-314.
-
 
 47. Baker, Thomas E. "Lanczos recursion on a quantum computer for the Green's function and ground state." Physical Review A 103.3 (2021): 032404.
 
