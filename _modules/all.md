@@ -3,22 +3,22 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 10 Overview</h3>
-        <h2 class="highlighted-title">Determinantal Point Processes for Machine Learning</h2>
-        <strong>Jiahao Yao</strong><br>
-        <p class="highlighted-byline">Friday, March 12 th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 11 Overview</h3>
+        <h2 class="highlighted-title"><a href="https://berkeleyams.github.io/spring21/su.html">Nearly tight Trotterization of interacting electrons</a></h2>
+        <strong>Yuan Su</strong><br>
+        <p class="highlighted-byline">Friday, March 19 th, <strong> 10 am -- 11 pm</strong> (<span style="color:red;">Special Zoom: <a href="https://berkeley.zoom.us/j/186935273">https://berkeley.zoom.us/j/186935273</a></span>)</p>
         <span class="dividing-bar"></span>
+
     </div>
 </section>
     
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title"><a href="https://berkeleyams.github.io/spring21/su.html">Nearly tight Trotterization of interacting electrons</a></h2>
-        <strong>Yuan Su</strong><br>
-        <p class="highlighted-byline">Friday, March 19 th, <strong> 10 am -- 11 pm</strong> (<span style="color:red;">Special Zoom: <a href="https://berkeley.zoom.us/j/186935273">https://berkeley.zoom.us/j/186935273</a></span>)</p>
+        <h2 class="highlighted-title">Quantum Logspace Algorithm for Powering Matrices with Bounded Norm</h2>
+        <strong>Subhayan Roy Moulik</strong><br>
+        <p class="highlighted-byline">Friday, March 26 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
-
     </div>
 </section>
 
