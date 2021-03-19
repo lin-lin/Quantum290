@@ -437,3 +437,6 @@
 49. J.S. Kretchmer, G.K.L. Chan, A real-time extension of density matrix embedding theory for non-equilibrium electron dynamics, J. Chem. Phys. 148 (2018). doi:10.1063/1.5012766.
 
 50. C. Lupo, F. Jamet, T. Tse, I. Rungger, C. Weber, Maximally Localized Dynamical Quantum Embedding for Solving Many-Body Correlated Systems, ArXiv. (2020) 1–21. http://arxiv.org/abs/2008.04281.
+
+51. Or Sharir, Amnon Shashua, Giuseppe Carleo, Neural tensor contractions and the expressive power of deep neural quantum states, https://arxiv.org/abs/2103.10293
+
