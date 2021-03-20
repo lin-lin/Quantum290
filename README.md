@@ -441,3 +441,5 @@
 51. Or Sharir, Amnon Shashua, Giuseppe Carleo, Neural tensor contractions and the expressive power of deep neural quantum states, https://arxiv.org/abs/2103.10293
 
 52. Changpeng Shao and Ashley Montanaro, Faster quantum-inspired algorithms for solving linear systems, https://arxiv.org/pdf/2103.10309.pdf
+
+53. Vazquez, Almudena Carrera, Ralf Hiptmair, and Stefan Woerner. "Enhancing the Quantum Linear Systems Algorithm using Richardson Extrapolation." arXiv preprint arXiv:2009.04484 (2020).
