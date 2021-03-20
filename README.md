@@ -443,3 +443,9 @@
 52. Changpeng Shao and Ashley Montanaro, Faster quantum-inspired algorithms for solving linear systems, https://arxiv.org/pdf/2103.10309.pdf
 
 53. Vazquez, Almudena Carrera, Ralf Hiptmair, and Stefan Woerner. "Enhancing the Quantum Linear Systems Algorithm using Richardson Extrapolation." arXiv preprint arXiv:2009.04484 (2020).
+
+54. Chen, Hongwei, et al. "Chebyshev expansion of spectral functions using restricted Boltzmann machines." Bulletin of the American Physical Society (2021).
+
+55. Ghanem, Khaldoon, Niklas Liebermann, and Ali Alavi. "Population Control Bias and Importance Sampling in Full Configuration Interaction Quantum Monte Carlo." arXiv preprint arXiv:2102.11016 (2021).
+
+56. Pei, Michael Y., and Stephen R. Clark. "Compact Neural-network Quantum State representations of Jastrow and Stabilizer states." arXiv preprint arXiv:2103.09146 (2021).
