@@ -64,7 +64,7 @@
 | 15   | 4/16 | Chiral model for twisted bilayer graphene                                                 | Maciej Zworski        |            |
 | 16   | 4/23 | Preparation of excited states on a quantum computer                                       | Di Fang               |            |
 | 17   | 4/30 | [Exploiting anticommutation in Hamiltonian simulation](https://arxiv.org/pdf/2103.07988.pdf) |Qi Zhao (UMD)       |            |
-| 18   | 5/7  |                                                                                           |                       |            |
+| 18   | 5/7  | Quantum impurity problems                                                                 | Lin Lin               |            |
 | 19   | 5/14 |                                                                                           |                       |            |
 
 
@@ -449,3 +449,5 @@
 55. Ghanem, Khaldoon, Niklas Liebermann, and Ali Alavi. "Population Control Bias and Importance Sampling in Full Configuration Interaction Quantum Monte Carlo." arXiv preprint arXiv:2102.11016 (2021).
 
 56. Pei, Michael Y., and Stephen R. Clark. "Compact Neural-network Quantum State representations of Jastrow and Stabilizer states." arXiv preprint arXiv:2103.09146 (2021).
+
+57. S. Bravyi, D. Gosset, Complexity of Quantum Impurity Problems, Commun. Math. Phys. 356 (2017) 451–500. doi:10.1007/s00220-017-2976-9.
