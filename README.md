@@ -63,7 +63,7 @@
 | 14   | 4/9  | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      |            |
 | 15   | 4/16 | Chiral model for twisted bilayer graphene                                                 | Maciej Zworski        |            |
 | 16   | 4/23 | Preparation of excited states on a quantum computer                                       | Di Fang               |            |
-| 17   | 4/30 |                                                                                           |                       |            |
+| 17   | 4/30 | [Exploiting anticommutation in Hamiltonian simulation](https://arxiv.org/pdf/2103.07988.pdf) |Qi Zhao (UMD)       |            |
 | 18   | 5/7  |                                                                                           |                       |            |
 | 19   | 5/14 |                                                                                           |                       |            |
 
