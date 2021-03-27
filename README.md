@@ -453,3 +453,5 @@
 57. S. Bravyi, D. Gosset, Complexity of Quantum Impurity Problems, Commun. Math. Phys. 356 (2017) 451–500. doi:10.1007/s00220-017-2976-9.
 
 58. Yi, Changhao, and Elizabeth Crosson. "Spectral Analysis of Product Formulas for Quantum Simulation." arXiv preprint arXiv:2102.12655 (2021).
+
+59. Wilson, Max, et al. "Simulations of state-of-the-art fermionic neural network wave functions with diffusion Monte Carlo." arXiv preprint arXiv:2103.12570 (2021).
