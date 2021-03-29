@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 11</h3>
-  <h1>Nearly tight Trotterization of interacting electrons</h1>
-  <strong>Yuan Su</strong>
-  <h6>March 19th, 10:00 am -- 11 am</h6>
+  <h3>Week 13</h3>
+  <h1>Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm</h1>
+  <strong>Yulong Dong</strong>
+  <h6>April 2nd, 10 am -- 12 pm</h6>
 </div>
 
 
