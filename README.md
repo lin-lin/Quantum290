@@ -10,18 +10,38 @@
 ---------
 
 <div align="center">
-  <h3>Week 9</h3>
-  <h1>On Representing (Anti)Symmetric Functions </h1>
-  <strong>Jeffmin Lin</strong>
-  <h6>March 5th, 10:40 am -- 12 pm</h6>
+  <h3>Week 13</h3>
+  <h1>Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm</h1>
+  <strong>Yulong Dong</strong>
+  <h6>April 2nd, 10 am -- 12 pm</h6>
 </div>
 
 
+## 📌 Schedule (2021 Summer) 
+
+🆕✨🔨: [**BOOK the slot for summer!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-04) for [spring semester](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2020-21_V3.pdf) and [fall semester](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2021-22_V2.pdf)!
+
+| Week | Date | Topic                                                                                     | Speaker               | References |
+| ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
+| 1    | 5/21 |                                                                                           |                       |            |
+| 2    | 5/28 |  DRL for Quantum Phase Transition (1/2 slot)                                              | Jiahao Yao            |            |
+| 3    | 6/4  |                                                                                           |                       |            |
+| 4    | 6/11 |                                                                                           |                       |            |
+| 5    | 6/18 |                                                                                           |                       |            |
+| 6    | 6/25 |                                                                                           |                       |            |
+| 7    | 7/2  |                                                                                           |                       |            |
+| 8    | 7/9  |                                                                                           |                       |            |
+| 9    | 7/16 |                                                                                           |                       |            |
+| 10   | 7/23 |                                                                                           |                       |            |
+| 11   | 7/30 |                                                                                           |                       |            |
+| 12   | 8/6  |                                                                                           |                       |            |
+| 13   | 8/13 |                                                                                           |                       |            |
+| 14   | 8/20 |                                                                                           |                       |            |
+| 15   | 8/27 |                                                                                           |                       |            |
 
 -----
-## 📌 Schedule (2021 Spring)
+## 📌 Schedule (2021 Spring) 
 
-🆕✨🔨: [**reserve the time**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-01) for [spring semester](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2020-21_V3.pdf)!
 
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
@@ -37,17 +57,15 @@
 | 8    | 2/26 | APS March Meeting 2021 Presentation                                                       |                       |            |
 | 9    | 3/5  | On Representing (Anti)Symmetric Functions                                                 | Jeffmin Lin           |            |
 | 10   | 3/12 | Determinantal Point Processes for Machine Learning                                        | Jiahao Yao            |            |
-| 11   | 3/19 | TBD                                                                                       | Yuan Su               |            |
-| 12   | 3/26 | Quantum Logspace Algorithm for Powering Matrices with Bounded Norm                        | Subhayan Roy Moulik   | ( Spring Recess?)   |
+| 11   | 3/19 | Nearly tight Trotterization of interacting electrons                                      | Yuan Su               |            |
+| 12   | 3/26 | Quantum Logspace Algorithm for Powering Matrices with Bounded Norm                        | Subhayan Roy Moulik   |            |
 | 13   | 4/2  | Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm          | Yulong Dong           |            |
 | 14   | 4/9  | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      |            |
 | 15   | 4/16 | Chiral model for twisted bilayer graphene                                                 | Maciej Zworski        |            |
 | 16   | 4/23 | Preparation of excited states on a quantum computer                                       | Di Fang               |            |
-| 17   | 4/30 |                                                                                           |                       |            |
-| 18   | 5/7  |                                                                                           |                       |            |
+| 17   | 4/30 | [Exploiting anticommutation in Hamiltonian simulation](https://arxiv.org/pdf/2103.07988.pdf) |Qi Zhao (UMD)       |            |
+| 18   | 5/7  | Quantum impurity problems                                                                 | Lin Lin               |            |
 | 19   | 5/14 |                                                                                           |                       |            |
-| 20   | 5/21 |                                                                                           |                       |            |
-| 21   | 5/28 |                                                                                           |                       |            |
 
 
 <details>
@@ -412,7 +430,28 @@
 
 46. R. Sweke, F. Wilde, J. Meyer, M. Schuld, P.K. Faehrmann, B. Meynard-Piganeau, J. Eisert, Stochastic gradient descent for hybrid quantum-classical optimization, Quantum. 4 (2020) 314. doi:10.22331/q-2020-08-31-314.
 
-
 47. Baker, Thomas E. "Lanczos recursion on a quantum computer for the Green's function and ground state." Physical Review A 103.3 (2021): 032404.
 
 48. Yeter-Aydeniz, Kübra, et al. "Benchmarking Quantum Chemistry Computations with Variational, Imaginary Time Evolution, and Krylov Space Solver Algorithms." arXiv preprint arXiv:2102.05511 (2021).
+
+49. J.S. Kretchmer, G.K.L. Chan, A real-time extension of density matrix embedding theory for non-equilibrium electron dynamics, J. Chem. Phys. 148 (2018). doi:10.1063/1.5012766.
+
+50. C. Lupo, F. Jamet, T. Tse, I. Rungger, C. Weber, Maximally Localized Dynamical Quantum Embedding for Solving Many-Body Correlated Systems, ArXiv. (2020) 1–21. http://arxiv.org/abs/2008.04281.
+
+51. Or Sharir, Amnon Shashua, Giuseppe Carleo, Neural tensor contractions and the expressive power of deep neural quantum states, https://arxiv.org/abs/2103.10293
+
+52. Changpeng Shao and Ashley Montanaro, Faster quantum-inspired algorithms for solving linear systems, https://arxiv.org/pdf/2103.10309.pdf
+
+53. Vazquez, Almudena Carrera, Ralf Hiptmair, and Stefan Woerner. "Enhancing the Quantum Linear Systems Algorithm using Richardson Extrapolation." arXiv preprint arXiv:2009.04484 (2020).
+
+54. Chen, Hongwei, et al. "Chebyshev expansion of spectral functions using restricted Boltzmann machines." Bulletin of the American Physical Society (2021).
+
+55. Ghanem, Khaldoon, Niklas Liebermann, and Ali Alavi. "Population Control Bias and Importance Sampling in Full Configuration Interaction Quantum Monte Carlo." arXiv preprint arXiv:2102.11016 (2021).
+
+56. Pei, Michael Y., and Stephen R. Clark. "Compact Neural-network Quantum State representations of Jastrow and Stabilizer states." arXiv preprint arXiv:2103.09146 (2021).
+
+57. S. Bravyi, D. Gosset, Complexity of Quantum Impurity Problems, Commun. Math. Phys. 356 (2017) 451–500. doi:10.1007/s00220-017-2976-9.
+
+58. Yi, Changhao, and Elizabeth Crosson. "Spectral Analysis of Product Formulas for Quantum Simulation." arXiv preprint arXiv:2102.12655 (2021).
+
+59. Wilson, Max, et al. "Simulations of state-of-the-art fermionic neural network wave functions with diffusion Monte Carlo." arXiv preprint arXiv:2103.12570 (2021).

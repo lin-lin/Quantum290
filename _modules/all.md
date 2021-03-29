@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 11 Overview</h3>
-        <h2 class="highlighted-title"><a href="https://berkeleyams.github.io/spring21/su.html">Nearly tight Trotterization of interacting electrons</a></h2>
-        <strong>Yuan Su</strong><br>
-        <p class="highlighted-byline">Friday, March 19 th, <strong> 10 am -- 11 pm</strong> (<span style="color:red;">Special Zoom: <a href="https://berkeley.zoom.us/j/186935273">https://berkeley.zoom.us/j/186935273</a></span>)</p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 13 Overview</h3>
+        <h2 class="highlighted-title">Quantum Hamiltonian-Based Models and the Variational Quantum Thermalizer Algorithm</h2>
+        <strong>Yulong Dong</strong><br>
+        <p class="highlighted-byline">Friday, April 2 nd, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
 
     </div>
@@ -15,9 +15,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Quantum Logspace Algorithm for Powering Matrices with Bounded Norm</h2>
-        <strong>Subhayan Roy Moulik</strong><br>
-        <p class="highlighted-byline">Friday, March 26 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Spectral characterization of magic angles in twisted bilayer graphene</h2>
+        <strong>Fabian Faulstich	</strong><br>
+        <p class="highlighted-byline">Friday, April 9 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -101,6 +101,14 @@ Apr 16
 Apr 23
 : [Preparation of excited states on a quantum computer](http://arxiv.org/abs/2009.13485)
   : Di Fang
+
+Apr 30
+: [Preparation of excited states on a quantum computer](https://arxiv.org/abs/2103.07988)
+  : [Qi Zhao](https://quics.umd.edu/people/qi-zhao)
+
+May 7
+: [Quantum impurity problems](https://link.springer.com/article/10.1007/s00220-017-2976-9)
+  : Lin Lin
 
 
 #### Schedule (2020 Fall)
@@ -348,6 +356,28 @@ Dec 18
 46. [Lanczos recursion on a quantum computer for the Green's function and ground state](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032404)
 
 47. [Benchmarking Quantum Chemistry Computations with Variational, Imaginary Time Evolution, and Krylov Space Solver Algorithms](https://arxiv.org/abs/2102.05511)
+
+48. [A real-time extension of density matrix embedding theory for non-equilibrium electron dynamics](http://dx.doi.org/10.1063/1.5012766)
+
+49. [Maximally Localized Dynamical Quantum Embedding for Solving Many-Body Correlated Systems](https://arxiv.org/abs/2008.04281)
+
+50. [Neural tensor contractions and the expressive power of deep neural quantum states](https://arxiv.org/abs/2103.10293)
+
+51. [Faster quantum-inspired algorithms for solving linear systems](https://arxiv.org/abs/2103.10309)
+
+52. [Enhancing the Quantum Linear Systems Algorithm using Richardson Extrapolation](https://arxiv.org/abs/2009.04484)
+
+53. [Chebyshev expansion of spectral functions using restricted Boltzmann machines](https://arxiv.org/abs/2103.08804)
+
+54. [Population Control Bias and Importance Sampling in Full Configuration Interaction Quantum Monte Carlo](https://arxiv.org/abs/2102.11016)
+
+55. [Compact Neural-network Quantum State representations of Jastrow and Stabilizer states](https://arxiv.org/abs/2103.09146)
+
+56. [Complexity of Quantum Impurity Problems](http://dx.doi.org/10.1007/s00220-017-2976-9)
+
+57. [Spectral Analysis of Product Formulas for Quantum Simulation](https://arxiv.org/abs/2102.12655)
+
+58. [Simulations of state-of-the-art fermionic neural network wave functions with diffusion Monte Carlo](https://arxiv.org/abs/2103.12570)
 
 
 ## Tips for students 
