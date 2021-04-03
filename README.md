@@ -65,7 +65,7 @@
 | 16   | 4/23 | Preparation of excited states on a quantum computer                                       | Di Fang               |            |
 | 17   | 4/30 | [Exploiting anticommutation in Hamiltonian simulation](https://arxiv.org/pdf/2103.07988.pdf) |Qi Zhao (UMD)       |            |
 | 18   | 5/7  | Quantum impurity problems                                                                 | Lin Lin               |            |
-| 19   | 5/14 |                                                                                           |                       |            |
+| 19   | 5/14 | TBD                                                                                       | Subhayan Roy Moulik   |            |
 
 
 <details>
