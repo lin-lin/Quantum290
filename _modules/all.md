@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 13 Overview</h3>
-        <h2 class="highlighted-title">Quantum Hamiltonian-Based Models and the Variational Quantum Thermalizer Algorithm</h2>
-        <strong>Yulong Dong</strong><br>
-        <p class="highlighted-byline">Friday, April 2 nd, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 14 Overview</h3>
+        <h2 class="highlighted-title">Spectral characterization of magic angles in twisted bilayer graphene</h2>
+        <strong>Fabian Faulstich</strong><br>
+        <p class="highlighted-byline">Friday, April 9 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
 
     </div>
@@ -15,9 +15,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Spectral characterization of magic angles in twisted bilayer graphene</h2>
-        <strong>Fabian Faulstich	</strong><br>
-        <p class="highlighted-byline">Friday, April 9 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Chiral model for twisted bilayer graphene</h2>
+        <strong>Maciej Zworski</strong><br>
+        <p class="highlighted-byline">Friday, April 16 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
