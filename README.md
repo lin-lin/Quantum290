@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 13</h3>
-  <h1>Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm</h1>
-  <strong>Yulong Dong</strong>
-  <h6>April 2nd, 10 am -- 12 pm</h6>
+  <h3>Week 14</h3>
+  <h1>Spectral characterization of magic angles in twisted bilayer graphene</h1>
+  <strong>Fabian Faulstich</strong>
+  <h6>April 9th, 10 am -- 12 pm</h6>
 </div>
 
 
