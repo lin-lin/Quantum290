@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 14 Overview</h3>
-        <h2 class="highlighted-title">Spectral characterization of magic angles in twisted bilayer graphene</h2>
-        <strong>Fabian Faulstich</strong><br>
-        <p class="highlighted-byline">Friday, April 9 th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 15 Overview</h3>
+        <h2 class="highlighted-title">Chiral model for twisted bilayer graphene</h2>
+        <strong>Maciej Zworski</strong><br>
+        <p class="highlighted-byline">Friday, April 16 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
 
     </div>
@@ -15,9 +15,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Chiral model for twisted bilayer graphene</h2>
-        <strong>Maciej Zworski</strong><br>
-        <p class="highlighted-byline">Friday, April 16 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Quantum impurity problems	</h2>
+        <strong>Lin Lin</strong><br>
+        <p class="highlighted-byline">Friday, April 23 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -89,7 +89,6 @@ Apr 2
 : [Quantum Hamiltonian-Based Models and the Variational Quantum Thermalizer Algorithm](https://arxiv.org/abs/1910.02071)
   : Yulong Dong
   
-  
 Apr 9
 : [Spectral characterization of magic angles in twisted bilayer graphene](https://arxiv.org/abs/2010.05279)
   : Fabian Faulstich
@@ -99,16 +98,43 @@ Apr 16
   : Maciej Zworski 
 
 Apr 23
-: [Preparation of excited states on a quantum computer](http://arxiv.org/abs/2009.13485)
-  : Di Fang
+: [Quantum impurity problems](https://link.springer.com/article/10.1007/s00220-017-2976-9)
+  : Lin Lin
 
 Apr 30
 : [Preparation of excited states on a quantum computer](https://arxiv.org/abs/2103.07988)
   : [Qi Zhao](https://quics.umd.edu/people/qi-zhao)
 
 May 7
-: [Quantum impurity problems](https://link.springer.com/article/10.1007/s00220-017-2976-9)
-  : Lin Lin
+: [Preparation of excited states on a quantum computer](http://arxiv.org/abs/2009.13485)
+  : Di Fang
+
+May 14
+: TBD
+  : Subhayan Roy Moulik
+
+
+#### Schedule (2021 Summer) [Coming Soon!]
+
+May 28
+: DRL for Quantum Phase Transition 
+  : Jiahao Yao
+
+Jun 4
+: TBD
+  : Yu Tong 
+
+Jun 11
+: Neural tensor contractions and the expressive power of deep neural quantum states 
+  : Jeffmin Lin 
+
+Jun 18 
+: TBD 
+  : Dong An 
+
+Jun 25
+: [Third-order algebraic diagrammatic construction theory for electron attachment and ionization energies: Conventional and Green’s function implementation](https://aip.scitation.org/doi/10.1063/1.5131771)
+  : Xin Xing
 
 
 #### Schedule (2020 Fall)
