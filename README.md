@@ -28,7 +28,7 @@
 | 3    | 6/4  |                                                              | Yu Tong                 |            |
 | 4    | 6/11 | Neural tensor contractions and the expressive power of deep neural quantum states | Jeffmin Lin             |            |
 | 5    | 6/18 |                                                              | Dong An                 |            |
-| 6    | 6/25 |                                                              | Xin Xing                |            |
+| 6    | 6/25 | Third-order algebraic diagrammatic construction theory for electron attachment and ionization energies | Xin Xing                |            |
 | 7    | 7/2  |                                                              |                         |            |
 | 8    | 7/9  |                                                              |                         |            |
 | 9    | 7/16 |                                                              |                         |            |
