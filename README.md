@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 14</h3>
-  <h1>Spectral characterization of magic angles in twisted bilayer graphene</h1>
-  <strong>Fabian Faulstich</strong>
-  <h6>April 9th, 10 am -- 12 pm</h6>
+  <h3>Week 15</h3>
+  <h1>Chiral model for twisted bilayer graphene	</h1>
+  <strong>Maciej Zworski</strong>
+  <h6>April 16th, 10 am -- 12 pm</h6>
 </div>
 
 
