@@ -70,7 +70,7 @@
 
 <details>
 <summary>Schedule (2020 Fall)</summary>
-  
+
 | Week | Date  | Topic                                                                                          | Speaker                                    | References           |
 | ---- | ----- | ---------------------------------------------------------------------------------------------- | ------------------------------------------ | -------------------- |
 | 1    | 9/4   | Machine Learning Exchange-Correlation Energy                                                   | Qinyi Zhu                                  | [24](#24)            |
@@ -92,7 +92,7 @@
 | 14   | 12/18 | Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions | Fabian Faulstish                           | [30](#30)            |
 
 </details>
-  
+
 ## 🗂 Reading materials 
 
 <details>
@@ -401,7 +401,7 @@
 <summary>Comments</summary>
 (Subhayan Roy Moulik: I'd say this is one of the most influential papers of the past decade because it shows a provable separation between quantum and classical computing for constant depth circuits and already has a strong literature build up on it.)
 </details>
-  
+
 35. The maximum speed of dynamical evolution, https://arxiv.org/abs/quant-ph/9710043
 <details>
 <summary>Comments</summary>
@@ -455,3 +455,22 @@
 58. Yi, Changhao, and Elizabeth Crosson. "Spectral Analysis of Product Formulas for Quantum Simulation." arXiv preprint arXiv:2102.12655 (2021).
 
 59. Wilson, Max, et al. "Simulations of state-of-the-art fermionic neural network wave functions with diffusion Monte Carlo." arXiv preprint arXiv:2103.12570 (2021).
+
+60. S. Guo, F. Chen, Q. Liu, M. Xue, J. Chen, J. Cao, T. Mao, M.K. Tey, L. You, Faster State Preparation across Quantum Phase Transition Assisted by Reinforcement Learning, 2 (2020) 1–17. doi:10.1103/PhysRevLett.126.060401
+
+61. J. Lemieux, B. Heim, D. Poulin, K. Svore, M. Troyer, Efficient Quantum Walk Circuits for Metropolis-Hastings Algorithm, Quantum. 4 (2020) 287. doi:10.22331/q-2020-06-29-287.
+
+62. A. Go, A.J. Millis, Adaptively truncated Hilbert space based impurity solver for dynamical mean-field theory, Phys. Rev. B. 96 (2017) 085139. doi:10.1103/PhysRevB.96.085139.
+
+63. Y.-H. Chen, A. Kalev, I. Hen, A quantum algorithm for time-dependent Hamiltonian simulation by permutation expansion, (2021) 1–22. http://arxiv.org/abs/2103.15334.
+
+64. O. Sharir, A. Shashua, G. Carleo, Neural tensor contractions and the expressive power of deep neural quantum states, (2021). http://arxiv.org/abs/2103.10293.
+
+65. Q. Zhao, X. Yuan, Exploiting anticommutation in Hamiltonian simulation, (2021) 1–16. http://arxiv.org/abs/2103.07988.
+
+66. K. Sugisaki, K. Toyota, K. Sato, D. Shiomi, T. Takui, Quantum Algorithm for the Direct Calculations of Vertical Ionization Energies, J. Phys. Chem. Lett. (2021) 2880–2885. doi:10.1021/acs.jpclett.1c00283.
+
+    
+
+
+
