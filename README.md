@@ -21,7 +21,6 @@
 
 🆕✨🔨: [**BOOK the slot for summer!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-04) for [spring semester](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2020-21_V3.pdf) and [fall semester](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2021-22_V2.pdf)!
 
-<<<<<<< HEAD
 | Week | Date | Topic                                                        | Speaker                    | References |
 | ---- | ---- | ------------------------------------------------------------ | -------------------------- | ---------- |
 | 1    | 5/21 |                                                              | Canceled due to SIAM LA    |            |
@@ -39,25 +38,6 @@
 | 13   | 8/13 |                                                              |                            |            |
 | 14   | 8/20 |                                                              |                            |            |
 | 15   | 8/27 |                                                              |                            |            |
-=======
-| Week | Date | Topic                                                        | Speaker                 | References |
-| ---- | ---- | ------------------------------------------------------------ | ----------------------- | ---------- |
-| 1    | 5/21 |                                                              | Canceled due to SIAM LA |            |
-| 2    | 5/28 | DRL for Quantum Phase Transition (1/2 slot)                  | Jiahao Yao              |            |
-| 3    | 6/4  |                                                              | Yu Tong                 |            |
-| 4    | 6/11 | Neural tensor contractions and the expressive power of deep neural quantum states | Jeffmin Lin             |            |
-| 5    | 6/18 |                                                              | Dong An                 |            |
-| 6    | 6/25 | Third-order algebraic diagrammatic construction theory for electron attachment and ionization energies | Xin Xing                |            |
-| 7    | 7/2  |                                                              |                         |            |
-| 8    | 7/9  |                                                              |                         |            |
-| 9    | 7/16 |                                                              |                         |            |
-| 10   | 7/23 |                                                              |                         |            |
-| 11   | 7/30 |                                                              |                         |            |
-| 12   | 8/6  |                                                              |                         |            |
-| 13   | 8/13 |                                                              |                         |            |
-| 14   | 8/20 |                                                              |                         |            |
-| 15   | 8/27 |                                                              |                         |            |
->>>>>>> 49da6712321e620914c3d4b12f5310fe88f22970
 
 -----
 ## 📌 Schedule (2021 Spring) 
