@@ -21,23 +21,23 @@
 
 🆕✨🔨: [**BOOK the slot for summer!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-04) for [spring semester](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2020-21_V3.pdf) and [fall semester](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2021-22_V2.pdf)!
 
-| Week | Date | Topic                                                        | Speaker                 | References |
-| ---- | ---- | ------------------------------------------------------------ | ----------------------- | ---------- |
-| 1    | 5/21 |                                                              | Canceled due to SIAM LA |            |
-| 2    | 5/28 | DRL for Quantum Phase Transition (1/2 slot)                  | Jiahao Yao              |            |
-| 3    | 6/4  |                                                              | Yu Tong                 |            |
-| 4    | 6/11 | Neural tensor contractions and the expressive power of deep neural quantum states | Jeffmin Lin             |            |
-| 5    | 6/18 |                                                              | Dong An                 |            |
-| 6    | 6/25 |                                                              | Xin Xing                |            |
-| 7    | 7/2  |                                                              |                         |            |
-| 8    | 7/9  |                                                              |                         |            |
-| 9    | 7/16 |                                                              |                         |            |
-| 10   | 7/23 |                                                              |                         |            |
-| 11   | 7/30 |                                                              |                         |            |
-| 12   | 8/6  |                                                              |                         |            |
-| 13   | 8/13 |                                                              |                         |            |
-| 14   | 8/20 |                                                              |                         |            |
-| 15   | 8/27 |                                                              |                         |            |
+| Week | Date | Topic                                                        | Speaker                    | References |
+| ---- | ---- | ------------------------------------------------------------ | -------------------------- | ---------- |
+| 1    | 5/21 |                                                              | Canceled due to SIAM LA    |            |
+| 2    | 5/28 | DRL for Quantum Phase Transition (1/2 slot)<br />Iterative Quantum Assisted Eigensolver (1/2 slot) | Jiahao Yao<br />Jiasu Wang |            |
+| 3    | 6/4  |                                                              | Yu Tong                    |            |
+| 4    | 6/11 | Neural tensor contractions and the expressive power of deep neural quantum states | Jeffmin Lin                |            |
+| 5    | 6/18 |                                                              | Dong An                    |            |
+| 6    | 6/25 | Third-order algebraic diagrammatic construction theory: A Green's function approach | Xin Xing                   |            |
+| 7    | 7/2  |                                                              |                            |            |
+| 8    | 7/9  |                                                              |                            |            |
+| 9    | 7/16 |                                                              |                            |            |
+| 10   | 7/23 |                                                              |                            |            |
+| 11   | 7/30 |                                                              |                            |            |
+| 12   | 8/6  |                                                              |                            |            |
+| 13   | 8/13 |                                                              |                            |            |
+| 14   | 8/20 |                                                              |                            |            |
+| 15   | 8/27 |                                                              |                            |            |
 
 -----
 ## 📌 Schedule (2021 Spring) 
@@ -469,6 +469,8 @@
 65. Q. Zhao, X. Yuan, Exploiting anticommutation in Hamiltonian simulation, (2021) 1–16. http://arxiv.org/abs/2103.07988.
 
 66. K. Sugisaki, K. Toyota, K. Sato, D. Shiomi, T. Takui, Quantum Algorithm for the Direct Calculations of Vertical Ionization Energies, J. Phys. Chem. Lett. (2021) 2880–2885. doi:10.1021/acs.jpclett.1c00283.
+
+67. S. Banerjee, A.Y. Sokolov, Third-order algebraic diagrammatic construction theory for electron attachment and ionization energies: Conventional and Green’s function implementation, J. Chem. Phys. 151 (2019) 224112. doi:10.1063/1.5131771.
 
     
 
