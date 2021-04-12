@@ -6,7 +6,7 @@
         <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 15 Overview</h3>
         <h2 class="highlighted-title">Chiral model for twisted bilayer graphene</h2>
         <strong>Maciej Zworski</strong><br>
-        <p class="highlighted-byline">Friday, April 16 th, <strong> 10 am -- 12 pm</strong></p>
+        <p class="highlighted-byline">Friday, April 16 th, <strong> 9:30 am -- 11 am</strong>(<span style="color:red;">Special Time</span>)</p>
         <span class="dividing-bar"></span>
 
     </div>
