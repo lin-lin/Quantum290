@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 15</h3>
-  <h1>Chiral model for twisted bilayer graphene	</h1>
-  <strong>Maciej Zworski</strong>
-  <h6>April 16th, 9:30 am -- 11 am</h6>
+  <h3>Week 16</h3>
+  <h1>Quantum impurity problems </h1>
+  <strong>Lin Lin</strong>
+  <h6>April 21st, 8:30 am -- 10:30 am</h6>
 </div>
 
 
