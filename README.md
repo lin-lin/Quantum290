@@ -472,7 +472,7 @@
 
 67. S. Banerjee, A.Y. Sokolov, Third-order algebraic diagrammatic construction theory for electron attachment and ionization energies: Conventional and Green’s function implementation, J. Chem. Phys. 151 (2019) 224112. doi:10.1063/1.5131771.
 
-    
+68. J. Tilly, P. V. Sriluckshmy, A. Patel, E. Fontana, I. Rungger, E. Grant, R. Anderson, J. Tennyson, G.H. Booth, Reduced Density Matrix Sampling: Self-consistent Embedding and Multiscale Electronic Structure on Current Generation Quantum Computers, (2021) 1–18. http://arxiv.org/abs/2104.05531.    
 
 
 
