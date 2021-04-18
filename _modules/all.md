@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 15 Overview</h3>
-        <h2 class="highlighted-title">Chiral model for twisted bilayer graphene</h2>
-        <strong>Maciej Zworski</strong><br>
-        <p class="highlighted-byline">Friday, April 16 th, <strong> 9:30 am -- 11 am</strong>(<span style="color:red;">Special Time</span>)</p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 16 Overview</h3>
+        <h2 class="highlighted-title">Quantum impurity problems</h2>
+        <strong>Lin Lin</strong><br>
+        <p class="highlighted-byline">Wednesday, April 21 st, <strong> 8:30 am -- 10:30 am</strong> (<span style="color:red;">Special Time</span>)</p>
         <span class="dividing-bar"></span>
 
     </div>
@@ -15,9 +15,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Quantum impurity problems	</h2>
-        <strong>Lin Lin</strong><br>
-        <p class="highlighted-byline">Friday, April 23 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Preparation of excited states on a quantum computer</h2>
+        <strong>Qi Zhao</strong><br>
+        <p class="highlighted-byline">Friday, April 30 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
