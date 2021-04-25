@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 16</h3>
-  <h1>Quantum impurity problems </h1>
-  <strong>Lin Lin</strong>
-  <h6>April 21st, 8:30 am -- 10:30 am</h6>
+  <h3>Week 17</h3>
+  <h1>Exploiting anticommutation in Hamiltonian simulation</h1>
+  <strong>Qi Zhao</strong>
+  <h6>April 30th, 10:00 am -- 12:00 pm</h6>
 </div>
 
 
