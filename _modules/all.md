@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 16 Overview</h3>
-        <h2 class="highlighted-title">Quantum impurity problems</h2>
-        <strong>Lin Lin</strong><br>
-        <p class="highlighted-byline">Wednesday, April 21 st, <strong> 8:30 am -- 10:30 am</strong> (<span style="color:red;">Special Time</span>)</p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 17 Overview</h3>
+        <h2 class="highlighted-title">Exploiting anticommutation in Hamiltonian simulation</h2>
+        <strong>Qi Zhao</strong><br>
+        <p class="highlighted-byline">Friday, April 30 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
 
     </div>
@@ -16,8 +16,8 @@
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
         <h2 class="highlighted-title">Preparation of excited states on a quantum computer</h2>
-        <strong>Qi Zhao</strong><br>
-        <p class="highlighted-byline">Friday, April 30 th, <strong> 10 am -- 12 pm</strong></p>
+        <strong>Di Fang</strong><br>
+        <p class="highlighted-byline">Friday, May 7 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -97,12 +97,12 @@ Apr 16
 : Chiral model for twisted bilayer graphene
   : Maciej Zworski 
 
-Apr 23
+Apr 21
 : [Quantum impurity problems](https://link.springer.com/article/10.1007/s00220-017-2976-9)
   : Lin Lin
 
 Apr 30
-: [Preparation of excited states on a quantum computer](https://arxiv.org/abs/2103.07988)
+: [Exploiting anticommutation in Hamiltonian simulation](https://arxiv.org/abs/2103.07988)
   : [Qi Zhao](https://quics.umd.edu/people/qi-zhao)
 
 May 7
