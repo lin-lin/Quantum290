@@ -136,6 +136,10 @@ Jun 25
 : [Third-order algebraic diagrammatic construction theory for electron attachment and ionization energies: Conventional and Green’s function implementation](https://aip.scitation.org/doi/10.1063/1.5131771)
   : Xin Xing
 
+Jul 9
+: [A projector-splitting integrator for dynamical low-rank approximation](https://link.springer.com/article/10.1007/s10543-013-0454-0)
+  : Fabian Faulstish
+
 
 #### Schedule (2020 Fall)
 
