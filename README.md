@@ -30,7 +30,7 @@
 | 5    | 6/18 |                                                              | Dong An                    |            |
 | 6    | 6/25 | Third-order algebraic diagrammatic construction theory: A Green's function approach | Xin Xing                   |            |
 | 7    | 7/2  |                                                              |                            |            |
-| 8    | 7/9  |                                                              |                            |            |
+| 8    | 7/9  | A projector-splitting integrator for dynamical low-rank approximation |  Fabian Faulstich |            |
 | 9    | 7/16 |                                                              |                            |            |
 | 10   | 7/23 |                                                              |                            |            |
 | 11   | 7/30 |                                                              |                            |            |
