@@ -474,5 +474,7 @@
 
 68. J. Tilly, P. V. Sriluckshmy, A. Patel, E. Fontana, I. Rungger, E. Grant, R. Anderson, J. Tennyson, G.H. Booth, Reduced Density Matrix Sampling: Self-consistent Embedding and Multiscale Electronic Structure on Current Generation Quantum Computers, (2021) 1–18. http://arxiv.org/abs/2104.05531.    
 
+69. A. Cornelissen, J. Bausch, A. Gilyén, Scalable Benchmarks for Gate-Based Quantum Computers, (2021). http://arxiv.org/abs/2104.10698.
+
 
 
