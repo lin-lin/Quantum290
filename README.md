@@ -29,9 +29,9 @@
 | 4    | 6/11 | Neural tensor contractions and the expressive power of deep neural quantum states | Jeffmin Lin                |            |
 | 5    | 6/18 | AIM SQUARE. No seminar this week                                   |                     |            |
 | 6    | 6/25 | Third-order algebraic diagrammatic construction theory: A Green's function approach | Xin Xing                   |            |
-| 7    | 7/2  |                                                              | Dong An                           |            |
+| 7    | 7/2  | Preparation of excited states on a quantum computer | Di Fang                    |            |
 | 8    | 7/9  | A projector-splitting integrator for dynamical low-rank approximation |  Fabian Faulstich |            |
-| 9    | 7/16 |                                                              |                            |            |
+| 9    | 7/16 |                                                              | Dong An |            |
 | 10   | 7/23 |                                                              |                            |            |
 | 11   | 7/30 |                                                              |                            |            |
 | 12   | 8/6  |                                                              |                            |            |
@@ -52,7 +52,7 @@
 | 4    | 1/29 | FBSDE based neural network algorithms for high-dimensional quasilinear parabolic PDEs     | Wenzhong Zhang        |            |
 | 4    | 1/29 | QIP 2021 presentation                                                                     | QIP 2021 presentation              |            |
 | 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              |            |
-| 6    | 2/12 | sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems     | Nilin  Abrahamsen (MIT) | |            |
+| 6    | 2/12 | sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems     | Nilin  Abrahamsen (MIT) | |
 | 7    | 2/19 | Quantum algorithms for linear and nonlinear differential equations                        | Dong An               |            |
 | 8    | 2/26 | APS March Meeting 2021 Presentation                                                       |                       |            |
 | 9    | 3/5  | On Representing (Anti)Symmetric Functions                                                 | Jeffmin Lin           |            |
@@ -64,7 +64,7 @@
 | 15   | 4/16 | Chiral model for twisted bilayer graphene                                                 | Maciej Zworski        |            |
 | 16   | 4/23 | Quantum impurity problems                                       | Lin Lin                |            |
 | 17   | 4/30 | [Exploiting anticommutation in Hamiltonian simulation](https://arxiv.org/pdf/2103.07988.pdf) |Qi Zhao (UMD)       |            |
-| 18   | 5/7  | Preparation of excited states on a quantum computer                                                                 | Di Fang               |            |
+| 18   | 5/7  | Canceled due to final exam                                   |                         |            |
 | 19   | 5/14 | TBD                                                                                       | Subhayan Roy Moulik   |            |
 
 
