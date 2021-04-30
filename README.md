@@ -27,9 +27,9 @@
 | 2    | 5/28 | DRL for Quantum Phase Transition (1/2 slot)<br />Iterative Quantum Assisted Eigensolver (1/2 slot) | Jiahao Yao<br />Jiasu Wang |            |
 | 3    | 6/4  |                                                              | Yu Tong                    |            |
 | 4    | 6/11 | Neural tensor contractions and the expressive power of deep neural quantum states | Jeffmin Lin                |            |
-| 5    | 6/18 |                                                              | Dong An                    |            |
+| 5    | 6/18 | AIM SQUARE. No seminar this week                                   |                     |            |
 | 6    | 6/25 | Third-order algebraic diagrammatic construction theory: A Green's function approach | Xin Xing                   |            |
-| 7    | 7/2  |                                                              |                            |            |
+| 7    | 7/2  |                                                              | Dong An                           |            |
 | 8    | 7/9  | A projector-splitting integrator for dynamical low-rank approximation |  Fabian Faulstich |            |
 | 9    | 7/16 |                                                              |                            |            |
 | 10   | 7/23 |                                                              |                            |            |
