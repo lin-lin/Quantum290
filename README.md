@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 17</h3>
-  <h1>Exploiting anticommutation in Hamiltonian simulation</h1>
-  <strong>Qi Zhao</strong>
-  <h6>April 30th, 10:00 am -- 12:00 pm</h6>
+  <h3>Week 19</h3>
+  <h1>Quantum chaos, information scrambling, and computation</h1>
+  <strong>Subhayan Roy Moulik</strong>
+  <h6>May 14th, 10:00 am -- 12:00 pm</h6>
 </div>
 
 
