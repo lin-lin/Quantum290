@@ -10,28 +10,30 @@
 ---------
 
 <div align="center">
-  <h3>Week 19</h3>
-  <h1>Quantum chaos, information scrambling, and computation</h1>
-  <strong>Subhayan Roy Moulik</strong>
-  <h6>May 14th, 10:00 am -- 12:00 pm</h6>
+  <h3>Week 2</h3>
+  <h1>DRL for Quantum Phase Transition</h1>
+  <strong>Jiahao Yao</strong>
+  <h1>Iterative Quantum Assisted Eigensolver</h1>
+  <strong>Jiasu Wang</strong>
+  <h6>May 28th, 10:00 am -- 12:00 pm</h6>
 </div>
 
 
 ## 📌 Schedule (2021 Summer) 
 
-🆕✨🔨: [**BOOK the slot for summer!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-04) for [spring semester](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2020-21_V3.pdf) and [fall semester](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2021-22_V2.pdf)!
+🆕✨🔨: [**BOOK the slot for summer!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-07) 
 
 | Week | Date | Topic                                                        | Speaker                    | References |
 | ---- | ---- | ------------------------------------------------------------ | -------------------------- | ---------- |
 | 1    | 5/21 |                                                              | Canceled due to SIAM LA    |            |
 | 2    | 5/28 | DRL for Quantum Phase Transition (1/2 slot)<br />Iterative Quantum Assisted Eigensolver (1/2 slot) | Jiahao Yao<br />Jiasu Wang |            |
-| 3    | 6/4  |                                                              | Yu Tong                    |            |
+| 3    | 6/4  | TBD                                                 | Yu Tong                    |            |
 | 4    | 6/11 | Neural tensor contractions and the expressive power of deep neural quantum states | Jeffmin Lin                |            |
 | 5    | 6/18 | AIM SQUARE. No seminar this week                                   |                     |            |
 | 6    | 6/25 | Third-order algebraic diagrammatic construction theory: A Green's function approach | Xin Xing                   |            |
 | 7    | 7/2  | Preparation of excited states on a quantum computer | Di Fang                    |            |
 | 8    | 7/9  | A projector-splitting integrator for dynamical low-rank approximation |  Fabian Faulstich |            |
-| 9    | 7/16 |                                                              | Dong An |            |
+| 9    | 7/16 | TBD                                                             | Dong An |            |
 | 10   | 7/23 |                                                              |                            |            |
 | 11   | 7/30 |                                                              |                            |            |
 | 12   | 8/6  |                                                              |                            |            |
@@ -40,8 +42,9 @@
 | 15   | 8/27 |                                                              |                            |            |
 
 -----
-## 📌 Schedule (2021 Spring) 
 
+<details>
+<summary>Schedule (2021 Spring)</summary>
 
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
@@ -67,6 +70,7 @@
 | 18   | 5/7  | Canceled due to final exam                                                                |                       |            |
 | 19   | 5/14 | Quantum chaos, information scrambling, and computation                                    | Subhayan Roy Moulik   |            |
 
+</details>
 
 <details>
 <summary>Schedule (2020 Fall)</summary>
