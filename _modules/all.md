@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 17 Overview</h3>
-        <h2 class="highlighted-title">Exploiting anticommutation in Hamiltonian simulation</h2>
-        <strong>Qi Zhao</strong><br>
-        <p class="highlighted-byline">Friday, April 30 th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 3 Overview</h3>
+        <h2 class="highlighted-title">Quantum algorithm for simulating real time evolution of lattice Hamiltonians</h2>
+        <strong>Yu Tong</strong><br>
+        <p class="highlighted-byline">Friday, June 4 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
 
     </div>
@@ -15,15 +15,54 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Preparation of excited states on a quantum computer</h2>
-        <strong>Di Fang</strong><br>
-        <p class="highlighted-byline">Friday, May 7 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Neural tensor contractions and the expressive power of deep neural quantum states </h2>
+        <strong>Jeffmin Lin</strong><br>
+        <p class="highlighted-byline">Friday, June 11 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
 
 
-## 📌 Schedule (2021 Spring)
+## 📌 Schedule (2021 Summer) 
+
+May 21
+: SIAM LA. No seminar this week
+
+
+May 28
+: DRL for Quantum Phase Transition 
+  : Jiahao Yao
+: Iterative Quantum Assisted Eigensolver
+  : Jiasu Wang	
+
+Jun 4
+: [Quantum algorithm for simulating real time evolution of lattice Hamiltonians](https://arxiv.org/abs/1801.03922)
+  : Yu Tong 
+
+Jun 11
+: Neural tensor contractions and the expressive power of deep neural quantum states 
+  : Jeffmin Lin 
+
+Jun 18
+: AIM SQUARE. No seminar this week
+
+Jun 25
+: [Third-order algebraic diagrammatic construction theory for electron attachment and ionization energies: Conventional and Green’s function implementation](https://aip.scitation.org/doi/10.1063/1.5131771)
+  : Xin Xing
+
+Jul 2
+: Preparation of excited states on a quantum computer	
+  : Di Fang	
+
+Jul 9
+: [A projector-splitting integrator for dynamical low-rank approximation](https://link.springer.com/article/10.1007/s10543-013-0454-0)
+  : Fabian Faulstish
+
+Jul 16 
+: TBD 
+  : Dong An 
+
+#### Schedule (2021 Spring)
 Jan 8
 : Block-encoding of sparse matrices
   : Lin Lin
@@ -110,35 +149,8 @@ May 7
   : Di Fang
 
 May 14
-: TBD
+: Quantum chaos, information scrambling, and computation
   : Subhayan Roy Moulik
-
-
-#### Schedule (2021 Summer) [Coming Soon!]
-
-May 28
-: DRL for Quantum Phase Transition 
-  : Jiahao Yao
-
-Jun 4
-: TBD
-  : Yu Tong 
-
-Jun 11
-: Neural tensor contractions and the expressive power of deep neural quantum states 
-  : Jeffmin Lin 
-
-Jun 18 
-: TBD 
-  : Dong An 
-
-Jun 25
-: [Third-order algebraic diagrammatic construction theory for electron attachment and ionization energies: Conventional and Green’s function implementation](https://aip.scitation.org/doi/10.1063/1.5131771)
-  : Xin Xing
-
-Jul 9
-: [A projector-splitting integrator for dynamical low-rank approximation](https://link.springer.com/article/10.1007/s10543-013-0454-0)
-  : Fabian Faulstish
 
 
 #### Schedule (2020 Fall)
