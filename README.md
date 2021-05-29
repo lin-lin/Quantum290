@@ -10,12 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 2</h3>
-  <h1>DRL for Quantum Phase Transition</h1>
-  <strong>Jiahao Yao</strong>
-  <h1>Iterative Quantum Assisted Eigensolver</h1>
-  <strong>Jiasu Wang</strong>
-  <h6>May 28th, 10:00 am -- 12:00 pm</h6>
+  <h3>Week 3</h3>
+  <h1>Quantum algorithm for simulating real time evolution of lattice Hamiltonians</h1>
+  <strong>Yu Tong</strong>
+  <h6>June 4th, 10:00 am -- 12:00 pm</h6>
 </div>
 
 
@@ -27,7 +25,7 @@
 | ---- | ---- | ------------------------------------------------------------ | -------------------------- | ---------- |
 | 1    | 5/21 |                                                              | Canceled due to SIAM LA    |            |
 | 2    | 5/28 | DRL for Quantum Phase Transition (1/2 slot)<br />Iterative Quantum Assisted Eigensolver (1/2 slot) | Jiahao Yao<br />Jiasu Wang |            |
-| 3    | 6/4  | TBD                                                 | Yu Tong                    |            |
+| 3    | 6/4  | Quantum algorithm for simulating real time evolution of lattice Hamiltonians | Yu Tong                    |            |
 | 4    | 6/11 | Neural tensor contractions and the expressive power of deep neural quantum states | Jeffmin Lin                |            |
 | 5    | 6/18 | AIM SQUARE. No seminar this week                                   |                     |            |
 | 6    | 6/25 | Third-order algebraic diagrammatic construction theory: A Green's function approach | Xin Xing                   |            |
