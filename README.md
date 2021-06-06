@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 3</h3>
-  <h1>Quantum algorithm for simulating real time evolution of lattice Hamiltonians</h1>
-  <strong>Yu Tong</strong>
-  <h6>June 4th, 10:00 am -- 12:00 pm</h6>
+  <h3>Week 4</h3>
+  <h1>Neural tensor contractions and the expressive power of deep neural quantum states</h1>
+  <strong>Jeffmin Lin</strong>
+  <h6>June 11th, 10:00 am -- 12:00 pm</h6>
 </div>
 
 
