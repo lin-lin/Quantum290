@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 3 Overview</h3>
-        <h2 class="highlighted-title">Quantum algorithm for simulating real time evolution of lattice Hamiltonians</h2>
-        <strong>Yu Tong</strong><br>
-        <p class="highlighted-byline">Friday, June 4 th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 4 Overview</h3>
+        <h2 class="highlighted-title">Neural tensor contractions and the expressive power of deep neural quantum states </h2>
+        <strong>Jeffmin Lin</strong><br>
+        <p class="highlighted-byline">Friday, June 11 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
 
     </div>
@@ -15,9 +15,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Neural tensor contractions and the expressive power of deep neural quantum states </h2>
-        <strong>Jeffmin Lin</strong><br>
-        <p class="highlighted-byline">Friday, June 11 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Third-order algebraic diagrammatic construction theory: A Green's function approach</h2>
+        <strong>Xin Xing	</strong><br>
+        <p class="highlighted-byline">Friday, June 25 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
