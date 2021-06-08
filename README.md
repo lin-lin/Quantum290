@@ -29,7 +29,7 @@
 | 4    | 6/11 | Neural tensor contractions and the expressive power of deep neural quantum states | Jeffmin Lin                |            |
 | 5    | 6/18 | AIM SQUARE. No seminar this week                                   |                     |            |
 | 6    | 6/25 | Third-order algebraic diagrammatic construction theory: A Green's function approach | Xin Xing                   |            |
-| 7    | 7/2  | Preparation of excited states on a quantum computer | Di Fang                    |            |
+| 7    | 7/2  | Fault-Tolerant Quantum Simulations of Chemistry in First Quantization | Di Fang                    |            |
 | 8    | 7/9  | A projector-splitting integrator for dynamical low-rank approximation |  Fabian Faulstich |            |
 | 9    | 7/16 | TBD                                                             | Dong An |            |
 | 10   | 7/23 |                                                              |                            |            |
