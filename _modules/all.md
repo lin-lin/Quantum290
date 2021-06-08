@@ -51,7 +51,7 @@ Jun 25
   : Xin Xing
 
 Jul 2
-: Preparation of excited states on a quantum computer	
+: Fault-Tolerant Quantum Simulations of Chemistry in First Quantization	
   : Di Fang	
 
 Jul 9
