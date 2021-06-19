@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 4</h3>
-  <h1>Neural tensor contractions and the expressive power of deep neural quantum states</h1>
-  <strong>Jeffmin Lin</strong>
-  <h6>June 11th, 10:00 am -- 12:00 pm</h6>
+  <h3>Week 5</h3>
+  <h1>Third-order algebraic diagrammatic construction theory: A Green's function approach</h1>
+  <strong>Xin Xing</strong>
+  <h6>June 25th, 10:00 am -- 12:00 pm</h6>
 </div>
 
 
