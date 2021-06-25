@@ -3,7 +3,7 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 5 Overview</h3>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 6 Overview</h3>
         <h2 class="highlighted-title">Fault-Tolerant Quantum Simulations of Chemistry in First Quantization</h2>
         <strong>Di Fang</strong><br>
         <p class="highlighted-byline">Friday, July 2 nd, <strong> 10 am -- 12 pm</strong></p>
