@@ -4,9 +4,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 5 Overview</h3>
-        <h2 class="highlighted-title">Third-order algebraic diagrammatic construction theory: A Green's function approach</h2>
-        <strong>Xin Xing	</strong><br>
-        <p class="highlighted-byline">Friday, June 25 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Fault-Tolerant Quantum Simulations of Chemistry in First Quantization</h2>
+        <strong>Di Fang</strong><br>
+        <p class="highlighted-byline">Friday, July 2 nd, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
 
     </div>
@@ -15,9 +15,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Fault-Tolerant Quantum Simulations of Chemistry in First Quantization</h2>
-        <strong>Di Fang</strong><br>
-        <p class="highlighted-byline">Friday, July 2 nd, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">A projector-splitting integrator for dynamical low-rank approximation</h2>
+        <strongFabian Faulstich</strong><br>
+        <p class="highlighted-byline">Friday, July 9 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -61,6 +61,28 @@ Jul 9
 Jul 16 
 : TBD 
   : Dong An 
+
+Jul 23 
+: [Accessing scrambling using matrix product operators](https://www.nature.com/articles/s41567-019-0712-4)
+  : Sajant Anand 
+
+Jul 30 
+: TBD
+  : Yantao Wu	
+
+Aug 6 
+: TBD
+  : Raehyun Kim
+
+Aug 13
+: TBD
+  : Jiasu Wang
+ 
+Sep 10
+: [Parallel Quantum Algorithm for Hamiltonian Simulation](https://arxiv.org/pdf/2105.11889.pdf)
+  : Nilin Abrahamsen	
+ 
+ 
 
 #### Schedule (2021 Spring)
 Jan 8
