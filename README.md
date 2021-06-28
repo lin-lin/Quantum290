@@ -37,7 +37,7 @@
 | 12   | 8/6  | TBD                                                          |   Raehyun Kim              |            |
 | 13   | 8/13 | TBD                                                          |   Jiasu Wang               |            |
 | 14   | 8/20 |                                                              |                            |            |
-| 15   | 8/27 |                                                              |                            |            |
+| 15   | 8/27 | Quantum Subspace Diagonalization.                            |   Ethan Epperly            |            |
 | 16   | 9/3  |                                                              |                            |            |
 | 17   | 9/10 | Parallel Quantum Algorithm for Hamiltonian Simulation        |   Nilin Abrahamsen         |            |
 
