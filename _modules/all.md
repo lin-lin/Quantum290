@@ -77,7 +77,11 @@ Aug 6
 Aug 13
 : TBD
   : Jiasu Wang
- 
+
+Aug 27
+: Quantum Subspace Diagonalization
+  : Ethan Epperly
+  
 Sep 10
 : [Parallel Quantum Algorithm for Hamiltonian Simulation](https://arxiv.org/pdf/2105.11889.pdf)
   : Nilin Abrahamsen	
