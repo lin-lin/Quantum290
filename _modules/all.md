@@ -6,7 +6,7 @@
         <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 6 Overview</h3>
         <h2 class="highlighted-title">Fault-Tolerant Quantum Simulations of Chemistry in First Quantization</h2>
         <strong>Di Fang</strong><br>
-        <p class="highlighted-byline">Friday, July 2 nd, <strong> 10 am -- 12 pm</strong></p>
+        <p class="highlighted-byline">Friday, July 2 nd, <strong> 9:30 am -- 11:30 am</strong></p>
         <span class="dividing-bar"></span>
 
     </div>
@@ -63,9 +63,9 @@ Jul 16
   : Dong An 
 
 Jul 23 
-: [Accessing scrambling using matrix product operators](https://www.nature.com/articles/s41567-019-0712-4)
-  : Sajant Anand 
-
+: Neural tensor contractions and the expressive power of deep neural quantum states 
+  : Jeffmin Lin 
+  
 Jul 30 
 : TBD
   : Yantao Wu	
@@ -78,6 +78,10 @@ Aug 13
 : TBD
   : Jiasu Wang
 
+Aug 20
+: [Accessing scrambling using matrix product operators](https://www.nature.com/articles/s41567-019-0712-4)
+  : Sajant Anand 
+  
 Aug 27
 : Quantum Subspace Diagonalization
   : Ethan Epperly
