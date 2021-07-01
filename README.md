@@ -13,7 +13,7 @@
   <h3>Week 6</h3>
   <h1>Fault-Tolerant Quantum Simulations of Chemistry in First Quantization</h1>
   <strong>Di Fang</strong>
-  <h6>July 2nd, 10:00 am -- 12:00 pm</h6>
+  <h6>July 2nd, 9:30 am -- 11:30 pm</h6>
 </div>
 
 
@@ -32,11 +32,11 @@
 | 7    | 7/2  | Fault-Tolerant Quantum Simulations of Chemistry in First Quantization | Di Fang                    |            |
 | 8    | 7/9  | A projector-splitting integrator for dynamical low-rank approximation |  Fabian Faulstich |            |
 | 9    | 7/16 | TBD                                                             | Dong An |            |
-| 10   | 7/23 | Accessing scrambling using matrix product operators          |   Sajant Anand          |            |
+| 10   | 7/23 | Neural tensor contractions and the expressive power of deep neural quantum states   |   Jeffmin Lin             |            |
 | 11   | 7/30 | TBD                                                          |   Yantao Wu                |            |
 | 12   | 8/6  | TBD                                                          |   Raehyun Kim              |            |
 | 13   | 8/13 | TBD                                                          |   Jiasu Wang               |            |
-| 14   | 8/20 |                                                              |                            |            |
+| 14   | 8/20 | Accessing scrambling using matrix product operators          |   Sajant Anand             |            |
 | 15   | 8/27 | Quantum Subspace Diagonalization.                            |   Ethan Epperly            |            |
 | 16   | 9/3  |                                                              |                            |            |
 | 17   | 9/10 | Parallel Quantum Algorithm for Hamiltonian Simulation        |   Nilin Abrahamsen         |            |
