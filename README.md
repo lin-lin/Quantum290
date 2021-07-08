@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 6</h3>
-  <h1>Fault-Tolerant Quantum Simulations of Chemistry in First Quantization</h1>
-  <strong>Di Fang</strong>
-  <h6>July 2nd, 9:30 am -- 11:30 pm</h6>
+  <h3>Week 7</h3>
+  <h1>A projector-splitting integrator for dynamical low-rank approximation</h1>
+  <strong>Fabian Faulstich</strong>
+  <h6>July 9th, 10 am -- 12 pm</h6>
 </div>
 
 
