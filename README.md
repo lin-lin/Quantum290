@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 7</h3>
-  <h1>A projector-splitting integrator for dynamical low-rank approximation</h1>
-  <strong>Fabian Faulstich</strong>
-  <h6>July 9th, 10 am -- 12 pm</h6>
+  <h3>Week 8</h3>
+  <h1>TBD</h1>
+  <strong>Dong An</strong>
+  <h6>July 16th, 10 am -- 12 pm</h6>
 </div>
 
 
