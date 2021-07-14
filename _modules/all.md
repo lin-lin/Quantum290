@@ -4,7 +4,7 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 8 Overview</h3>
-        <h2 class="highlighted-title">TBD</h2>
+        <h2 class="highlighted-title">Concentration for random product formulas</h2>
         <strong>Dong An</strong><br>
         <p class="highlighted-byline">Friday, July 16 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
@@ -59,7 +59,7 @@ Jul 9
   : Fabian Faulstish
 
 Jul 16 
-: TBD 
+: [Concentration for random product formulas](https://arxiv.org/abs/2008.11751)
   : Dong An 
 
 Jul 23 
