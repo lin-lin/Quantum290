@@ -11,7 +11,7 @@
 
 <div align="center">
   <h3>Week 8</h3>
-  <h1>TBD</h1>
+  <h1>Concentration for random product formulas</h1>
   <strong>Dong An</strong>
   <h6>July 16th, 10 am -- 12 pm</h6>
 </div>
@@ -31,7 +31,7 @@
 | 6    | 6/25 | Third-order algebraic diagrammatic construction theory: A Green's function approach | Xin Xing                   |            |
 | 7    | 7/2  | Fault-Tolerant Quantum Simulations of Chemistry in First Quantization | Di Fang                    |            |
 | 8    | 7/9  | A projector-splitting integrator for dynamical low-rank approximation |  Fabian Faulstich |            |
-| 9    | 7/16 | TBD                                                             | Dong An |            |
+| 9    | 7/16 | Concentration for random product formulas                             | Dong An |            |
 | 10   | 7/23 | Neural tensor contractions and the expressive power of deep neural quantum states   |   Jeffmin Lin             |            |
 | 11   | 7/30 | TBD                                                          |   Yantao Wu                |            |
 | 12   | 8/6  | TBD                                                          |   Raehyun Kim              |            |
