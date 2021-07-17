@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 8</h3>
-  <h1>Concentration for random product formulas</h1>
-  <strong>Dong An</strong>
-  <h6>July 16th, 10 am -- 12 pm</h6>
+  <h3>Week 9</h3>
+  <h1>Neural tensor contractions and the expressive power of deep neural quantum states</h1>
+  <strong>Jeffmin Lin</strong>
+  <h6>July 23rd, 10 am -- 12 pm</h6>
 </div>
 
 
