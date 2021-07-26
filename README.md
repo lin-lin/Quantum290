@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 9</h3>
-  <h1>Neural tensor contractions and the expressive power of deep neural quantum states</h1>
-  <strong>Jeffmin Lin</strong>
-  <h6>July 23rd, 10 am -- 12 pm</h6>
+  <h3>Week 10</h3>
+  <h1>Universal tripartite entanglement in one-dimensional many-body systems</h1>
+  <strong>Yantao Wu</strong>
+  <h6>July 30th, 10 am -- 12 pm</h6>
 </div>
 
 
@@ -33,7 +33,7 @@
 | 8    | 7/9  | A projector-splitting integrator for dynamical low-rank approximation |  Fabian Faulstich |            |
 | 9    | 7/16 | Concentration for random product formulas                             | Dong An |            |
 | 10   | 7/23 | Neural tensor contractions and the expressive power of deep neural quantum states   |   Jeffmin Lin             |            |
-| 11   | 7/30 | TBD                                                          |   Yantao Wu                |            |
+| 11   | 7/30 | Universal tripartite entanglement in one-dimensional many-body systems |   Yantao Wu                |            |
 | 12   | 8/6  | TBD                                                          |   Raehyun Kim              |            |
 | 13   | 8/13 | TBD                                                          |   Jiasu Wang               |            |
 | 14   | 8/20 | Accessing scrambling using matrix product operators          |   Sajant Anand             |            |
