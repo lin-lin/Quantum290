@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 10 Overview</h3>
-        <h2 class="highlighted-title">Universal tripartite entanglement in one-dimensional many-body systems</h2>
-        <strong>Yantao Wu</strong><br>
-        <p class="highlighted-byline">Friday, July 30 th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 11 Overview</h3>
+        <h2 class="highlighted-title">TBD</h2>
+        <strong>Raehyun Kim</strong><br>
+        <p class="highlighted-byline">Friday, Aug 6 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
 
     </div>
@@ -16,8 +16,8 @@
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
         <h2 class="highlighted-title">TBD</h2>
-        <strong>Raehyun Kim</strong><br>
-        <p class="highlighted-byline">Friday, Aug 6 th, <strong> 10 am -- 12 pm</strong></p>
+        <strong>Jiasu Wang</strong><br>
+        <p class="highlighted-byline">Friday, Aug 13 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
