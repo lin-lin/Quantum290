@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 10</h3>
-  <h1>Universal tripartite entanglement in one-dimensional many-body systems</h1>
-  <strong>Yantao Wu</strong>
-  <h6>July 30th, 10 am -- 12 pm</h6>
+  <h3>Week 11</h3>
+  <h1>TBD</h1>
+  <strong>Raehyun Kim</strong>
+  <h6>Aug 6th, 10 am -- 12 pm</h6>
 </div>
 
 
