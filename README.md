@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 11</h3>
+  <h3>Week 12</h3>
   <h1>TBD</h1>
-  <strong>Raehyun Kim</strong>
-  <h6>Aug 6th, 10 am -- 12 pm</h6>
+  <strong>Jiasu Wang</strong>
+  <h6>Aug 13th, 10 am -- 12 pm</h6>
 </div>
 
 
@@ -38,7 +38,7 @@
 | 13   | 8/13 | TBD                                                          |   Jiasu Wang               |            |
 | 14   | 8/20 | Accessing scrambling using matrix product operators          |   Sajant Anand             |            |
 | 15   | 8/27 | Quantum Subspace Diagonalization.                            |   Ethan Epperly            |            |
-| 16   | 9/3  |                                                              |                            |            |
+| 16   | 9/3  | TBD                                                          |   Raehyun Kim              |            |
 | 17   | 9/10 | Parallel Quantum Algorithm for Hamiltonian Simulation        |   Nilin Abrahamsen         |            |
 
 -----
