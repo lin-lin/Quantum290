@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 11 Overview</h3>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 12 Overview</h3>
         <h2 class="highlighted-title">TBD</h2>
-        <strong>Raehyun Kim</strong><br>
-        <p class="highlighted-byline">Friday, Aug 6 th, <strong> 10 am -- 12 pm</strong></p>
+        <strong>Jiasu Wang</strong><br>
+        <p class="highlighted-byline">Friday, Aug 13 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
 
     </div>
@@ -15,9 +15,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">TBD</h2>
-        <strong>Jiasu Wang</strong><br>
-        <p class="highlighted-byline">Friday, Aug 13 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Accessing scrambling using matrix product operators</h2>
+        <strong>Sajant Anand</strong><br>
+        <p class="highlighted-byline">Friday, Aug 20 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -71,8 +71,7 @@ Jul 30
   : Yantao Wu	
 
 Aug 6 
-: TBD
-  : Raehyun Kim
+: Cancelled
 
 Aug 13
 : TBD
@@ -85,6 +84,10 @@ Aug 20
 Aug 27
 : Quantum Subspace Diagonalization
   : Ethan Epperly
+
+Sep 3 
+: TBD
+  : Raehyun Kim
   
 Sep 10
 : [Parallel Quantum Algorithm for Hamiltonian Simulation](https://arxiv.org/pdf/2105.11889.pdf)
