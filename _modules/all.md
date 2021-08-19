@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 12 Overview</h3>
-        <h2 class="highlighted-title">TBD</h2>
-        <strong>Jiasu Wang</strong><br>
-        <p class="highlighted-byline">Friday, Aug 13 th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 13 Overview</h3>
+        <h2 class="highlighted-title">Accessing scrambling using matrix product operators</h2>
+        <strong>Sajant Anand</strong><br>
+        <p class="highlighted-byline">Friday, Aug 20 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
 
     </div>
@@ -15,9 +15,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Accessing scrambling using matrix product operators</h2>
-        <strong>Sajant Anand</strong><br>
-        <p class="highlighted-byline">Friday, Aug 20 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Quantum Subspace Diagonalization</h2>
+        <strong>Ethan Epperly</strong><br>
+        <p class="highlighted-byline">Friday, Aug 27 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -80,7 +80,8 @@ Aug 13
 Aug 20
 : [Accessing scrambling using matrix product operators](https://www.nature.com/articles/s41567-019-0712-4)
   : Sajant Anand 
-  
+: [Matrix product states approaches to operator spreading in ergodic quantum systems](https://arxiv.org/abs/1901.05793)
+
 Aug 27
 : Quantum Subspace Diagonalization
   : Ethan Epperly
