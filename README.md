@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 12</h3>
-  <h1>TBD</h1>
-  <strong>Jiasu Wang</strong>
-  <h6>Aug 13th, 10 am -- 12 pm</h6>
+  <h3>Week 13</h3>
+  <h1>Accessing scrambling using matrix product operators</h1>
+  <strong>Sajant Anand</strong>
+  <h6>Aug 20th, 10 am -- 12 pm</h6>
 </div>
 
 
@@ -35,7 +35,7 @@
 | 10   | 7/23 | Neural tensor contractions and the expressive power of deep neural quantum states   |   Jeffmin Lin             |            |
 | 11   | 7/30 | Universal tripartite entanglement in one-dimensional many-body systems |   Yantao Wu                |            |
 | 12   | 8/6  | TBD                                                          |   Raehyun Kim              |            |
-| 13   | 8/13 | TBD                                                          |   Jiasu Wang               |            |
+| 13   | 8/13 | Robustness of Discretization in Digital Adiabatic Simulation |   Jiasu Wang               |            |
 | 14   | 8/20 | Accessing scrambling using matrix product operators          |   Sajant Anand             |            |
 | 15   | 8/27 | Quantum Subspace Diagonalization.                            |   Ethan Epperly            |            |
 | 16   | 9/3  | TBD                                                          |   Raehyun Kim              |            |
