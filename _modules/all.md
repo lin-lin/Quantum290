@@ -74,7 +74,7 @@ Aug 6
 : Cancelled
 
 Aug 13
-: TBD
+: [Robustness of Discretization in Digital Adiabatic Simulation](https://arxiv.org/abs/2107.06404)
   : Jiasu Wang
 
 Aug 20
