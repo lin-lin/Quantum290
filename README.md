@@ -66,6 +66,8 @@
 | 13   | 8/13 | Robustness of Discretization in Digital Adiabatic Simulation                                       | Jiasu Wang                 |            |
 | 14   | 8/20 | Accessing scrambling using matrix product operators                                                | Sajant Anand               |            |
 
+</details>
+
 <details>
 <summary>Schedule (2021 Spring)</summary>
 
