@@ -455,6 +455,23 @@ Dec 18
 
 58. [Simulations of state-of-the-art fermionic neural network wave functions with diffusion Monte Carlo](https://arxiv.org/abs/2103.12570)
 
+59. [Fast Green’s Function Method for Ultrafast Electron-Boson Dynamics](https://doi.org/10.1103/PhysRevLett.127.036402)
+
+60. [Error Bounds for Variational Quantum Time Evolution](https://arxiv.org/abs/2108.00022)
+
+61. [Nonlinear transformation of complex amplitudes via quantum singular value transformation](https://arxiv.org/abs/2107.10764)
+
+62. [Optimal Control for Closed and Open System Quantum Optimization](https://arxiv.org/abs/2107.03517)
+
+63. [Analytical Continuation of Matrix-Valued Functions: Carathéodory Formalism](https://arxiv.org/abs/2107.00788)
+
+64. [Quantum advantages for Pauli channel estimation](https://arxiv.org/abs/2108.08488)
+
+65. [Probing ground state properties of the kagome antiferromagnetic Heisenberg model using the Variational Quantum Eigensolver](https://arxiv.org/abs/2108.08086)
+
+66. [Linear growth of quantum circuit complexity](https://arxiv.org/abs/2106.05305)
+
+67.  [The power of quantum neural networks](https://doi.org/10.1038/s43588-021-00084-1)
 
 ## Tips for students 
 

@@ -1,6 +1,6 @@
 # MATH 290:electron:	
 
-### 🌟 Virtual quantum many-body seminar, 2020 Fall to 2021 Summer
+### 🌟 Virtual quantum many-body seminar, 2020 Fall to 2021 Fall
 
 - **When:** 🕒 Fridays 10AM-12PM
 - **Where:** 💻 Zoom. Please send me an email (linlin at math dot
@@ -11,37 +11,40 @@
 
 <div align="center">
   <h3>Week 13</h3>
-  <h1>Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm</h1>
-  <strong>Yulong Dong</strong>
-  <h6>April 2nd, 10 am -- 12 pm</h6>
+  <h1>Accessing scrambling using matrix product operators</h1>
+  <strong>Sajant Anand</strong>
+  <h6>Aug 20th, 10 am -- 12 pm</h6>
 </div>
 
 
-## 📌 Schedule (2021 Summer) 
+## 📌 Schedule (2021 Summer to Fall) 
 
-🆕✨🔨: [**BOOK the slot for summer!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-04) for [spring semester](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2020-21_V3.pdf) and [fall semester](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2021-22_V2.pdf)!
+🆕✨🔨: [**BOOK the slot for summer!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-07) 
 
-| Week | Date | Topic                                                                                     | Speaker               | References |
-| ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
-| 1    | 5/21 |                                                                                           |                       |            |
-| 2    | 5/28 |  DRL for Quantum Phase Transition (1/2 slot)                                              | Jiahao Yao            |            |
-| 3    | 6/4  |                                                                                           |                       |            |
-| 4    | 6/11 |                                                                                           |                       |            |
-| 5    | 6/18 |                                                                                           |                       |            |
-| 6    | 6/25 |                                                                                           |                       |            |
-| 7    | 7/2  |                                                                                           |                       |            |
-| 8    | 7/9  |                                                                                           |                       |            |
-| 9    | 7/16 |                                                                                           |                       |            |
-| 10   | 7/23 |                                                                                           |                       |            |
-| 11   | 7/30 |                                                                                           |                       |            |
-| 12   | 8/6  |                                                                                           |                       |            |
-| 13   | 8/13 |                                                                                           |                       |            |
-| 14   | 8/20 |                                                                                           |                       |            |
-| 15   | 8/27 |                                                                                           |                       |            |
+| Week | Date | Topic                                                        | Speaker                    | References |
+| ---- | ---- | ------------------------------------------------------------ | -------------------------- | ---------- |
+| 1    | 5/21 |                                                              | Canceled due to SIAM LA    |            |
+| 2    | 5/28 | DRL for Quantum Phase Transition (1/2 slot)<br />Iterative Quantum Assisted Eigensolver (1/2 slot) | Jiahao Yao<br />Jiasu Wang |            |
+| 3    | 6/4  | Quantum algorithm for simulating real time evolution of lattice Hamiltonians | Yu Tong                    |            |
+| 4    | 6/11 | Neural tensor contractions and the expressive power of deep neural quantum states | Jeffmin Lin                |            |
+| 5    | 6/18 | AIM SQUARE. No seminar this week                                   |                     |            |
+| 6    | 6/25 | Third-order algebraic diagrammatic construction theory: A Green's function approach | Xin Xing                   |            |
+| 7    | 7/2  | Fault-Tolerant Quantum Simulations of Chemistry in First Quantization | Di Fang                    |            |
+| 8    | 7/9  | A projector-splitting integrator for dynamical low-rank approximation |  Fabian Faulstich |            |
+| 9    | 7/16 | Concentration for random product formulas                             | Dong An |            |
+| 10   | 7/23 | Neural tensor contractions and the expressive power of deep neural quantum states   |   Jeffmin Lin             |            |
+| 11   | 7/30 | Universal tripartite entanglement in one-dimensional many-body systems |   Yantao Wu                |            |
+| 12   | 8/6  | TBD                                                          |   Raehyun Kim              |            |
+| 13   | 8/13 | Robustness of Discretization in Digital Adiabatic Simulation |   Jiasu Wang               |            |
+| 14   | 8/20 | Accessing scrambling using matrix product operators          |   Sajant Anand             |            |
+| 15   | 8/27 | Quantum Subspace Diagonalization.                            |   Ethan Epperly            |            |
+| 16   | 9/3  | TBD                                                          |   Raehyun Kim              |            |
+| 17   | 9/10 | Parallel Quantum Algorithm for Hamiltonian Simulation        |   Nilin Abrahamsen         |            |
 
 -----
-## 📌 Schedule (2021 Spring) 
 
+<details>
+<summary>Schedule (2021 Spring)</summary>
 
 | Week | Date | Topic                                                                                     | Speaker               | References |
 | ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
@@ -52,7 +55,7 @@
 | 4    | 1/29 | FBSDE based neural network algorithms for high-dimensional quasilinear parabolic PDEs     | Wenzhong Zhang        |            |
 | 4    | 1/29 | QIP 2021 presentation                                                                     | QIP 2021 presentation              |            |
 | 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              |            |
-| 6    | 2/12 | sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems     | Nilin  Abrahamsen (MIT) | |            |
+| 6    | 2/12 | sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems     | Nilin  Abrahamsen (MIT) | |
 | 7    | 2/19 | Quantum algorithms for linear and nonlinear differential equations                        | Dong An               |            |
 | 8    | 2/26 | APS March Meeting 2021 Presentation                                                       |                       |            |
 | 9    | 3/5  | On Representing (Anti)Symmetric Functions                                                 | Jeffmin Lin           |            |
@@ -62,15 +65,16 @@
 | 13   | 4/2  | Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm          | Yulong Dong           |            |
 | 14   | 4/9  | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      |            |
 | 15   | 4/16 | Chiral model for twisted bilayer graphene                                                 | Maciej Zworski        |            |
-| 16   | 4/23 | Preparation of excited states on a quantum computer                                       | Di Fang               |            |
+| 16   | 4/23 | Quantum impurity problems                                                                 | Lin Lin               |            |
 | 17   | 4/30 | [Exploiting anticommutation in Hamiltonian simulation](https://arxiv.org/pdf/2103.07988.pdf) |Qi Zhao (UMD)       |            |
-| 18   | 5/7  | Quantum impurity problems                                                                 | Lin Lin               |            |
-| 19   | 5/14 |                                                                                           |                       |            |
+| 18   | 5/7  | Canceled due to final exam                                                                |                       |            |
+| 19   | 5/14 | Quantum chaos, information scrambling, and computation                                    | Subhayan Roy Moulik   |            |
 
+</details>
 
 <details>
 <summary>Schedule (2020 Fall)</summary>
-  
+
 | Week | Date  | Topic                                                                                          | Speaker                                    | References           |
 | ---- | ----- | ---------------------------------------------------------------------------------------------- | ------------------------------------------ | -------------------- |
 | 1    | 9/4   | Machine Learning Exchange-Correlation Energy                                                   | Qinyi Zhu                                  | [24](#24)            |
@@ -92,7 +96,7 @@
 | 14   | 12/18 | Converging High-Level Coupled-Cluster Energetics by Monte Carlo Sampling and Moment Expansions | Fabian Faulstish                           | [30](#30)            |
 
 </details>
-  
+
 ## 🗂 Reading materials 
 
 <details>
@@ -401,7 +405,7 @@
 <summary>Comments</summary>
 (Subhayan Roy Moulik: I'd say this is one of the most influential papers of the past decade because it shows a provable separation between quantum and classical computing for constant depth circuits and already has a strong literature build up on it.)
 </details>
-  
+
 35. The maximum speed of dynamical evolution, https://arxiv.org/abs/quant-ph/9710043
 <details>
 <summary>Comments</summary>
@@ -409,49 +413,48 @@
 </details>
 
 36. Quantum Logspace Algorithm for Powering Matrices with Bounded Norm, https://eccc.weizmann.ac.il/report/2020/087/
-
 37. G.E. Scuseria, T.M. Henderson, D.C. Sorensen, The ground state correlation energy of the random phase approximation from a ring coupled cluster doubles approach, J. Chem. Phys. 129 (2008). doi:10.1063/1.3043729.
-
 38. M. Cerezo, Andrew Arrasmith, Ryan Babbush, et al, Variational Quantum Algorithms, https://arxiv.org/pdf/2012.09265.pdf
-
 39. Yuan Su, Hsin-Yuan Huang, Earl T. Campbell, Nearly tight Trotterization of interacting electrons, https://arxiv.org/pdf/2012.09194.pdf
-
 40. Benjamin Zanger, Christian B. Mendl, Martin Schulz, Martin Schreiber, Quantum Algorithms for Solving Ordinary Differential Equations, https://arxiv.org/pdf/2012.09469.pdf
-
 41. V. Papyan, X.Y. Han, D.L. Donoho, Prevalence of neural collapse during the terminal phase of deep learning training, 117 (2020). doi:10.1073/pnas.2015509117.
-
 42. Chen, Y., Zhang, L. and Wang, H., 2020. DeePKS-kit: a package for developing machine learning-based chemically accurate energy and density functional models. arXiv preprint arXiv:2012.14615.
-
 43. O. Marin, O. Runborg, A.K. Tornberg, Corrected trapezoidal rules for a class of singular functions, IMA J. Numer. Anal. 34 (2014) 1509–1540. doi:10.1093/imanum/drt046.
-
 44. Noisy intermediate-scale quantum (NISQ) algorithms, https://arxiv.org/pdf/2101.08448.pdf
-
 45. T. Shi, E. Demler, J.I. Cirac, Variational Approach for Many-Body Systems at Finite Temperature, Phys. Rev. Lett. 125 (2020) 180602. doi:10.1103/PhysRevLett.125.180602.
-
 46. R. Sweke, F. Wilde, J. Meyer, M. Schuld, P.K. Faehrmann, B. Meynard-Piganeau, J. Eisert, Stochastic gradient descent for hybrid quantum-classical optimization, Quantum. 4 (2020) 314. doi:10.22331/q-2020-08-31-314.
-
 47. Baker, Thomas E. "Lanczos recursion on a quantum computer for the Green's function and ground state." Physical Review A 103.3 (2021): 032404.
-
 48. Yeter-Aydeniz, Kübra, et al. "Benchmarking Quantum Chemistry Computations with Variational, Imaginary Time Evolution, and Krylov Space Solver Algorithms." arXiv preprint arXiv:2102.05511 (2021).
-
 49. J.S. Kretchmer, G.K.L. Chan, A real-time extension of density matrix embedding theory for non-equilibrium electron dynamics, J. Chem. Phys. 148 (2018). doi:10.1063/1.5012766.
-
 50. C. Lupo, F. Jamet, T. Tse, I. Rungger, C. Weber, Maximally Localized Dynamical Quantum Embedding for Solving Many-Body Correlated Systems, ArXiv. (2020) 1–21. http://arxiv.org/abs/2008.04281.
-
 51. Or Sharir, Amnon Shashua, Giuseppe Carleo, Neural tensor contractions and the expressive power of deep neural quantum states, https://arxiv.org/abs/2103.10293
-
 52. Changpeng Shao and Ashley Montanaro, Faster quantum-inspired algorithms for solving linear systems, https://arxiv.org/pdf/2103.10309.pdf
-
 53. Vazquez, Almudena Carrera, Ralf Hiptmair, and Stefan Woerner. "Enhancing the Quantum Linear Systems Algorithm using Richardson Extrapolation." arXiv preprint arXiv:2009.04484 (2020).
-
 54. Chen, Hongwei, et al. "Chebyshev expansion of spectral functions using restricted Boltzmann machines." Bulletin of the American Physical Society (2021).
-
 55. Ghanem, Khaldoon, Niklas Liebermann, and Ali Alavi. "Population Control Bias and Importance Sampling in Full Configuration Interaction Quantum Monte Carlo." arXiv preprint arXiv:2102.11016 (2021).
-
 56. Pei, Michael Y., and Stephen R. Clark. "Compact Neural-network Quantum State representations of Jastrow and Stabilizer states." arXiv preprint arXiv:2103.09146 (2021).
-
 57. S. Bravyi, D. Gosset, Complexity of Quantum Impurity Problems, Commun. Math. Phys. 356 (2017) 451–500. doi:10.1007/s00220-017-2976-9.
-
 58. Yi, Changhao, and Elizabeth Crosson. "Spectral Analysis of Product Formulas for Quantum Simulation." arXiv preprint arXiv:2102.12655 (2021).
-
 59. Wilson, Max, et al. "Simulations of state-of-the-art fermionic neural network wave functions with diffusion Monte Carlo." arXiv preprint arXiv:2103.12570 (2021).
+60. S. Guo, F. Chen, Q. Liu, M. Xue, J. Chen, J. Cao, T. Mao, M.K. Tey, L. You, Faster State Preparation across Quantum Phase Transition Assisted by Reinforcement Learning, 2 (2020) 1–17. doi:10.1103/PhysRevLett.126.060401
+61. J. Lemieux, B. Heim, D. Poulin, K. Svore, M. Troyer, Efficient Quantum Walk Circuits for Metropolis-Hastings Algorithm, Quantum. 4 (2020) 287. doi:10.22331/q-2020-06-29-287.
+62. A. Go, A.J. Millis, Adaptively truncated Hilbert space based impurity solver for dynamical mean-field theory, Phys. Rev. B. 96 (2017) 085139. doi:10.1103/PhysRevB.96.085139.
+63. Y.-H. Chen, A. Kalev, I. Hen, A quantum algorithm for time-dependent Hamiltonian simulation by permutation expansion, (2021) 1–22. http://arxiv.org/abs/2103.15334.
+64. O. Sharir, A. Shashua, G. Carleo, Neural tensor contractions and the expressive power of deep neural quantum states, (2021). http://arxiv.org/abs/2103.10293.
+65. Q. Zhao, X. Yuan, Exploiting anticommutation in Hamiltonian simulation, (2021) 1–16. http://arxiv.org/abs/2103.07988.
+66. K. Sugisaki, K. Toyota, K. Sato, D. Shiomi, T. Takui, Quantum Algorithm for the Direct Calculations of Vertical Ionization Energies, J. Phys. Chem. Lett. (2021) 2880–2885. doi:10.1021/acs.jpclett.1c00283.
+67. S. Banerjee, A.Y. Sokolov, Third-order algebraic diagrammatic construction theory for electron attachment and ionization energies: Conventional and Green’s function implementation, J. Chem. Phys. 151 (2019) 224112. doi:10.1063/1.5131771.
+68. J. Tilly, P. V. Sriluckshmy, A. Patel, E. Fontana, I. Rungger, E. Grant, R. Anderson, J. Tennyson, G.H. Booth, Reduced Density Matrix Sampling: Self-consistent Embedding and Multiscale Electronic Structure on Current Generation Quantum Computers, (2021) 1–18. http://arxiv.org/abs/2104.05531.    
+69. A. Cornelissen, J. Bausch, A. Gilyén, Scalable Benchmarks for Gate-Based Quantum Computers, (2021). http://arxiv.org/abs/2104.10698.
+70. Karlsson, D., van Leeuwen, R., Pavlyukh, Y., Perfetto, E., & Stefanucci, G. (2021). Fast Green’s Function Method for Ultrafast Electron-Boson Dynamics. Physical Review Letters, 127(3), 1–7. https://doi.org/10.1103/PhysRevLett.127.036402
+71. Zoufal, C., Sutter, D., & Woerner, S. (2021). Error Bounds for Variational Quantum Time Evolution. 1–13. http://arxiv.org/abs/2108.00022
+72. Guo, N., Mitarai, K., & Fujii, K. (2021). Nonlinear transformation of complex amplitudes via quantum singular value transformation. 1–3. http://arxiv.org/abs/2107.10764
+73. Venuti, L. C., D’Alessandro, D., & Lidar, D. A. (2021). Optimal Control for Closed and Open System Quantum Optimization. 1–21. http://arxiv.org/abs/2107.03517
+74. Fei, J., Yeh, C., Zgid, D., & Gull, E. (2021). Analytical Continuation of Matrix-Valued Functions: Carath\’eodory Formalism. http://arxiv.org/abs/2107.00788
+75. Chen, S., Zhou, S., Seif, A., & Jiang, L. (2021). Quantum advantages for Pauli channel estimation. 1–21. http://arxiv.org/abs/2108.08488
+76. Bosse, J. L., & Montanaro, A. (2021). Probing ground state properties of the kagome antiferromagnetic Heisenberg model using the Variational Quantum Eigensolver. 1–12. http://arxiv.org/abs/2108.08086
+77. Haferkamp, J., Faist, P., Kothakonda, N. B. T., Eisert, J., & Halpern, N. Y. (2021). Linear growth of quantum circuit complexity. 1–18. http://arxiv.org/abs/2106.05305
+78. Abbas, A., Sutter, D., Zoufal, C., Lucchi, A., Figalli, A., & Woerner, S. (2021). The power of quantum neural networks. Nature Computational Science, 1(6), 403–409. https://doi.org/10.1038/s43588-021-00084-1
+
+
+
