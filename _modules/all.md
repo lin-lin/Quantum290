@@ -422,55 +422,77 @@ Dec 18
 
 42. [DeePKS-kit: a package for developing machine learning-based chemically accurate energy and density functional models](https://arxiv.org/abs/2012.14615)
 
-43. [Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/pdf/2101.08448.pdf)
+43. [Corrected trapezoidal rules for a class of singular functions](http://dx.doi.org/10.1093/imanum/drt046)
 
-44. [Variational Approach for Many-Body Systems at Finite Temperature](http://dx.doi.org/10.1103/physrevlett.125.180602)
+44. [Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/abs/2101.08448)
 
-45. [Stochastic gradient descent for hybrid quantum-classical optimization](http://dx.doi.org/10.22331/q-2020-08-31-314)
+45. [Variational Approach for Many-Body Systems at Finite Temperature](http://dx.doi.org/10.1103/physrevlett.125.180602)
 
-46. [Lanczos recursion on a quantum computer for the Green's function and ground state](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032404)
+46. [Stochastic gradient descent for hybrid quantum-classical optimization](http://dx.doi.org/10.22331/q-2020-08-31-314)
 
-47. [Benchmarking Quantum Chemistry Computations with Variational, Imaginary Time Evolution, and Krylov Space Solver Algorithms](https://arxiv.org/abs/2102.05511)
+47. [Lanczos recursion on a quantum computer for the Green's function and ground state](https://arxiv.org/pdf/2008.05593.pdf)
 
-48. [A real-time extension of density matrix embedding theory for non-equilibrium electron dynamics](http://dx.doi.org/10.1063/1.5012766)
+48. [Benchmarking Quantum Chemistry Computations with Variational, Imaginary Time Evolution, and Krylov Space Solver Algorithms](https://arxiv.org/abs/2102.05511)
 
-49. [Maximally Localized Dynamical Quantum Embedding for Solving Many-Body Correlated Systems](https://arxiv.org/abs/2008.04281)
+49. [A real-time extension of density matrix embedding theory for non-equilibrium electron dynamics](http://dx.doi.org/10.1063/1.5012766)
 
-50. [Neural tensor contractions and the expressive power of deep neural quantum states](https://arxiv.org/abs/2103.10293)
+50. [Maximally Localized Dynamical Quantum Embedding for Solving Many-Body Correlated Systems](https://arxiv.org/abs/2008.04281)
 
-51. [Faster quantum-inspired algorithms for solving linear systems](https://arxiv.org/abs/2103.10309)
+51. [Neural tensor contractions and the expressive power of deep neural quantum states](https://arxiv.org/abs/2103.10293)
 
-52. [Enhancing the Quantum Linear Systems Algorithm using Richardson Extrapolation](https://arxiv.org/abs/2009.04484)
+52. [Faster quantum-inspired algorithms for solving linear systems](https://arxiv.org/abs/2103.10309)
 
-53. [Chebyshev expansion of spectral functions using restricted Boltzmann machines](https://arxiv.org/abs/2103.08804)
+53. [Enhancing the Quantum Linear Systems Algorithm using Richardson Extrapolation](https://arxiv.org/abs/2009.04484)
 
-54. [Population Control Bias and Importance Sampling in Full Configuration Interaction Quantum Monte Carlo](https://arxiv.org/abs/2102.11016)
+54. [Chebyshev expansion of spectral functions using restricted Boltzmann machines](https://arxiv.org/pdf/2103.08804.pdf)
 
-55. [Compact Neural-network Quantum State representations of Jastrow and Stabilizer states](https://arxiv.org/abs/2103.09146)
+55. [Population Control Bias and Importance Sampling in Full Configuration Interaction Quantum Monte Carlo](https://arxiv.org/abs/2102.11016)
 
-56. [Complexity of Quantum Impurity Problems](http://dx.doi.org/10.1007/s00220-017-2976-9)
+56. [Compact Neural-network Quantum State representations of Jastrow and Stabilizer states](https://arxiv.org/abs/2103.09146)
 
-57. [Spectral Analysis of Product Formulas for Quantum Simulation](https://arxiv.org/abs/2102.12655)
+57. [Complexity of Quantum Impurity Problems](http://dx.doi.org/10.1007/s00220-017-2976-9)
 
-58. [Simulations of state-of-the-art fermionic neural network wave functions with diffusion Monte Carlo](https://arxiv.org/abs/2103.12570)
+58. [Spectral Analysis of Product Formulas for Quantum Simulation](https://arxiv.org/abs/2102.12655)
 
-59. [Fast Green’s Function Method for Ultrafast Electron-Boson Dynamics](https://doi.org/10.1103/PhysRevLett.127.036402)
+59. [Simulations of state-of-the-art fermionic neural network wave functions with diffusion Monte Carlo](https://arxiv.org/abs/2103.12570)
 
-60. [Error Bounds for Variational Quantum Time Evolution](https://arxiv.org/abs/2108.00022)
+60. [Faster State Preparation across Quantum Phase Transition Assisted by Reinforcement Learning](http://dx.doi.org/10.1103/physrevlett.126.060401)
 
-61. [Nonlinear transformation of complex amplitudes via quantum singular value transformation](https://arxiv.org/abs/2107.10764)
+61. [Efficient Quantum Walk Circuits for Metropolis-Hastings Algorithm](http://dx.doi.org/10.22331/q-2020-06-29-287)
 
-62. [Optimal Control for Closed and Open System Quantum Optimization](https://arxiv.org/abs/2107.03517)
+62. [Adaptively truncated Hilbert space based impurity solver for dynamical mean-field theory](http://dx.doi.org/10.1103/physrevb.96.085139)
 
-63. [Analytical Continuation of Matrix-Valued Functions: Carathéodory Formalism](https://arxiv.org/abs/2107.00788)
+63. [A quantum algorithm for time-dependent Hamiltonian simulation by permutation expansion](https://arxiv.org/abs/2103.15334)
 
-64. [Quantum advantages for Pauli channel estimation](https://arxiv.org/abs/2108.08488)
+64. [Neural tensor contractions and the expressive power of deep neural quantum states](https://arxiv.org/abs/2103.10293)
 
-65. [Probing ground state properties of the kagome antiferromagnetic Heisenberg model using the Variational Quantum Eigensolver](https://arxiv.org/abs/2108.08086)
+65. [Exploiting anticommutation in Hamiltonian simulation](https://arxiv.org/abs/2103.07988)
 
-66. [Linear growth of quantum circuit complexity](https://arxiv.org/abs/2106.05305)
+66. [Quantum Algorithm for the Direct Calculations of Vertical Ionization Energies](http://dx.doi.org/10.1021/acs.jpclett.1c00283)
 
-67.  [The power of quantum neural networks](https://doi.org/10.1038/s43588-021-00084-1)
+67. [Third-order algebraic diagrammatic construction theory for electron attachment and ionization energies: Conventional and Green’s function implementation](http://dx.doi.org/10.1063/1.5131771)
+
+68. [Reduced Density Matrix Sampling: Self-consistent Embedding and Multiscale Electronic Structure on Current Generation Quantum Computers](https://arxiv.org/abs/2104.05531)
+
+69. [Scalable Benchmarks for Gate-Based Quantum Computers](https://arxiv.org/abs/2104.10698)
+
+70. [Fast Green’s Function Method for Ultrafast Electron-Boson Dynamics](https://doi.org/10.1103/PhysRevLett.127.036402)
+
+71. [Error Bounds for Variational Quantum Time Evolution](https://arxiv.org/abs/2108.00022)
+
+72. [Nonlinear transformation of complex amplitudes via quantum singular value transformation](https://arxiv.org/abs/2107.10764)
+
+73. [Optimal Control for Closed and Open System Quantum Optimization](https://arxiv.org/abs/2107.03517)
+
+74. [Analytical Continuation of Matrix-Valued Functions: Carathéodory Formalism](https://arxiv.org/abs/2107.00788)
+
+75. [Quantum advantages for Pauli channel estimation](https://arxiv.org/abs/2108.08488)
+
+76. [Probing ground state properties of the kagome antiferromagnetic Heisenberg model using the Variational Quantum Eigensolver](https://arxiv.org/abs/2108.08086)
+
+77. [Linear growth of quantum circuit complexity](https://arxiv.org/abs/2106.05305)
+
+78. [The power of quantum neural networks](https://doi.org/10.1038/s43588-021-00084-1)
 
 ## Tips for students 
 
