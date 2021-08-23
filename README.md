@@ -10,16 +10,16 @@
 ---------
 
 <div align="center">
-  <h3>Week 13</h3>
-  <h1>Accessing scrambling using matrix product operators</h1>
-  <strong>Sajant Anand</strong>
-  <h6>Aug 20th, 10 am -- 12 pm</h6>
+  <h3>Week 14</h3>
+  <h1>Quantum Subspace Diagonalization</h1>
+  <strong>Ethan Epperly</strong>
+  <h6>Aug 27th, 10 am -- 12 pm</h6>
 </div>
 
 
 ## 📌 Schedule (2021 Summer to Fall) 
 
-🆕✨🔨: [**BOOK the slot for summer!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-07) 
+🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-09) 
 
 | Week | Date | Topic                                                        | Speaker                    | References |
 | ---- | ---- | ------------------------------------------------------------ | -------------------------- | ---------- |
