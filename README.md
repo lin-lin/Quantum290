@@ -480,6 +480,7 @@
 76. Bosse, J. L., & Montanaro, A. (2021). Probing ground state properties of the kagome antiferromagnetic Heisenberg model using the Variational Quantum Eigensolver. 1–12. http://arxiv.org/abs/2108.08086
 77. Haferkamp, J., Faist, P., Kothakonda, N. B. T., Eisert, J., & Halpern, N. Y. (2021). Linear growth of quantum circuit complexity. 1–18. http://arxiv.org/abs/2106.05305
 78. Abbas, A., Sutter, D., Zoufal, C., Lucchi, A., Figalli, A., & Woerner, S. (2021). The power of quantum neural networks. Nature Computational Science, 1(6), 403–409. https://doi.org/10.1038/s43588-021-00084-1
+79. Kaye, J., Chen, K., & Parcollet, O. (n.d.). Discrete Lehmann representation of imaginary time Green’s functions. 1, 1–19.
 
 
 
