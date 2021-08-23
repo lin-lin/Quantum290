@@ -17,58 +17,81 @@
 </div>
 
 
-## 📌 Schedule (2021 Summer to Fall) 
+## 📌 Schedule (2021 Fall) 
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-09) 
 
-| Week | Date | Topic                                                        | Speaker                    | References |
-| ---- | ---- | ------------------------------------------------------------ | -------------------------- | ---------- |
-| 1    | 5/21 |                                                              | Canceled due to SIAM LA    |            |
-| 2    | 5/28 | DRL for Quantum Phase Transition (1/2 slot)<br />Iterative Quantum Assisted Eigensolver (1/2 slot) | Jiahao Yao<br />Jiasu Wang |            |
-| 3    | 6/4  | Quantum algorithm for simulating real time evolution of lattice Hamiltonians | Yu Tong                    |            |
-| 4    | 6/11 | Neural tensor contractions and the expressive power of deep neural quantum states | Jeffmin Lin                |            |
-| 5    | 6/18 | AIM SQUARE. No seminar this week                                   |                     |            |
-| 6    | 6/25 | Third-order algebraic diagrammatic construction theory: A Green's function approach | Xin Xing                   |            |
-| 7    | 7/2  | Fault-Tolerant Quantum Simulations of Chemistry in First Quantization | Di Fang                    |            |
-| 8    | 7/9  | A projector-splitting integrator for dynamical low-rank approximation |  Fabian Faulstich |            |
-| 9    | 7/16 | Concentration for random product formulas                             | Dong An |            |
-| 10   | 7/23 | Neural tensor contractions and the expressive power of deep neural quantum states   |   Jeffmin Lin             |            |
-| 11   | 7/30 | Universal tripartite entanglement in one-dimensional many-body systems |   Yantao Wu                |            |
-| 12   | 8/6  | TBD                                                          |   Raehyun Kim              |            |
-| 13   | 8/13 | Robustness of Discretization in Digital Adiabatic Simulation |   Jiasu Wang               |            |
-| 14   | 8/20 | Accessing scrambling using matrix product operators          |   Sajant Anand             |            |
-| 15   | 8/27 | Quantum Subspace Diagonalization.                            |   Ethan Epperly            |            |
-| 16   | 9/3  | TBD                                                          |   Raehyun Kim              |            |
-| 17   | 9/10 | Parallel Quantum Algorithm for Hamiltonian Simulation        |   Nilin Abrahamsen         |            |
+| Week | Date  | Topic                                                 | Speaker          | References |
+| ---- | ----- | ----------------------------------------------------- | ---------------- | ---------- |
+| 1    | 8/27  | Quantum Subspace Diagonalization.                     | Ethan Epperly    |            |
+| 2    | 9/3   | TBD                                                   | Raehyun Kim      |            |
+| 3    | 9/10  | Parallel Quantum Algorithm for Hamiltonian Simulation | Nilin Abrahamsen |            |
+| 4    | 09/17 |                                                       |                  |            |
+| 5    | 09/24 |                                                       |                  |            |
+| 6    | 10/01 |                                                       |                  |            |
+| 7    | 10/08 |                                                       |                  |            |
+| 8    | 10/15 |                                                       |                  |            |
+| 9    | 10/22 |                                                       |                  |            |
+| 10   | 10/29 |                                                       |                  |            |
+| 11   | 11/05 |                                                       |                  |            |
+| 12   | 11/12 |                                                       |                  |            |
+| 13   | 11/19 |                                                       |                  |            |
+| 14   | 11/26 |                                                       |                  |            |
+| 15   | 12/03 |                                                       |                  |            |
+| 16   | 12/10 |                                                       |                  |            |
+| 17   | 12/17 |                                                       |                  |            |
+| 18   | 12/24 |                                                       |                  |            |
+| 19   | 12/31 |                                                       |                  |            |
+| 20   | 01/07 |                                                       |                  |            |
 
 -----
 
 <details>
+<summary>Schedule (2021 Summer)</summary>
+
+| Week | Date | Topic                                                                                              | Speaker                    | References |
+| ---- | ---- | -------------------------------------------------------------------------------------------------- | -------------------------- | ---------- |
+| 1    | 5/21 |                                                                                                    | Canceled due to SIAM LA    |            |
+| 2    | 5/28 | DRL for Quantum Phase Transition (1/2 slot)<br />Iterative Quantum Assisted Eigensolver (1/2 slot) | Jiahao Yao<br />Jiasu Wang |            |
+| 3    | 6/4  | Quantum algorithm for simulating real time evolution of lattice Hamiltonians                       | Yu Tong                    |            |
+| 4    | 6/11 | Neural tensor contractions and the expressive power of deep neural quantum states                  | Jeffmin Lin                |            |
+| 5    | 6/18 | AIM SQUARE. No seminar this week                                                                   |                            |            |
+| 6    | 6/25 | Third-order algebraic diagrammatic construction theory: A Green's function approach                | Xin Xing                   |            |
+| 7    | 7/2  | Fault-Tolerant Quantum Simulations of Chemistry in First Quantization                              | Di Fang                    |            |
+| 8    | 7/9  | A projector-splitting integrator for dynamical low-rank approximation                              | Fabian Faulstich           |            |
+| 9    | 7/16 | Concentration for random product formulas                                                          | Dong An                    |            |
+| 10   | 7/23 | Neural tensor contractions and the expressive power of deep neural quantum states                  | Jeffmin Lin                |            |
+| 11   | 7/30 | Universal tripartite entanglement in one-dimensional many-body systems                             | Yantao Wu                  |            |
+| 12   | 8/6  | TBD                                                                                                | Raehyun Kim                |            |
+| 13   | 8/13 | Robustness of Discretization in Digital Adiabatic Simulation                                       | Jiasu Wang                 |            |
+| 14   | 8/20 | Accessing scrambling using matrix product operators                                                | Sajant Anand               |            |
+
+<details>
 <summary>Schedule (2021 Spring)</summary>
 
-| Week | Date | Topic                                                                                     | Speaker               | References |
-| ---- | ---- | ----------------------------------------------------------------------------------------- | --------------------- | ---------- |
-| 1    | 1/8  | Block-encoding of sparse matrices                                                         | Lin Lin               |            |
-| 2    | 1/15 | Projected Position Operators for Constructing Well Localized Bases                        | Kevin Stubbs          |            |
-| 3    | 1/19 | Multiconfigurational Electronic Structure Theories for Materials: Development and Applications| Hung Pham         |            |
-| 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                  | Yihui Quek (Stanford) | Special Time: 4pm-5pm |
-| 4    | 1/29 | FBSDE based neural network algorithms for high-dimensional quasilinear parabolic PDEs     | Wenzhong Zhang        |            |
-| 4    | 1/29 | QIP 2021 presentation                                                                     | QIP 2021 presentation              |            |
-| 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets | Xin Xing              |            |
-| 6    | 2/12 | sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems     | Nilin  Abrahamsen (MIT) | |
-| 7    | 2/19 | Quantum algorithms for linear and nonlinear differential equations                        | Dong An               |            |
-| 8    | 2/26 | APS March Meeting 2021 Presentation                                                       |                       |            |
-| 9    | 3/5  | On Representing (Anti)Symmetric Functions                                                 | Jeffmin Lin           |            |
-| 10   | 3/12 | Determinantal Point Processes for Machine Learning                                        | Jiahao Yao            |            |
-| 11   | 3/19 | Nearly tight Trotterization of interacting electrons                                      | Yuan Su               |            |
-| 12   | 3/26 | Quantum Logspace Algorithm for Powering Matrices with Bounded Norm                        | Subhayan Roy Moulik   |            |
-| 13   | 4/2  | Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm          | Yulong Dong           |            |
-| 14   | 4/9  | Spectral characterization of magic angles in twisted bilayer graphene                     | Fabian Faulstich      |            |
-| 15   | 4/16 | Chiral model for twisted bilayer graphene                                                 | Maciej Zworski        |            |
-| 16   | 4/23 | Quantum impurity problems                                                                 | Lin Lin               |            |
-| 17   | 4/30 | [Exploiting anticommutation in Hamiltonian simulation](https://arxiv.org/pdf/2103.07988.pdf) |Qi Zhao (UMD)       |            |
-| 18   | 5/7  | Canceled due to final exam                                                                |                       |            |
-| 19   | 5/14 | Quantum chaos, information scrambling, and computation                                    | Subhayan Roy Moulik   |            |
+| Week | Date | Topic                                                                                          | Speaker                 | References            |
+| ---- | ---- | ---------------------------------------------------------------------------------------------- | ----------------------- | --------------------- |
+| 1    | 1/8  | Block-encoding of sparse matrices                                                              | Lin Lin                 |                       |
+| 2    | 1/15 | Projected Position Operators for Constructing Well Localized Bases                             | Kevin Stubbs            |                       |
+| 3    | 1/19 | Multiconfigurational Electronic Structure Theories for Materials: Development and Applications | Hung Pham               |                       |
+| 3    | 1/22 | Polar decomposition, Petz recovery channels and pretty good measurements                       | Yihui Quek (Stanford)   | Special Time: 4pm-5pm |
+| 4    | 1/29 | FBSDE based neural network algorithms for high-dimensional quasilinear parabolic PDEs          | Wenzhong Zhang          |                       |
+| 4    | 1/29 | QIP 2021 presentation                                                                          | QIP 2021 presentation   |                       |
+| 5    | 2/5  | Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets      | Xin Xing                |                       |
+| 6    | 2/12 | sub-exponential algorithm for 2D frustration-free spin systems with gapped subsystems          | Nilin  Abrahamsen (MIT) |                       |
+| 7    | 2/19 | Quantum algorithms for linear and nonlinear differential equations                             | Dong An                 |                       |
+| 8    | 2/26 | APS March Meeting 2021 Presentation                                                            |                         |                       |
+| 9    | 3/5  | On Representing (Anti)Symmetric Functions                                                      | Jeffmin Lin             |                       |
+| 10   | 3/12 | Determinantal Point Processes for Machine Learning                                             | Jiahao Yao              |                       |
+| 11   | 3/19 | Nearly tight Trotterization of interacting electrons                                           | Yuan Su                 |                       |
+| 12   | 3/26 | Quantum Logspace Algorithm for Powering Matrices with Bounded Norm                             | Subhayan Roy Moulik     |                       |
+| 13   | 4/2  | Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm               | Yulong Dong             |                       |
+| 14   | 4/9  | Spectral characterization of magic angles in twisted bilayer graphene                          | Fabian Faulstich        |                       |
+| 15   | 4/16 | Chiral model for twisted bilayer graphene                                                      | Maciej Zworski          |                       |
+| 16   | 4/23 | Quantum impurity problems                                                                      | Lin Lin                 |                       |
+| 17   | 4/30 | [Exploiting anticommutation in Hamiltonian simulation](https://arxiv.org/pdf/2103.07988.pdf)   | Qi Zhao (UMD)           |                       |
+| 18   | 5/7  | Canceled due to final exam                                                                     |                         |                       |
+| 19   | 5/14 | Quantum chaos, information scrambling, and computation                                         | Subhayan Roy Moulik     |                       |
 
 </details>
 
