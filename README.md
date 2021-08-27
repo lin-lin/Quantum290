@@ -481,6 +481,9 @@
 77. Haferkamp, J., Faist, P., Kothakonda, N. B. T., Eisert, J., & Halpern, N. Y. (2021). Linear growth of quantum circuit complexity. 1–18. http://arxiv.org/abs/2106.05305
 78. Abbas, A., Sutter, D., Zoufal, C., Lucchi, A., Figalli, A., & Woerner, S. (2021). The power of quantum neural networks. Nature Computational Science, 1(6), 403–409. https://doi.org/10.1038/s43588-021-00084-1
 79. Kaye, J., Chen, K., & Parcollet, O. (n.d.). Discrete Lehmann representation of imaginary time Green’s functions. 1, 1–19.
+80. Alliati, I. M., Grüning, M., & Sangalli, D. (2021). Double $\mathbf{k}$-Grid Method for Solving the Bethe-Salpeter Equation via Lanczos Approaches. http://arxiv.org/abs/2108.11174
+81. Pellow-Jarman, A., Sinayskiy, I., Pillay, A., & Petruccione, F. (2021). Near Term Algorithms for Linear Systems of Equations. 1–13. http://arxiv.org/abs/2108.11362
+
 
 
 
