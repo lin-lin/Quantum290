@@ -129,57 +129,21 @@
 
 ## Other materials (randomly ordered)
 
-1. A. Kulesza, B. Taskar, Determinantal point processes for machine learning, Found. Trends Mach. Learn. 5 (2012) 123–286. doi:10.1561/2200000044.
+2. D. Chaykin, C. Jansson, F. Keil, M. Lange, K.T. Ohlhus, S.M. Rump, Rigorous Lower Bounds for the Ground State Energy of Molecules by Employing Necessary N-Representability Conditions, J. Chem. Theory Comput. (2020). doi:10.1021/acs.jctc.0c00497.
 
-2. J. Fei, C.-N. Yeh, E. Gull, Nevanlinna Analytical Continuation, (2020) 1–6. http://arxiv.org/abs/2010.04572.
+8. B. Leimkuhler, M. Sachs, Efficient Numerical Algorithms for the Generalized Langevin Equation, (2020) 1–33. http://arxiv.org/abs/2012.04245.
 
-3. J. Nigam, S. Pozdnyakov, M. Ceriotti, Recursive evaluation and iterative contraction of $N$-body equivariant features, 121101 (2020). doi:10.1063/5.0021116.
-
-4. S. Becker, M. Embree, J. Wittsten, M. Zworski, Spectral characterization of magic angles in twisted bilayer graphene, (2020) 1–14. http://arxiv.org/abs/2010.05279.
-
-5. R.A. Lang, I.G. Ryabinkin, A.F. Izmaylov, Unitary transformation of the electronic Hamiltonian with an exact quadratic truncation of the Baker-Campbell-Hausdorff expansion, (2020) 1–38. doi:10.1021/acs.jctc.0c00170.
-
-6. P. Jakobsen, F. Jensen, Representing Exact Electron Densities by a Single Slater Determinant in Finite Basis Sets, (2020). doi:10.1021/acs.jctc.0c01029.
-
-7. D. Chaykin, C. Jansson, F. Keil, M. Lange, K.T. Ohlhus, S.M. Rump, Rigorous Lower Bounds for the Ground State Energy of Molecules by Employing Necessary N-Representability Conditions, J. Chem. Theory Comput. (2020). doi:10.1021/acs.jctc.0c00497.
-
-8. P. V. Sriluckshmy, M. Nusspickel, E. Fertitta, G.H. Booth, Fully Algebraic and Self-consistent Effective Dynamics in a Static Quantum Embedding, (2020). http://arxiv.org/abs/2012.05837.
-
-9. H.K. Tran, H.-Z. Ye, T. Van Voorhis, Bootstrap embedding with an unrestricted mean-field bath, J. Chem. Phys. 153 (2020) 214101. doi:10.1063/5.0029092.
-
-10. D. Luo, G. Carleo, B.K. Clark, J. Stokes, Gauge equivariant neural networks for quantum lattice gauge theories, (2020). http://arxiv.org/abs/2012.05232.
-
-11. Q. Gu, L. Zhang, J. Feng, Neural network representation of electronic structure from ab initio molecular dynamics, (2020) 1–8. http://arxiv.org/abs/2011.13774.
-
-12. B. Leimkuhler, M. Sachs, Efficient Numerical Algorithms for the Generalized Langevin Equation, (2020) 1–33. http://arxiv.org/abs/2012.04245.
-
-13. G.Q. Ai, et al Accurately computing electronic properties of materials using eigenenergies, (2020). https://arxiv.org/abs/2012.00921
-
-14. Y. Chen, et al, Spectral signatures of many-body localization with interacting photons, (n.d.). https://arxiv.org/pdf/1709.07108.pdf
-
-15. A. Hashim, R.K. Naik, A. Morvan, J.-L. Ville, B. Mitchell, J.M. Kreikebaum, M. Davis, E. Smith, C. Iancu, K.P. O’Brien, I. Hincks, J.J. Wallman, J. Emerson, I. Siddiqi, Randomized compiling for scalable quantum computing on a noisy superconducting quantum processor, (2020). http://arxiv.org/abs/2010.00215.
-
-16. A. Nahum, S. Vijay, J. Haah, Operator Spreading in Random Unitary Circuits, Phys. Rev. X. 8 (2018) 021014. doi:10.1103/PhysRevX.8.021014.
+13. A. Nahum, S. Vijay, J. Haah, Operator Spreading in Random Unitary Circuits, Phys. Rev. X. 8 (2018) 021014. doi:10.1103/PhysRevX.8.021014.
 
 17. C.W. Von Keyserlingk, T. Rakovszky, F. Pollmann, S.L. Sondhi, Operator Hydrodynamics, OTOCs, and Entanglement Growth in Systems without Conservation Laws, Phys. Rev. X. 8 (2018) 21013. doi:10.1103/PhysRevX.8.021013.
 
 18. F. Arute, et al Observation of separated dynamics of charge and spin in the Fermi-Hubbard model, (2020). http://arxiv.org/abs/2010.07965.
 
-20. S. Lu, M.C. Bañuls, J.I. Cirac, Algorithms for quantum simulation at finite energies, ArXiv. (2020) 1–18.
+20. M. Kolodrubetz, D. Sels, P. Mehta, A. Polkovnikov, Geometry and non-adiabatic response in quantum and classical systems, Phys. Rep. 697 (2017) 1–87. doi:10.1016/j.physrep.2017.07.001.
 
-21. I.D. Kivlichan, N. Wiebe, R. Babbush, A. Aspuru-Guzik, Bounding the costs of quantum simulation of many-body physics in real space, J. Phys. A Math. Theor. 50 (2017) 305301. doi:10.1088/1751-8121/aa77b8.
+23. X. Yuan, S. Endo, Q. Zhao, Y. Li, S.C. Benjamin, Theory of variational quantum simulation, Quantum. 3 (2019) 191. doi:10.22331/q-2019-10-07-191.
 
-22. M. Kolodrubetz, D. Sels, P. Mehta, A. Polkovnikov, Geometry and non-adiabatic response in quantum and classical systems, Phys. Rep. 697 (2017) 1–87. doi:10.1016/j.physrep.2017.07.001.
-
-23. G. Verdon, J. Marks, S. Nanda, S. Leichenauer, J. Hidary, Quantum Hamiltonian-Based Models & the Variational Quantum Thermalizer Algorithm, (2019) 1–21.
-
-24. X. Yuan, S. Endo, Q. Zhao, Y. Li, S.C. Benjamin, Theory of variational quantum simulation, Quantum. 3 (2019) 191. doi:10.22331/q-2019-10-07-191.
-
-25. T. Giurgica-Tiron, I. Kerenidis, F. Labib, A. Prakash, W. Zeng, Low depth algorithms for quantum amplitude estimation, (2020) 1–27. http://arxiv.org/abs/2012.03348.
-
-26. K. Bharti, T. Haug, Iterative Quantum Assisted Eigensolver, (2020) 1–10. http://arxiv.org/abs/2010.05638.
-
-27. A. Roggero, C. Gu, A. Baroni, T. Papenbrock, Preparation of excited states on a quantum computer, (2020) 1–25. http://arxiv.org/abs/2009.13485.
+25. A. Roggero, C. Gu, A. Baroni, T. Papenbrock, Preparation of excited states on a quantum computer, (2020) 1–25. http://arxiv.org/abs/2009.13485.
 
 28. S. Chakraborty, L. Novo, J. Roland, Finding a marked node on any graph via continuous-time quantum walks, Phys. Rev. A. 102 (2020). doi:10.1103/PhysRevA.102.022227.
 
@@ -189,13 +153,8 @@
 
 31. J. Helsen, I. Roth, E. Onorati, A.H. Werner, J. Eisert, A general framework for randomized benchmarking, (2020) 1–60. http://arxiv.org/abs/2010.07974.
 
-32. D. Grinko, J. Gacon, C. Zoufal, S. Woerner, Iterative quantum amplitude estimation, ArXiv. (2019) 1–13.
+32. Quantum advantage with shallow circuits, https://arxiv.org/abs/1704.00690
 
-33. B. Collins, P. Śniady, Integration with respect to the Haar measure on unitary, orthogonal and symplectic group, Commun. Math. Phys. 264 (2006) 773–795. doi:10.1007/s00220-006-1554-3.
-
-34. Simulating Large Quantum Circuits on a Small Quantum Computer, https://arxiv.org/abs/1904.00102
-
-35. Quantum advantage with shallow circuits, https://arxiv.org/abs/1704.00690
 <details>
 <summary>Comments</summary>
 (Subhayan Roy Moulik: I'd say this is one of the most influential papers of the past decade because it shows a provable separation between quantum and classical computing for constant depth circuits and already has a strong literature build up on it.)
@@ -207,31 +166,13 @@
 (Subhayan Roy Moulik: This an old paper, and gives a fundamental limit on the speed of information processing.) 
 </details>
 
-36. Quantum Logspace Algorithm for Powering Matrices with Bounded Norm, https://eccc.weizmann.ac.il/report/2020/087/
-37. G.E. Scuseria, T.M. Henderson, D.C. Sorensen, The ground state correlation energy of the random phase approximation from a ring coupled cluster doubles approach, J. Chem. Phys. 129 (2008). doi:10.1063/1.3043729.
-38. M. Cerezo, Andrew Arrasmith, Ryan Babbush, et al, Variational Quantum Algorithms, https://arxiv.org/pdf/2012.09265.pdf
-39. Yuan Su, Hsin-Yuan Huang, Earl T. Campbell, Nearly tight Trotterization of interacting electrons, https://arxiv.org/pdf/2012.09194.pdf
-40. Benjamin Zanger, Christian B. Mendl, Martin Schulz, Martin Schreiber, Quantum Algorithms for Solving Ordinary Differential Equations, https://arxiv.org/pdf/2012.09469.pdf
-41. V. Papyan, X.Y. Han, D.L. Donoho, Prevalence of neural collapse during the terminal phase of deep learning training, 117 (2020). doi:10.1073/pnas.2015509117.
-42. Chen, Y., Zhang, L. and Wang, H., 2020. DeePKS-kit: a package for developing machine learning-based chemically accurate energy and density functional models. arXiv preprint arXiv:2012.14615.
-43. O. Marin, O. Runborg, A.K. Tornberg, Corrected trapezoidal rules for a class of singular functions, IMA J. Numer. Anal. 34 (2014) 1509–1540. doi:10.1093/imanum/drt046.
-44. Noisy intermediate-scale quantum (NISQ) algorithms, https://arxiv.org/pdf/2101.08448.pdf
-45. T. Shi, E. Demler, J.I. Cirac, Variational Approach for Many-Body Systems at Finite Temperature, Phys. Rev. Lett. 125 (2020) 180602. doi:10.1103/PhysRevLett.125.180602.
+36. Benjamin Zanger, Christian B. Mendl, Martin Schulz, Martin Schreiber, Quantum Algorithms for Solving Ordinary Differential Equations, https://arxiv.org/pdf/2012.09469.pdf
+41. T. Shi, E. Demler, J.I. Cirac, Variational Approach for Many-Body Systems at Finite Temperature, Phys. Rev. Lett. 125 (2020) 180602. doi:10.1103/PhysRevLett.125.180602.
 46. R. Sweke, F. Wilde, J. Meyer, M. Schuld, P.K. Faehrmann, B. Meynard-Piganeau, J. Eisert, Stochastic gradient descent for hybrid quantum-classical optimization, Quantum. 4 (2020) 314. doi:10.22331/q-2020-08-31-314.
-47. Baker, Thomas E. "Lanczos recursion on a quantum computer for the Green's function and ground state." Physical Review A 103.3 (2021): 032404.
-48. Yeter-Aydeniz, Kübra, et al. "Benchmarking Quantum Chemistry Computations with Variational, Imaginary Time Evolution, and Krylov Space Solver Algorithms." arXiv preprint arXiv:2102.05511 (2021).
-49. J.S. Kretchmer, G.K.L. Chan, A real-time extension of density matrix embedding theory for non-equilibrium electron dynamics, J. Chem. Phys. 148 (2018). doi:10.1063/1.5012766.
+47. J.S. Kretchmer, G.K.L. Chan, A real-time extension of density matrix embedding theory for non-equilibrium electron dynamics, J. Chem. Phys. 148 (2018). doi:10.1063/1.5012766.
 50. C. Lupo, F. Jamet, T. Tse, I. Rungger, C. Weber, Maximally Localized Dynamical Quantum Embedding for Solving Many-Body Correlated Systems, ArXiv. (2020) 1–21. http://arxiv.org/abs/2008.04281.
-51. Or Sharir, Amnon Shashua, Giuseppe Carleo, Neural tensor contractions and the expressive power of deep neural quantum states, https://arxiv.org/abs/2103.10293
-52. Changpeng Shao and Ashley Montanaro, Faster quantum-inspired algorithms for solving linear systems, https://arxiv.org/pdf/2103.10309.pdf
-53. Vazquez, Almudena Carrera, Ralf Hiptmair, and Stefan Woerner. "Enhancing the Quantum Linear Systems Algorithm using Richardson Extrapolation." arXiv preprint arXiv:2009.04484 (2020).
-54. Chen, Hongwei, et al. "Chebyshev expansion of spectral functions using restricted Boltzmann machines." Bulletin of the American Physical Society (2021).
-55. Ghanem, Khaldoon, Niklas Liebermann, and Ali Alavi. "Population Control Bias and Importance Sampling in Full Configuration Interaction Quantum Monte Carlo." arXiv preprint arXiv:2102.11016 (2021).
-56. Pei, Michael Y., and Stephen R. Clark. "Compact Neural-network Quantum State representations of Jastrow and Stabilizer states." arXiv preprint arXiv:2103.09146 (2021).
-57. S. Bravyi, D. Gosset, Complexity of Quantum Impurity Problems, Commun. Math. Phys. 356 (2017) 451–500. doi:10.1007/s00220-017-2976-9.
-58. Yi, Changhao, and Elizabeth Crosson. "Spectral Analysis of Product Formulas for Quantum Simulation." arXiv preprint arXiv:2102.12655 (2021).
-59. Wilson, Max, et al. "Simulations of state-of-the-art fermionic neural network wave functions with diffusion Monte Carlo." arXiv preprint arXiv:2103.12570 (2021).
-60. S. Guo, F. Chen, Q. Liu, M. Xue, J. Chen, J. Cao, T. Mao, M.K. Tey, L. You, Faster State Preparation across Quantum Phase Transition Assisted by Reinforcement Learning, 2 (2020) 1–17. doi:10.1103/PhysRevLett.126.060401
+51. Pei, Michael Y., and Stephen R. Clark. "Compact Neural-network Quantum State representations of Jastrow and Stabilizer states." arXiv preprint arXiv:2103.09146 (2021).
+57. S. Guo, F. Chen, Q. Liu, M. Xue, J. Chen, J. Cao, T. Mao, M.K. Tey, L. You, Faster State Preparation across Quantum Phase Transition Assisted by Reinforcement Learning, 2 (2020) 1–17. doi:10.1103/PhysRevLett.126.060401
 61. J. Lemieux, B. Heim, D. Poulin, K. Svore, M. Troyer, Efficient Quantum Walk Circuits for Metropolis-Hastings Algorithm, Quantum. 4 (2020) 287. doi:10.22331/q-2020-06-29-287.
 62. A. Go, A.J. Millis, Adaptively truncated Hilbert space based impurity solver for dynamical mean-field theory, Phys. Rev. B. 96 (2017) 085139. doi:10.1103/PhysRevB.96.085139.
 63. Y.-H. Chen, A. Kalev, I. Hen, A quantum algorithm for time-dependent Hamiltonian simulation by permutation expansion, (2021) 1–22. http://arxiv.org/abs/2103.15334.
@@ -253,7 +194,6 @@
 79. Kaye, J., Chen, K., & Parcollet, O. (n.d.). Discrete Lehmann representation of imaginary time Green’s functions. 1, 1–19.
 80. Alliati, I. M., Grüning, M., & Sangalli, D. (2021). Double $\mathbf{k}$-Grid Method for Solving the Bethe-Salpeter Equation via Lanczos Approaches. http://arxiv.org/abs/2108.11174
 81. Pellow-Jarman, A., Sinayskiy, I., Pillay, A., & Petruccione, F. (2021). Near Term Algorithms for Linear Systems of Equations. 1–13. http://arxiv.org/abs/2108.11362
-
 
 
 
