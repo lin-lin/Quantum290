@@ -177,11 +177,7 @@
 62. A. Go, A.J. Millis, Adaptively truncated Hilbert space based impurity solver for dynamical mean-field theory, Phys. Rev. B. 96 (2017) 085139. doi:10.1103/PhysRevB.96.085139.
 63. Y.-H. Chen, A. Kalev, I. Hen, A quantum algorithm for time-dependent Hamiltonian simulation by permutation expansion, (2021) 1–22. http://arxiv.org/abs/2103.15334.
 64. O. Sharir, A. Shashua, G. Carleo, Neural tensor contractions and the expressive power of deep neural quantum states, (2021). http://arxiv.org/abs/2103.10293.
-65. Q. Zhao, X. Yuan, Exploiting anticommutation in Hamiltonian simulation, (2021) 1–16. http://arxiv.org/abs/2103.07988.
-66. K. Sugisaki, K. Toyota, K. Sato, D. Shiomi, T. Takui, Quantum Algorithm for the Direct Calculations of Vertical Ionization Energies, J. Phys. Chem. Lett. (2021) 2880–2885. doi:10.1021/acs.jpclett.1c00283.
-67. S. Banerjee, A.Y. Sokolov, Third-order algebraic diagrammatic construction theory for electron attachment and ionization energies: Conventional and Green’s function implementation, J. Chem. Phys. 151 (2019) 224112. doi:10.1063/1.5131771.
-68. J. Tilly, P. V. Sriluckshmy, A. Patel, E. Fontana, I. Rungger, E. Grant, R. Anderson, J. Tennyson, G.H. Booth, Reduced Density Matrix Sampling: Self-consistent Embedding and Multiscale Electronic Structure on Current Generation Quantum Computers, (2021) 1–18. http://arxiv.org/abs/2104.05531.    
-69. A. Cornelissen, J. Bausch, A. Gilyén, Scalable Benchmarks for Gate-Based Quantum Computers, (2021). http://arxiv.org/abs/2104.10698.
+65. K. Sugisaki, K. Toyota, K. Sato, D. Shiomi, T. Takui, Quantum Algorithm for the Direct Calculations of Vertical Ionization Energies, J. Phys. Chem. Lett. (2021) 2880–2885. doi:10.1021/acs.jpclett.1c00283.
 70. Karlsson, D., van Leeuwen, R., Pavlyukh, Y., Perfetto, E., & Stefanucci, G. (2021). Fast Green’s Function Method for Ultrafast Electron-Boson Dynamics. Physical Review Letters, 127(3), 1–7. https://doi.org/10.1103/PhysRevLett.127.036402
 71. Zoufal, C., Sutter, D., & Woerner, S. (2021). Error Bounds for Variational Quantum Time Evolution. 1–13. http://arxiv.org/abs/2108.00022
 72. Guo, N., Mitarai, K., & Fujii, K. (2021). Nonlinear transformation of complex amplitudes via quantum singular value transformation. 1–3. http://arxiv.org/abs/2107.10764
@@ -194,6 +190,7 @@
 79. Kaye, J., Chen, K., & Parcollet, O. (n.d.). Discrete Lehmann representation of imaginary time Green’s functions. 1, 1–19.
 80. Alliati, I. M., Grüning, M., & Sangalli, D. (2021). Double $\mathbf{k}$-Grid Method for Solving the Bethe-Salpeter Equation via Lanczos Approaches. http://arxiv.org/abs/2108.11174
 81. Pellow-Jarman, A., Sinayskiy, I., Pillay, A., & Petruccione, F. (2021). Near Term Algorithms for Linear Systems of Equations. 1–13. http://arxiv.org/abs/2108.11362
+82. Jiang, Z., Sung, K. J., Kechedzhi, K., Smelyanskiy, V. N., & Boixo, S. (2018). Quantum Algorithms to Simulate Many-Body Physics of Correlated Fermions. Physical Review Applied, 9(4), 44036. https://doi.org/10.1103/PhysRevApplied.9.044036
 
 
 
