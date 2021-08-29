@@ -192,6 +192,8 @@
 81. Pellow-Jarman, A., Sinayskiy, I., Pillay, A., & Petruccione, F. (2021). Near Term Algorithms for Linear Systems of Equations. 1–13. http://arxiv.org/abs/2108.11362
 82. Jiang, Z., Sung, K. J., Kechedzhi, K., Smelyanskiy, V. N., & Boixo, S. (2018). Quantum Algorithms to Simulate Many-Body Physics of Correlated Fermions. Physical Review Applied, 9(4), 44036. https://doi.org/10.1103/PhysRevApplied.9.044036
 83. Friesecke, G., Schulz, A. S., & Vögler, D. (2021). Genetic column generation: Fast computation of high-dimensional multi-marginal optimal transport problems. 1–25. http://arxiv.org/abs/2103.12624
+62. Snyman, I., & Florens, S. (2021). Efficient impurity-bath trial states from superposed Slater determinants. http://arxiv.org/abs/2106.14027
+63. Boutin, S., & Bauer, B. (2021). Quantum impurity models using superpositions of fermionic Gaussian states: Practical methods and applications. http://arxiv.org/abs/2105.01088
 
 
 
