@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 14 Overview</h3>
-        <h2 class="highlighted-title">Quantum Subspace Diagonalization</h2>
-        <strong>Ethan Epperly</strong><br>
-        <p class="highlighted-byline">Friday, Aug 27 th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 2 Overview</h3>
+        <h2 class="highlighted-title">DMET for SIAM</h2>
+        <strong>Raehyun Kim</strong><br>
+        <p class="highlighted-byline">Friday, Sep 3 rd, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -14,9 +14,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">TBD</h2>
-        <strong>Raehyun Kim</strong><br>
-        <p class="highlighted-byline">Friday, Sep 3 rd, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Parallel Quantum Algorithm for Hamiltonian Simulation</h2>
+        <strong>Nilin Abrahamsen</strong><br>
+        <p class="highlighted-byline">Friday, Sep 10 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
