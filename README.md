@@ -195,6 +195,7 @@
 62. Snyman, I., & Florens, S. (2021). Efficient impurity-bath trial states from superposed Slater determinants. http://arxiv.org/abs/2106.14027
 63. Boutin, S., & Bauer, B. (2021). Quantum impurity models using superpositions of fermionic Gaussian states: Practical methods and applications. http://arxiv.org/abs/2105.01088
 64. Ollitrault, P. J., Mazzola, G., & Tavernelli, I. (2020). Nonadiabatic Molecular Quantum Dynamics with Quantum Computers. Physical Review Letters, 125(26), 260511. https://doi.org/10.1103/PhysRevLett.125.260511
+65. Rusakov, A. A., & Zgid, D. (2016). Self-consistent second-order Green’s function perturbation theory for periodic systems. Journal of Chemical Physics, 144(5). https://doi.org/10.1063/1.4940900
 
 
 
