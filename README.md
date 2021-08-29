@@ -10,10 +10,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 14</h3>
-  <h1>Quantum Subspace Diagonalization</h1>
-  <strong>Ethan Epperly</strong>
-  <h6>Aug 27th, 10 am -- 12 pm</h6>
+  <h3>Week 2</h3>
+  <h1>DMET for SIAM</h1>
+  <strong>Raehyun Kim</strong>
+  <h6>Sep 3rd, 10 am -- 12 pm</h6>
 </div>
 
 
@@ -24,7 +24,7 @@
 | Week | Date  | Topic                                                 | Speaker          | References |
 | ---- | ----- | ----------------------------------------------------- | ---------------- | ---------- |
 | 1    | 8/27  | Quantum Subspace Diagonalization.                     | Ethan Epperly    |            |
-| 2    | 9/3   | TBD                                                   | Raehyun Kim      |            |
+| 2    | 9/3   | DMET for SIAM                                         | Raehyun Kim      |            |
 | 3    | 9/10  | Parallel Quantum Algorithm for Hamiltonian Simulation | Nilin Abrahamsen |            |
 | 4    | 09/17 |                                                       |                  |            |
 | 5    | 09/24 |                                                       |                  |            |
