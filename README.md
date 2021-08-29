@@ -191,6 +191,7 @@
 80. Alliati, I. M., Grüning, M., & Sangalli, D. (2021). Double $\mathbf{k}$-Grid Method for Solving the Bethe-Salpeter Equation via Lanczos Approaches. http://arxiv.org/abs/2108.11174
 81. Pellow-Jarman, A., Sinayskiy, I., Pillay, A., & Petruccione, F. (2021). Near Term Algorithms for Linear Systems of Equations. 1–13. http://arxiv.org/abs/2108.11362
 82. Jiang, Z., Sung, K. J., Kechedzhi, K., Smelyanskiy, V. N., & Boixo, S. (2018). Quantum Algorithms to Simulate Many-Body Physics of Correlated Fermions. Physical Review Applied, 9(4), 44036. https://doi.org/10.1103/PhysRevApplied.9.044036
+83. Friesecke, G., Schulz, A. S., & Vögler, D. (2021). Genetic column generation: Fast computation of high-dimensional multi-marginal optimal transport problems. 1–25. http://arxiv.org/abs/2103.12624
 
 
 
