@@ -29,7 +29,7 @@ Aug 27
   : Ethan Epperly
 
 Sep 3 
-: TBD
+: [DMET for SIAM](https://aip.scitation.org/doi/10.1063/1.5012766)
   : Raehyun Kim
   
 Sep 10
@@ -49,7 +49,7 @@ Oct 8
   : Subhayan Roy Moulik
 
 Oct 15
-: Fast-forwarding quantum evolution]https://arxiv.org/abs/2105.07304
+: [Fast-forwarding quantum evolution](https://arxiv.org/abs/2105.07304)
   : Yulong Dong 
 
 Oct 22 
@@ -57,17 +57,17 @@ Oct 22
   : Fabian Faulstich
 
 Oct 29 
-: Xin Xing 
-  : [Self-consistent second-order Green’s function perturbation theory for periodic systems](https://doi.org/10.1063/1.4940900)
+: [Self-consistent second-order Green’s function perturbation theory for periodic systems](https://doi.org/10.1063/1.4940900)
+  : Xin Xing 
 
 
 Nov 5 
-: Yu Tong 
-  : [Error Bounds for Variational Quantum Time Evolution](http://arxiv.org/abs/2108.00022)
+: [Error Bounds for Variational Quantum Time Evolution](http://arxiv.org/abs/2108.00022)
+  : Yu Tong 
 
 Nov 12 
-: Jiasu Wang 
-  : TBD
+: TBD
+  : Jiasu Wang 
 
 #### Schedule (2021 Summer) 
 
