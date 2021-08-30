@@ -129,45 +129,22 @@
 
 ## Other materials (randomly ordered)
 
-2. D. Chaykin, C. Jansson, F. Keil, M. Lange, K.T. Ohlhus, S.M. Rump, Rigorous Lower Bounds for the Ground State Energy of Molecules by Employing Necessary N-Representability Conditions, J. Chem. Theory Comput. (2020). doi:10.1021/acs.jctc.0c00497.
-
-8. B. Leimkuhler, M. Sachs, Efficient Numerical Algorithms for the Generalized Langevin Equation, (2020) 1–33. http://arxiv.org/abs/2012.04245.
-
-13. A. Nahum, S. Vijay, J. Haah, Operator Spreading in Random Unitary Circuits, Phys. Rev. X. 8 (2018) 021014. doi:10.1103/PhysRevX.8.021014.
-
-17. C.W. Von Keyserlingk, T. Rakovszky, F. Pollmann, S.L. Sondhi, Operator Hydrodynamics, OTOCs, and Entanglement Growth in Systems without Conservation Laws, Phys. Rev. X. 8 (2018) 21013. doi:10.1103/PhysRevX.8.021013.
-
-18. F. Arute, et al Observation of separated dynamics of charge and spin in the Fermi-Hubbard model, (2020). http://arxiv.org/abs/2010.07965.
-
-20. M. Kolodrubetz, D. Sels, P. Mehta, A. Polkovnikov, Geometry and non-adiabatic response in quantum and classical systems, Phys. Rep. 697 (2017) 1–87. doi:10.1016/j.physrep.2017.07.001.
-
-23. X. Yuan, S. Endo, Q. Zhao, Y. Li, S.C. Benjamin, Theory of variational quantum simulation, Quantum. 3 (2019) 191. doi:10.22331/q-2019-10-07-191.
-
-25. A. Roggero, C. Gu, A. Baroni, T. Papenbrock, Preparation of excited states on a quantum computer, (2020) 1–25. http://arxiv.org/abs/2009.13485.
-
-28. S. Chakraborty, L. Novo, J. Roland, Finding a marked node on any graph via continuous-time quantum walks, Phys. Rev. A. 102 (2020). doi:10.1103/PhysRevA.102.022227.
-
-29. A. Kardashin, A. Uvarov, D. Yudin, J. Biamonte, Certified variational quantum algorithms for eigenstate preparation, ArXiv. (2020) 1–9. doi:10.1103/PhysRevA.102.052610.
-
-30. C. Lin, D. Sels, Y. Ma, Y. Wang, Stochastic optimal control formalism for an open quantum system, Phys. Rev. A. 102 (2020) 52605. doi:10.1103/PhysRevA.102.052605.
-
-31. J. Helsen, I. Roth, E. Onorati, A.H. Werner, J. Eisert, A general framework for randomized benchmarking, (2020) 1–60. http://arxiv.org/abs/2010.07974.
-
-32. Quantum advantage with shallow circuits, https://arxiv.org/abs/1704.00690
-
-<details>
-<summary>Comments</summary>
-(Subhayan Roy Moulik: I'd say this is one of the most influential papers of the past decade because it shows a provable separation between quantum and classical computing for constant depth circuits and already has a strong literature build up on it.)
-</details>
-
-35. The maximum speed of dynamical evolution, https://arxiv.org/abs/quant-ph/9710043
-<details>
-<summary>Comments</summary>
-(Subhayan Roy Moulik: This an old paper, and gives a fundamental limit on the speed of information processing.) 
-</details>
-
-36. Benjamin Zanger, Christian B. Mendl, Martin Schulz, Martin Schreiber, Quantum Algorithms for Solving Ordinary Differential Equations, https://arxiv.org/pdf/2012.09469.pdf
-41. T. Shi, E. Demler, J.I. Cirac, Variational Approach for Many-Body Systems at Finite Temperature, Phys. Rev. Lett. 125 (2020) 180602. doi:10.1103/PhysRevLett.125.180602.
+1. D. Chaykin, C. Jansson, F. Keil, M. Lange, K.T. Ohlhus, S.M. Rump, Rigorous Lower Bounds for the Ground State Energy of Molecules by Employing Necessary N-Representability Conditions, J. Chem. Theory Comput. (2020). doi:10.1021/acs.jctc.0c00497.
+2. B. Leimkuhler, M. Sachs, Efficient Numerical Algorithms for the Generalized Langevin Equation, (2020) 1–33. http://arxiv.org/abs/2012.04245.
+3. A. Nahum, S. Vijay, J. Haah, Operator Spreading in Random Unitary Circuits, Phys. Rev. X. 8 (2018) 021014. doi:10.1103/PhysRevX.8.021014.
+4. C.W. Von Keyserlingk, T. Rakovszky, F. Pollmann, S.L. Sondhi, Operator Hydrodynamics, OTOCs, and Entanglement Growth in Systems without Conservation Laws, Phys. Rev. X. 8 (2018) 21013. doi:10.1103/PhysRevX.8.021013.
+5. F. Arute, et al Observation of separated dynamics of charge and spin in the Fermi-Hubbard model, (2020). http://arxiv.org/abs/2010.07965.
+6. M. Kolodrubetz, D. Sels, P. Mehta, A. Polkovnikov, Geometry and non-adiabatic response in quantum and classical systems, Phys. Rep. 697 (2017) 1–87. doi:10.1016/j.physrep.2017.07.001.
+7. X. Yuan, S. Endo, Q. Zhao, Y. Li, S.C. Benjamin, Theory of variational quantum simulation, Quantum. 3 (2019) 191. doi:10.22331/q-2019-10-07-191.
+8. A. Roggero, C. Gu, A. Baroni, T. Papenbrock, Preparation of excited states on a quantum computer, (2020) 1–25. http://arxiv.org/abs/2009.13485.
+9. S. Chakraborty, L. Novo, J. Roland, Finding a marked node on any graph via continuous-time quantum walks, Phys. Rev. A. 102 (2020). doi:10.1103/PhysRevA.102.022227.
+10. A. Kardashin, A. Uvarov, D. Yudin, J. Biamonte, Certified variational quantum algorithms for eigenstate preparation, ArXiv. (2020) 1–9. doi:10.1103/PhysRevA.102.052610.
+11. C. Lin, D. Sels, Y. Ma, Y. Wang, Stochastic optimal control formalism for an open quantum system, Phys. Rev. A. 102 (2020) 52605. doi:10.1103/PhysRevA.102.052605.
+12. J. Helsen, I. Roth, E. Onorati, A.H. Werner, J. Eisert, A general framework for randomized benchmarking, (2020) 1–60. http://arxiv.org/abs/2010.07974.
+13. Quantum advantage with shallow circuits, https://arxiv.org/abs/1704.00690
+14. The maximum speed of dynamical evolution, https://arxiv.org/abs/quant-ph/9710043
+15. Benjamin Zanger, Christian B. Mendl, Martin Schulz, Martin Schreiber, Quantum Algorithms for Solving Ordinary Differential Equations, https://arxiv.org/pdf/2012.09469.pdf
+16. T. Shi, E. Demler, J.I. Cirac, Variational Approach for Many-Body Systems at Finite Temperature, Phys. Rev. Lett. 125 (2020) 180602. doi:10.1103/PhysRevLett.125.180602.
 46. R. Sweke, F. Wilde, J. Meyer, M. Schuld, P.K. Faehrmann, B. Meynard-Piganeau, J. Eisert, Stochastic gradient descent for hybrid quantum-classical optimization, Quantum. 4 (2020) 314. doi:10.22331/q-2020-08-31-314.
 47. J.S. Kretchmer, G.K.L. Chan, A real-time extension of density matrix embedding theory for non-equilibrium electron dynamics, J. Chem. Phys. 148 (2018). doi:10.1063/1.5012766.
 50. C. Lupo, F. Jamet, T. Tse, I. Rungger, C. Weber, Maximally Localized Dynamical Quantum Embedding for Solving Many-Body Correlated Systems, ArXiv. (2020) 1–21. http://arxiv.org/abs/2008.04281.
