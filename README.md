@@ -201,6 +201,7 @@
 68. Mascherpa, F., Smirne, A., Huelga, S. F., & Plenio, M. B. (2017). Open Systems with Error Bounds: Spin-Boson Model with Spectral Density Variations. Physical Review Letters, 118(10), 1–5. https://doi.org/10.1103/PhysRevLett.118.100401
 69. Woods, M. P., & Plenio, M. B. (2016). Dynamical error bounds for continuum discretisation via Gauss quadrature rules-A Lieb-Robinson bound approach. Journal of Mathematical Physics, 57(2), 1–19. https://doi.org/10.1063/1.4940436
 70. Nüßeler, A., Dhand, I., Huelga, S. F., & Plenio, M. B. (2020). Efficient simulation of open quantum systems coupled to a fermionic bath. Physical Review B, 101(15), 1–20. https://doi.org/10.1103/PhysRevB.101.155134
+71. Tamascelli, D., Smirne, A., Huelga, S. F., & Plenio, M. B. (2018). Nonperturbative Treatment of non-Markovian Dynamics of Open Quantum Systems. Physical Review Letters, 120(3), 30402. https://doi.org/10.1103/PhysRevLett.120.030402
 
 
 
