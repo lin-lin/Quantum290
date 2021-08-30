@@ -19,7 +19,7 @@
 
 ## 📌 Schedule (2021 Fall) 
 
-🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-09) 
+🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-09), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
 | Week | Date  | Topic                                                 | Speaker          | References |
 | ---- | ----- | ----------------------------------------------------- | ---------------- | ---------- |
@@ -40,9 +40,6 @@
 | 15   | 12/03 |                                                       |                  |            |
 | 16   | 12/10 |                                                       |                  |            |
 | 17   | 12/17 |                                                       |                  |            |
-| 18   | 12/24 |                                                       |                  |            |
-| 19   | 12/31 |                                                       |                  |            |
-| 20   | 01/07 |                                                       |                  |            |
 
 -----
 
