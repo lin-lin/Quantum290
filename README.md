@@ -197,6 +197,10 @@
 64. Ollitrault, P. J., Mazzola, G., & Tavernelli, I. (2020). Nonadiabatic Molecular Quantum Dynamics with Quantum Computers. Physical Review Letters, 125(26), 260511. https://doi.org/10.1103/PhysRevLett.125.260511
 65. Rusakov, A. A., & Zgid, D. (2016). Self-consistent second-order Green’s function perturbation theory for periodic systems. Journal of Chemical Physics, 144(5). https://doi.org/10.1063/1.4940900
 66. Woods, M. P., Cramer, M., & Plenio, M. B. (2015). Simulating Bosonic Baths with Error Bars. Physical Review Letters, 115(3), 1–14. https://doi.org/10.1103/PhysRevLett.115.130401
+67. Tamascelli, D., Smirne, A., Lim, J., Huelga, S. F., & Plenio, M. B. (2019). Efficient Simulation of Finite-Temperature Open Quantum Systems. Physical Review Letters, 123(9), 90402. https://doi.org/10.1103/PhysRevLett.123.090402
+68. Mascherpa, F., Smirne, A., Huelga, S. F., & Plenio, M. B. (2017). Open Systems with Error Bounds: Spin-Boson Model with Spectral Density Variations. Physical Review Letters, 118(10), 1–5. https://doi.org/10.1103/PhysRevLett.118.100401
+69. Woods, M. P., & Plenio, M. B. (2016). Dynamical error bounds for continuum discretisation via Gauss quadrature rules-A Lieb-Robinson bound approach. Journal of Mathematical Physics, 57(2), 1–19. https://doi.org/10.1063/1.4940436
+70. Nüßeler, A., Dhand, I., Huelga, S. F., & Plenio, M. B. (2020). Efficient simulation of open quantum systems coupled to a fermionic bath. Physical Review B, 101(15), 1–20. https://doi.org/10.1103/PhysRevB.101.155134
 
 
 
