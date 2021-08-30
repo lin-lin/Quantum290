@@ -121,8 +121,7 @@ seo:
 </div>
 
 - **When**: 🕒 Fridays 10AM-12PM
-- **Where**: 💻 Zoom. 
-- Please send me an email (linlin at math dot berkeley dot edu) - to ask for the zoom id.
+- **Where**: Evans 891
 - **Moderator**: Jiahao Yao
 
 
