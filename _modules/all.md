@@ -22,7 +22,54 @@
 </section>
 
 
+
 ## 📌 Schedule (2021 Summer) 
+Aug 27
+: Quantum Subspace Diagonalization
+  : Ethan Epperly
+
+Sep 3 
+: TBD
+  : Raehyun Kim
+  
+Sep 10
+: [Parallel Quantum Algorithm for Hamiltonian Simulation](https://arxiv.org/pdf/2105.11889.pdf)
+  : Nilin Abrahamsen	
+ 
+Sep 24
+: [Genetic column generation: Fast computation of high-dimensional multi-marginal optimal transport problems](https://arxiv.org/pdf/2103.12624.pdf)
+  : Kevin Stubbs
+
+Oct 1
+: TBD
+  : Di Fang
+
+Oct 8 
+: TBD
+  : Subhayan Roy Moulik
+
+Oct 15
+: Fast-forwarding quantum evolution]https://arxiv.org/abs/2105.07304
+  : Yulong Dong 
+
+Oct 22 
+: [Quantum Algorithms to Simulate Many-Body Physics of Correlated Fermions](https://journals.aps.org/prapplied/pdf/10.1103/PhysRevApplied.9.044036)
+  : Fabian Faulstich
+
+Oct 29 
+: Xin Xing 
+  : [Self-consistent second-order Green’s function perturbation theory for periodic systems](https://doi.org/10.1063/1.4940900)
+
+
+Nov 5 
+: Yu Tong 
+  : [Error Bounds for Variational Quantum Time Evolution](http://arxiv.org/abs/2108.00022)
+
+Nov 12 
+: Jiasu Wang 
+  : TBD
+
+#### Schedule (2021 Summer) 
 
 May 21
 : SIAM LA. No seminar this week
@@ -80,20 +127,6 @@ Aug 20
 : [Accessing scrambling using matrix product operators](https://www.nature.com/articles/s41567-019-0712-4)
   : Sajant Anand 
 : [Matrix product states approaches to operator spreading in ergodic quantum systems](https://arxiv.org/abs/1901.05793)
-
-Aug 27
-: Quantum Subspace Diagonalization
-  : Ethan Epperly
-
-Sep 3 
-: TBD
-  : Raehyun Kim
-  
-Sep 10
-: [Parallel Quantum Algorithm for Hamiltonian Simulation](https://arxiv.org/pdf/2105.11889.pdf)
-  : Nilin Abrahamsen	
- 
- 
 
 #### Schedule (2021 Spring)
 Jan 8
