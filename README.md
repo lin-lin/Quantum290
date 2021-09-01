@@ -177,6 +177,7 @@
 71. Tamascelli, D., Smirne, A., Huelga, S. F., & Plenio, M. B. (2018). Nonperturbative Treatment of non-Markovian Dynamics of Open Quantum Systems. Physical Review Letters, 120(3), 30402. https://doi.org/10.1103/PhysRevLett.120.030402
 72. Purkayastha, A., Guarnieri, G., Campbell, S., Prior, J., & Goold, J. (2021). Periodically refreshed baths to simulate open quantum many-body dynamics. Physical Review B, 104(4), 1–16. https://doi.org/10.1103/PhysRevB.104.045417
 73. Cygorek, M., Cosacchi, M., Vagov, A., Axt, V. M., Lovett, B. W., Keeling, J., & Gauger, E. M. (2021). Numerically-exact simulations of arbitrary open quantum systems using automated compression of environments. http://arxiv.org/abs/2101.01653
+74. Goto, T., Tran, Q. H., & Nakajima, K. (2021). Universal Approximation Property of Quantum Machine Learning Models in Quantum-Enhanced Feature Spaces. Physical Review Letters, 127(9), 90506. https://doi.org/10.1103/PhysRevLett.127.090506
 
 
 
