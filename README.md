@@ -25,7 +25,7 @@
 | 1    | 8/27  | Quantum Subspace Diagonalization.                     | Ethan Epperly    |            |
 | 2    | 9/3   | DMET for SIAM                                         | Raehyun Kim      |            |
 | 3    | 9/10  | Parallel Quantum Algorithm for Hamiltonian Simulation | Nilin Abrahamsen |            |
-| 4    | 09/17 |                                                       |                  |            |
+| 4    | 09/17 | Variational Schrieffer-Wolff Transformation           | Jiahao Yao       |            |
 | 5    | 09/24 | Genetic column generation                             | Kevin Stubbs     |            |
 | 6    | 10/01 | Spectral Analysis for Quantum Simulation              | Di Fang          |            |
 | 7    | 10/08 | TBD                                                   | Subhayan Roy Moulik |            |
@@ -34,7 +34,7 @@
 | 10   | 10/29 | Self-consistent second-order Green’s function perturbation theory for periodic systems| Xin Xing                 |            |
 | 11   | 11/05 | Error Bounds for Variational Quantum Time Evolution   | Yu Tong          |            |
 | 12   | 11/12 | TBD                                                   | Jiasu Wang       |            |
-| 13   | 11/19 |                                                       |                  |            |
+| 13   | 11/19 | Theory of variational quantum simulation              | Ethan Epperly    |            |
 | 14   | 11/26 | Thanksgiving (so no seminar)                          |                  |            |
 | 15   | 12/03 |                                                       |                  |            |
 | 16   | 12/10 |                                                       |                  |            |
