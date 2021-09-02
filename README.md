@@ -32,9 +32,9 @@
 | 8    | 10/15 | Fast-forwarding quantum evolution                     | Yulong Dong      |            |
 | 9    | 10/22 | Quantum Algorithms to Simulate Correlated Fermions    | Fabian Faulstich |            |
 | 10   | 10/29 | Self-consistent second-order Green’s function perturbation theory for periodic systems| Xin Xing                 |            |
-| 11   | 11/05 | Error Bounds for Variational Quantum Time Evolution   | Yu Tong          |            |
+| 11   | 11/05 | Theory of variational quantum simulation | Ethan Epperly       |            |
 | 12   | 11/12 | TBD                                                   | Jiasu Wang       |            |
-| 13   | 11/19 | Theory of variational quantum simulation              | Ethan Epperly    |            |
+| 13   | 11/19 | Error Bounds for Variational Quantum Time Evolution | Yu Tong |            |
 | 14   | 11/26 | Thanksgiving (so no seminar)                          |                  |            |
 | 15   | 12/03 |                                                       |                  |            |
 | 16   | 12/10 |                                                       |                  |            |
