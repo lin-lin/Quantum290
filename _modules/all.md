@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 2 Overview</h3>
-        <h2 class="highlighted-title">DMET for SIAM</h2>
-        <strong>Raehyun Kim</strong><br>
-        <p class="highlighted-byline">Friday, Sep 3 rd, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 3 Overview</h3>
+        <h2 class="highlighted-title">Parallel Quantum Algorithm for Hamiltonian Simulation</h2>
+        <strong>Nilin Abrahamsen</strong><br>
+        <p class="highlighted-byline">Friday, Sep 10 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -14,9 +14,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Parallel Quantum Algorithm for Hamiltonian Simulation</h2>
-        <strong>Nilin Abrahamsen</strong><br>
-        <p class="highlighted-byline">Friday, Sep 10 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Variational Schrieffer-Wolff Transformation</h2>
+        <strong>Jiahao Yao</strong><br>
+        <p class="highlighted-byline">Friday, Sep 17 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -35,6 +35,10 @@ Sep 3
 Sep 10
 : [Parallel Quantum Algorithm for Hamiltonian Simulation](https://arxiv.org/pdf/2105.11889.pdf)
   : Nilin Abrahamsen	
+
+Sep 17
+: [Variational Schrieffer-Wolff Transformation](https://arxiv.org/abs/1910.11889)
+  : Jiahao Yao
  
 Sep 24
 : [Genetic column generation: Fast computation of high-dimensional multi-marginal optimal transport problems](https://arxiv.org/pdf/2103.12624.pdf)
