@@ -9,10 +9,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 2</h3>
-  <h1>DMET for SIAM</h1>
-  <strong>Raehyun Kim</strong>
-  <h6>Sep 3rd, 10 am -- 12 pm</h6>
+  <h3>Week 3</h3>
+  <h1>Parallel Quantum Algorithm for Hamiltonian Simulation</h1>
+  <strong>Nilin Abrahamsen</strong>
+  <h6>Sep 10th, 10 am -- 12 pm</h6>
 </div>
 
 
