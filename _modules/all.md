@@ -66,12 +66,16 @@ Oct 29
 
 
 Nov 5 
-: [Error Bounds for Variational Quantum Time Evolution](http://arxiv.org/abs/2108.00022)
-  : Yu Tong 
+: Theory of variational quantum simulation	
+  : Ethan Epperly
 
 Nov 12 
 : TBD
   : Jiasu Wang 
+
+Nov 19
+: [Error Bounds for Variational Quantum Time Evolution](http://arxiv.org/abs/2108.00022)
+  : Yu Tong 
 
 #### Schedule (2021 Summer) 
 
