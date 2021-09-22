@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 3 Overview</h3>
-        <h2 class="highlighted-title">Parallel Quantum Algorithm for Hamiltonian Simulation</h2>
-        <strong>Nilin Abrahamsen</strong><br>
-        <p class="highlighted-byline">Friday, Sep 10 th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 5 Overview</h3>
+        <h2 class="highlighted-title">Genetic column generation</h2>
+        <strong>Kevin Stubbs</strong><br>
+        <p class="highlighted-byline">Friday, Sep 24 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -14,9 +14,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Variational Schrieffer-Wolff Transformation</h2>
-        <strong>Jiahao Yao</strong><br>
-        <p class="highlighted-byline">Friday, Sep 17 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Hybridized Methods for Quantum Simulation in the Interaction Picture</h2>
+        <strong>Di Fang</strong><br>
+        <p class="highlighted-byline">Friday, Oct 1 st, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -45,12 +45,14 @@ Sep 24
   : Kevin Stubbs
 
 Oct 1
-: TBD
+: [Hybridized Methods for Quantum Simulation in the Interaction Picture](https://arxiv.org/pdf/2109.03308.pdf)
   : Di Fang
 
 Oct 8 
-: TBD
+: Fast Amplification of QMA
   : Subhayan Roy Moulik
+: [Fast Amplification of QMA](https://arxiv.org/pdf/0904.1549.pdf)
+: [Quantum Arthur-Merlin Games](https://arxiv.org/pdf/cs/0506068.pdf)
 
 Oct 15
 : [Fast-forwarding quantum evolution](https://arxiv.org/abs/2105.07304)
@@ -70,7 +72,7 @@ Nov 5
   : Ethan Epperly
 
 Nov 12 
-: TBD
+: [Dynamical error bounds for continuum discretisation via Gauss quadrature rules—A Lieb-Robinson bound approach](https://aip.scitation.org/doi/10.1063/1.4940436)
   : Jiasu Wang 
 
 Nov 19
