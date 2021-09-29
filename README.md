@@ -9,10 +9,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 5</h3>
-  <h1>Genetic column generation</h1>
-  <strong>Kevin Stubbs</strong>
-  <h6>Sep 24th, 10 am -- 12 pm</h6>
+  <h3>Week 6</h3>
+  <h1>Hybridized Methods for Quantum Simulation in the Interaction Picture</h1>
+  <strong>Di Fang</strong>
+  <h6>Oct 1st, 10 am -- 12 pm</h6>
 </div>
 
 
@@ -36,7 +36,7 @@
 | 12   | 11/12 | Dynamical error bounds for continuum discretisation   | Jiasu Wang       |            |
 | 13   | 11/19 | Error Bounds for Variational Quantum Time Evolution | Yu Tong |            |
 | 14   | 11/26 | Thanksgiving (so no seminar)                          |                  |            |
-| 15   | 12/03 |                                                       |                  |            |
+| 15   | 12/03 | TBD                                                   | Zhen Huang       |            |
 | 16   | 12/10 |                                                       |                  |            |
 | 17   | 12/17 |                                                       |                  |            |
 
