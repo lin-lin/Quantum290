@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 5 Overview</h3>
-        <h2 class="highlighted-title">Genetic column generation</h2>
-        <strong>Kevin Stubbs</strong><br>
-        <p class="highlighted-byline">Friday, Sep 24 th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 6 Overview</h3>
+        <h2 class="highlighted-title">Hybridized Methods for Quantum Simulation in the Interaction Picture</h2>
+        <strong>Di Fang</strong><br>
+        <p class="highlighted-byline">Friday, Oct 1 st, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -14,9 +14,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Hybridized Methods for Quantum Simulation in the Interaction Picture</h2>
-        <strong>Di Fang</strong><br>
-        <p class="highlighted-byline">Friday, Oct 1 st, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Fast Amplification of QMA</h2>
+        <strong>Subhayan Roy Moulik</strong><br>
+        <p class="highlighted-byline">Friday, Oct 8 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
