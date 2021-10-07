@@ -9,10 +9,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 6</h3>
-  <h1>Hybridized Methods for Quantum Simulation in the Interaction Picture</h1>
-  <strong>Di Fang</strong>
-  <h6>Oct 1st, 10 am -- 12 pm</h6>
+  <h3>Week 7</h3>
+  <h1>Fast Amplification of QMA</h1>
+  <strong>Subhayan Roy Moulik</strong>
+  <h6>Oct 8th, 10 am -- 12 pm</h6>
 </div>
 
 
