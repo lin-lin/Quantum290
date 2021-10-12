@@ -180,6 +180,7 @@
 74. Goto, T., Tran, Q. H., & Nakajima, K. (2021). Universal Approximation Property of Quantum Machine Learning Models in Quantum-Enhanced Feature Spaces. Physical Review Letters, 127(9), 90506. https://doi.org/10.1103/PhysRevLett.127.090506
 54. Requist, R., & Gross, E. K. U. (2021). Fock-Space Embedding Theory: Application to Strongly Correlated Topological Phases. Physical Review Letters, 127(11), 116401. https://doi.org/10.1103/physrevlett.127.116401
 55. Han, M., & Choi, H. J. (2021). Causal optimization method for imaginary-time Green’s functions in interacting electron systems. 115112. https://doi.org/10.1103/PhysRevB.104.115112
+56. Li, H., Gupta, S., Yu, H., Ying, L., & Dhillon, I. (2021). Quasi-Newton policy gradient algorithms. 1(4), 1–18. http://arxiv.org/abs/2110.02398
 
 
 
