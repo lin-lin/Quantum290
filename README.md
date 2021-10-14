@@ -9,10 +9,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 7</h3>
-  <h1>Fast Amplification of QMA</h1>
-  <strong>Subhayan Roy Moulik</strong>
-  <h6>Oct 8th, 10 am -- 12 pm</h6>
+  <h3>Week 8</h3>
+  <h1>Fast-forwarding quantum evolution</h1>
+  <strong>Yulong Dong</strong>
+  <h6>Oct 15th, 10 am -- 12 pm</h6>
 </div>
 
 
