@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 7 Overview</h3>
-        <h2 class="highlighted-title">Fast Amplification of QMA</h2>
-        <strong>Subhayan Roy Moulik</strong><br>
-        <p class="highlighted-byline">Friday, Oct 8 th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 8 Overview</h3>
+        <h2 class="highlighted-title">Fast-forwarding quantum evolution</h2>
+        <strong>Yulong Dong</strong><br>
+        <p class="highlighted-byline">Friday, Oct 15 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -14,9 +14,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Fast-forwarding quantum evolution</h2>
-        <strong>Yulong Dong</strong><br>
-        <p class="highlighted-byline">Friday, Oct 15 th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Quantum Algorithms to Simulate Many-Body Physics of Correlated Fermions</h2>
+        <strong>Fabian Faulstich</strong><br>
+        <p class="highlighted-byline">Friday, Oct 22 th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
