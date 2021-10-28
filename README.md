@@ -33,11 +33,11 @@
 | 9    | 10/22 | Quantum Algorithms to Simulate Correlated Fermions    | Fabian Faulstich |            |
 | 10   | 10/29 | Self-consistent second-order Green’s function perturbation theory for periodic systems| Xin Xing                 |            |
 | 11   | 11/05 | Theory of variational quantum simulation | Ethan Epperly       |            |
-| 12   | 11/12 | Dynamical error bounds for continuum discretisation   | Jiasu Wang       |            |
+| 12   | 11/12 |   |        |            |
 | 13   | 11/19 | Error Bounds for Variational Quantum Time Evolution | Yu Tong |            |
 | 14   | 11/26 | Thanksgiving (so no seminar)                          |                  |            |
 | 15   | 12/03 | TBD                                                   | Zhen Huang       |            |
-| 16   | 12/10 |                                                       |                  |            |
+| 16   | 12/10 | Dynamical error bounds for continuum discretisation |  Jiasu Wang                |            |
 | 17   | 12/17 |                                                       |                  |            |
 
 -----
@@ -181,6 +181,7 @@
 54. Requist, R., & Gross, E. K. U. (2021). Fock-Space Embedding Theory: Application to Strongly Correlated Topological Phases. Physical Review Letters, 127(11), 116401. https://doi.org/10.1103/physrevlett.127.116401
 55. Han, M., & Choi, H. J. (2021). Causal optimization method for imaginary-time Green’s functions in interacting electron systems. 115112. https://doi.org/10.1103/PhysRevB.104.115112
 56. Li, H., Gupta, S., Yu, H., Ying, L., & Dhillon, I. (2021). Quasi-Newton policy gradient algorithms. 1(4), 1–18. http://arxiv.org/abs/2110.02398
+57. Martyn, J. M., Liu, Y., Chin, Z. E., & Chuang, I. L. (2021). Efficient Fully-Coherent Hamiltonian Simulation. 1–22. http://arxiv.org/abs/2110.11327
 
 
 
