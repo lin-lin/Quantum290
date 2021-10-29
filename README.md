@@ -33,7 +33,7 @@
 | 9    | 10/22 | Quantum Algorithms to Simulate Correlated Fermions    | Fabian Faulstich |            |
 | 10   | 10/29 | Self-consistent second-order Green’s function perturbation theory for periodic systems| Xin Xing                 |            |
 | 11   | 11/05 | Theory of variational quantum simulation | Ethan Epperly       |            |
-| 12   | 11/11 (Special date) | Joseph Tindall (Oxford)  |        |            |
+| 12   | 11/11 (Special date) |   | Joseph Tindall (Oxford)       |            |
 | 13   | 11/19 | Error Bounds for Variational Quantum Time Evolution | Yu Tong |            |
 | 14   | 11/26 | Thanksgiving (so no seminar)                          |                  |            |
 | 15   | 12/03 | TBD                                                   | Zhen Huang       |            |
