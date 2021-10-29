@@ -9,10 +9,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 9</h3>
-  <h1>Quantum Algorithms to Simulate Correlated Fermions</h1>
-  <strong>Fabian Faulstich</strong>
-  <h6>Oct 22th, 10 am -- 12 pm</h6>
+  <h3>Week 10</h3>
+  <h1>Self-consistent second-order Green’s function perturbation theory for periodic systems</h1>
+  <strong>Xin Xing</strong>
+  <h6>Oct 29th, 10 am -- 12 pm</h6>
 </div>
 
 
