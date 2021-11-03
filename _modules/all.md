@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 10 Overview</h3>
-        <h2 class="highlighted-title">Self-consistent second-order Green’s function perturbation theory for periodic systems</h2>
-        <strong>Xin Xing</strong><br>
-        <p class="highlighted-byline">Friday, Oct 29 th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 11 Overview</h3>
+        <h2 class="highlighted-title">Theory of variational quantum simulation</h2>
+        <strong>Ethan Epperly</strong><br>
+        <p class="highlighted-byline">Friday, Nov 5th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -14,9 +14,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Theory of variational quantum simulation</h2>
-        <strong>Ethan Epperly</strong><br>
-        <p class="highlighted-byline">Friday, Nov 5th, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">TBD</h2>
+        <strong>Joseph Tindall</strong><br>
+        <p class="highlighted-byline">Friday, Nov 11th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
