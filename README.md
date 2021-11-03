@@ -9,10 +9,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 10</h3>
-  <h1>Self-consistent second-order Green’s function perturbation theory for periodic systems</h1>
-  <strong>Xin Xing</strong>
-  <h6>Oct 29th, 10 am -- 12 pm</h6>
+  <h3>Week 11</h3>
+  <h1>Theory of variational quantum simulation</h1>
+  <strong>Ethan Epperly</strong>
+  <h6>Nov 5th, 10 am -- 12 pm</h6>
 </div>
 
 
