@@ -182,6 +182,7 @@
 55. Han, M., & Choi, H. J. (2021). Causal optimization method for imaginary-time Green’s functions in interacting electron systems. 115112. https://doi.org/10.1103/PhysRevB.104.115112
 56. Li, H., Gupta, S., Yu, H., Ying, L., & Dhillon, I. (2021). Quasi-Newton policy gradient algorithms. 1(4), 1–18. http://arxiv.org/abs/2110.02398
 57. Martyn, J. M., Liu, Y., Chin, Z. E., & Chuang, I. L. (2021). Efficient Fully-Coherent Hamiltonian Simulation. 1–22. http://arxiv.org/abs/2110.11327
+58. Bravyi, S., Chowdhury, A., Gosset, D., & Wocjan, P. (2021). On the complexity of quantum partition functions. http://arxiv.org/abs/2110.15466
 
 
 
