@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 11 Overview</h3>
-        <h2 class="highlighted-title">Theory of variational quantum simulation</h2>
-        <strong>Ethan Epperly</strong><br>
-        <p class="highlighted-byline">Friday, Nov 5th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 13 Overview</h3>
+        <h2 class="highlighted-title">Error Bounds for Variational Quantum Time Evolution</h2>
+        <strong>Yu Tong</strong><br>
+        <p class="highlighted-byline">Friday, Nov 19th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -15,8 +15,8 @@
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
         <h2 class="highlighted-title">TBD</h2>
-        <strong>Joseph Tindall</strong><br>
-        <p class="highlighted-byline">Friday, Nov 11th, <strong> 10 am -- 12 pm</strong></p>
+        <strong>Zhen Huang</strong><br>
+        <p class="highlighted-byline">Friday, Dec 3rd, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -66,18 +66,29 @@ Oct 29
 : [Self-consistent second-order Green’s function perturbation theory for periodic systems](https://doi.org/10.1063/1.4940900)
   : Xin Xing 
 
-
 Nov 5 
 : Theory of variational quantum simulation	
   : Ethan Epperly
 
-Nov 12 
-: [Dynamical error bounds for continuum discretisation via Gauss quadrature rules—A Lieb-Robinson bound approach](https://aip.scitation.org/doi/10.1063/1.4940436)
-  : Jiasu Wang 
+Nov 11
+: The Identity Matrix Isn't Boring: A Many-Body Quantum System Perspective
+  : Joseph Tindall
 
 Nov 19
 : [Error Bounds for Variational Quantum Time Evolution](http://arxiv.org/abs/2108.00022)
   : Yu Tong 
+
+Nov 26
+: Thanksgiving (so no seminar) 
+
+Dec 3
+: TBD
+  : Zhen Huang 
+
+Dec 10
+: [Dynamical error bounds for continuum discretisation via Gauss quadrature rules—A Lieb-Robinson bound approach](https://aip.scitation.org/doi/10.1063/1.4940436)
+  : Jiasu Wang 
+
 
 #### Schedule (2021 Summer) 
 
