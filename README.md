@@ -9,10 +9,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 11</h3>
-  <h1>Theory of variational quantum simulation</h1>
-  <strong>Ethan Epperly</strong>
-  <h6>Nov 5th, 10 am -- 12 pm</h6>
+  <h3>Week 13</h3>
+  <h1>Error Bounds for Variational Quantum Time Evolution</h1>
+  <strong>Yu Tong</strong>
+  <h6>Nov 19th, 10 am -- 12 pm</h6>
 </div>
 
 
