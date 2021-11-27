@@ -9,10 +9,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 13</h3>
-  <h1>Error Bounds for Variational Quantum Time Evolution</h1>
-  <strong>Yu Tong</strong>
-  <h6>Nov 19th, 10 am -- 12 pm</h6>
+  <h3>Week 5</h3>
+  <h1>TBD</h1>
+  <strong>Zhen Huang</strong>
+  <h6>Dec 3rd, 10 am -- 12 pm</h6>
 </div>
 
 
