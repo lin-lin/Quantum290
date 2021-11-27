@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 13 Overview</h3>
-        <h2 class="highlighted-title">Error Bounds for Variational Quantum Time Evolution</h2>
-        <strong>Yu Tong</strong><br>
-        <p class="highlighted-byline">Friday, Nov 19th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 15 Overview</h3>
+        <h2 class="highlighted-title">TBD</h2>
+        <strong>Zhen Huang</strong><br>
+        <p class="highlighted-byline">Friday, Dec 3rd, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -14,9 +14,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">TBD</h2>
-        <strong>Zhen Huang</strong><br>
-        <p class="highlighted-byline">Friday, Dec 3rd, <strong> 10 am -- 12 pm</strong></p>
+        <h2 class="highlighted-title">Dynamical error bounds for continuum discretisation</h2>
+        <strong>Jiasu Wang</strong><br>
+        <p class="highlighted-byline">Friday, Dec 10th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
