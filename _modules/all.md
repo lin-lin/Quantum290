@@ -4,7 +4,7 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 15 Overview</h3>
-        <h2 class="highlighted-title">TBD</h2>
+        <h2 class="highlighted-title">Exact Factorization Embedding Theory</h2>
         <strong>Zhen Huang</strong><br>
         <p class="highlighted-byline">Friday, Dec 3rd, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
@@ -82,8 +82,11 @@ Nov 26
 : Thanksgiving (so no seminar) 
 
 Dec 3
-: TBD
+: Exact Factorization Embedding Theory
   : Zhen Huang 
+: [Fock Space Embedding theory](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.116401)
+: [Exact Factorization Embedding theory](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.206401)
+
 
 Dec 10
 : [Dynamical error bounds for continuum discretisation via Gauss quadrature rules—A Lieb-Robinson bound approach](https://aip.scitation.org/doi/10.1063/1.4940436)
