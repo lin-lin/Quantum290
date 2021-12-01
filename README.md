@@ -10,7 +10,7 @@
 
 <div align="center">
   <h3>Week 15</h3>
-  <h1>TBD</h1>
+  <h1>Exact Factorization Embedding Theory</h1>
   <strong>Zhen Huang</strong>
   <h6>Dec 3rd, 10 am -- 12 pm</h6>
 </div>
@@ -36,7 +36,7 @@
 | 12   | 11/11 (Special date) |   | Joseph Tindall (Oxford)       |            |
 | 13   | 11/19 | Error Bounds for Variational Quantum Time Evolution | Yu Tong |            |
 | 14   | 11/26 | Thanksgiving (so no seminar)                          |                  |            |
-| 15   | 12/03 | TBD                                                   | Zhen Huang       |            |
+| 15   | 12/03 | Exact Factorization Embedding Theory                  | Zhen Huang       |            |
 | 16   | 12/10 | Dynamical error bounds for continuum discretisation |  Jiasu Wang                |            |
 | 17   | 12/17 |                                                       |                  |            |
 
