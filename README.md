@@ -9,10 +9,10 @@
 ---------
 
 <div align="center">
-  <h3>Week 15</h3>
-  <h1>Exact Factorization Embedding Theory</h1>
-  <strong>Zhen Huang</strong>
-  <h6>Dec 3rd, 10 am -- 12 pm</h6>
+  <h3>Week 16</h3>
+  <h1>Dynamical error bounds for continuum discretisation</h1>
+  <strong>Jiasu Wang</strong>
+  <h6>Dec 10th, 10 am -- 12 pm</h6>
 </div>
 
 
@@ -38,7 +38,7 @@
 | 14   | 11/26 | Thanksgiving (so no seminar)                          |                  |            |
 | 15   | 12/03 | Exact Factorization Embedding Theory                  | Zhen Huang       |            |
 | 16   | 12/10 | Dynamical error bounds for continuum discretisation |  Jiasu Wang                |            |
-| 17   | 12/17 |                                                       |                  |            |
+| 17   | 12/16 | Quantum Monte Carlo approaches for strongly correlated systems | Ankit Mahajan |            |
 
 -----
 
