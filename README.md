@@ -9,12 +9,16 @@
 ---------
 
 <div align="center">
-  <h3>Week 16</h3>
-  <h1>Dynamical error bounds for continuum discretisation</h1>
-  <strong>Jiasu Wang</strong>
-  <h6>Dec 10th, 10 am -- 12 pm</h6>
+  <h3>Week 17</h3>
+  <h1>Quantum Monte Carlo approaches for strongly correlated systems</h1>
+  <strong>Ankit Mahajan</strong>
+  <h6>Dec 16th, 10 am -- 11 am</h6>
 </div>
 
+<div align="left">
+  <h5>Abstract</h5>
+  <h6>Quantum Monte Carlo (QMC) methods are some of the most accurate and versatile tools available to tackle the quantum many-body problem. In this talk, I will present methodological developments we have made to incorporate ab initio Hamiltonians and wave functions from quantum chemistry into lattice-based QMC methods. I will talk about our work regarding the use of selected configuration interaction and coupled-cluster trial states in auxiliary field QMC to manage the sign problem. I will show benchmark calculations demonstrating the promise of our approach for obtaining near-exact ground state energies in correlated molecular systems. I will also discuss the use of symmetry projected mean-field states in variational Monte Carlo and their efficacy in describing certain types of strongly correlated systems.</h6>
+</div>
 
 ## 📌 Schedule (2021 Fall) 
 
