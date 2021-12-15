@@ -3,10 +3,13 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 16 Overview</h3>
-        <h2 class="highlighted-title">Dynamical error bounds for continuum discretisation</h2>
-        <strong>Jiasu Wang</strong><br>
-        <p class="highlighted-byline">Friday, Dec 10th, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 17 Overview</h3>
+        <h2 class="highlighted-title">Quantum Monte Carlo approaches for strongly correlated systems</h2>
+        <ul class="lists two-col animate-3">
+Abstract: Quantum Monte Carlo (QMC) methods are some of the most accurate and versatile tools available to tackle the quantum many-body problem. In this talk, I will present methodological developments we have made to incorporate ab initio Hamiltonians and wave functions from quantum chemistry into lattice-based QMC methods. I will talk about our work regarding the use of selected configuration interaction and coupled-cluster trial states in auxiliary field QMC to manage the sign problem. I will show benchmark calculations demonstrating the promise of our approach for obtaining near-exact ground state energies in correlated molecular systems. I will also discuss the use of symmetry projected mean-field states in variational Monte Carlo and their efficacy in describing certain types of strongly correlated systems.
+        </ul>
+        <strong>Ankit Mahajan</strong><br>
+        <p class="highlighted-byline">Friday, Dec 16th, <strong> 10 am -- 11 am</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -14,12 +17,7 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">Quantum Monte Carlo approaches for strongly correlated systems</h2>
-        <ul class="lists two-col animate-3">
-Abstract: Quantum Monte Carlo (QMC) methods are some of the most accurate and versatile tools available to tackle the quantum many-body problem. In this talk, I will present methodological developments we have made to incorporate ab initio Hamiltonians and wave functions from quantum chemistry into lattice-based QMC methods. I will talk about our work regarding the use of selected configuration interaction and coupled-cluster trial states in auxiliary field QMC to manage the sign problem. I will show benchmark calculations demonstrating the promise of our approach for obtaining near-exact ground state energies in correlated molecular systems. I will also discuss the use of symmetry projected mean-field states in variational Monte Carlo and their efficacy in describing certain types of strongly correlated systems.
-        </ul>
-        <strong>Ankit Mahajan</strong><br>
-        <p class="highlighted-byline">Friday, Dec 16th, <strong> 10 am -- 11 am</strong></p>
+        <h2 class="highlighted-title">Happy Holiday!</h2>
         <span class="dividing-bar"></span>
     </div>
 </section>
