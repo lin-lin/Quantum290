@@ -16,25 +16,25 @@
 <details>
 <summary>Schedule (2021 Fall)</summary>
 
-| Week | Date  | Topic                                                 | Speaker          | References |
-| ---- | ----- | ----------------------------------------------------- | ---------------- | ---------- |
-| 1    | 8/27  | Quantum Subspace Diagonalization.                     | Ethan Epperly    |            |
-| 2    | 9/3   | DMET for SIAM                                         | Raehyun Kim      |            |
-| 3    | 9/10  | Parallel Quantum Algorithm for Hamiltonian Simulation | Nilin Abrahamsen |            |
-| 4    | 09/17 | Variational Schrieffer-Wolff Transformation           | Jiahao Yao       |            |
-| 5    | 09/24 | Genetic column generation                             | Kevin Stubbs     |            |
-| 6    | 10/01 | Hybridized Methods for Quantum Simulation in the Interaction Picture     | Di Fang          |            |
-| 7    | 10/08 | Fast Amplification of QMA                             | Subhayan Roy Moulik |            |
-| 8    | 10/15 | Fast-forwarding quantum evolution                     | Yulong Dong      |            |
-| 9    | 10/22 | Quantum Algorithms to Simulate Correlated Fermions    | Fabian Faulstich |            |
-| 10   | 10/29 | Self-consistent second-order Green’s function perturbation theory for periodic systems| Xin Xing                 |            |
-| 11   | 11/05 | Theory of variational quantum simulation | Ethan Epperly       |            |
-| 12   | 11/11 (Special date) |   | Joseph Tindall (Oxford)       |            |
-| 13   | 11/19 | Error Bounds for Variational Quantum Time Evolution | Yu Tong |            |
-| 14   | 11/26 | Thanksgiving (so no seminar)                          |                  |            |
-| 15   | 12/03 | Exact Factorization Embedding Theory                  | Zhen Huang       |            |
-| 16   | 12/10 | Dynamical error bounds for continuum discretisation |  Jiasu Wang                |            |
-| 17   | 12/16 | Quantum Monte Carlo approaches for strongly correlated systems | Ankit Mahajan |            |
+| Week | Date                 | Topic                                                                                  | Speaker                 | References |
+|------|----------------------|----------------------------------------------------------------------------------------|-------------------------|------------|
+| 1    | 8/27                 | Quantum Subspace Diagonalization.                                                      | Ethan Epperly           |            |
+| 2    | 9/3                  | DMET for SIAM                                                                          | Raehyun Kim             |            |
+| 3    | 9/10                 | Parallel Quantum Algorithm for Hamiltonian Simulation                                  | Nilin Abrahamsen        |            |
+| 4    | 09/17                | Variational Schrieffer-Wolff Transformation                                            | Jiahao Yao              |            |
+| 5    | 09/24                | Genetic column generation                                                              | Kevin Stubbs            |            |
+| 6    | 10/01                | Hybridized Methods for Quantum Simulation in the Interaction Picture                   | Di Fang                 |            |
+| 7    | 10/08                | Fast Amplification of QMA                                                              | Subhayan Roy Moulik     |            |
+| 8    | 10/15                | Fast-forwarding quantum evolution                                                      | Yulong Dong             |            |
+| 9    | 10/22                | Quantum Algorithms to Simulate Correlated Fermions                                     | Fabian Faulstich        |            |
+| 10   | 10/29                | Self-consistent second-order Green’s function perturbation theory for periodic systems | Xin Xing                |            |
+| 11   | 11/05                | Theory of variational quantum simulation                                               | Ethan Epperly           |            |
+| 12   | 11/11 (Special date) |                                                                                        | Joseph Tindall (Oxford) |            |
+| 13   | 11/19                | Error Bounds for Variational Quantum Time Evolution                                    | Yu Tong                 |            |
+| 14   | 11/26                | Thanksgiving (so no seminar)                                                           |                         |            |
+| 15   | 12/03                | Exact Factorization Embedding Theory                                                   | Zhen Huang              |            |
+| 16   | 12/10                | Dynamical error bounds for continuum discretisation                                    | Jiasu Wang              |            |
+| 17   | 12/16                | Quantum Monte Carlo approaches for strongly correlated systems                         | Ankit Mahajan           |            |
 
 </details>
 
