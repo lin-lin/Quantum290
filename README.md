@@ -1,9 +1,6 @@
 [![Math290](asset/quantum290-logo.svg)](https://math290.com/)
 ----------------------------
-
-# MATH 290:electron:
-
-### 🌟 Virtual quantum many-body seminar, 2022
+### 🌟 Virtual quantum many-body seminar:electron:, 2022
 
 - **When:** 🕒 Fridays 10AM-12PM
 - **Where:** Evans 891
