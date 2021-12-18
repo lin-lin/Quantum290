@@ -140,7 +140,7 @@
 </details>
 
 
-<br>[⬆ Back to top](#math-290electron)
+<br>[⬆ Back to top](#)
 
 
 ## Reading materials (randomly ordered)
@@ -205,5 +205,5 @@
 58. Bravyi, S., Chowdhury, A., Gosset, D., & Wocjan, P. (2021). On the complexity of quantum partition functions. http://arxiv.org/abs/2110.15466
 
 
-<br>[⬆ Back to top](#math-290electron)
+<br>[⬆ Back to top](#)
 
