@@ -1,6 +1,6 @@
 # MATH 290:electron:	
 
-### 🌟 Virtual quantum many-body seminar, 2020 Fall to 2021 Fall
+### 🌟 Virtual quantum many-body seminar, 2022
 
 - **When:** 🕒 Fridays 10AM-12PM
 - **Where:** Evans 891
@@ -20,9 +20,14 @@
   <h6>Quantum Monte Carlo (QMC) methods are some of the most accurate and versatile tools available to tackle the quantum many-body problem. In this talk, I will present methodological developments we have made to incorporate ab initio Hamiltonians and wave functions from quantum chemistry into lattice-based QMC methods. I will talk about our work regarding the use of selected configuration interaction and coupled-cluster trial states in auxiliary field QMC to manage the sign problem. I will show benchmark calculations demonstrating the promise of our approach for obtaining near-exact ground state energies in correlated molecular systems. I will also discuss the use of symmetry projected mean-field states in variational Monte Carlo and their efficacy in describing certain types of strongly correlated systems.</h6>
 </div>
 
-## 📌 Schedule (2021 Fall) 
+## 📌 Schedule (2022 Spring) 
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-09), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+
+-----
+
+<details>
+<summary>Schedule (2021 Fall)</summary>
 
 | Week | Date  | Topic                                                 | Speaker          | References |
 | ---- | ----- | ----------------------------------------------------- | ---------------- | ---------- |
