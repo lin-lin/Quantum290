@@ -36,7 +36,7 @@
 | 16   | 12/10 | Dynamical error bounds for continuum discretisation |  Jiasu Wang                |            |
 | 17   | 12/16 | Quantum Monte Carlo approaches for strongly correlated systems | Ankit Mahajan |            |
 
------
+</details>
 
 <details>
 <summary>Schedule (2021 Summer)</summary>
