@@ -9,7 +9,7 @@
 
 ## 📌 Schedule (2022 Spring) 
 
-🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2021-09), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2022-01), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
 -----
 
