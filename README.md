@@ -35,6 +35,7 @@
 | 15   | 12/03 | Exact Factorization Embedding Theory                  | Zhen Huang       |            |
 | 16   | 12/10 | Dynamical error bounds for continuum discretisation |  Jiasu Wang                |            |
 | 17   | 12/16 | Quantum Monte Carlo approaches for strongly correlated systems | Ankit Mahajan |            |
+</details>
 
 -----
 
@@ -119,66 +120,29 @@
 
 </details>
 
-## Reading materials (randomly ordered)
+## Reading materials 
 
-1. D. Chaykin, C. Jansson, F. Keil, M. Lange, K.T. Ohlhus, S.M. Rump, Rigorous Lower Bounds for the Ground State Energy of Molecules by Employing Necessary N-Representability Conditions, J. Chem. Theory Comput. (2020). doi:10.1021/acs.jctc.0c00497.
-2. B. Leimkuhler, M. Sachs, Efficient Numerical Algorithms for the Generalized Langevin Equation, (2020) 1–33. http://arxiv.org/abs/2012.04245.
-3. A. Nahum, S. Vijay, J. Haah, Operator Spreading in Random Unitary Circuits, Phys. Rev. X. 8 (2018) 021014. doi:10.1103/PhysRevX.8.021014.
-4. C.W. Von Keyserlingk, T. Rakovszky, F. Pollmann, S.L. Sondhi, Operator Hydrodynamics, OTOCs, and Entanglement Growth in Systems without Conservation Laws, Phys. Rev. X. 8 (2018) 21013. doi:10.1103/PhysRevX.8.021013.
-5. F. Arute, et al Observation of separated dynamics of charge and spin in the Fermi-Hubbard model, (2020). http://arxiv.org/abs/2010.07965.
-6. M. Kolodrubetz, D. Sels, P. Mehta, A. Polkovnikov, Geometry and non-adiabatic response in quantum and classical systems, Phys. Rep. 697 (2017) 1–87. doi:10.1016/j.physrep.2017.07.001.
-7. X. Yuan, S. Endo, Q. Zhao, Y. Li, S.C. Benjamin, Theory of variational quantum simulation, Quantum. 3 (2019) 191. doi:10.22331/q-2019-10-07-191.
-8. A. Roggero, C. Gu, A. Baroni, T. Papenbrock, Preparation of excited states on a quantum computer, (2020) 1–25. http://arxiv.org/abs/2009.13485.
-9. S. Chakraborty, L. Novo, J. Roland, Finding a marked node on any graph via continuous-time quantum walks, Phys. Rev. A. 102 (2020). doi:10.1103/PhysRevA.102.022227.
-10. A. Kardashin, A. Uvarov, D. Yudin, J. Biamonte, Certified variational quantum algorithms for eigenstate preparation, ArXiv. (2020) 1–9. doi:10.1103/PhysRevA.102.052610.
-11. C. Lin, D. Sels, Y. Ma, Y. Wang, Stochastic optimal control formalism for an open quantum system, Phys. Rev. A. 102 (2020) 52605. doi:10.1103/PhysRevA.102.052605.
-12. J. Helsen, I. Roth, E. Onorati, A.H. Werner, J. Eisert, A general framework for randomized benchmarking, (2020) 1–60. http://arxiv.org/abs/2010.07974.
-13. Quantum advantage with shallow circuits, https://arxiv.org/abs/1704.00690
-14. The maximum speed of dynamical evolution, https://arxiv.org/abs/quant-ph/9710043
-15. Benjamin Zanger, Christian B. Mendl, Martin Schulz, Martin Schreiber, Quantum Algorithms for Solving Ordinary Differential Equations, https://arxiv.org/pdf/2012.09469.pdf
-16. T. Shi, E. Demler, J.I. Cirac, Variational Approach for Many-Body Systems at Finite Temperature, Phys. Rev. Lett. 125 (2020) 180602. doi:10.1103/PhysRevLett.125.180602.
-46. R. Sweke, F. Wilde, J. Meyer, M. Schuld, P.K. Faehrmann, B. Meynard-Piganeau, J. Eisert, Stochastic gradient descent for hybrid quantum-classical optimization, Quantum. 4 (2020) 314. doi:10.22331/q-2020-08-31-314.
-47. J.S. Kretchmer, G.K.L. Chan, A real-time extension of density matrix embedding theory for non-equilibrium electron dynamics, J. Chem. Phys. 148 (2018). doi:10.1063/1.5012766.
-50. C. Lupo, F. Jamet, T. Tse, I. Rungger, C. Weber, Maximally Localized Dynamical Quantum Embedding for Solving Many-Body Correlated Systems, ArXiv. (2020) 1–21. http://arxiv.org/abs/2008.04281.
-51. Pei, Michael Y., and Stephen R. Clark. "Compact Neural-network Quantum State representations of Jastrow and Stabilizer states." arXiv preprint arXiv:2103.09146 (2021).
-57. S. Guo, F. Chen, Q. Liu, M. Xue, J. Chen, J. Cao, T. Mao, M.K. Tey, L. You, Faster State Preparation across Quantum Phase Transition Assisted by Reinforcement Learning, 2 (2020) 1–17. doi:10.1103/PhysRevLett.126.060401
-61. J. Lemieux, B. Heim, D. Poulin, K. Svore, M. Troyer, Efficient Quantum Walk Circuits for Metropolis-Hastings Algorithm, Quantum. 4 (2020) 287. doi:10.22331/q-2020-06-29-287.
-62. A. Go, A.J. Millis, Adaptively truncated Hilbert space based impurity solver for dynamical mean-field theory, Phys. Rev. B. 96 (2017) 085139. doi:10.1103/PhysRevB.96.085139.
-63. Y.-H. Chen, A. Kalev, I. Hen, A quantum algorithm for time-dependent Hamiltonian simulation by permutation expansion, (2021) 1–22. http://arxiv.org/abs/2103.15334.
-64. O. Sharir, A. Shashua, G. Carleo, Neural tensor contractions and the expressive power of deep neural quantum states, (2021). http://arxiv.org/abs/2103.10293.
-65. K. Sugisaki, K. Toyota, K. Sato, D. Shiomi, T. Takui, Quantum Algorithm for the Direct Calculations of Vertical Ionization Energies, J. Phys. Chem. Lett. (2021) 2880–2885. doi:10.1021/acs.jpclett.1c00283.
-70. Karlsson, D., van Leeuwen, R., Pavlyukh, Y., Perfetto, E., & Stefanucci, G. (2021). Fast Green’s Function Method for Ultrafast Electron-Boson Dynamics. Physical Review Letters, 127(3), 1–7. https://doi.org/10.1103/PhysRevLett.127.036402
-71. Zoufal, C., Sutter, D., & Woerner, S. (2021). Error Bounds for Variational Quantum Time Evolution. 1–13. http://arxiv.org/abs/2108.00022
-72. Guo, N., Mitarai, K., & Fujii, K. (2021). Nonlinear transformation of complex amplitudes via quantum singular value transformation. 1–3. http://arxiv.org/abs/2107.10764
-73. Venuti, L. C., D’Alessandro, D., & Lidar, D. A. (2021). Optimal Control for Closed and Open System Quantum Optimization. 1–21. http://arxiv.org/abs/2107.03517
-74. Fei, J., Yeh, C., Zgid, D., & Gull, E. (2021). Analytical Continuation of Matrix-Valued Functions: Carath\’eodory Formalism. http://arxiv.org/abs/2107.00788
-75. Chen, S., Zhou, S., Seif, A., & Jiang, L. (2021). Quantum advantages for Pauli channel estimation. 1–21. http://arxiv.org/abs/2108.08488
-76. Bosse, J. L., & Montanaro, A. (2021). Probing ground state properties of the kagome antiferromagnetic Heisenberg model using the Variational Quantum Eigensolver. 1–12. http://arxiv.org/abs/2108.08086
-77. Haferkamp, J., Faist, P., Kothakonda, N. B. T., Eisert, J., & Halpern, N. Y. (2021). Linear growth of quantum circuit complexity. 1–18. http://arxiv.org/abs/2106.05305
-78. Abbas, A., Sutter, D., Zoufal, C., Lucchi, A., Figalli, A., & Woerner, S. (2021). The power of quantum neural networks. Nature Computational Science, 1(6), 403–409. https://doi.org/10.1038/s43588-021-00084-1
-79. Kaye, J., Chen, K., & Parcollet, O. (n.d.). Discrete Lehmann representation of imaginary time Green’s functions. 1, 1–19.
-80. Alliati, I. M., Grüning, M., & Sangalli, D. (2021). Double $\mathbf{k}$-Grid Method for Solving the Bethe-Salpeter Equation via Lanczos Approaches. http://arxiv.org/abs/2108.11174
-81. Pellow-Jarman, A., Sinayskiy, I., Pillay, A., & Petruccione, F. (2021). Near Term Algorithms for Linear Systems of Equations. 1–13. http://arxiv.org/abs/2108.11362
-82. Jiang, Z., Sung, K. J., Kechedzhi, K., Smelyanskiy, V. N., & Boixo, S. (2018). Quantum Algorithms to Simulate Many-Body Physics of Correlated Fermions. Physical Review Applied, 9(4), 44036. https://doi.org/10.1103/PhysRevApplied.9.044036
-83. Friesecke, G., Schulz, A. S., & Vögler, D. (2021). Genetic column generation: Fast computation of high-dimensional multi-marginal optimal transport problems. 1–25. http://arxiv.org/abs/2103.12624
-62. Snyman, I., & Florens, S. (2021). Efficient impurity-bath trial states from superposed Slater determinants. http://arxiv.org/abs/2106.14027
-63. Boutin, S., & Bauer, B. (2021). Quantum impurity models using superpositions of fermionic Gaussian states: Practical methods and applications. http://arxiv.org/abs/2105.01088
-64. Ollitrault, P. J., Mazzola, G., & Tavernelli, I. (2020). Nonadiabatic Molecular Quantum Dynamics with Quantum Computers. Physical Review Letters, 125(26), 260511. https://doi.org/10.1103/PhysRevLett.125.260511
-65. Rusakov, A. A., & Zgid, D. (2016). Self-consistent second-order Green’s function perturbation theory for periodic systems. Journal of Chemical Physics, 144(5). https://doi.org/10.1063/1.4940900
-66. Woods, M. P., Cramer, M., & Plenio, M. B. (2015). Simulating Bosonic Baths with Error Bars. Physical Review Letters, 115(3), 1–14. https://doi.org/10.1103/PhysRevLett.115.130401
-67. Tamascelli, D., Smirne, A., Lim, J., Huelga, S. F., & Plenio, M. B. (2019). Efficient Simulation of Finite-Temperature Open Quantum Systems. Physical Review Letters, 123(9), 90402. https://doi.org/10.1103/PhysRevLett.123.090402
-68. Mascherpa, F., Smirne, A., Huelga, S. F., & Plenio, M. B. (2017). Open Systems with Error Bounds: Spin-Boson Model with Spectral Density Variations. Physical Review Letters, 118(10), 1–5. https://doi.org/10.1103/PhysRevLett.118.100401
-69. Woods, M. P., & Plenio, M. B. (2016). Dynamical error bounds for continuum discretisation via Gauss quadrature rules-A Lieb-Robinson bound approach. Journal of Mathematical Physics, 57(2), 1–19. https://doi.org/10.1063/1.4940436
-70. Nüßeler, A., Dhand, I., Huelga, S. F., & Plenio, M. B. (2020). Efficient simulation of open quantum systems coupled to a fermionic bath. Physical Review B, 101(15), 1–20. https://doi.org/10.1103/PhysRevB.101.155134
-71. Tamascelli, D., Smirne, A., Huelga, S. F., & Plenio, M. B. (2018). Nonperturbative Treatment of non-Markovian Dynamics of Open Quantum Systems. Physical Review Letters, 120(3), 30402. https://doi.org/10.1103/PhysRevLett.120.030402
-72. Purkayastha, A., Guarnieri, G., Campbell, S., Prior, J., & Goold, J. (2021). Periodically refreshed baths to simulate open quantum many-body dynamics. Physical Review B, 104(4), 1–16. https://doi.org/10.1103/PhysRevB.104.045417
-73. Cygorek, M., Cosacchi, M., Vagov, A., Axt, V. M., Lovett, B. W., Keeling, J., & Gauger, E. M. (2021). Numerically-exact simulations of arbitrary open quantum systems using automated compression of environments. http://arxiv.org/abs/2101.01653
-74. Goto, T., Tran, Q. H., & Nakajima, K. (2021). Universal Approximation Property of Quantum Machine Learning Models in Quantum-Enhanced Feature Spaces. Physical Review Letters, 127(9), 90506. https://doi.org/10.1103/PhysRevLett.127.090506
-54. Requist, R., & Gross, E. K. U. (2021). Fock-Space Embedding Theory: Application to Strongly Correlated Topological Phases. Physical Review Letters, 127(11), 116401. https://doi.org/10.1103/physrevlett.127.116401
-55. Han, M., & Choi, H. J. (2021). Causal optimization method for imaginary-time Green’s functions in interacting electron systems. 115112. https://doi.org/10.1103/PhysRevB.104.115112
-56. Li, H., Gupta, S., Yu, H., Ying, L., & Dhillon, I. (2021). Quasi-Newton policy gradient algorithms. 1(4), 1–18. http://arxiv.org/abs/2110.02398
-57. Martyn, J. M., Liu, Y., Chin, Z. E., & Chuang, I. L. (2021). Efficient Fully-Coherent Hamiltonian Simulation. 1–22. http://arxiv.org/abs/2110.11327
-58. Bravyi, S., Chowdhury, A., Gosset, D., & Wocjan, P. (2021). On the complexity of quantum partition functions. http://arxiv.org/abs/2110.15466
+1. Bravyi, S., Chowdhury, A., Gosset, D., & Wocjan, P. (2021). On the complexity of quantum partition functions. http://arxiv.org/abs/2110.15466
+2. Cohn, J., Motta, M., & Parrish, R. M. (2021). Quantum Filter Diagonalization with Double-Factorized Hamiltonians. Physical Review Applied, 10(1), 1. https://doi.org/10.1103/PRXQuantum.2.040352
+3. Boutin, S., & Bauer, B. (2021). Quantum impurity models using superpositions of fermionic Gaussian states: Practical methods and applications. http://arxiv.org/abs/2105.01088
+4. Cygorek, M., Cosacchi, M., Vagov, A., Axt, V. M., Lovett, B. W., Keeling, J., & Gauger, E. M. (2021). Numerically-exact simulations of arbitrary open quantum systems using automated compression of environments. http://arxiv.org/abs/2101.01653
+5. Karlsson, D., van Leeuwen, R., Pavlyukh, Y., Perfetto, E., & Stefanucci, G. (2021). Fast Green’s Function Method for Ultrafast Electron-Boson Dynamics. Physical Review Letters, 127(3), 1–7. https://doi.org/10.1103/PhysRevLett.127.036402
+6. Snyman, I., & Florens, S. (2021). Efficient impurity-bath trial states from superposed Slater determinants. http://arxiv.org/abs/2106.14027
+7. Martyn, J. M., Liu, Y., Chin, Z. E., & Chuang, I. L. (2021). Efficient Fully-Coherent Hamiltonian Simulation. 1–22. http://arxiv.org/abs/2110.11327
+8. Han, M., & Choi, H. J. (2021). Causal optimization method for imaginary-time Green’s functions in interacting electron systems. 115112. https://doi.org/10.1103/PhysRevB.104.115112
+9. Hastings, M. B., & O’Donnell, R. (2021). Optimizing Strongly Interacting Fermionic Hamiltonians. http://arxiv.org/abs/2110.10701
+10. Bender, J., Zohar, E., Farace, A., & Cirac, J. I. (2018). Digital quantum simulation of lattice gauge theories in three spatial dimensions. New Journal of Physics, 20(9). https://doi.org/10.1088/1367-2630/aadb71
+11. Zohar, E., Farace, A., Reznik, B., & Cirac, J. I. (2017). Digital Quantum Simulation of Z2 Lattice Gauge Theories with Dynamical Fermionic Matter. Physical Review Letters, 118(7), 1–5. https://doi.org/10.1103/PhysRevLett.118.070501
+11. Bernevig, B. A., Song, Z.-D., Regnault, N., & Lian, B. (2021). Twisted bilayer graphene. III. Interacting Hamiltonian and exact symmetries. Physical Review B, 103(20), 205413. https://doi.org/10.1103/PhysRevB.103.205413
+11. Pérez-Salinas, A., López-Núñez, D., García-Sáez, A., Forn-Díaz, P., & Latorre, J. I. (2021). One qubit as a universal approximant. Physical Review A, 104(1), 1–15. https://doi.org/10.1103/PhysRevA.104.012405
+11. Evangelista, F. A., Chan, G. K. L., & Scuseria, G. E. (2019). Exact parameterization of fermionic wave functions via unitary coupled cluster theory. Journal of Chemical Physics, 151(24). https://doi.org/10.1063/1.5133059
+11. Moreno, J. R., Carleo, G., Georges, A., & Stokes, J. (2021). Fermionic Wave Functions from Neural-Network Constrained Hidden States. 1–12. http://arxiv.org/abs/2111.10420
+
+## Proposed tutorial topics
+
+1. Twisted bilayer graphene: symmetry properties, and interacting Bistritzer-Macdonald models
+2. Lattice gauge theory
+3. Many body Green's function theory
 
 
 
