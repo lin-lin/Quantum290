@@ -1,4 +1,7 @@
-# MATH 290:electron:	
+[![Math290](asset/quantum290-logo.svg)](https://math290.com/)
+----------------------------
+
+# MATH 290:electron:
 
 ### 🌟 Virtual quantum many-body seminar, 2022
 
