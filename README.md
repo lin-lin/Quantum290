@@ -160,6 +160,7 @@
 11. Pérez-Salinas, A., López-Núñez, D., García-Sáez, A., Forn-Díaz, P., & Latorre, J. I. (2021). One qubit as a universal approximant. Physical Review A, 104(1), 1–15. https://doi.org/10.1103/PhysRevA.104.012405
 11. Evangelista, F. A., Chan, G. K. L., & Scuseria, G. E. (2019). Exact parameterization of fermionic wave functions via unitary coupled cluster theory. Journal of Chemical Physics, 151(24). https://doi.org/10.1063/1.5133059
 11. Moreno, J. R., Carleo, G., Georges, A., & Stokes, J. (2021). Fermionic Wave Functions from Neural-Network Constrained Hidden States. 1–12. http://arxiv.org/abs/2111.10420
+12. Rajput, A., Roggero, A., & Wiebe, N. (2021). Quantum Error Correction with Gauge Symmetries. http://arxiv.org/abs/2112.05186
 
 ## Proposed tutorial topics
 
