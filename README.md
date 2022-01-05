@@ -158,6 +158,7 @@
 11. Moreno, J. R., Carleo, G., Georges, A., & Stokes, J. (2021). Fermionic Wave Functions from Neural-Network Constrained Hidden States. 1–12. http://arxiv.org/abs/2111.10420
 12. Rajput, A., Roggero, A., & Wiebe, N. (2021). Quantum Error Correction with Gauge Symmetries. http://arxiv.org/abs/2112.05186
 13. Holmes, Z., Coble, N., Sornborger, A. T., & Subaşı, Y. (2021). On nonlinear transformations in quantum computation. http://arxiv.org/abs/2112.12307
+14. Shtanko, O., & Movassagh, R. (2021). Algorithms for Gibbs state preparation on noiseless and noisy random quantum circuits. http://arxiv.org/abs/2112.14688
 
 ## Proposed tutorial topics
 
