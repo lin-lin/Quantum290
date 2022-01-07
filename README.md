@@ -7,6 +7,15 @@
 - **Moderator**: Jiahao Yao
 
 
+
+<div align="center">
+  <h3>Week 1</h3>
+  <h1>String theory, Geometry, and Machine Learning</h1>
+  <strong>Challenger Mishra</strong>
+  <h6>Jan 14th, 10 am -- 12 pm</h6>
+</div>
+
+
 ## 📌 Schedule (2022 Spring) 
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2022-01), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
