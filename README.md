@@ -169,6 +169,7 @@
 12. Rajput, A., Roggero, A., & Wiebe, N. (2021). Quantum Error Correction with Gauge Symmetries. http://arxiv.org/abs/2112.05186
 13. Holmes, Z., Coble, N., Sornborger, A. T., & Subaşı, Y. (2021). On nonlinear transformations in quantum computation. http://arxiv.org/abs/2112.12307
 14. Shtanko, O., & Movassagh, R. (2021). Algorithms for Gibbs state preparation on noiseless and noisy random quantum circuits. http://arxiv.org/abs/2112.14688
+15. Yang, Y., Lu, B.-N., & Li, Y. (2021). Accelerated quantum Monte Carlo with mitigated error on noisy quantum computer. Physical Review Applied, 10(1), 1. https://doi.org/10.1103/prxquantum.2.040361
 
 ## Proposed tutorial topics
 
