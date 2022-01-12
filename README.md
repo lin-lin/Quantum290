@@ -27,18 +27,18 @@
 | 2    | 02/18 |                 |         |            |
 | 3    | 02/25 |                 |         |            |
 | 4    | 03/04 |                 |         |            |
-| 5    | 03/11 |                 |         |            |
+| 5    | 03/11 | (Advancing Quantum Mechanics with Mathematics and Statistics Tutorials) |         |            |
 | 6    | 03/18 |                 |         |            |
 | 7    | 03/25 | (Spring Recess) |         |            |
-| 8    | 04/01 |                 |         |            |
+| 8    | 04/01 | (Workshop I: Multiscale Approaches in Quantum Mechanics) |         |            |
 | 9    | 04/08 |                 |         |            |
-| 10   | 04/15 |                 |         |            |
+| 10   | 04/15 | (Workshop II: Model Reduction in Quantum Mechanics) |         |            |
 | 11   | 04/22 |                 |         |            |
 | 12   | 04/29 |                 |         |            |
-| 13   | 05/06 |                 |         |            |
+| 13   | 05/06 | (Workshop III: Large-Scale Certified Numerical Methods in Quantum Mechanics) |         |            |
 | 14   | 05/13 |                 |         |            |
-| 15   | 05/20 |                 |         |            |
-| 16   | 05/27 |                 |         |            |
+| 15   | 05/20 | (miniWorkshop on Moire systems) |         |            |
+| 16   | 05/27 | (Workshop IV: Monte Carlo and Machine Learning Approaches in Quantum Mechanics) |         |            |
 
 -----
 
