@@ -22,7 +22,7 @@
 
 | Week | Date  | Topic           | Speaker | References |
 |------|-------|-----------------|---------|------------|
-| 0    | 01/14 | String theory, Geometry, and Machine Learning | Challenger Mishra| |
+| 0    | 02/04 | Coupled-cluster theory revisited  | Mihaly Csirik |
 | 1    | 02/11 |                 |         |            |
 | 2    | 02/18 |                 |         |            |
 | 3    | 02/25 |                 |         |            |
