@@ -30,8 +30,8 @@
 | 0    | 02/04 | Coupled-cluster theory revisited  | Mihaly Csirik |
 | 1    | 02/11 |                 |         |            |
 | 2    | 02/18 |                 |         |            |
-| 3    | 02/25 |                 |         |            |
-| 4    | 03/04 |                 |         |            |
+| 3    | 02/25 |Twisted bilayer graphene|Raehyun Kim|            |
+| 4    | 03/04 |                 |Nilin Abrahamsen|            |
 | 5    | 03/11 | (Advancing Quantum Mechanics with Mathematics and Statistics Tutorials) |         |            |
 | 6    | 03/18 |                 |         |            |
 | 7    | 03/25 | (Spring Recess) |         |            |
