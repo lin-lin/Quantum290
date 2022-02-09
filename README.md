@@ -35,10 +35,10 @@
 | 8    | 04/01 | (Workshop I: Multiscale Approaches in Quantum Mechanics) |         |            |
 | 9    | 04/08 | lattice gauge theories | Yu Tong |            |
 | 10   | 04/15 | (Workshop II: Model Reduction in Quantum Mechanics) |         |            |
-| 11   | 04/22 |                 |         |            |
-| 12   | 04/29 |                 |         |            |
+| 11   | 04/22 |  TBD | Minh Tran (MIT) |            |
+| 12   | 04/29 |  TBD | Jiasu Wang      |            |
 | 13   | 05/06 | (Workshop III: Large-Scale Certified Numerical Methods in Quantum Mechanics) |         |            |
-| 14   | 05/13 |                 |         |            |
+| 14   | 05/13 |  TBD | Jiasu Wang      |            |
 | 15   | 05/20 | (miniWorkshop on Moire systems) |         |            |
 | 16   | 05/27 | (Workshop IV: Monte Carlo and Machine Learning Approaches in Quantum Mechanics) |         |            |
 
