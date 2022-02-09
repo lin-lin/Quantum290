@@ -175,7 +175,7 @@
 13. Holmes, Z., Coble, N., Sornborger, A. T., & Subaşı, Y. (2021). On nonlinear transformations in quantum computation. http://arxiv.org/abs/2112.12307
 14. Shtanko, O., & Movassagh, R. (2021). Algorithms for Gibbs state preparation on noiseless and noisy random quantum circuits. http://arxiv.org/abs/2112.14688
 15. Yang, Y., Lu, B.-N., & Li, Y. (2021). Accelerated quantum Monte Carlo with mitigated error on noisy quantum computer. Physical Review Applied, 10(1), 1. https://doi.org/10.1103/prxquantum.2.040361
-16. Meyer, R. A., Musco, C., Woodruff, D. P., & Musco, C. (2021). Hutch ++ : Optimal Stochastic Trace Estimation.
+16. Meyer, R. A., Musco, C., Musco, C., & Woodruff, D. P. (2020). Hutch++: Optimal Stochastic Trace Estimation. http://arxiv.org/abs/2010.09649
 
 ## Proposed tutorial topics
 
