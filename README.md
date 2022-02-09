@@ -9,16 +9,13 @@
 
 
 <div align="center">
-  <h3>Week 1</h3>
-  <h1>Coupled-cluster theory revisited</h1>
-  <strong>Mihaly Csirik</strong>
-  <h6>Feb 4th, 10 am -- 12 pm</h6>
+  <h3>Week 2</h3>
+  <h1>String theory, Geometry, and Machine Learning</h1>
+  <strong>Challenger Mishra</strong>
+  <h6>Feb 11th, 10 am -- 12 pm</h6>
 </div>
 
-<div align="left">
-  <h5>Abstract</h5>
-  <h6>We propose a comprehensive mathematical framework for Coupled-Cluster-type methods. These aim at accurately solving the many-body Schrödinger equation. The present work has two main aspects. First, we rigorously describe the discretization scheme involved in Coupled-Cluster methods using graph-based concepts. This allows us to discuss different methods in a unified and more transparent manner, including multireference methods. Second, we analyze the nonlinear equations of the single-reference Coupled-Cluster method using topological degree theory. We establish existence results and qualitative information about the solutions of these equations that also sheds light on some of the numerically observed behavior. For the truncated Coupled-Cluster method, we derive an energy error bound for approximate eigenstates of the Schrödinger equation.</h6>
-</div>
+
 
 
 ## 📌 Schedule (2022 Spring) 
@@ -28,7 +25,7 @@
 | Week | Date  | Topic           | Speaker | References |
 |------|-------|-----------------|---------|------------|
 | 0    | 02/04 | Coupled-cluster theory revisited  | Mihaly Csirik |
-| 1    | 02/11 |                 |         |            |
+| 1    | 02/11 | String theory, Geometry, and Machine Learning |Challenger Mishra|            |
 | 2    | 02/18 |                 |         |            |
 | 3    | 02/25 |Twisted bilayer graphene|Raehyun Kim|            |
 | 4    | 03/04 |                 |Nilin Abrahamsen|            |
