@@ -22,25 +22,25 @@
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2022-01), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
-| Week | Date  | Topic           | Speaker | References |
-|------|-------|-----------------|---------|------------|
-| 0    | 02/04 | Coupled-cluster theory revisited  | Mihaly Csirik |
-| 1    | 02/11 | String theory, Geometry, and Machine Learning |Challenger Mishra|            |
-| 2    | 02/18 | Optimal Stochastic Trace Estimation | Kevin Stubbs|            |
-| 3    | 02/25 |Twisted bilayer graphene|Raehyun Kim|            |
-| 4    | 03/04 | TBD                 |Nilin Abrahamsen|            |
-| 5    | 03/11 | (Advancing Quantum Mechanics with Mathematics and Statistics Tutorials) |         |            |
-| 6    | 03/18 | Exact parameterization of fermionic wave functions | Fabian Faulstich |            |
-| 7    | 03/25 | (Spring Recess) |         |            |
-| 8    | 04/01 | (Workshop I: Multiscale Approaches in Quantum Mechanics) |         |            |
-| 9    | 04/08 | lattice gauge theories | Yu Tong |            |
-| 10   | 04/15 | (Workshop II: Model Reduction in Quantum Mechanics) |         |            |
-| 11   | 04/22 |  TBD | Minh Tran (MIT) |            |
-| 12   | 04/29 |  TBD | Jiasu Wang      |            |
-| 13   | 05/06 | (Workshop III: Large-Scale Certified Numerical Methods in Quantum Mechanics) |         |            |
-| 14   | 05/13 |  TBD | Jiasu Wang      |            |
-| 15   | 05/20 | (miniWorkshop on Moire systems) |         |            |
-| 16   | 05/27 | (Workshop IV: Monte Carlo and Machine Learning Approaches in Quantum Mechanics) |         |            |
+| Week | Date  | Topic                                                                           | Speaker           | References |
+| ---- | ----- | ------------------------------------------------------------------------------- | ----------------- | ---------- |
+| 0    | 02/04 | Coupled-cluster theory revisited                                                | Mihaly Csirik     |
+| 1    | 02/11 | String theory, Geometry, and Machine Learning                                   | Challenger Mishra |            |
+| 2    | 02/18 | Optimal Stochastic Trace Estimation                                             | Kevin Stubbs      |            |
+| 3    | 02/25 | Twisted bilayer graphene                                                        | Raehyun Kim       |            |
+| 4    | 03/04 | TBD                                                                             | Nilin Abrahamsen  |            |
+| 5    | 03/11 | (Advancing Quantum Mechanics with Mathematics and Statistics Tutorials)         |                   |            |
+| 6    | 03/18 | Exact parameterization of fermionic wave functions                              | Fabian Faulstich  |            |
+| 7    | 03/25 | (Spring Recess)                                                                 |                   |            |
+| 8    | 04/01 | (Workshop I: Multiscale Approaches in Quantum Mechanics)                        |                   |            |
+| 9    | 04/08 | lattice gauge theories                                                          | Yu Tong           |            |
+| 10   | 04/15 | (Workshop II: Model Reduction in Quantum Mechanics)                             |                   |            |
+| 11   | 04/22 | TBD                                                                             | Minh Tran (MIT)   |            |
+| 12   | 04/29 | TBD                                                                             | Jiasu Wang        |            |
+| 13   | 05/06 | (Workshop III: Large-Scale Certified Numerical Methods in Quantum Mechanics)    |                   |            |
+| 14   | 05/13 | TBD                                                                             | Jiasu Wang        |            |
+| 15   | 05/20 | (miniWorkshop on Moire systems)                                                 |                   |            |
+| 16   | 05/27 | (Workshop IV: Monte Carlo and Machine Learning Approaches in Quantum Mechanics) |                   |            |
 
 -----
 
