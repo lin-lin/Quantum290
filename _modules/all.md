@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 1 Overview</h3>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 2 Overview</h3>
         <h2 class="highlighted-title">String theory, Geometry, and Machine Learning</h2>
         <strong>Challenger Mishra</strong><br>
-        <p class="highlighted-byline">Friday, Jan 14th, <strong> 10 am -- 12 am</strong></p>
+        <p class="highlighted-byline">Friday, Feb 11th, <strong> 10 am -- 12 am</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -23,9 +23,45 @@
 
 ## 📌 Schedule (2022 Spring) 
 
-Aug 27
+Feb 4
+: Coupled-cluster theory revisited
+  : Mihaly Csirik
+  
+Feb 11
 : String theory, Geometry, and Machine Learning
   : Challenger Mishra
+
+Feb 18
+: [Optimal Stochastic Trace](https://arxiv.org/abs/2010.09649)
+  : Kevin Stubbs
+  
+Feb 25
+: [Twisted bilayer graphene](https://doi.org/10.1103/PhysRevB.103.205413)
+  : Raehyun Kim
+  
+Mar 4
+: TBD
+  : Nilin Abrahamsen
+  
+Mar 18
+: [Exact parameterization of fermionic wave functions](https://aip.scitation.org/doi/abs/10.1063/1.5133059)
+  : Fabian Faulstich
+  
+Apr 8
+: Lattice gauge theories
+  : Yu Tong 
+  
+Apr 22
+: TBD 
+  : Minh Tran (MIT)
+
+Apr 29 
+: TBD
+  : Jiasu Wang 
+  
+May 13
+: TBD
+  : Jiasu Wang
   
 
 #### Schedule (2021 Fall) 
