@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 2 Overview</h3>
-        <h2 class="highlighted-title">String theory, Geometry, and Machine Learning</h2>
-        <strong>Challenger Mishra</strong><br>
-        <p class="highlighted-byline">Friday, Feb 11th, <strong> 10 am -- 12 am</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 3 Overview</h3>
+        <h2 class="highlighted-title">Optimal Stochastic Trace</h2>
+        <strong>Kevin Stubbs</strong><br>
+        <p class="highlighted-byline">Friday, Feb 18th, <strong> 10 am -- 12 am</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
