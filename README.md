@@ -9,10 +9,10 @@
 
 
 <div align="center">
-  <h3>Week 2</h3>
-  <h1>String theory, Geometry, and Machine Learning</h1>
-  <strong>Challenger Mishra</strong>
-  <h6>Feb 11th, 10 am -- 12 pm</h6>
+  <h3>Week 3</h3>
+  <h1>Optimal Stochastic Trace Estimation</h1>
+  <strong>Kevin Stubbs</strong>
+  <h6>Feb 18th, 10 am -- 12 pm</h6>
 </div>
 
 
