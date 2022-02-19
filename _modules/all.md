@@ -3,18 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 3 Overview</h3>
-        <h2 class="highlighted-title">Optimal Stochastic Trace</h2>
-        <strong>Kevin Stubbs</strong><br>
-        <p class="highlighted-byline">Friday, Feb 18th, <strong> 10 am -- 12 am</strong></p>
-        <span class="dividing-bar"></span>
-    </div>
-</section>
-    
-<section class="highlighted-text week-overview wrap-container" data-number="11">
-    <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">TBD</h2>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 4 Overview</h3>
+        <h2 class="highlighted-title">Twisted bilayer graphene</h2>
+        <strong>Raehyun Kim</strong><br>
+        <p class="highlighted-byline">Friday, Feb 25th, <strong> 10 am -- 12 am</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
