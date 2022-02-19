@@ -9,10 +9,10 @@
 
 
 <div align="center">
-  <h3>Week 3</h3>
-  <h1>Optimal Stochastic Trace Estimation</h1>
-  <strong>Kevin Stubbs</strong>
-  <h6>Feb 18th, 10 am -- 12 pm</h6>
+  <h3>Week 4</h3>
+  <h1>Twisted bilayer graphene</h1>
+  <strong>Raehyun Kim</strong>
+  <h6>Feb 25th, 10 am -- 12 pm</h6>
 </div>
 
 
