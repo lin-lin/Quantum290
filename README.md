@@ -175,6 +175,8 @@
 16. Meyer, R. A., Musco, C., Musco, C., & Woodruff, D. P. (2020). Hutch++: Optimal Stochastic Trace Estimation. http://arxiv.org/abs/2010.09649
 17. Jin, S., & Liu, N. (2022). Quantum algorithms for computing observables of nonlinear partial differential equations. 1–40. http://arxiv.org/abs/2202.07834
 18. Sekaran, S., Saubanère, M., & Fromager, E. (2022). Local Potential Functional Embedding Theory: A Self-Consistent Flavor of Density Functional Theory for Lattices without Density Functionals. 1–19. http://arxiv.org/abs/2202.08071
+19. Roadmap on Machine Learning in Electronic Structure, https://iopscience.iop.org/article/10.1088/2516-1075/ac572f
+
 
 ## Proposed tutorial topics
 
