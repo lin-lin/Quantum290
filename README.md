@@ -174,6 +174,7 @@
 15. Yang, Y., Lu, B.-N., & Li, Y. (2021). Accelerated quantum Monte Carlo with mitigated error on noisy quantum computer. Physical Review Applied, 10(1), 1. https://doi.org/10.1103/prxquantum.2.040361
 16. Meyer, R. A., Musco, C., Musco, C., & Woodruff, D. P. (2020). Hutch++: Optimal Stochastic Trace Estimation. http://arxiv.org/abs/2010.09649
 17. Jin, S., & Liu, N. (2022). Quantum algorithms for computing observables of nonlinear partial differential equations. 1–40. http://arxiv.org/abs/2202.07834
+18. Sekaran, S., Saubanère, M., & Fromager, E. (2022). Local Potential Functional Embedding Theory: A Self-Consistent Flavor of Density Functional Theory for Lattices without Density Functionals. 1–19. http://arxiv.org/abs/2202.08071
 
 ## Proposed tutorial topics
 
