@@ -176,6 +176,7 @@
 17. Jin, S., & Liu, N. (2022). Quantum algorithms for computing observables of nonlinear partial differential equations. 1–40. http://arxiv.org/abs/2202.07834
 18. Sekaran, S., Saubanère, M., & Fromager, E. (2022). Local Potential Functional Embedding Theory: A Self-Consistent Flavor of Density Functional Theory for Lattices without Density Functionals. 1–19. http://arxiv.org/abs/2202.08071
 19. Roadmap on Machine Learning in Electronic Structure, https://iopscience.iop.org/article/10.1088/2516-1075/ac572f
+20. Wallman, J. J., & Emerson, J. (2016). Noise tailoring for scalable quantum computation via randomized compiling. Physical Review A, 94(5). https://doi.org/10.1103/PhysRevA.94.052325
 
 
 ## Proposed tutorial topics
