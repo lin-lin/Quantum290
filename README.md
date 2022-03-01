@@ -9,10 +9,10 @@
 
 
 <div align="center">
-  <h3>Week 4</h3>
-  <h1>Twisted bilayer graphene</h1>
-  <strong>Raehyun Kim</strong>
-  <h6>Feb 25th, 10 am -- 12 pm</h6>
+  <h3>Week 5</h3>
+  <h1>Fermionic Neural Networks</h1>
+  <strong>Nilin Abrahamsen</strong>
+  <h6>Mar 4th, 10 am -- 12 pm</h6>
 </div>
 
 
@@ -28,7 +28,7 @@
 | 1    | 02/11 | String theory, Geometry, and Machine Learning                                   | Challenger Mishra |            |
 | 2    | 02/18 | Optimal Stochastic Trace Estimation                                             | Kevin Stubbs      |            |
 | 3    | 02/25 | Twisted bilayer graphene                                                        | Raehyun Kim       |            |
-| 4    | 03/04 | TBD                                                                             | Nilin Abrahamsen  |            |
+| 4    | 03/04 | Fermionic Neural Networks                                                       | Nilin Abrahamsen  |            |
 | 5    | 03/11 | (Advancing Quantum Mechanics with Mathematics and Statistics Tutorials)         |                   |            |
 | 6    | 03/18 | Exact parameterization of fermionic wave functions                              | Fabian Faulstich  |            |
 | 7    | 03/25 | (Spring Recess)                                                                 |                   |            |
