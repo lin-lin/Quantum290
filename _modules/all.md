@@ -4,9 +4,9 @@
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
         <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 4 Overview</h3>
-        <h2 class="highlighted-title">Twisted bilayer graphene</h2>
-        <strong>Raehyun Kim</strong><br>
-        <p class="highlighted-byline">Friday, Feb 25th, <strong> 10 am -- 12 am</strong></p>
+        <h2 class="highlighted-title">Fermionic Neural Networks</h2>
+        <strong>Nilin Abrahamsen</strong><br>
+        <p class="highlighted-byline">Friday, Mar 4th, <strong> 10 am -- 12 am</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -32,7 +32,7 @@ Feb 25
   : Raehyun Kim
   
 Mar 4
-: TBD
+: Fermionic Neural Networks
   : Nilin Abrahamsen
   
 Mar 18
