@@ -9,10 +9,10 @@
 
 
 <div align="center">
-  <h3>Week 5</h3>
-  <h1>Fermionic Neural Networks</h1>
-  <strong>Nilin Abrahamsen</strong>
-  <h6>Mar 4th, 10 am -- 12 pm</h6>
+  <h3>Week 9</h3>
+  <h1>lattice gauge theories</h1>
+  <strong>Yu Tong</strong>
+  <h6>Apr 8th, 10 am -- 12 pm</h6>
 </div>
 
 
@@ -30,12 +30,12 @@
 | 3    | 02/25 | Twisted bilayer graphene                                                        | Raehyun Kim       |            |
 | 4    | 03/04 | Fermionic Neural Networks                                                       | Nilin Abrahamsen  |            |
 | 5    | 03/11 | (Advancing Quantum Mechanics with Mathematics and Statistics Tutorials)         |                   |            |
-| 6    | 03/18 | Exact parameterization of fermionic wave functions                              | Fabian Faulstich  |            |
+| 6    | 03/18 | ~Exact parameterization of fermionic wave functions~ (IPAM activities)          | Fabian Faulstich  |            |
 | 7    | 03/25 | (Spring Recess)                                                                 |                   |            |
 | 8    | 04/01 | (Workshop I: Multiscale Approaches in Quantum Mechanics)                        |                   |            |
 | 9    | 04/08 | lattice gauge theories                                                          | Yu Tong           |            |
 | 10   | 04/15 | (Workshop II: Model Reduction in Quantum Mechanics)                             |                   |            |
-| 11   | 04/22 | TBD                                                                             | Minh Tran (MIT)   |            |
+| 11   | 04/20 | TBD (joint with applied math seminar)                                           | Minh Tran (MIT)   |            |
 | 12   | 04/29 | TBD                                                                             | Jiasu Wang        |            |
 | 13   | 05/06 | (Workshop III: Large-Scale Certified Numerical Methods in Quantum Mechanics)    |                   |            |
 | 14   | 05/13 | TBD                                                                             | Jiasu Wang        |            |
