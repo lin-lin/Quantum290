@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 4 Overview</h3>
-        <h2 class="highlighted-title">Fermionic Neural Networks</h2>
-        <strong>Nilin Abrahamsen</strong><br>
-        <p class="highlighted-byline">Friday, Mar 4th, <strong> 10 am -- 12 am</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 9 Overview</h3>
+        <h2 class="highlighted-title">Lattice gauge theories</h2>
+        <strong>Yu Tong</strong><br>
+        <p class="highlighted-byline">Friday, Apr 8th, <strong> 10 am -- 12 am</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -35,15 +35,11 @@ Mar 4
 : Fermionic Neural Networks
   : Nilin Abrahamsen
   
-Mar 18
-: [Exact parameterization of fermionic wave functions](https://aip.scitation.org/doi/abs/10.1063/1.5133059)
-  : Fabian Faulstich
-  
 Apr 8
 : Lattice gauge theories
   : Yu Tong 
   
-Apr 22
+Apr 20
 : TBD 
   : Minh Tran (MIT)
 
