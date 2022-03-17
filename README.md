@@ -179,6 +179,7 @@
 20. Wallman, J. J., & Emerson, J. (2016). Noise tailoring for scalable quantum computation via randomized compiling. Physical Review A, 94(5). https://doi.org/10.1103/PhysRevA.94.052325
 21. Cai, Z., Lu, J., & Yang, S. (2022). Fast Algorithms of Bath Calculations in Simulations of Quantum System-Bath Dynamics. http://arxiv.org/abs/2202.06190
 22. Guţǎ, M., Kahn, J., Kueng, R., & Tropp, J. A. (2020). Fast state tomography with optimal error bounds. Journal of Physics A: Mathematical and Theoretical, 53(20). https://doi.org/10.1088/1751-8121/ab84ab
+23. Dutt, A., Pednault, E., Wu, C. W., Sheldon, S., Smolin, J., Bishop, L., & Chuang, I. L. (2021). Active Learning of Quantum System Hamiltonians yields Query Advantage. 1–53. http://arxiv.org/abs/2112.14553
 
 
 ## Proposed tutorial topics
