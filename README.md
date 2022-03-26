@@ -182,6 +182,7 @@
 23. Dutt, A., Pednault, E., Wu, C. W., Sheldon, S., Smolin, J., Bishop, L., & Chuang, I. L. (2021). Active Learning of Quantum System Hamiltonians yields Query Advantage. 1–53. http://arxiv.org/abs/2112.14553
 24. Holmes, Z., Muraleedharan, G., Somma, R. D., Subasi, Y., & Şahinoğlu, B. (2022). Quantum algorithms from fluctuation theorems: Thermal-state preparation. 1–49. http://arxiv.org/abs/2203.08882
 25. He Ma, Arunachalam Narayanaswamy, Patrick Riley, Li Li, Evolving symbolic density functionals, https://arxiv.org/abs/2203.02540
+26. Wu, D., Rossi, R., & Carleo, G. (2021). Unbiased Monte Carlo cluster updates with autoregressive neural networks. Physical Review Research, 3(4), L042024. https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.L042024
 
 
 ## Proposed tutorial topics
