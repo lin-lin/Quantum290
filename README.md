@@ -9,12 +9,16 @@
 
 
 <div align="center">
-  <h3>Week 9</h3>
-  <h1>lattice gauge theories</h1>
-  <strong>Yu Tong</strong>
-  <h6>Apr 8th, 10 am -- 12 pm</h6>
+  <h3>Week 11</h3>
+  <h1>The propagation of information in power-law interacting systems</h1>
+  <strong>Minh Tran (MIT)</strong>
+  <h6>Apr 20th, 4 pm -- 5 pm</h6>
 </div>
 
+<div align="left">
+  <h5>Abstract</h5>
+  <h6>Most physical many-body quantum systems are geometrically local; it takes time to propagate quantum information in the systems. Such locality imposes fundamental limits on many quantum information processing tasks. In this talk, we will review the state-of-the-art speed limits for the propagation of information in quantum systems with power-law interactions. We discuss applications of the speed limits and, in particular, use them to constrain the propagation of error and improve the performance of quantum simulation algorithms. Inversely, we also prove new speed limits using quantum simulation algorithms, suggesting a deep connection between the propagation of information and digital quantum simulation.</h6>
+</div>
 
 
 
