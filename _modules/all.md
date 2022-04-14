@@ -9,7 +9,7 @@
 Most physical many-body quantum systems are geometrically local; it takes time to propagate quantum information in the systems. Such locality imposes fundamental limits on many quantum information processing tasks. In this talk, we will review the state-of-the-art speed limits for the propagation of information in quantum systems with power-law interactions. We discuss applications of the speed limits and, in particular, use them to constrain the propagation of error and improve the performance of quantum simulation algorithms. Inversely, we also prove new speed limits using quantum simulation algorithms, suggesting a deep connection between the propagation of information and digital quantum simulation.
         </ul>
         <strong>Minh Tran (MIT)</strong><br>
-        <p class="highlighted-byline">Friday, Apr 10th, <strong> 4 pm -- 5 pm</strong></p>
+        <p class="highlighted-byline">Wednesday, Apr 20th, <strong> 4 pm -- 5 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
