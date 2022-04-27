@@ -9,16 +9,12 @@
 
 
 <div align="center">
-  <h3>Week 11</h3>
-  <h1>The propagation of information in power-law interacting systems</h1>
-  <strong>Minh Tran (MIT)</strong>
-  <h6>Apr 20th, 4 pm -- 5 pm</h6>
+  <h3>Week 12</h3>
+  <h1>Quantum Algorithm for computing observable of nonlinear partial differential equations</h1>
+  <strong>Jiasu Wang</strong>
+  <h6>Apr 29th, 10 am -- 12 pm</h6>
 </div>
 
-<div align="left">
-  <h5>Abstract</h5>
-  <h6>Most physical many-body quantum systems are geometrically local; it takes time to propagate quantum information in the systems. Such locality imposes fundamental limits on many quantum information processing tasks. In this talk, we will review the state-of-the-art speed limits for the propagation of information in quantum systems with power-law interactions. We discuss applications of the speed limits and, in particular, use them to constrain the propagation of error and improve the performance of quantum simulation algorithms. Inversely, we also prove new speed limits using quantum simulation algorithms, suggesting a deep connection between the propagation of information and digital quantum simulation.</h6>
-</div>
 
 
 
@@ -39,8 +35,8 @@
 | 8    | 04/01 | (Workshop I: Multiscale Approaches in Quantum Mechanics)                        |                   |            |
 | 9    | 04/08 | lattice gauge theories                                                          | Yu Tong           |            |
 | 10   | 04/15 | (Workshop II: Model Reduction in Quantum Mechanics)                             |                   |            |
-| 11   | 04/20 | TBD (joint with applied math seminar)                                           | Minh Tran (MIT)   |            |
-| 12   | 04/29 | TBD                                                                             | Jiasu Wang        |            |
+| 11   | 04/20 | The propagation of information in power-law interacting systems (joint with applied math seminar)| Minh Tran (MIT)   |            |
+| 12   | 04/29 | Quantum Algorithm for computing observable of nonlinear partial differential equations| Jiasu Wang        |            |
 | 13   | 05/06 | (Workshop III: Large-Scale Certified Numerical Methods in Quantum Mechanics)    |                   |            |
 | 14   | 05/13 | TBD                                                                             | Jiasu Wang        |            |
 | 15   | 05/20 | (miniWorkshop on Moire systems)                                                 |                   |            |
