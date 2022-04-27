@@ -3,13 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 11 Overview</h3>
-        <h2 class="highlighted-title">The propagation of information in power-law interacting systems</h2>
-        <ul class="lists two-col animate-3">
-Most physical many-body quantum systems are geometrically local; it takes time to propagate quantum information in the systems. Such locality imposes fundamental limits on many quantum information processing tasks. In this talk, we will review the state-of-the-art speed limits for the propagation of information in quantum systems with power-law interactions. We discuss applications of the speed limits and, in particular, use them to constrain the propagation of error and improve the performance of quantum simulation algorithms. Inversely, we also prove new speed limits using quantum simulation algorithms, suggesting a deep connection between the propagation of information and digital quantum simulation.
-        </ul>
-        <strong>Minh Tran (MIT)</strong><br>
-        <p class="highlighted-byline">Wednesday, Apr 20th, <strong> 4 pm -- 5 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 12 Overview</h3>
+        <h2 class="highlighted-title">Quantum Algorithm for computing observable of nonlinear partial differential equations</h2>
+        <strong>Jiasu Wang</strong><br>
+        <p class="highlighted-byline">Friday, Apr 29th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -42,11 +39,11 @@ Apr 8
   : Yu Tong 
   
 Apr 20
-: TBD 
+: The propagation of information in power-law interacting systems
   : Minh Tran (MIT)
 
 Apr 29 
-: TBD
+: Quantum Algorithm for computing observable of nonlinear partial differential equations
   : Jiasu Wang 
   
 May 13
