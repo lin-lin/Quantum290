@@ -3,10 +3,10 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 12 Overview</h3>
-        <h2 class="highlighted-title">Quantum Algorithm for computing observable of nonlinear partial differential equations</h2>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 13 Overview</h3>
+        <h2 class="highlighted-title">Simulating bosonic bath with error bars</h2>
         <strong>Jiasu Wang</strong><br>
-        <p class="highlighted-byline">Friday, Apr 29th, <strong> 10 am -- 12 pm</strong></p>
+        <p class="highlighted-byline">Friday, May 13th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
@@ -47,7 +47,7 @@ Apr 29
   : Jiasu Wang 
   
 May 13
-: TBD
+: Simulating bosonic bath with error bars
   : Jiasu Wang
   
 
