@@ -9,10 +9,10 @@
 
 
 <div align="center">
-  <h3>Week 12</h3>
-  <h1>Quantum Algorithm for computing observable of nonlinear partial differential equations</h1>
+  <h3>Week 13</h3>
+  <h1>Simulating bosonic bath with error bars</h1>
   <strong>Jiasu Wang</strong>
-  <h6>Apr 29th, 10 am -- 12 pm</h6>
+  <h6>May 13th, 10 am -- 12 pm</h6>
 </div>
 
 
@@ -38,7 +38,7 @@
 | 11   | 04/20 | The propagation of information in power-law interacting systems (joint with applied math seminar)| Minh Tran (MIT)   |            |
 | 12   | 04/29 | Quantum Algorithm for computing observable of nonlinear partial differential equations| Jiasu Wang        |            |
 | 13   | 05/06 | (Workshop III: Large-Scale Certified Numerical Methods in Quantum Mechanics)    |                   |            |
-| 14   | 05/13 | TBD                                                                             | Jiasu Wang        |            |
+| 14   | 05/13 | Simulating bosonic bath with error bars                                         | Jiasu Wang        |            |
 | 15   | 05/20 | (miniWorkshop on Moire systems)                                                 |                   |            |
 | 16   | 05/27 | (Workshop IV: Monte Carlo and Machine Learning Approaches in Quantum Mechanics) |                   |            |
 
