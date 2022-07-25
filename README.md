@@ -18,9 +18,23 @@
 
 
 
-## 📌 Schedule (2022 Spring) 
+## 📌 Schedule (2022 Summer) 
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2022-01), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+
+| Week | Date  | Topic                                                                           | Speaker           | References |
+| ---- | ----- | ------------------------------------------------------------------------------- | ----------------- | ---------- |
+| 0    | 07/29 | Transformers: NLP, CV, RL, Quantum and Beyond                                   | Jiahao Yao     |
+| 1    | TBD | TBD                                   | TBD |            |
+
+
+
+-----
+
+### 📃 Previous Schedules 
+
+<details>
+<summary>Schedule (2022 Spring)</summary>
 
 | Week | Date  | Topic                                                                           | Speaker           | References |
 | ---- | ----- | ------------------------------------------------------------------------------- | ----------------- | ---------- |
@@ -42,9 +56,7 @@
 | 15   | 05/20 | (miniWorkshop on Moire systems)                                                 |                   |            |
 | 16   | 05/27 | (Workshop IV: Monte Carlo and Machine Learning Approaches in Quantum Mechanics) |                   |            |
 
------
-
-### 📃 Previous Schedules 
+</details>
 
 <details>
 <summary>Schedule (2021 Fall)</summary>
