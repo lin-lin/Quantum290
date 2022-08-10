@@ -24,8 +24,9 @@
 
 | Week | Date  | Topic                                                                           | Speaker           | References |
 | ---- | ----- | ------------------------------------------------------------------------------- | ----------------- | ---------- |
-| 0    | 07/29 | Transformers: NLP, CV, RL, Quantum and Beyond                                   | Jiahao Yao     |
-| 1    | TBD | TBD                                   | TBD |            |
+| 1    | 07/29 | Transformers: NLP, CV, RL, Quantum and Beyond --- part I                        | Jiahao Yao        |            | 
+| 2    | 08/05 | Transformers: NLP, CV, RL, Quantum and Beyond --- part II                       | Jiahao Yao        |            |
+| 3    | TBD | TBD                                   | TBD |            |
 
 
 
