@@ -9,10 +9,10 @@
 
 
 <div align="center">
-  <h3>Week 13</h3>
-  <h1>Simulating bosonic bath with error bars</h1>
-  <strong>Jiasu Wang</strong>
-  <h6>May 13th, 10 am -- 12 pm</h6>
+  <h3>Week 1</h3>
+  <h1>TBD</h1>
+  <strong>TBD</strong>
+  <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
 
