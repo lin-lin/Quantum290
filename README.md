@@ -2,7 +2,7 @@
 ----------------------------
 ### 🌟 Virtual quantum many-body seminar:electron:, 2022
 
-- **When:** 🕒 Fridays 10AM-12PM
+- **When:** 🕒 Fridays 1PM-3PM
 - **Where:** Evans 891
 - **Moderator**: Jiahao Yao
 
@@ -18,21 +18,48 @@
 
 
 
-## 📌 Schedule (2022 Summer) 
+## 📌 Schedule (2022 Fall) 
 
-🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2022-01), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2022-09), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
-| Week | Date  | Topic                                                                           | Speaker           | References |
-| ---- | ----- | ------------------------------------------------------------------------------- | ----------------- | ---------- |
-| 1    | 07/29 | Transformers: NLP, CV, RL, Quantum and Beyond --- part I                        | Jiahao Yao        |            | 
-| 2    | 08/05 | Transformers: NLP, CV, RL, Quantum and Beyond --- part II                       | Jiahao Yao        |            |
-| 3    | TBD | TBD                                   | TBD |            |
-
+| Week | Date  | Topic | Speaker | References |
+| ---- | ----- | ----- | ------- | ---------- |
+| 1    | 08/26 |       |         |            |
+| 2    | 09/02 |       |         |            |
+| 3    | 09/09 |       |         |            |
+| 4    | 09/16 |       |         |            |
+| 5    | 09/23 |       |         |            |
+| 6    | 09/30 |       |         |            |
+| 7    | 10/07 |       |         |            |
+| 8    | 10/14 |       |         |            |
+| 9    | 10/21 |       |         |            |
+| 10   | 10/28 |       |         |            |
+| 11   | 11/04 |       |         |            |
+| 12   | 11/11 |       |         |            |
+| 13   | 11/18 |       |         |            |
+| 14   | 11/25 |       |         |            |
+| 15   | 12/02 |       |         |            |
+| 16   | 12/09 |       |         |            |
+| 17   | 12/16 |       |         |            |
+| 18   | 12/23 |       |         |            |
+| 19   | 12/30 |       |         |            |
+| 20   | 01/06 |       |         |            |
 
 
 -----
 
 ### 📃 Previous Schedules 
+
+<details>
+<summary>Schedule (2022 Summer)</summary>
+
+| Week | Date  | Topic                                                                           | Speaker           | References |
+| ---- | ----- | ------------------------------------------------------------------------------- | ----------------- | ---------- |
+| 1    | 07/29 | Transformers: NLP, CV, RL, Quantum and Beyond --- part I                        | Jiahao Yao        |            | 
+| 2    | 08/05 | Transformers: NLP, CV, RL, Quantum and Beyond --- part II                       | Jiahao Yao        |            |
+| 3    | 08/12 | Transformers: NLP, CV, RL, Quantum and Beyond --- part III                      | Jiahao Yao        |            |
+
+</details>
 
 <details>
 <summary>Schedule (2022 Spring)</summary>
