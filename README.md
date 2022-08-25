@@ -2,25 +2,67 @@
 ----------------------------
 ### 🌟 Virtual quantum many-body seminar:electron:, 2022
 
-- **When:** 🕒 Fridays 10AM-12PM
+- **When:** 🕒 Fridays 1PM-3PM
 - **Where:** Evans 891
 - **Moderator**: Jiahao Yao
 
 
 
 <div align="center">
-  <h3>Week 9</h3>
-  <h1>lattice gauge theories</h1>
-  <strong>Yu Tong</strong>
-  <h6>Apr 8th, 10 am -- 12 pm</h6>
+  <h3>Week 1</h3>
+  <h1>TBD</h1>
+  <strong>TBD</strong>
+  <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
 
 
 
-## 📌 Schedule (2022 Spring) 
+## 📌 Schedule (2022 Fall) 
 
-🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2022-01), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2022-09), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+
+| Week | Date  | Topic | Speaker | References |
+| ---- | ----- | ----- | ------- | ---------- |
+| 1    | 08/26 |       |         |            |
+| 2    | 09/02 |       |         |            |
+| 3    | 09/09 |       |         |            |
+| 4    | 09/16 |       |         |            |
+| 5    | 09/23 |       |         |            |
+| 6    | 09/30 |       |         |            |
+| 7    | 10/07 |       |         |            |
+| 8    | 10/14 |       |         |            |
+| 9    | 10/21 |       |         |            |
+| 10   | 10/28 |       |         |            |
+| 11   | 11/04 |       |         |            |
+| 12   | 11/11 |       |         |            |
+| 13   | 11/18 |       |         |            |
+| 14   | 11/25 |       |         |            |
+| 15   | 12/02 |       |         |            |
+| 16   | 12/09 |       |         |            |
+| 17   | 12/16 |       |         |            |
+| 18   | 12/23 |       |         |            |
+| 19   | 12/30 |       |         |            |
+| 20   | 01/06 |       |         |            |
+
+
+-----
+
+### 📃 Previous Schedules 
+
+<details>
+<summary>Schedule (2022 Summer)</summary>
+
+| Week | Date  | Topic                                                                           | Speaker           | References |
+| ---- | ----- | ------------------------------------------------------------------------------- | ----------------- | ---------- |
+| 1    | 07/29 | Transformers: NLP, CV, RL, Quantum and Beyond --- part I                        | Jiahao Yao        |            | 
+| 2    | 08/05 | Transformers: NLP, CV, RL, Quantum and Beyond --- part II                       | Jiahao Yao        |            |
+| 3    | 08/12 | Transformers: NLP, CV, RL, Quantum and Beyond --- part III                      | Jiahao Yao        |            |
+
+</details>
+
+<details>
+<summary>Schedule (2022 Spring)</summary>
 
 | Week | Date  | Topic                                                                           | Speaker           | References |
 | ---- | ----- | ------------------------------------------------------------------------------- | ----------------- | ---------- |
@@ -35,16 +77,14 @@
 | 8    | 04/01 | (Workshop I: Multiscale Approaches in Quantum Mechanics)                        |                   |            |
 | 9    | 04/08 | lattice gauge theories                                                          | Yu Tong           |            |
 | 10   | 04/15 | (Workshop II: Model Reduction in Quantum Mechanics)                             |                   |            |
-| 11   | 04/20 | TBD (joint with applied math seminar)                                           | Minh Tran (MIT)   |            |
-| 12   | 04/29 | TBD                                                                             | Jiasu Wang        |            |
+| 11   | 04/20 | The propagation of information in power-law interacting systems (joint with applied math seminar)| Minh Tran (MIT)   |            |
+| 12   | 04/29 | Quantum Algorithm for computing observable of nonlinear partial differential equations| Jiasu Wang        |            |
 | 13   | 05/06 | (Workshop III: Large-Scale Certified Numerical Methods in Quantum Mechanics)    |                   |            |
-| 14   | 05/13 | TBD                                                                             | Jiasu Wang        |            |
+| 14   | 05/13 | Simulating bosonic bath with error bars                                         | Jiasu Wang        |            |
 | 15   | 05/20 | (miniWorkshop on Moire systems)                                                 |                   |            |
 | 16   | 05/27 | (Workshop IV: Monte Carlo and Machine Learning Approaches in Quantum Mechanics) |                   |            |
 
------
-
-### 📃 Previous Schedules 
+</details>
 
 <details>
 <summary>Schedule (2021 Fall)</summary>
@@ -181,7 +221,13 @@
 22. Guţǎ, M., Kahn, J., Kueng, R., & Tropp, J. A. (2020). Fast state tomography with optimal error bounds. Journal of Physics A: Mathematical and Theoretical, 53(20). https://doi.org/10.1088/1751-8121/ab84ab
 23. Dutt, A., Pednault, E., Wu, C. W., Sheldon, S., Smolin, J., Bishop, L., & Chuang, I. L. (2021). Active Learning of Quantum System Hamiltonians yields Query Advantage. 1–53. http://arxiv.org/abs/2112.14553
 24. Holmes, Z., Muraleedharan, G., Somma, R. D., Subasi, Y., & Şahinoğlu, B. (2022). Quantum algorithms from fluctuation theorems: Thermal-state preparation. 1–49. http://arxiv.org/abs/2203.08882
+<<<<<<< HEAD
 25. Zhang, Y., Yu, W., Zeng, P., Liu, G., & Ma, X. (2022). Scalable fast benchmarking for individual quantum gates with local twirling. http://arxiv.org/abs/2203.10320
+=======
+25. He Ma, Arunachalam Narayanaswamy, Patrick Riley, Li Li, Evolving symbolic density functionals, https://arxiv.org/abs/2203.02540
+26. Wu, D., Rossi, R., & Carleo, G. (2021). Unbiased Monte Carlo cluster updates with autoregressive neural networks. Physical Review Research, 3(4), L042024. https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.L042024
+
+>>>>>>> 70eafbfc0882f3065b1809947d185246c0be611b
 
 ## Proposed tutorial topics
 
