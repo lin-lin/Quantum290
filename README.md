@@ -221,13 +221,10 @@
 22. Guţǎ, M., Kahn, J., Kueng, R., & Tropp, J. A. (2020). Fast state tomography with optimal error bounds. Journal of Physics A: Mathematical and Theoretical, 53(20). https://doi.org/10.1088/1751-8121/ab84ab
 23. Dutt, A., Pednault, E., Wu, C. W., Sheldon, S., Smolin, J., Bishop, L., & Chuang, I. L. (2021). Active Learning of Quantum System Hamiltonians yields Query Advantage. 1–53. http://arxiv.org/abs/2112.14553
 24. Holmes, Z., Muraleedharan, G., Somma, R. D., Subasi, Y., & Şahinoğlu, B. (2022). Quantum algorithms from fluctuation theorems: Thermal-state preparation. 1–49. http://arxiv.org/abs/2203.08882
-<<<<<<< HEAD
 25. Zhang, Y., Yu, W., Zeng, P., Liu, G., & Ma, X. (2022). Scalable fast benchmarking for individual quantum gates with local twirling. http://arxiv.org/abs/2203.10320
 =======
-25. He Ma, Arunachalam Narayanaswamy, Patrick Riley, Li Li, Evolving symbolic density functionals, https://arxiv.org/abs/2203.02540
-26. Wu, D., Rossi, R., & Carleo, G. (2021). Unbiased Monte Carlo cluster updates with autoregressive neural networks. Physical Review Research, 3(4), L042024. https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.L042024
-
->>>>>>> 70eafbfc0882f3065b1809947d185246c0be611b
+26. He Ma, Arunachalam Narayanaswamy, Patrick Riley, Li Li, Evolving symbolic density functionals, https://arxiv.org/abs/2203.02540
+27. Wu, D., Rossi, R., & Carleo, G. (2021). Unbiased Monte Carlo cluster updates with autoregressive neural networks. Physical Review Research, 3(4), L042024. https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.L042024
 
 ## Proposed tutorial topics
 
