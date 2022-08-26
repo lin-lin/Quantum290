@@ -10,7 +10,7 @@
 
 <div align="center">
   <h3>Week 1</h3>
-  <h1>Thermal state preparation: Quantum MCMC --- part I</h1>
+  <h1>Thermal state preparation: Quantum MCMC </h1>
   <strong>Zhiyan Ding</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
@@ -24,13 +24,13 @@
 
 | Week | Date  | Topic                                                                    | Speaker     | References |
 | ---- | ----- | ------------------------------------------------------------------------ | ----------- | ---------- |
-| 1    | 09/02 | Thermal state preparation: Quantum MCMC --- part I                       | Zhiyan Ding |            |
-| 2    | 09/09 | Thermal state preparation: Quantum MCMC --- part II                      | Zhiyan Ding |            |
-| 3    | 09/16 | Thermal state preparation: Linear transformation and weight modification | Zhiyan Ding |            |
+| 1    | 09/02 | Thermal state preparation: Quantum MCMC                                  | Zhiyan Ding |            |
+| 2    | 09/09 | Thermal state preparation: Linear transformation and weight modification | Zhiyan Ding |            |
+| 3    | 09/16 |                                                                          |             |            |
 | 4    | 09/23 |                                                                          |             |            |
 | 5    | 09/30 |                                                                          |             |            |
-| 6    | 10/07 |                                                                          |             |            |
-| 7    | 10/14 |                                                                          |             |            |
+| 6    | 10/07 | Noise-resilient algorithms with randomized compiling                     | Subhayan    |            |
+| 7    | 10/14 | Efficient Representations of Green's functions                           | Huang Zhen  |            |
 | 8    | 10/21 |                                                                          |             |            |
 | 9    | 10/28 |                                                                          |             |            |
 | 10   | 11/04 |                                                                          |             |            |
