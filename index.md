@@ -88,41 +88,8 @@ seo:
 
 <div id="typewriteText"></div>
 
-<style>
-  .one {
-    position: relative;
-  }
-
-  .two {
-    position: absolute;
-    transition: opacity .2s ease-in-out;
-    -moz-transition: opacity .2s ease-in-out;
-    -webkit-transition: opacity .2s ease-in-out;
-  }
-</style>
-
-<div onmouseout="logo_stop()" onmouseover="logo_start()">
-  <div class="one">
-    <div class="two" id='logo_image'><img src='./figures/group_logo_after.png?sanitize=true&raw=true'></div>
-    <img src='./figures/group_logo.png?sanitize=true&raw=true'>
-  </div>
-  <script type="text/javascript">
-    function logo_start() {
-      document.getElementById('logo_image').style.opacity = "1";
-    }
-    function logo_stop() {
-      document.getElementById('logo_image').style.opacity = "0";
-    }
-    logo_stop()
-  </script>
-  <p align="center">
-  <em><small>Designed by <a href='https://math.berkeley.edu/~difang/'>Di Fang</a></small></em>
-  </p>
-</div>
-
 - **When**: 🕒 Fridays 10AM-12PM
-- **Where**: 💻 Zoom. 
-- Please send me an email (linlin at math dot berkeley dot edu) - to ask for the zoom id.
+- **Where**: Evans 891
 - **Moderator**: Jiahao Yao
 
 

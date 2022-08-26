@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: MATH 290
 tagline: Virtual quantum many-body seminar
-description: MATH 290, 2020 Fall to 2021 Summer
+description: MATH 290, 2022 Spring
 author: Jiahao Yao
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://math290.com' # the base hostname & protocol for your site, e.g. http://example.com

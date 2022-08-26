@@ -3,26 +3,129 @@
        
 <section class="highlighted-text week-overview wrap-container" data-number="11">
     <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 14 Overview</h3>
-        <h2 class="highlighted-title">Quantum Subspace Diagonalization</h2>
-        <strong>Ethan Epperly</strong><br>
-        <p class="highlighted-byline">Friday, Aug 27 th, <strong> 10 am -- 12 pm</strong></p>
-        <span class="dividing-bar"></span>
-    </div>
-</section>
-    
-<section class="highlighted-text week-overview wrap-container" data-number="11">
-    <div class="wrap">
-        <h3 class="highlighted-subtitle"><blink3>📨</blink3>Incoming</h3>
-        <h2 class="highlighted-title">TBD</h2>
-        <strong>Raehyun Kim</strong><br>
-        <p class="highlighted-byline">Friday, Sep 3 rd, <strong> 10 am -- 12 pm</strong></p>
+        <h3 class="highlighted-subtitle"><blink>🌟</blink>Week 13 Overview</h3>
+        <h2 class="highlighted-title">Simulating bosonic bath with error bars</h2>
+        <strong>Jiasu Wang</strong><br>
+        <p class="highlighted-byline">Friday, May 13th, <strong> 10 am -- 12 pm</strong></p>
         <span class="dividing-bar"></span>
     </div>
 </section>
 
 
-## 📌 Schedule (2021 Summer) 
+## 📌 Schedule (2022 Spring) 
+
+Feb 4
+: Coupled-cluster theory revisited
+  : Mihaly Csirik
+  
+Feb 11
+: String theory, Geometry, and Machine Learning
+  : Challenger Mishra
+
+Feb 18
+: [Optimal Stochastic Trace](https://arxiv.org/abs/2010.09649)
+  : Kevin Stubbs
+  
+Feb 25
+: [Twisted bilayer graphene](https://doi.org/10.1103/PhysRevB.103.205413)
+  : Raehyun Kim
+  
+Mar 4
+: Fermionic Neural Networks
+  : Nilin Abrahamsen
+  
+Apr 8
+: Lattice gauge theories
+  : Yu Tong 
+  
+Apr 20
+: The propagation of information in power-law interacting systems
+  : Minh Tran (MIT)
+
+Apr 29 
+: Quantum Algorithm for computing observable of nonlinear partial differential equations
+  : Jiasu Wang 
+  
+May 13
+: Simulating bosonic bath with error bars
+  : Jiasu Wang
+  
+
+#### Schedule (2021 Fall) 
+
+Aug 27
+: Quantum Subspace Diagonalization
+  : Ethan Epperly
+
+Sep 3 
+: [DMET for SIAM](https://aip.scitation.org/doi/10.1063/1.5012766)
+  : Raehyun Kim
+  
+Sep 10
+: [Parallel Quantum Algorithm for Hamiltonian Simulation](https://arxiv.org/pdf/2105.11889.pdf)
+  : Nilin Abrahamsen	
+
+Sep 17
+: [Variational Schrieffer-Wolff Transformation](https://arxiv.org/abs/1910.11889)
+  : Jiahao Yao
+ 
+Sep 24
+: [Genetic column generation: Fast computation of high-dimensional multi-marginal optimal transport problems](https://arxiv.org/pdf/2103.12624.pdf)
+  : Kevin Stubbs
+
+Oct 1
+: [Hybridized Methods for Quantum Simulation in the Interaction Picture](https://arxiv.org/pdf/2109.03308.pdf)
+  : Di Fang
+
+Oct 8 
+: Fast Amplification of QMA
+  : Subhayan Roy Moulik
+: [Fast Amplification of QMA](https://arxiv.org/pdf/0904.1549.pdf)
+: [Quantum Arthur-Merlin Games](https://arxiv.org/pdf/cs/0506068.pdf)
+
+Oct 15
+: [Fast-forwarding quantum evolution](https://arxiv.org/abs/2105.07304)
+  : Yulong Dong 
+
+Oct 22 
+: [Quantum Algorithms to Simulate Many-Body Physics of Correlated Fermions](https://journals.aps.org/prapplied/pdf/10.1103/PhysRevApplied.9.044036)
+  : Fabian Faulstich
+
+Oct 29 
+: [Self-consistent second-order Green’s function perturbation theory for periodic systems](https://doi.org/10.1063/1.4940900)
+  : Xin Xing 
+
+Nov 5 
+: Theory of variational quantum simulation	
+  : Ethan Epperly
+
+Nov 11
+: The Identity Matrix Isn't Boring: A Many-Body Quantum System Perspective
+  : Joseph Tindall
+
+Nov 19
+: [Error Bounds for Variational Quantum Time Evolution](http://arxiv.org/abs/2108.00022)
+  : Yu Tong 
+
+Nov 26
+: Thanksgiving (so no seminar) 
+
+Dec 3
+: Exact Factorization Embedding Theory
+  : Zhen Huang 
+: [Fock Space Embedding theory](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.116401)
+: [Exact Factorization Embedding theory](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.206401)
+
+
+Dec 10
+: [Dynamical error bounds for continuum discretisation via Gauss quadrature rules—A Lieb-Robinson bound approach](https://aip.scitation.org/doi/10.1063/1.4940436)
+  : Jiasu Wang 
+
+Dec 16
+: Quantum Monte Carlo approaches for strongly correlated systems
+  : Ankit Mahajan
+
+#### Schedule (2021 Summer) 
 
 May 21
 : SIAM LA. No seminar this week
@@ -80,20 +183,6 @@ Aug 20
 : [Accessing scrambling using matrix product operators](https://www.nature.com/articles/s41567-019-0712-4)
   : Sajant Anand 
 : [Matrix product states approaches to operator spreading in ergodic quantum systems](https://arxiv.org/abs/1901.05793)
-
-Aug 27
-: Quantum Subspace Diagonalization
-  : Ethan Epperly
-
-Sep 3 
-: TBD
-  : Raehyun Kim
-  
-Sep 10
-: [Parallel Quantum Algorithm for Hamiltonian Simulation](https://arxiv.org/pdf/2105.11889.pdf)
-  : Nilin Abrahamsen	
- 
- 
 
 #### Schedule (2021 Spring)
 Jan 8
