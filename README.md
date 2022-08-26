@@ -193,19 +193,27 @@
 
 ## Reading materials 
 
-1. Bravyi, S., Chowdhury, A., Gosset, D., & Wocjan, P. (2021). On the complexity of quantum partition functions. http://arxiv.org/abs/2110.15466
+1. Karlsson, D., van Leeuwen, R., Pavlyukh, Y., Perfetto, E., & Stefanucci, G. (2021). Fast Green’s Function Method for Ultrafast Electron-Boson Dynamics. Physical Review Letters, 127(3), 1–7. https://doi.org/10.1103/PhysRevLett.127.036402
 
-2. Cohn, J., Motta, M., & Parrish, R. M. (2021). Quantum Filter Diagonalization with Double-Factorized Hamiltonians. Physical Review Applied, 10(1), 1. https://doi.org/10.1103/PRXQuantum.2.040352
+2. Evangelista, F. A., Chan, G. K. L., & Scuseria, G. E. (2019). Exact parameterization of fermionic wave functions via unitary coupled cluster theory. Journal of Chemical Physics, 151(24). https://doi.org/10.1063/1.5133059
 
-3. Karlsson, D., van Leeuwen, R., Pavlyukh, Y., Perfetto, E., & Stefanucci, G. (2021). Fast Green’s Function Method for Ultrafast Electron-Boson Dynamics. Physical Review Letters, 127(3), 1–7. https://doi.org/10.1103/PhysRevLett.127.036402
+3. Huang, R., Li, C., & Evangelista, F. A. (2022). Leveraging small scale quantum computers with unitarily downfolded Hamiltonians. 1–17. http://arxiv.org/abs/2208.08591
 
-4. Evangelista, F. A., Chan, G. K. L., & Scuseria, G. E. (2019). Exact parameterization of fermionic wave functions via unitary coupled cluster theory. Journal of Chemical Physics, 151(24). https://doi.org/10.1063/1.5133059
+4. Shtanko, O., & Movassagh, R. (2021). Algorithms for Gibbs state preparation on noiseless and noisy random quantum circuits. http://arxiv.org/abs/2112.14688
 
-5. Shtanko, O., & Movassagh, R. (2021). Algorithms for Gibbs state preparation on noiseless and noisy random quantum circuits. http://arxiv.org/abs/2112.14688
+5. Zhang, Y., Yu, W., Zeng, P., Liu, G., & Ma, X. (2022). Scalable fast benchmarking for individual quantum gates with local twirling. http://arxiv.org/abs/2203.10320
 
-6. Zhang, Y., Yu, W., Zeng, P., Liu, G., & Ma, X. (2022). Scalable fast benchmarking for individual quantum gates with local twirling. http://arxiv.org/abs/2203.10320
+6. Gu, Y., Ma, Y., Forcellini, N., & Liu, D. E. (2022). Noise-resilient phase estimation with randomized compiling. 1. http://arxiv.org/abs/2208.04100
 
-7. 
+7. Abdulle, A., Vilmart, G., & Zygalakis, K. C. (2015). Long Time Accuracy of Lie--Trotter Splitting Methods for Langevin Dynamics. SIAM Journal on Numerical Analysis, 53(1), 1–16. https://doi.org/10.1137/140962644
+
+8. Holmes, Z., Muraleedharan, G., Somma, R. D., Subasi, Y., & Şahinoğlu, B. (2022). Quantum algorithms from fluctuation theorems: Thermal-state preparation. 1–49. http://arxiv.org/abs/2203.08882
+
+9. Zweig, A., & Bruna, J. (2022). Exponential Separations in Symmetric Neural Networks. 1–49. http://arxiv.org/abs/2206.01266
+
+   
+
+   
 
    
 
