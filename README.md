@@ -3,7 +3,7 @@
 ### 🌟 Virtual quantum many-body seminar:electron:, 2022
 
 - **When:** 🕒 Fridays 1PM-3PM
-- **Where:** Evans 891
+- **Where:** Evans 736 
 - **Moderator**: Jiahao Yao
 
 
