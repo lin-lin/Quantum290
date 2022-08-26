@@ -10,8 +10,8 @@
 
 <div align="center">
   <h3>Week 1</h3>
-  <h1>TBD</h1>
-  <strong>TBD</strong>
+  <h1>Thermal state preparation: Quantum MCMC --- part I</h1>
+  <strong>Zhiyan Ding</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
@@ -22,29 +22,27 @@
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2022-09), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
-| Week | Date  | Topic                     | Speaker | References |
-| ---- | ----- | ------------------------- | ------- | ---------- |
-| 1    | 08/26 |                           |         |            |
-| 2    | 09/02 |                           |         |            |
-| 3    | 09/09 |                           |         |            |
-| 4    | 09/16 |                           |         |            |
-| 5    | 09/23 |                           |         |            |
-| 6    | 09/30 |                           |         |            |
-| 7    | 10/07 |                           |         |            |
-| 8    | 10/14 |                           |         |            |
-| 9    | 10/21 |                           |         |            |
-| 10   | 10/28 |                           |         |            |
-| 11   | 11/04 |                           |         |            |
-| 12   | 11/11 |                           |         |            |
-| 13   | 11/18 |                           |         |            |
-| 14   | 11/25 | No seminar (Thanksgiving) |         |            |
-| 15   | 12/02 |                           |         |            |
-| 16   | 12/09 |                           |         |            |
-| 17   | 12/16 | No seminar (Final)        |         |            |
-| 18   | 12/23 | No seminar (Winter break) |         |            |
-| 19   | 12/30 | No seminar (Winter break) |         |            |
-| 20   | 01/06 | No seminar (JMM)          |         |            |
-
+| Week | Date  | Topic                                                                    | Speaker     | References |
+| ---- | ----- | ------------------------------------------------------------------------ | ----------- | ---------- |
+| 1    | 09/02 | Thermal state preparation: Quantum MCMC --- part I                       | Zhiyan Ding |            |
+| 2    | 09/09 | Thermal state preparation: Quantum MCMC --- part II                      | Zhiyan Ding |            |
+| 3    | 09/16 | Thermal state preparation: Linear transformation and weight modification | Zhiyan Ding |            |
+| 4    | 09/23 |                                                                          |             |            |
+| 5    | 09/30 |                                                                          |             |            |
+| 6    | 10/07 |                                                                          |             |            |
+| 7    | 10/14 |                                                                          |             |            |
+| 8    | 10/21 |                                                                          |             |            |
+| 9    | 10/28 |                                                                          |             |            |
+| 10   | 11/04 |                                                                          |             |            |
+| 11   | 11/11 |                                                                          |             |            |
+| 12   | 11/18 |                                                                          |             |            |
+| 13   | 11/25 | No seminar (Thanksgiving)                                                |             |            |
+| 14   | 12/02 |                                                                          |             |            |
+| 15   | 12/09 |                                                                          |             |            |
+| 16   | 12/16 | No seminar (Final)                                                       |             |            |
+| 17   | 12/23 | No seminar (Winter break)                                                |             |            |
+| 18   | 12/30 | No seminar (Winter break)                                                |             |            |
+| 19   | 01/06 | No seminar (JMM)                                                         |             |            |
 
 -----
 
