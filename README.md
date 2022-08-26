@@ -22,28 +22,28 @@
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2022-09), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
-| Week | Date  | Topic | Speaker | References |
-| ---- | ----- | ----- | ------- | ---------- |
-| 1    | 08/26 |       |         |            |
-| 2    | 09/02 |       |         |            |
-| 3    | 09/09 |       |         |            |
-| 4    | 09/16 |       |         |            |
-| 5    | 09/23 |       |         |            |
-| 6    | 09/30 |       |         |            |
-| 7    | 10/07 |       |         |            |
-| 8    | 10/14 |       |         |            |
-| 9    | 10/21 |       |         |            |
-| 10   | 10/28 |       |         |            |
-| 11   | 11/04 |       |         |            |
-| 12   | 11/11 |       |         |            |
-| 13   | 11/18 |       |         |            |
-| 14   | 11/25 |       |         |            |
-| 15   | 12/02 |       |         |            |
-| 16   | 12/09 |       |         |            |
-| 17   | 12/16 |       |         |            |
-| 18   | 12/23 |       |         |            |
-| 19   | 12/30 |       |         |            |
-| 20   | 01/06 |       |         |            |
+| Week | Date  | Topic                     | Speaker | References |
+| ---- | ----- | ------------------------- | ------- | ---------- |
+| 1    | 08/26 |                           |         |            |
+| 2    | 09/02 |                           |         |            |
+| 3    | 09/09 |                           |         |            |
+| 4    | 09/16 |                           |         |            |
+| 5    | 09/23 |                           |         |            |
+| 6    | 09/30 |                           |         |            |
+| 7    | 10/07 |                           |         |            |
+| 8    | 10/14 |                           |         |            |
+| 9    | 10/21 |                           |         |            |
+| 10   | 10/28 |                           |         |            |
+| 11   | 11/04 |                           |         |            |
+| 12   | 11/11 |                           |         |            |
+| 13   | 11/18 |                           |         |            |
+| 14   | 11/25 | No seminar (Thanksgiving) |         |            |
+| 15   | 12/02 |                           |         |            |
+| 16   | 12/09 |                           |         |            |
+| 17   | 12/16 | No seminar (Final)        |         |            |
+| 18   | 12/23 | No seminar (Winter break) |         |            |
+| 19   | 12/30 | No seminar (Winter break) |         |            |
+| 20   | 01/06 | No seminar (JMM)          |         |            |
 
 
 -----
@@ -210,8 +210,6 @@
 8. Holmes, Z., Muraleedharan, G., Somma, R. D., Subasi, Y., & Şahinoğlu, B. (2022). Quantum algorithms from fluctuation theorems: Thermal-state preparation. 1–49. http://arxiv.org/abs/2203.08882
 
 9. Zweig, A., & Bruna, J. (2022). Exponential Separations in Symmetric Neural Networks. 1–49. http://arxiv.org/abs/2206.01266
-
-   
 
    
 
