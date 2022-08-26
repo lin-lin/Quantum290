@@ -194,43 +194,20 @@
 ## Reading materials 
 
 1. Bravyi, S., Chowdhury, A., Gosset, D., & Wocjan, P. (2021). On the complexity of quantum partition functions. http://arxiv.org/abs/2110.15466
+
 2. Cohn, J., Motta, M., & Parrish, R. M. (2021). Quantum Filter Diagonalization with Double-Factorized Hamiltonians. Physical Review Applied, 10(1), 1. https://doi.org/10.1103/PRXQuantum.2.040352
-3. Boutin, S., & Bauer, B. (2021). Quantum impurity models using superpositions of fermionic Gaussian states: Practical methods and applications. http://arxiv.org/abs/2105.01088
-4. Cygorek, M., Cosacchi, M., Vagov, A., Axt, V. M., Lovett, B. W., Keeling, J., & Gauger, E. M. (2021). Numerically-exact simulations of arbitrary open quantum systems using automated compression of environments. http://arxiv.org/abs/2101.01653
-5. Karlsson, D., van Leeuwen, R., Pavlyukh, Y., Perfetto, E., & Stefanucci, G. (2021). Fast Green’s Function Method for Ultrafast Electron-Boson Dynamics. Physical Review Letters, 127(3), 1–7. https://doi.org/10.1103/PhysRevLett.127.036402
-6. Snyman, I., & Florens, S. (2021). Efficient impurity-bath trial states from superposed Slater determinants. http://arxiv.org/abs/2106.14027
-7. Martyn, J. M., Liu, Y., Chin, Z. E., & Chuang, I. L. (2021). Efficient Fully-Coherent Hamiltonian Simulation. 1–22. http://arxiv.org/abs/2110.11327
-8. Han, M., & Choi, H. J. (2021). Causal optimization method for imaginary-time Green’s functions in interacting electron systems. 115112. https://doi.org/10.1103/PhysRevB.104.115112
-9. Hastings, M. B., & O’Donnell, R. (2021). Optimizing Strongly Interacting Fermionic Hamiltonians. http://arxiv.org/abs/2110.10701
-10. Bender, J., Zohar, E., Farace, A., & Cirac, J. I. (2018). Digital quantum simulation of lattice gauge theories in three spatial dimensions. New Journal of Physics, 20(9). https://doi.org/10.1088/1367-2630/aadb71
-11. Zohar, E., Farace, A., Reznik, B., & Cirac, J. I. (2017). Digital Quantum Simulation of Z2 Lattice Gauge Theories with Dynamical Fermionic Matter. Physical Review Letters, 118(7), 1–5. https://doi.org/10.1103/PhysRevLett.118.070501
-11. Bernevig, B. A., Song, Z.-D., Regnault, N., & Lian, B. (2021). Twisted bilayer graphene. III. Interacting Hamiltonian and exact symmetries. Physical Review B, 103(20), 205413. https://doi.org/10.1103/PhysRevB.103.205413
-11. Pérez-Salinas, A., López-Núñez, D., García-Sáez, A., Forn-Díaz, P., & Latorre, J. I. (2021). One qubit as a universal approximant. Physical Review A, 104(1), 1–15. https://doi.org/10.1103/PhysRevA.104.012405
-11. Evangelista, F. A., Chan, G. K. L., & Scuseria, G. E. (2019). Exact parameterization of fermionic wave functions via unitary coupled cluster theory. Journal of Chemical Physics, 151(24). https://doi.org/10.1063/1.5133059
-11. Moreno, J. R., Carleo, G., Georges, A., & Stokes, J. (2021). Fermionic Wave Functions from Neural-Network Constrained Hidden States. 1–12. http://arxiv.org/abs/2111.10420
-12. Rajput, A., Roggero, A., & Wiebe, N. (2021). Quantum Error Correction with Gauge Symmetries. http://arxiv.org/abs/2112.05186
-13. Holmes, Z., Coble, N., Sornborger, A. T., & Subaşı, Y. (2021). On nonlinear transformations in quantum computation. http://arxiv.org/abs/2112.12307
-14. Shtanko, O., & Movassagh, R. (2021). Algorithms for Gibbs state preparation on noiseless and noisy random quantum circuits. http://arxiv.org/abs/2112.14688
-15. Yang, Y., Lu, B.-N., & Li, Y. (2021). Accelerated quantum Monte Carlo with mitigated error on noisy quantum computer. Physical Review Applied, 10(1), 1. https://doi.org/10.1103/prxquantum.2.040361
-16. Meyer, R. A., Musco, C., Musco, C., & Woodruff, D. P. (2020). Hutch++: Optimal Stochastic Trace Estimation. http://arxiv.org/abs/2010.09649
-17. Jin, S., & Liu, N. (2022). Quantum algorithms for computing observables of nonlinear partial differential equations. 1–40. http://arxiv.org/abs/2202.07834
-18. Sekaran, S., Saubanère, M., & Fromager, E. (2022). Local Potential Functional Embedding Theory: A Self-Consistent Flavor of Density Functional Theory for Lattices without Density Functionals. 1–19. http://arxiv.org/abs/2202.08071
-19. Roadmap on Machine Learning in Electronic Structure, https://iopscience.iop.org/article/10.1088/2516-1075/ac572f
-20. Wallman, J. J., & Emerson, J. (2016). Noise tailoring for scalable quantum computation via randomized compiling. Physical Review A, 94(5). https://doi.org/10.1103/PhysRevA.94.052325
-21. Cai, Z., Lu, J., & Yang, S. (2022). Fast Algorithms of Bath Calculations in Simulations of Quantum System-Bath Dynamics. http://arxiv.org/abs/2202.06190
-22. Guţǎ, M., Kahn, J., Kueng, R., & Tropp, J. A. (2020). Fast state tomography with optimal error bounds. Journal of Physics A: Mathematical and Theoretical, 53(20). https://doi.org/10.1088/1751-8121/ab84ab
-23. Dutt, A., Pednault, E., Wu, C. W., Sheldon, S., Smolin, J., Bishop, L., & Chuang, I. L. (2021). Active Learning of Quantum System Hamiltonians yields Query Advantage. 1–53. http://arxiv.org/abs/2112.14553
-24. Holmes, Z., Muraleedharan, G., Somma, R. D., Subasi, Y., & Şahinoğlu, B. (2022). Quantum algorithms from fluctuation theorems: Thermal-state preparation. 1–49. http://arxiv.org/abs/2203.08882
-25. Zhang, Y., Yu, W., Zeng, P., Liu, G., & Ma, X. (2022). Scalable fast benchmarking for individual quantum gates with local twirling. http://arxiv.org/abs/2203.10320
-=======
-26. He Ma, Arunachalam Narayanaswamy, Patrick Riley, Li Li, Evolving symbolic density functionals, https://arxiv.org/abs/2203.02540
-27. Wu, D., Rossi, R., & Carleo, G. (2021). Unbiased Monte Carlo cluster updates with autoregressive neural networks. Physical Review Research, 3(4), L042024. https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.L042024
 
-## Proposed tutorial topics
+3. Karlsson, D., van Leeuwen, R., Pavlyukh, Y., Perfetto, E., & Stefanucci, G. (2021). Fast Green’s Function Method for Ultrafast Electron-Boson Dynamics. Physical Review Letters, 127(3), 1–7. https://doi.org/10.1103/PhysRevLett.127.036402
 
-1. Twisted bilayer graphene: symmetry properties, and interacting Bistritzer-Macdonald models
-2. Lattice gauge theory
-3. Many body Green's function theory
+4. Evangelista, F. A., Chan, G. K. L., & Scuseria, G. E. (2019). Exact parameterization of fermionic wave functions via unitary coupled cluster theory. Journal of Chemical Physics, 151(24). https://doi.org/10.1063/1.5133059
+
+5. Shtanko, O., & Movassagh, R. (2021). Algorithms for Gibbs state preparation on noiseless and noisy random quantum circuits. http://arxiv.org/abs/2112.14688
+
+6. Zhang, Y., Yu, W., Zeng, P., Liu, G., & Ma, X. (2022). Scalable fast benchmarking for individual quantum gates with local twirling. http://arxiv.org/abs/2203.10320
+
+7. 
+
+   
 
 
 <br>[⬆ Back to top](#)
