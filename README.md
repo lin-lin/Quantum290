@@ -30,7 +30,7 @@
 | 4    | 09/23 | Exact parameterization of fermionic wave functions via unitary coupled cluster theory  | Fabian |   |
 | 5    | 09/30 |                                                                          |             |            |
 | 6    | 10/07 | Noise-resilient algorithms with randomized compiling                     | Subhayan    |            |
-| 7    | 10/14 | Efficient Representations of Green's functions                           | Huang Zhen  |            |
+| 7    | 10/14 | Efficient Representations of Green's functions                           | Zhen Huang  |            |
 | 8    | 10/21 |                                                                          |             |            |
 | 9    | 10/28 |                                                                          |             |            |
 | 10   | 11/04 |                                                                          |             |            |
