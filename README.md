@@ -31,9 +31,9 @@
 | 5    | 09/30 |                                                                          |             |            |
 | 6    | 10/07 | Noise-resilient algorithms with randomized compiling                     | Subhayan    |            |
 | 7    | 10/14 | Efficient Representations of Green's functions                           | Zhen Huang  |            |
-| 8    | 10/21 |                                                                          |             |            |
-| 9    | 10/28 |                                                                          |             |            |
-| 10   | 11/04 |                                                                          |             |            |
+| 8    | 10/21 | Quantum Walks                                                            | Jin-Peng Liu|            |
+| 9    | 10/28 | multi-particle quantum walks                                             | Jin-Peng Liu|            |
+| 10   | 11/04 | TBD                                                                      | Jiasu Wang  |            |
 | 11   | 11/11 |                                                                          |             |            |
 | 12   | 11/18 |                                                                          |             |            |
 | 13   | 11/25 | No seminar (Thanksgiving)                                                |             |            |
