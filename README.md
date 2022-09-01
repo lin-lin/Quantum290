@@ -209,7 +209,7 @@
 
 9. Zweig, A., & Bruna, J. (2022). Exponential Separations in Symmetric Neural Networks. 1–49. http://arxiv.org/abs/2206.01266
 
-   
+10. Zweig, A., & Bruna, J. (2022). Towards Antisymmetric Neural Ansatz Separation. 1, 1–16. http://arxiv.org/abs/2208.03264   
 
    
 
