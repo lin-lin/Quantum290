@@ -28,7 +28,7 @@
 | 2    | 09/09 | Thermal state preparation: Linear transformation and weight modification | Zhiyan Ding |            |
 | 3    | 09/16 |                                                                          |             |            |
 | 4    | 09/23 | Exact parameterization of fermionic wave functions via unitary coupled cluster theory  | Fabian |   |
-| 5    | 09/30 |                                                                          |             |            |
+| 5    | 09/30 | Antisymmetric neural network separation                                  | Nilin       |            |
 | 6    | 10/07 | Noise-resilient algorithms with randomized compiling                     | Subhayan    |            |
 | 7    | 10/14 | Efficient Representations of Green's functions                           | Zhen Huang  |            |
 | 8    | 10/21 | Quantum Walks                                                            | Jin-Peng Liu|            |
