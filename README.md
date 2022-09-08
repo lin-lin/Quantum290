@@ -9,8 +9,8 @@
 
 
 <div align="center">
-  <h3>Week 1</h3>
-  <h1>Thermal state preparation: Quantum MCMC </h1>
+  <h3>Week 2</h3>
+  <h1>Thermal state preparation: Linear transformation and weight modification </h1>
   <strong>Zhiyan Ding</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
@@ -34,7 +34,7 @@
 | 8    | 10/21 | Quantum Walks                                                            | Jin-Peng Liu|            |
 | 9    | 10/28 | multi-particle quantum walks                                             | Jin-Peng Liu|            |
 | 10   | 11/04 | TBD                                                                      | Jiasu Wang  |            |
-| 11   | 11/11 | TBD                                                                      | Jiahao Yao  |            |
+| 11   | 11/11 |                                                                          |             |            |
 | 12   | 11/18 |                                                                          |             |            |
 | 13   | 11/25 | No seminar (Thanksgiving)                                                |             |            |
 | 14   | 12/02 |                                                                          |             |            |
