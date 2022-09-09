@@ -9,9 +9,9 @@
 
 
 <div align="center">
-  <h3>Week 2</h3>
-  <h1>Thermal state preparation: Linear transformation and weight modification </h1>
-  <strong>Zhiyan Ding</strong>
+  <h3>Week 3</h3>
+  <h1>Analytical guarantees and limitations of QAOA's performance </h1>
+  <strong>Joao</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
@@ -26,7 +26,7 @@
 | ---- | ----- | ------------------------------------------------------------------------ | ----------- | ---------- |
 | 1    | 09/02 | Thermal state preparation: Quantum MCMC                                  | Zhiyan Ding |            |
 | 2    | 09/09 | Thermal state preparation: Linear transformation and weight modification | Zhiyan Ding |            |
-| 3    | 09/16 | TBD                                                                      | Joao Basso  |            |
+| 3    | 09/16 | Analytical guarantees and limitations of QAOA's performance              | Joao Basso  |            |
 | 4    | 09/23 | Exact parameterization of fermionic wave functions via unitary coupled cluster theory  | Fabian |   |
 | 5    | 09/30 | Antisymmetric neural network separation                                  | Nilin       |            |
 | 6    | 10/07 | Noise-resilient algorithms with randomized compiling                     | Subhayan    |            |
