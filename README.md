@@ -9,9 +9,9 @@
 
 
 <div align="center">
-  <h3>Week 3</h3>
-  <h1>Analytical guarantees and limitations of QAOA's performance </h1>
-  <strong>Joao</strong>
+  <h3>Week 4</h3>
+  <h1>Exact parameterization of fermionic wave functions via unitary coupled cluster theory</h1>
+  <strong>Fabian</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
