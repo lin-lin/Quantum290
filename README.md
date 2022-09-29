@@ -9,9 +9,9 @@
 
 
 <div align="center">
-  <h3>Week 4</h3>
-  <h1>Exact parameterization of fermionic wave functions via unitary coupled cluster theory</h1>
-  <strong>Fabian</strong>
+  <h3>Week 5</h3>
+  <h1>Antisymmetric neural network separation</h1>
+  <strong>Nilin</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
