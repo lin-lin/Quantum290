@@ -35,7 +35,7 @@
 | 9    | 10/28 | multi-particle quantum walks                                             | Jin-Peng Liu|            |
 | 10   | 11/04 | TBD                                                                      | Jiasu Wang  |            |
 | 11   | 11/11 | combinatorial Mori-Zwanzig theory                                        | Yuanran Zhu |            |
-| 12   | 11/18 |                                                                          |             |            |
+| 12   | 11/18 | TBD                                                                      | Yulong Dong |            |
 | 13   | 11/25 | No seminar (Thanksgiving)                                                |             |            |
 | 14   | 12/02 |                                                                          |             |            |
 | 15   | 12/09 |                                                                          |             |            |
