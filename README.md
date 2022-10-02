@@ -3,15 +3,15 @@
 ### 🌟 Virtual quantum many-body seminar:electron:, 2022
 
 - **When:** 🕒 Fridays 1PM-3PM
-- **Where:** Evans 736 
+- **Where:** Evans **1015**
 - **Moderator**: Jiahao Yao
 
 
 
 <div align="center">
-  <h3>Week 5</h3>
-  <h1>Antisymmetric neural network separation</h1>
-  <strong>Nilin</strong>
+  <h3>Week 6</h3>
+  <h1>Noise-resilient algorithms with randomized compiling</h1>
+  <strong>Subhayan</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
