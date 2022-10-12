@@ -38,7 +38,7 @@
 | 12   | 11/18 | TBD                                                                      | Yulong Dong |            |
 | 13   | 11/25 | No seminar (Thanksgiving)                                                |             |            |
 | 14   | 12/02 | TBD                                                                      | Raehyun Kim |            |
-| 15   | 12/09 |                                                                          |             |            |
+| 15   | 12/09 | Convergence analysis of diffusion models                                 | Gil Goldshlager|         |
 | 16   | 12/16 | No seminar (Final)                                                       |             |            |
 | 17   | 12/23 | No seminar (Winter break)                                                |             |            |
 | 18   | 12/30 | No seminar (Winter break)                                                |             |            |
