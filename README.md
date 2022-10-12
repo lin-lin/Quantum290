@@ -9,9 +9,9 @@
 
 
 <div align="center">
-  <h3>Week 6</h3>
-  <h1>Noise-resilient algorithms with randomized compiling</h1>
-  <strong>Subhayan</strong>
+  <h3>Week 7</h3>
+  <h1>Efficient Representations of Green's functions</h1>
+  <strong>Zhen</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
@@ -37,7 +37,7 @@
 | 11   | 11/11 | combinatorial Mori-Zwanzig theory                                        | Yuanran Zhu |            |
 | 12   | 11/18 | TBD                                                                      | Yulong Dong |            |
 | 13   | 11/25 | No seminar (Thanksgiving)                                                |             |            |
-| 14   | 12/02 |                                                                          |             |            |
+| 14   | 12/02 | TBD                                                                      | Raehyun Kim |            |
 | 15   | 12/09 |                                                                          |             |            |
 | 16   | 12/16 | No seminar (Final)                                                       |             |            |
 | 17   | 12/23 | No seminar (Winter break)                                                |             |            |
