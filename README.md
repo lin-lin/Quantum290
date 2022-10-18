@@ -9,9 +9,9 @@
 
 
 <div align="center">
-  <h3>Week 7</h3>
-  <h1>Efficient Representations of Green's functions</h1>
-  <strong>Zhen</strong>
+  <h3>Week 8</h3>
+  <h1>Quantum Walks</h1>
+  <strong>Jin-Peng Liu</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
