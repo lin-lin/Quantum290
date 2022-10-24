@@ -9,8 +9,8 @@
 
 
 <div align="center">
-  <h3>Week 8</h3>
-  <h1>Quantum Walks</h1>
+  <h3>Week 9</h3>
+  <h1>Multi-particle Quantum Walks</h1>
   <strong>Jin-Peng Liu</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
