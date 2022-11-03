@@ -9,9 +9,9 @@
 
 
 <div align="center">
-  <h3>Week 9</h3>
-  <h1>Multi-particle Quantum Walks</h1>
-  <strong>Jin-Peng Liu</strong>
+  <h3>Week 10</h3>
+  <h1>combinatorial Mori-Zwanzig theory</h1>
+  <strong>Yuanran Zhu</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
@@ -33,8 +33,8 @@
 | 7    | 10/14 | Efficient Representations of Green's functions                           | Zhen Huang  |            |
 | 8    | 10/21 | Quantum Walks                                                            | Jin-Peng Liu|            |
 | 9    | 10/28 | multi-particle quantum walks                                             | Jin-Peng Liu|            |
-| 10   | 11/04 | Decomposition augmented Lagrangian method for low-rank SDP               | Jiasu Wang  |            |
-| 11   | 11/11 | combinatorial Mori-Zwanzig theory                                        | Yuanran Zhu |            |
+| 10   | 11/04 | combinatorial Mori-Zwanzig theory                                        | Yuanran Zhu |            |
+| 11   | 11/11 | Decomposition augmented Lagrangian method for low-rank SDP               | Jiasu Wang  |            |
 | 12   | 11/18 | TBD                                                                      | Yulong Dong |            |
 | 13   | 11/25 | No seminar (Thanksgiving)                                                |             |            |
 | 14   | 12/02 | TBD                                                                      | Raehyun Kim |            |
