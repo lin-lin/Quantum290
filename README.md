@@ -3,24 +3,31 @@
 ### 🌟 Virtual quantum many-body seminar:electron:, 2022
 
 - **When:** 🕒 Fridays 1PM-3PM
-- **Where:** Evans **1015**
+- **Where:** Evans **732**
 - **Moderator**: Jiahao Yao
 
 
 
 <div align="center">
-  <h3>Week 10</h3>
-  <h1>combinatorial Mori-Zwanzig theory</h1>
-  <strong>Yuanran Zhu</strong>
+  <strong>Rahul Sakar</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
 
 
 
-## 📌 Schedule (2022 Fall) 
+## 📌 Schedule (2023 Spring) 
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2022-09), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+
+
+
+### 📃 Previous Schedules 
+
+-----
+
+<details>
+<summary>Schedule (2022 Fall)</summary>
 
 | Week | Date  | Topic                                                                    | Speaker     | References |
 | ---- | ----- | ------------------------------------------------------------------------ | ----------- | ---------- |
@@ -43,10 +50,7 @@
 | 17   | 12/23 | No seminar (Winter break)                                                |             |            |
 | 18   | 12/30 | No seminar (Winter break)                                                |             |            |
 | 19   | 01/06 | No seminar (JMM)                                                         |             |            |
-
------
-
-### 📃 Previous Schedules 
+</details>
 
 <details>
 <summary>Schedule (2022 Summer)</summary>
