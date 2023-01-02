@@ -208,25 +208,19 @@
 
 1. Karlsson, D., van Leeuwen, R., Pavlyukh, Y., Perfetto, E., & Stefanucci, G. (2021). Fast Green’s Function Method for Ultrafast Electron-Boson Dynamics. Physical Review Letters, 127(3), 1–7. https://doi.org/10.1103/PhysRevLett.127.036402
 
-2. Evangelista, F. A., Chan, G. K. L., & Scuseria, G. E. (2019). Exact parameterization of fermionic wave functions via unitary coupled cluster theory. Journal of Chemical Physics, 151(24). https://doi.org/10.1063/1.5133059
+2. Zhang, Y., Yu, W., Zeng, P., Liu, G., & Ma, X. (2022). Scalable fast benchmarking for individual quantum gates with local twirling. http://arxiv.org/abs/2203.10320
 
-3. Huang, R., Li, C., & Evangelista, F. A. (2022). Leveraging small scale quantum computers with unitarily downfolded Hamiltonians. 1–17. http://arxiv.org/abs/2208.08591
+3. Nunez-Fernandez, Y., Jeannin, M., Dumitrescu, P. T., Kloss, T., Kaye, J., Parcollet, O., & Waintal, X. (2022). Learning Feynman Diagrams with Tensor Trains. Physical Review X, 12(4), 41018. https://doi.org/10.1103/PhysRevX.12.041018
 
-4. Shtanko, O., & Movassagh, R. (2021). Algorithms for Gibbs state preparation on noiseless and noisy random quantum circuits. http://arxiv.org/abs/2112.14688
+4. Jin, S., Liu, N., & Yu, Y. (2022). Quantum simulation of partial differential equations via Schrodingerisation. 1–9. http://arxiv.org/abs/2212.13969
 
-5. Zhang, Y., Yu, W., Zeng, P., Liu, G., & Ma, X. (2022). Scalable fast benchmarking for individual quantum gates with local twirling. http://arxiv.org/abs/2203.10320
+5. Sam McArdle, Andr ́as Gily ́en, and Mario Berta. Quantum state preparation without coherent arithmetic. arXiv preprint arXiv:2210.14892, 2022.
 
-6. Gu, Y., Ma, Y., Forcellini, N., & Liu, D. E. (2022). Noise-resilient phase estimation with randomized compiling. 1. http://arxiv.org/abs/2208.04100
+6. Kosugi, T., Nishi, H., & Matsushita, Y. (2022). First-quantized eigensolver for ground and excited states of electrons under a uniform magnetic field. http://arxiv.org/abs/2212.13800
 
-7. Abdulle, A., Vilmart, G., & Zygalakis, K. C. (2015). Long Time Accuracy of Lie--Trotter Splitting Methods for Langevin Dynamics. SIAM Journal on Numerical Analysis, 53(1), 1–16. https://doi.org/10.1137/140962644
+7. Kuroiwa, K., Ohkuma, T., Sato, H., & Imai, R. (2022). Quantum Car-Parrinello Molecular Dynamics: A Cost-Efficient Molecular Simulation Method on Near-Term Quantum Computers. 1–13. http://arxiv.org/abs/2212.11921
 
-8. Holmes, Z., Muraleedharan, G., Somma, R. D., Subasi, Y., & Şahinoğlu, B. (2022). Quantum algorithms from fluctuation theorems: Thermal-state preparation. 1–49. http://arxiv.org/abs/2203.08882
-
-9. Zweig, A., & Bruna, J. (2022). Exponential Separations in Symmetric Neural Networks. 1–49. http://arxiv.org/abs/2206.01266
-
-10. Zweig, A., & Bruna, J. (2022). Towards Antisymmetric Neural Ansatz Separation. 1, 1–16. http://arxiv.org/abs/2208.03264   
-
-   
+8. Kiss, O., Grossi, M., & Roggero, A. (2022). Importance sampling for stochastic quantum simulations. http://arxiv.org/abs/2212.05952
 
 
 <br>[⬆ Back to top](#)
