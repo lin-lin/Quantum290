@@ -222,6 +222,9 @@
 
 8. Kiss, O., Grossi, M., & Roggero, A. (2022). Importance sampling for stochastic quantum simulations. http://arxiv.org/abs/2212.05952
 
+## Previous reading materials
+
+See [here](oldreading.md)
 
 <br>[⬆ Back to top](#)
 
