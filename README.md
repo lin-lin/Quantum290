@@ -222,6 +222,12 @@
 
 8. Kiss, O., Grossi, M., & Roggero, A. (2022). Importance sampling for stochastic quantum simulations. http://arxiv.org/abs/2212.05952
 
+9. Chen, Y., Zhang, L., E, W., & Car, R. (2022). Hybrid Auxiliary Field Quantum Monte Carlo for Molecular Systems. 1–16. https://arxiv.org/abs/2211.10824
+
+10. Sharir, O., Chan, G. K., & Anandkumar, A. (2022). Towards Neural Variational Monte Carlo That Scales Linearly with System Size. http://arxiv.org/abs/2212.11296
+
+11. Gerard, L., Scherbela, M., Marquetand, P., Grohs, P., & Mathematics, A. (2022). Gold-standard solutions to the Schrödinger equation using deep learning : How much physics do we need ? http://arxiv.org/abs/2205.09438.
+
 ## Previous reading materials
 
 See [here](oldreading.md)
