@@ -1,6 +1,6 @@
 [![Math290](asset/quantum290-logo.svg)](https://math290.com/)
 ----------------------------
-### 🌟 Virtual quantum many-body seminar:electron:, 2022
+### 🌟 Virtual quantum many-body seminar: Spring 2023
 
 - **When:** 🕒 Fridays 1PM-3PM
 - **Where:** Evans **732**
@@ -14,12 +14,23 @@
 </div>
 
 
-
-
 ## 📌 Schedule (2023 Spring) 
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2022-09), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
+
+| # | Date  | Topic                                                                    | Speaker     | References |
+| ---- | ----- | ------------------------------------------------------------------------ | ----------- | ---------- |
+| 1    | 1/13 |  Quantum signal processing, and some structure theorems of the qudit Pauli group                                  | Rahul Sakar (Stanford) |            |
+| 2    | 1/20 |  |  |            |
+| 3    | 2/3 |               |   |            |
+| 4    | 2/24 |   |  |   |
+| 5    | 3/3 |                                   |        |            |
+| 6    | 3/17 |                      |     |            |
+| 7    | 3/24 |                            |   |            |
+| 8    | 4/7 |                                                             | |            |
+| 9    | 4/21 |                                              | |            |
+| 10   | 5/5 |                                         |  |            |
 
 
 ### 📃 Previous Schedules 
