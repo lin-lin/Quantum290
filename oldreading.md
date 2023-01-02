@@ -1,8 +1,3 @@
-## 🗂 Reading materials 
-
-<details>
-<summary>View contents</summary>
-
 ###### 1
 [Problem-free time-dependent variational principle for open quantum systems](http://arxiv.org/abs/1501.02025v3)
 
@@ -298,16 +293,8 @@
 34. Simulating Large Quantum Circuits on a Small Quantum Computer, https://arxiv.org/abs/1904.00102
 
 35. Quantum advantage with shallow circuits, https://arxiv.org/abs/1704.00690
-<details>
-<summary>Comments</summary>
-(Subhayan Roy Moulik: I'd say this is one of the most influential papers of the past decade because it shows a provable separation between quantum and classical computing for constant depth circuits and already has a strong literature build up on it.)
-</details>
 
 35. The maximum speed of dynamical evolution, https://arxiv.org/abs/quant-ph/9710043
-<details>
-<summary>Comments</summary>
-(Subhayan Roy Moulik: This an old paper, and gives a fundamental limit on the speed of information processing.) 
-</details>
 
 36. Quantum Logspace Algorithm for Powering Matrices with Bounded Norm, https://eccc.weizmann.ac.il/report/2020/087/
 37. G.E. Scuseria, T.M. Henderson, D.C. Sorensen, The ground state correlation energy of the random phase approximation from a ring coupled cluster doubles approach, J. Chem. Phys. 129 (2008). doi:10.1063/1.3043729.
