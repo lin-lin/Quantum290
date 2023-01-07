@@ -22,11 +22,11 @@
 | # | Date  | Topic                                                                    | Speaker     | References |
 | ---- | ----- | ------------------------------------------------------------------------ | ----------- | ---------- |
 | 1    | 1/13 |  Quantum signal processing, and some structure theorems of the qudit Pauli group                                  | Rahul Sakar (Stanford) |            |
-| 2    | 1/20 |  |  |            |
-| 3    | 2/3 |               |   |            |
-| 4    | 2/24 |   |  |   |
-| 5    | 3/3 |                                   |        |            |
-| 6    | 3/17 |                      |     |            |
+| 2    | 1/20 | TBD| Yuanran Zhu |            |
+| 3    | 2/3 | algorithms for Clifford stabilizer simulations |Sajant Anand| https://arxiv.org/abs/quant-ph/0406196 |
+| 4    | 2/24 | Towards Neural Variational Monte Carlo That Scales Linearly with System Size | Nilin |http://arxiv.org/abs/2212.11296 |
+| 5    | 3/3 | Hybrid Auxiliary Field Quantum Monte Carlo for Molecular Systems | Gil Goldshlager |            |
+| 6    | 3/17 | Learning Feynman Diagrams with Tensor Trains | Kevin Stubbs |            |
 | 7    | 3/24 |                            |   |            |
 | 8    | 4/7 |                                                             | |            |
 | 9    | 4/21 |                                              | |            |
