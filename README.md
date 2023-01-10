@@ -22,6 +22,7 @@
 | # | Date  | Topic                                                                    | Speaker     | References |
 | ---- | ----- | ------------------------------------------------------------------------ | ----------- | ---------- |
 | 1    | 1/13 |  Quantum signal processing, and some structure theorems of the qudit Pauli group                                  | Rahul Sakar (Stanford) |            |
+| 1'   | 1/17 | Efficient and robust learning of fermionic reduced density matrices with classical shadows | ANdrew Zhao (New Mexico) |            |
 | 2    | 1/20 | TBD| Yuanran Zhu |            |
 | 3    | 2/3 | algorithms for Clifford stabilizer simulations |Sajant Anand| https://arxiv.org/abs/quant-ph/0406196 |
 | 4    | 2/24 | Towards Neural Variational Monte Carlo That Scales Linearly with System Size | Nilin |http://arxiv.org/abs/2212.11296 |
