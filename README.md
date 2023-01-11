@@ -28,7 +28,7 @@
 | 4    | 2/24 | Towards Neural Variational Monte Carlo That Scales Linearly with System Size | Nilin |http://arxiv.org/abs/2212.11296 |
 | 5    | 3/3 | Hybrid Auxiliary Field Quantum Monte Carlo for Molecular Systems | Gil Goldshlager |            |
 | 6    | 3/17 | Learning Feynman Diagrams with Tensor Trains | Kevin Stubbs |            |
-| 7    | 3/24 |                            |   |            |
+| 7    | 3/24 | Riemannian geometry approaches to quantum algorithms | Subhayan Roy Moulik |            |
 | 8    | 4/7 |                                                             | |            |
 | 9    | 4/21 |                                              | |            |
 | 10   | 5/5 |                                         |  |            |
