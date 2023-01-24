@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <strong>Rahul Sakar</strong>
+  <strong>Sajant Anand</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
@@ -31,7 +31,7 @@
 | 6    | 3/17 | Learning Feynman Diagrams with Tensor Trains | Kevin Stubbs |            |
 | 7    | 3/24 | Riemannian geometry approaches to quantum algorithms | Subhayan Roy Moulik |            |
 | 8    | 4/7 |                                                             | |            |
-| 9    | 4/21 |                                              | |            |
+| 9    | 4/21 | TBD                                    | Jiahao Yao |            |
 | 10   | 5/5 |                                         |  |            |
 
 
