@@ -30,7 +30,7 @@
 | 5    | 3/3 | Hybrid Auxiliary Field Quantum Monte Carlo for Molecular Systems | Gil Goldshlager |            |
 | 6    | 3/17 | Learning Feynman Diagrams with Tensor Trains | Kevin Stubbs |            |
 | 7    | 3/24 | Riemannian geometry approaches to quantum algorithms | Subhayan Roy Moulik |            |
-| 8    | 4/7 |                                                             | |            |
+| 8    | 4/7  | Quantum simulation of partial differential equations via Schrödingerisation | Zhiyan Ding |            |
 | 9    | 4/21 | TBD                                    | Jiahao Yao |            |
 | 10   | 5/5 |                                         |  |            |
 
