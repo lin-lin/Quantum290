@@ -24,8 +24,8 @@
 | 1    | 1/13 |  Quantum signal processing, and some structure theorems of the qudit Pauli group                                  | Rahul Sakar (Stanford) |            |
 | 1'   | 1/17 | Efficient and robust learning of fermionic reduced density matrices with classical shadows | Andrew Zhao (New Mexico) |            |
 | 1''  | 1/20 | Strong correlations in quantum chemistry: numerical analysis and recent applications | Fabian Faulstich |            |
-| 2    | 1/27 | Algorithms for Clifford stabilizer simulations |Sajant Anand | https://arxiv.org/abs/quant-ph/0406196 |            |
-| 3    | 2/3 | TBD |  |
+| 2    | 1/27 | ~Algorithms for Clifford stabilizer simulations~ |~Sajant Anand~ | ~https://arxiv.org/abs/quant-ph/0406196~ |            |
+| 3    | 2/3 | Algorithms for Clifford stabilizer simulations |Sajant Anand | https://arxiv.org/abs/quant-ph/0406196 |            |
 | 4    | 2/24 | Towards Neural Variational Monte Carlo That Scales Linearly with System Size | Nilin |http://arxiv.org/abs/2212.11296 |
 | 5    | 3/3 | Hybrid Auxiliary Field Quantum Monte Carlo for Molecular Systems | Gil Goldshlager |            |
 | 6    | 3/17 | Learning Feynman Diagrams with Tensor Trains | Kevin Stubbs |            |
