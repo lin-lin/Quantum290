@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <strong>Gil Goldshlager</strong>
+  <strong>Subhayan Roy Moulik</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
@@ -28,8 +28,8 @@
 | 3    | 2/3 | Algorithms for Clifford stabilizer simulations |Sajant Anand | https://arxiv.org/abs/quant-ph/0406196 |            |
 | 4    | 2/24 | Towards Neural Variational Monte Carlo That Scales Linearly with System Size | Nilin |http://arxiv.org/abs/2212.11296 |
 | 5    | 3/3 | Hybrid Auxiliary Field Quantum Monte Carlo for Molecular Systems | Gil Goldshlager |            |
-| 6    | 3/17 | Learning Feynman Diagrams with Tensor Trains | Kevin Stubbs |            |
-| 7    | 3/24 | Riemannian geometry approaches to quantum algorithms | Subhayan Roy Moulik |            |
+| 6    | 3/17 | Riemannian geometry approaches to quantum algorithms | Subhayan Roy Moulik |            |
+| 7    | 3/24 | Learning Feynman Diagrams with Tensor Trains | Kevin Stubbs |            |
 | 8    | 4/7  | Quantum simulation of partial differential equations via Schrödingerisation | Zhiyan Ding |            |
 | 9    | 4/21 |                                        |  |            |
 | 10   | 5/5 |                                         |  |            |
