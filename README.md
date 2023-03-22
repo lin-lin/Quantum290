@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <strong>Subhayan Roy Moulik</strong>
+  <strong>Kevin Stubbs</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
