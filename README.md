@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <strong>Kevin Stubbs</strong>
+  <strong>Zhiyan Ding</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
