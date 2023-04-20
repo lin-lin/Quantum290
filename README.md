@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <strong>Zhiyan Ding</strong>
+  <strong>Jiasu Wang</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
@@ -31,7 +31,7 @@
 | 6    | 3/17 | Riemannian geometry approaches to quantum algorithms | Subhayan Roy Moulik |            |
 | 7    | 3/24 | Learning Feynman Diagrams with Tensor Trains | Kevin Stubbs |            |
 | 8    | 4/7  | Quantum simulation of partial differential equations via Schrödingerisation | Zhiyan Ding |            |
-| 9    | 4/21 |                                        |  |            |
+| 9    | 4/21 |   TBD                                  | Jiasu Wang  |            |
 | 10   | 5/5 |                                         |  |            |
 
 
