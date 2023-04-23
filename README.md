@@ -14,6 +14,21 @@
 </div>
 
 
+## 📌 Schedule (2023 Summer) 
+
+🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2023-05), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+
+
+| # | Date  | Topic                                                                    | Speaker     | References |
+| ---- | ----- | ------------------------------------------------------------------------ | ----------- | ---------- |
+| 1   | 5/5 |                                         |  |            |
+| 2   | 5/12 |                                         |  |            |
+| 3   | 6/9 |                                         |  |            |
+| 4   | 6/16 |                                         |  |            |
+| 5   | 6/23 |                                         |  |            |
+| 6   | 7/7 |                                         |  |            |
+
+
 ## 📌 Schedule (2023 Spring) 
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2022-09), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
