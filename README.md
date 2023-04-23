@@ -1,6 +1,6 @@
 [![Math290](asset/quantum290-logo.svg)](https://math290.com/)
 ----------------------------
-### 🌟 Virtual quantum many-body seminar: Spring 2023
+### 🌟 Virtual quantum many-body seminar: ~Spring~ Summer 2023
 
 - **When:** 🕒 Fridays 1PM-3PM
 - **Where:** Evans **732**
@@ -46,8 +46,7 @@
 | 6    | 3/17 | Riemannian geometry approaches to quantum algorithms | Subhayan Roy Moulik |            |
 | 7    | 3/24 | Learning Feynman Diagrams with Tensor Trains | Kevin Stubbs |            |
 | 8    | 4/7  | Quantum simulation of partial differential equations via Schrödingerisation | Zhiyan Ding |            |
-| 9    | 4/21 |   TBD                                  | Jiasu Wang  |            |
-| 10   | 5/5 |                                         |  |            |
+| 9    | 4/21 |   Quantum Hamiltonian Descent                                  | Jiasu Wang  |            |
 
 
 ### 📃 Previous Schedules 
