@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <strong>Jiasu Wang</strong>
+  <strong>Zhen Huang</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
@@ -19,39 +19,40 @@
 🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2023-05), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
 
-| # | Date  | Topic                                                                    | Speaker     | References |
-| ---- | ----- | ------------------------------------------------------------------------ | ----------- | ---------- |
-| 1   | 5/5 |                                         |  |            |
-| 2   | 5/12 |                                         |  |            |
-| 3   | 6/9 |                                         |  |            |
-| 4   | 6/16 |                                         |  |            |
-| 5   | 6/23 |                                         |  |            |
-| 6   | 7/7 |                                         |  |            |
-
-
-## 📌 Schedule (2023 Spring) 
-
-🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2022-09), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
-
-
-| # | Date  | Topic                                                                    | Speaker     | References |
-| ---- | ----- | ------------------------------------------------------------------------ | ----------- | ---------- |
-| 1    | 1/13 |  Quantum signal processing, and some structure theorems of the qudit Pauli group                                  | Rahul Sakar (Stanford) |            |
-| 1'   | 1/17 | Efficient and robust learning of fermionic reduced density matrices with classical shadows | Andrew Zhao (New Mexico) |            |
-| 1''  | 1/20 | Strong correlations in quantum chemistry: numerical analysis and recent applications | Fabian Faulstich |            |
-| 2    | 1/27 | ~Algorithms for Clifford stabilizer simulations~ |~Sajant Anand~ | ~https://arxiv.org/abs/quant-ph/0406196~ |            |
-| 3    | 2/3 | Algorithms for Clifford stabilizer simulations |Sajant Anand | https://arxiv.org/abs/quant-ph/0406196 |            |
-| 4    | 2/24 | Towards Neural Variational Monte Carlo That Scales Linearly with System Size | Nilin |http://arxiv.org/abs/2212.11296 |
-| 5    | 3/3 | Hybrid Auxiliary Field Quantum Monte Carlo for Molecular Systems | Gil Goldshlager |            |
-| 6    | 3/17 | Riemannian geometry approaches to quantum algorithms | Subhayan Roy Moulik |            |
-| 7    | 3/24 | Learning Feynman Diagrams with Tensor Trains | Kevin Stubbs |            |
-| 8    | 4/7  | Quantum simulation of partial differential equations via Schrödingerisation | Zhiyan Ding |            |
-| 9    | 4/21 |   Quantum Hamiltonian Descent                                  | Jiasu Wang  |            |
+| # | Date | Topic                                                          | Speaker     | References                                                                                                      |
+|---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
+| 1 | 5/5  | Green’s function methods: Theory and application to GW and GF2 | Zhen Huang  | [paper](https://pubs.aip.org/aip/jcp/article/155/2/024119/1065035/Evaluation-of-two-particle-properties-within) |
+| 2 | 5/12 | Electron-phonon interactions from first principles             | Yuanran Zhu | [paper](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.89.015003)                                     |
+| 3 | 6/9  |                                                                |             |                                                                                                                 |
+| 4 | 6/16 |                                                                |             |                                                                                                                 |
+| 5 | 6/23 |                                                                |             |                                                                                                                 |
+| 6 | 7/7  |                                                                |             |                                                                                                                 |
 
 
 ### 📃 Previous Schedules 
 
 -----
+
+
+<details>
+<summary>Schedule (2023 Spring)</summary>
+
+
+| #   | Date | Topic                                                                                      | Speaker                  | References                               |
+|-----|------|--------------------------------------------------------------------------------------------|--------------------------|------------------------------------------|
+| 1   | 1/13 | Quantum signal processing, and some structure theorems of the qudit Pauli group            | Rahul Sakar (Stanford)   |                                          |
+| 1'  | 1/17 | Efficient and robust learning of fermionic reduced density matrices with classical shadows | Andrew Zhao (New Mexico) |                                          |
+| 1'' | 1/20 | Strong correlations in quantum chemistry: numerical analysis and recent applications       | Fabian Faulstich         |                                          |
+| 2   | 1/27 | ~Algorithms for Clifford stabilizer simulations~                                           | ~Sajant Anand~           | ~https://arxiv.org/abs/quant-ph/0406196~ |
+| 3   | 2/3  | Algorithms for Clifford stabilizer simulations                                             | Sajant Anand             | https://arxiv.org/abs/quant-ph/0406196   |
+| 4   | 2/24 | Towards Neural Variational Monte Carlo That Scales Linearly with System Size               | Nilin                    | http://arxiv.org/abs/2212.11296          |
+| 5   | 3/3  | Hybrid Auxiliary Field Quantum Monte Carlo for Molecular Systems                           | Gil Goldshlager          |                                          |
+| 6   | 3/17 | Riemannian geometry approaches to quantum algorithms                                       | Subhayan Roy Moulik      |                                          |
+| 7   | 3/24 | Learning Feynman Diagrams with Tensor Trains                                               | Kevin Stubbs             |                                          |
+| 8   | 4/7  | Quantum simulation of partial differential equations via Schrödingerisation                | Zhiyan Ding              |                                          |
+| 9   | 4/21 | Quantum Hamiltonian Descent                                                                | Jiasu Wang               |                                          |
+
+</details>
 
 <details>
 <summary>Schedule (2022 Fall)</summary>
