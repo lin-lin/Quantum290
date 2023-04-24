@@ -23,7 +23,7 @@
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 5/5  | Green’s function methods: Theory and application to GW and GF2 | Zhen Huang  | [paper](https://pubs.aip.org/aip/jcp/article/155/2/024119/1065035/Evaluation-of-two-particle-properties-within) |
 | 2 | 5/12 | Electron-phonon interactions from first principles             | Yuanran Zhu | [paper](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.89.015003)                                     |
-| 3 | 6/9  |                                                                |             |                                                                                                                 |
+| 3 | 6/9  | TBD                                                             | Nilin            |                                                                                                                 |
 | 4 | 6/16 |                                                                |             |                                                                                                                 |
 | 5 | 6/23 |                                                                |             |                                                                                                                 |
 | 6 | 7/7  |                                                                |             |                                                                                                                 |
