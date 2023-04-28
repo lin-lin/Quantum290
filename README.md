@@ -25,7 +25,7 @@
 | 2 | 5/12 | Electron-phonon interactions from first principles             | Yuanran Zhu | [paper](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.89.015003)                                     |
 | 3 | 6/9  | TBD                                                             | Nilin            |                                                                                                                 |
 | 4 | 6/16 |                                                                |             |                                                                                                                 |
-| 5 | 6/23 |                                                                |             |                                                                                                                 |
+| 5 | 6/23 | TBD                                                               | Avijit Shee |                                                                                                                 | 
 | 6 | 7/7  |                                                                |             |                                                                                                                 |
 
 
