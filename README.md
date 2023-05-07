@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <strong>Zhen Huang</strong>
+  <strong>Yuanran Zhu</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
