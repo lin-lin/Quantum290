@@ -1,6 +1,6 @@
 [![Math290](asset/quantum290-logo.svg)](https://math290.com/)
 ----------------------------
-### 🌟 Virtual quantum many-body seminar: ~Spring~ Summer 2023
+### 🌟 Quantum many-body seminar: ~Spring~ Summer 2023
 
 - **When:** 🕒 Fridays 1PM-3PM
 - **Where:** Evans **732**
