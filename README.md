@@ -26,7 +26,7 @@
 | 3 | 6/9  | TBD                                                             | Nilin            |                                                                                                                 |
 | 4 | 6/16 |                                                                |             |                                                                                                                 |
 | 5 | 6/23 | TBD                                                               | Avijit Shee |                                                                                                                 | 
-| 6 | 7/7  | quantum sampling                                       |  Jin-Peng Liu            |    [paper](https://doi.org/10.1103/PhysRevA.78.042336)                                                                                                             |
+| 6 | 7/7  | quantum sampling                                       |  Jin-Peng Liu            |    [paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.78.042336)                                                                                                             |
 
 
 ### 📃 Previous Schedules 
