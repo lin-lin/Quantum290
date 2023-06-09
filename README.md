@@ -3,13 +3,12 @@
 ### 🌟 Quantum many-body seminar: ~Spring~ Summer 2023
 
 - **When:** 🕒 Fridays 1PM-3PM
-- **Where:** Evans **732**
-- **Moderator**: Jiahao Yao
+- **Where:** Evans **939**
 
 
 
 <div align="center">
-  <strong>Yuanran Zhu</strong>
+  <strong>Nilin</strong>
   <h6>Friday, 1 pm -- 3 pm</h6>
 </div>
 
