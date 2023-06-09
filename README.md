@@ -4,8 +4,7 @@
 
 - **When:** 🕒 Fridays 1PM-3PM
 - **Where:** Evans **939**
-
-
+- **Moderator: ** Zhen Huang and Raehyun Kim **
 
 <div align="center">
   <strong>Nilin</strong>
