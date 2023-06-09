@@ -7,8 +7,8 @@
 - **Moderator**: **Zhen Huang and Raehyun Kim**
 
 <div align="center">
-  <strong>Nilin</strong>
-  <h6>Friday, 1 pm -- 3 pm</h6>
+  <strong>Nilin Abrahamsen, Quantics tensor train</strong>
+  <h6>Friday, 1 pm -- 3 pm, Evans 939</h6>
 </div>
 
 
