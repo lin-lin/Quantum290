@@ -7,7 +7,7 @@
 - **Moderator**: **Zhen Huang and Raehyun Kim**
 
 <div align="center">
-  <strong>Nilin Abrahamsen, Quantics tensor train</strong>
+  <strong>Avijit Shee, TBD</strong>
   <h6>Friday, 1 pm -- 3 pm, Evans 939</h6>
 </div>
 
@@ -19,7 +19,7 @@
 
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
-| 1 | 9/1  |                                                                |             |                                                                                                                 |
+| 1 | 9/1  |      TBD                                                       | Avijit Shee |                                                                                                                 |
 | 2 | 9/8  |                                                                |             |                                                                                                                 |
 | 3 | 9/29 |                                                                |             |                                                                                                                 |
 | 4 | 10/13|                                                                |             |                                                                                                                 |
