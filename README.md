@@ -14,7 +14,7 @@
 
 ## 📌 Schedule (2023 Summer) 
 
-🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/jiahaoyao-math/math-290-booking-time?month=2023-05), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/rhkim79/math-290-seminar), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
 
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
