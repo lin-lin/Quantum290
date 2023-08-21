@@ -34,6 +34,8 @@
 
 <details>
 <summary>Schedule (2023 Summer)</summary>
+
+
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 5/5  | Green’s function methods: Theory and application to GW and GF2 | Zhen Huang  | [paper](https://pubs.aip.org/aip/jcp/article/155/2/024119/1065035/Evaluation-of-two-particle-properties-within) |
@@ -41,8 +43,10 @@
 | 3 | 6/9  | Quantics tensor train                                          | Nilin Abrahamsen | [paper](https://epubs.siam.org/doi/10.1137/100811647)                                                         |                                                                                      
 | 4 | 6/16 |                                                                |             |                                                                                                                 |
 | 5 | 6/23 | TBD                                                               | Avijit Shee |                                                                                                                 | 
-| 6 | 7/7  | quantum sampling                                       |  Jin-Peng Liu            |    [paper](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.78.042336)                                                                                                             |
+| 6 | 7/7  | quantum sampling                                       |  Jin-Peng Liu            |    [paper](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.78.042336)                                  |
+
 </details>
+
 <details>
 <summary>Schedule (2023 Spring)</summary>
 
