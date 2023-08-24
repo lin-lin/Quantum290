@@ -19,7 +19,7 @@
 
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
-| 1 | 9/1  |      TBD                                                       | Avijit Shee |                                                                                                                 |
+| 1 | 9/1  |    Quantum embedding based on coupled cluster theory           | Avijit Shee |                                                                                                                 |
 | 2 | 9/8  |    Twisted Bilayer Graphene                              |    Kevin Stubbs |                                                                                                                 |
 | 3 | 9/29 (zoom) |                                                         |             |                                                                                                                 |
 | 4 | 10/13 (zoom) |           TBD                                             |    Zhiyan Ding         |                                                                                                                 |
