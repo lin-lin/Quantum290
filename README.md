@@ -12,7 +12,7 @@
 </div>
 
 
-## 📌 Schedule (2023 Summer) 
+## 📌 Schedule (2023 Fall) 
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/rhkim79/math-290-seminar), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
