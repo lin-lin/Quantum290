@@ -233,30 +233,6 @@
 <br>[⬆ Back to top](#)
 
 
-## Reading materials 
-
-1. Karlsson, D., van Leeuwen, R., Pavlyukh, Y., Perfetto, E., & Stefanucci, G. (2021). Fast Green’s Function Method for Ultrafast Electron-Boson Dynamics. Physical Review Letters, 127(3), 1–7. https://doi.org/10.1103/PhysRevLett.127.036402
-
-2. Zhang, Y., Yu, W., Zeng, P., Liu, G., & Ma, X. (2022). Scalable fast benchmarking for individual quantum gates with local twirling. http://arxiv.org/abs/2203.10320
-
-3. Nunez-Fernandez, Y., Jeannin, M., Dumitrescu, P. T., Kloss, T., Kaye, J., Parcollet, O., & Waintal, X. (2022). Learning Feynman Diagrams with Tensor Trains. Physical Review X, 12(4), 41018. https://doi.org/10.1103/PhysRevX.12.041018
-
-4. Jin, S., Liu, N., & Yu, Y. (2022). Quantum simulation of partial differential equations via Schrodingerisation. 1–9. http://arxiv.org/abs/2212.13969
-
-5. Sam McArdle, Andr ́as Gily ́en, and Mario Berta. Quantum state preparation without coherent arithmetic. arXiv preprint arXiv:2210.14892, 2022.
-
-6. Kosugi, T., Nishi, H., & Matsushita, Y. (2022). First-quantized eigensolver for ground and excited states of electrons under a uniform magnetic field. http://arxiv.org/abs/2212.13800
-
-7. Kuroiwa, K., Ohkuma, T., Sato, H., & Imai, R. (2022). Quantum Car-Parrinello Molecular Dynamics: A Cost-Efficient Molecular Simulation Method on Near-Term Quantum Computers. 1–13. http://arxiv.org/abs/2212.11921
-
-8. Kiss, O., Grossi, M., & Roggero, A. (2022). Importance sampling for stochastic quantum simulations. http://arxiv.org/abs/2212.05952
-
-9. Chen, Y., Zhang, L., E, W., & Car, R. (2022). Hybrid Auxiliary Field Quantum Monte Carlo for Molecular Systems. 1–16. https://arxiv.org/abs/2211.10824
-
-10. Sharir, O., Chan, G. K., & Anandkumar, A. (2022). Towards Neural Variational Monte Carlo That Scales Linearly with System Size. http://arxiv.org/abs/2212.11296
-
-11. Gerard, L., Scherbela, M., Marquetand, P., Grohs, P., & Mathematics, A. (2022). Gold-standard solutions to the Schrödinger equation using deep learning : How much physics do we need ? http://arxiv.org/abs/2205.09438.
-
 ## Previous reading materials
 
 See [here](oldreading.md)
