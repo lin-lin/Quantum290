@@ -25,7 +25,7 @@
 | 4 | 10/13 (zoom) |           TBD                                             |    Zhiyan Ding         |                                                                                                                 |
 | 5 | 11/3 | Diagrammatic Routes to Nonlocal Corrections beyond DMFT         | Zhen Huang  |   [paper](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.90.025003)                                                                                                            |
 | 6 | 11/17|           TBD                                             |    Nilin         |                                                                                                                 |
-| 7 | 12/1 |                                                                |             |                                                                                                                 |
+| 7 | 12/1 |           TBD                                                  |  Yulong Dong  |                                                                                                                 |
 | 8 | 12/8 |                                                                |             |                                                                                                                 |
 
 ### 📃 Previous Schedules 
