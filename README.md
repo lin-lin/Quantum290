@@ -8,7 +8,7 @@
 
 <div align="center">
   <strong>Avijit Shee,  Quantum embedding based on coupled cluster theory</strong>
-  <h6>Friday, 1 pm -- 3 pm, Evans 939</h6>
+  <h6> 9/1 Friday, 1 pm -- 3 pm, Evans 939</h6>
 </div>
 
 
