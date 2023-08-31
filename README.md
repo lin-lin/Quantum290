@@ -21,7 +21,7 @@
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 9/1  |    Quantum embedding based on coupled cluster theory           | Avijit Shee |                                                                                                                 |
 | 2 | 9/8  |    Twisted Bilayer Graphene                              |    Kevin Stubbs |                                                                                                                 |
-| 3 | 9/29 (zoom) |   Generalized Quantum signal Processing                       |   Jiasu Wang    |                                                                                                                 |
+| 3 | 9/29 (zoom) |   Generalized Quantum Signal Processing                       |   Jiasu Wang    |                                                                                                                 |
 | 4 | 10/13 (zoom) |           TBD                                             |    Zhiyan Ding         |                                                                                                                 |
 | 5 | 11/3 | Diagrammatic Routes to Nonlocal Corrections beyond DMFT         | Zhen Huang  |   [paper](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.90.025003)                                                                                                            |
 | 6 | 11/17|           TBD                                             |    Nilin         |                                                                                                                 |
