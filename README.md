@@ -7,7 +7,7 @@
 - **Moderator**: **Zhen Huang and Raehyun Kim**
 
 <div align="center">
-  <strong>Kevin Stubbs,  Twisted Bilayer Graphene </strong>
+  <strong>Kevin Stubbs,  The Ferromagnetic Ground State of Spinless, Valleyless Twisted Bilayer Graphene </strong>
   <h6> 9/8 Friday, 1 pm -- 3 pm, Evans 939</h6>
 </div>
 
@@ -20,7 +20,7 @@
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 9/1  |    Quantum embedding based on coupled cluster theory           | Avijit Shee |                                                                                                                 |
-| 2 | 9/8  |          Twisted Bilayer Graphene                        |    Kevin Stubbs |                                                                                                                 |
+| 2 | 9/8  |       The Ferromagnetic Ground State of Spinless, Valleyless Twisted Bilayer Graphene                        |    Kevin Stubbs |                                                                                                                 |
 | 3 | 9/29 (zoom) |   Generalized Quantum Signal Processing                       |   Jiasu Wang    |                                                                                                                 |
 | 4 | 10/13 (zoom) |           TBD                                             |    Zhiyan Ding         |                                                                                                                 |
 | 5 | 11/3 | Diagrammatic Routes to Nonlocal Corrections beyond DMFT         | Zhen Huang  |   [paper](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.90.025003)                                                                                                            |
