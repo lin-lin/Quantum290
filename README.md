@@ -8,7 +8,7 @@
 
 <div align="center">
   <strong>Kevin Stubbs,  Twisted Bilayer Graphene </strong>
-  <h6> 9/1 Friday, 1 pm -- 3 pm, Evans 939</h6>
+  <h6> 9/8 Friday, 1 pm -- 3 pm, Evans 939</h6>
 </div>
 
 
