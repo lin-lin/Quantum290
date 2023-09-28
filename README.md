@@ -7,8 +7,8 @@
 - **Moderator**: **Zhen Huang and Raehyun Kim**
 
 <div align="center">
-  <strong>Kevin Stubbs,  The Ferromagnetic Ground State of Spinless, Valleyless Twisted Bilayer Graphene </strong>
-  <h6> 9/8 Friday, 1 pm -- 3 pm, Evans 939</h6>
+  <strong>Jiasu Wang,  Generalized Quantum Signal Processing  </strong>
+  <h6> 9/29 Friday, 1 pm -- 3 pm, zoom</h6>
 </div>
 
 
