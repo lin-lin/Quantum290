@@ -7,7 +7,7 @@
 - **Moderator**: **Zhen Huang and Raehyun Kim**
 
 <div align="center">
-  <strong>Jiasu Wang,  Generalized Quantum Signal Processing  </strong>
+  <strong>Canceled  </strong>
   <h6> 9/29 Friday, 1 pm -- 3 pm, zoom</h6>
 </div>
 
@@ -21,11 +21,11 @@
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 9/1  |    Quantum embedding based on coupled cluster theory           | Avijit Shee |                                                                                                                 |
 | 2 | 9/8  |       The Ferromagnetic Ground State of Spinless, Valleyless Twisted Bilayer Graphene                        |    Kevin Stubbs |                                                                                                                 |
-| 3 | 9/29 (zoom) |   Generalized Quantum Signal Processing                       |   Jiasu Wang    |         [paper](https://arxiv.org/abs/2308.01501)                                                                                                      |
+| 3 | 9/29 (cancelled) |                       |       |                                                                                                         |
 | 4 | 10/13 (zoom) |           TBD                                             |    Zhiyan Ding         |                                                                                                                 |
 | 5 | 11/3 | Diagrammatic Routes to Nonlocal Corrections beyond DMFT         | Zhen Huang  |   [paper](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.90.025003)                                                                                                            |
-| 6 | 11/17|           TBD                                             |    Nilin         |                                                                                                                 |
-| 7 | 12/1 |           TBD                                                  |  Yulong Dong  |                                                                                                                 |
+| 6 | 11/17|           TBD                                             |    Yulong Dong         |                                                                                                                 |
+| 7 | 12/1 |           TBD                                                  |  Nilin Abrahamsen  |                                                                                                                 |
 | 8 | 12/8 |   Projected Hartree Fock        |  Raehyun Kim  |                                                                                                                 |
 
 ### 📃 Previous Schedules 
