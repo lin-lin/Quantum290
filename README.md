@@ -7,8 +7,8 @@
 - **Moderator**: **Zhen Huang and Raehyun Kim**
 
 <div align="center">
-  <strong>Canceled  </strong>
-  <h6> 9/29 Friday, 1 pm -- 3 pm, zoom</h6>
+  <strong>  A class of signal processing method, Zhiyan Ding </strong>
+  <h6> 10/12 Friday, 1 pm -- 3 pm, zoom</h6>
 </div>
 
 
