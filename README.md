@@ -7,8 +7,8 @@
 - **Moderator**: **Zhen Huang and Raehyun Kim**
 
 <div align="center">
-  <strong>  A class of signal processing method, Zhiyan Ding </strong>
-  <h6> 10/12 Friday, 1 pm -- 3 pm, zoom</h6>
+  <strong> Hybridization expansion approach to quantum impurites in the strong-coupling regime, Zhen Huang </strong>
+  <h6> 11/3 Friday, 1 pm -- 3 pm, Evans 939</h6>
 </div>
 
 
