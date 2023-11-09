@@ -24,7 +24,7 @@
 | 3 | 9/29 (cancelled) |                       |       |                                                                                                         |
 | 4 | 10/13 (zoom) |        A class of signal processing method                 |    Zhiyan Ding         |   [paper1]( https://ieeexplore.ieee.org/abstract/document/9000636), [paper2](https://arxiv.org/abs/1408.1681)                                                                                                            |
 | 5 | 11/3 | Hybridization expansion approach to quantum impurites in the strong-coupling regime         | Zhen Huang  |   [paper](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.82.115115)                                                                                                       |
-| 6 | 11/17|           TBD                                             |    Yulong Dong         |                                                                                                                 |
+| 6 | 11/17|     Diffusion models: a concise but comprehensive introduction    |    Yulong Dong         |   [paper1](https://arxiv.org/abs/2011.13456), [paper2](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)                                                                                                              |
 | 7 | 12/1 |           TBD                                                  |  Nilin Abrahamsen  |                                                                                                                 |
 | 8 | 12/8 |   Projected Hartree Fock        |  Raehyun Kim  |                                                                                                                 |
 
