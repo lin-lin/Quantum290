@@ -7,8 +7,8 @@
 - **Moderator**: **Zhen Huang and Raehyun Kim**
 
 <div align="center">
-  <strong> Hybridization expansion approach to quantum impurites in the strong-coupling regime, Zhen Huang </strong>
-  <h6> 11/3 Friday, 1 pm -- 3 pm, Evans 939</h6>
+  <strong> Diffusion models: a concise but comprehensive introduction, Yulong Dong </strong>
+  <h6> 11/17 Friday, 1 pm -- 3 pm, zoom</h6>
 </div>
 
 
