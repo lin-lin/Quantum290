@@ -248,6 +248,26 @@
 
 <br>[⬆ Back to top](#)
 
+## Reading materials
+#### Derivation of Lindblad dynamics and non-Markovian systems
+1. Lidar, D. A. (n.d.). Lecture Notes on the Theory of Open Quantum Systems. arXiv:1902.00967 Chap VIII-X
+2. De Vega, I., & Alonso, D. (2017). Dynamics of non-Markovian open quantum systems. Reviews of Modern Physics, 89(1), 1–58. https://doi.org/10.1103/RevModPhys.89.015001 Sec III-IV
+#### Exactly solvable Linear-Quadratic open quantum systems.
+1. Dzhioev, A. A., & Kosov, D. S. (2011). Super-fermion representation of quantum kinetic equations for the electron transport problem. Journal of Chemical Physics, 134(4), 1–18. https://doi.org/10.1063/1.354806
+2. Barthel, T., & Zhang, Y. (2022). Solving quasi-free and quadratic Lindblad master equations for open fermionic and bosonic systems. Journal of Statistical Mechanics: Theory and Experiment, 2022(11). https://doi.org/10.1088/1742-5468/ac8e5c
+3. Cirio, M., Lambert, N., Liang, P., Kuo, P., Chen, Y., Menczel, P., Funo, K., & Nori, F. (2023). Pseudofermion method for the exact description of fermionic environments : From single-molecule electronics to the Kondo resonance. 033011, 1–16. https://doi.org/10.1103/PhysRevResearch.5.033011
+4. Dorda, A., Ganahl, M., Evertz, H. G., Von Der Linden, W., & Arrigoni, E. (2015). Auxiliary master equation approach within matrix product states: Spectral properties of the nonequilibrium Anderson impurity model. Physical Review B - Condensed Matter and Materials Physics, 92(12), 68–70. https://doi.org/10.1103/PhysRevB.92.125145 Sec. E
+#### Hierarchical equation of motion and influence functional approaches, Bosonic / Fermionic bath reduction
+1. Fay, T. P., & Limmer, D. T. (2022). Coupled charge and energy transfer dynamics in light harvesting complexes from a hybrid hierarchical equations of motion approach. Journal of Chemical Physics, 157(17). https://doi.org/10.1063/5.0117659
+2. Ye, E., & Chan, G. K. (2021). Constructing Tensor Network Influence Functionals for General Quantum Dynamics. 1–14.
+3. Woods, M. P., Groux, R., Chin, A. W., Huelga, S. F., & Plenio, M. B. (2014). Mappings of open quantum systems onto chain representations and Markovian embeddings. Journal of Mathematical Physics, 55(3), 1–48. https://doi.org/10.1063/1.4866769
+4. Nüßeler, A., Dhand, I., Huelga, S. F., & Plenio, M. B. (2020). Efficient simulation of open quantum systems coupled to a fermionic bath. Physical Review B, 101(15), 1–20. https://doi.org/10.1103/PhysRevB.101.155134
+5. Selstø, S. (n.d.). Absorbing boundary conditions for dynamical many-body quantum systems. 1–16. https://iopscience.iop.org/article/10.1088/0953-4075/43/6/065004
+#### Ergodicity, quantum detailed balance, mixing time.
+1. Zhang, Y., & Barthel, T. (2023). Criteria for Davies Irreducibility of Markovian Quantum Dynamics. 1–20. http://arxiv.org/abs/2310.17641
+2. Wocjan, P., & Temme, K. (2023). Szegedy Walk Unitaries for Quantum Maps. Communications in Mathematical Physics, 402(3), 3201–3231. https://doi.org/10.1007/s00220-023-04797-4 Sec 1-2.
+3. Temme, K. (2014). Lower bounds to the spectral gap of Davies generators https://arxiv.org/abs/1305.5591
+4. Spohn, H., An algebraic condition for the approach to equilibrium of an open N-level system
 
 ## Previous reading materials
 
