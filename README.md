@@ -3,12 +3,12 @@
 ### 🌟 Quantum many-body seminar: Fall 2023
 
 - **When:** 🕒 Fridays 1PM-3PM
-- **Where:** Evans **939**
+- **Where:** Evans **891**
 - **Moderator**: **Zhen Huang and Raehyun Kim**
 
 <div align="center">
-  <strong> Diffusion models: a concise but comprehensive introduction, Yulong Dong </strong>
-  <h6> 11/17 Friday, 1 pm -- 3 pm, zoom</h6>
+  <strong> Lin Lin </strong>
+  <h6> 1/26 Friday, 1 pm -- 3 pm, zoom</h6>
 </div>
 
 
@@ -17,6 +17,24 @@
 🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/rhkim79/math-290-seminar), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
 
+| # | Date | Topic                                                          | Speaker     | References                                                                                                      |
+|---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
+| 1 | 1/26  |        | Lin Lin |                                                                                                                 |
+| 2 |   |           |     |                                                                                                                 |
+| 3 |   |           |     |                                                                                                                 |
+| 4 |   |           |     |                                                                                                                 |
+| 5 |   |           |     |                                                                                                                 |
+| 6 |   |           |     |                                                                                                                 |
+| 7 |   |           |     |                                                                                                                 |
+| 8 |   |           |     |                                                                                                                 |
+
+### 📃 Previous Schedules 
+
+-----
+
+
+<details>
+<summary>Schedule (2023 Fall)</summary>
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 9/1  |    Quantum embedding based on coupled cluster theory           | Avijit Shee |                                                                                                                 |
@@ -28,9 +46,7 @@
 | 7 | 12/1 |           TBD                                                  |  Nilin Abrahamsen  |                                                                                                                 |
 | 8 | 12/8 |   Projected Hartree Fock        |  Raehyun Kim  |                                                                                                                 |
 
-### 📃 Previous Schedules 
-
------
+</details>
 
 <details>
 <summary>Schedule (2023 Summer)</summary>
