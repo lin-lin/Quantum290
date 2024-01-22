@@ -22,7 +22,7 @@
 | 1 | 1/26  |        | Lin Lin |                                                                                                                 |
 | 2 | 2/2  |           | Lin Lin    |                                                                                                                 |
 | 3 | 2/9  |           |  Yuanran Zhu   |                                                                                                                 |
-| 4 | 2/16  |           |     |                                                                                                                 |
+| 4 | 2/16  |           |  Zhen Huang   |                                                                                                                 |
 | 5 | 2/23  |           |     |                                                                                                                 |
 | 6 | 3/1  |     March Meeting Prep      | |                                                                                                                 |
 | 7 | 3/8  |           |  Gil Goldshlager   |                                                                                                                 |
