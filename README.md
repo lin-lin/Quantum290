@@ -26,14 +26,13 @@
 | 5 | 2/23  |           |     |                                                                                                                 |
 | 6 | 3/1  |     March Meeting Prep      | |                                                                                                                 |
 | 7 | 3/8  |           |  Gil Goldshlager   |                                                                                                                 |
-| 8 | 3/15  |           |     |                                                                                                                 |
-| 9 | 3/15  |           |     |                                                                                                                 |
-| 10 | 3/22  |           |     |                                                                                                                 |
-| 11 | 3/29  |           |  Avijit Shee   |                                                                                                                 |
-| 12 | 4/5  |           |  Kevin Stubbs   |                                                                                                                 |
-| 13 | 4/12  |           |  Zhiyan Ding   |                                                                                                                 |
-| 14 | 4/19  |           |     |                                                                                                                 |
-| 15 | 4/26  |           |     |                                                                                                                 |
+| 8 | 3/15  |           | Erika Ye    |                                                                                                                 |
+| 9 | 3/22  |           |     |                                                                                                                 |
+| 10 | 3/29  |           |  Avijit Shee   |                                                                                                                 |
+| 11 | 4/5  |           |  Kevin Stubbs   |                                                                                                                 |
+| 12 | 4/12  |           |  Zhiyan Ding   |                                                                                                                 |
+| 13 | 4/19  |           |     |                                                                                                                 |
+| 14 | 4/26  |           |     |                                                                                                                 |
 
 ### 📃 Previous Schedules 
 
