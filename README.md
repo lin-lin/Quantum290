@@ -23,7 +23,7 @@
 | 2 | 2/2  |           | Lin Lin    |                                                                                                                 |
 | 3 | 2/9  |           |  Yuanran Zhu   |                                                                                                                 |
 | 4 | 2/16  |           |  Zhen Huang   |                                                                                                                 |
-| 5 | 2/23  |           |     |                                                                                                                 |
+| 5 | 2/23  |           |  Gunhee Park   |                                                                                                                 |
 | 6 | 3/1  |     March Meeting Prep      | |                                                                                                                 |
 | 7 | 3/8  |           |  Gil Goldshlager   |                                                                                                                 |
 | 8 | 3/15  |           | Erika Ye    |                                                                                                                 |
