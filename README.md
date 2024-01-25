@@ -31,7 +31,7 @@
 | 10 | 3/29  |           |  Avijit Shee   |                                                                                                                 |
 | 11 | 4/5  |           |  Kevin Stubbs   |                                                                                                                 |
 | 12 | 4/12  |           |  Zhiyan Ding   |                                                                                                                 |
-| 13 | 4/19  |           |     |                                                                                                                 |
+| 13 | 4/19  |           |  Raehyun Kim   |                                                                                                                 |
 | 14 | 4/26  |           |     |                                                                                                                 |
 
 ### 📃 Previous Schedules 
