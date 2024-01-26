@@ -8,6 +8,7 @@
 
 <div align="center">
   <strong> Lin Lin </strong>
+  Lindblad equation and Davies generator	
 </div>
 
 
