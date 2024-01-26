@@ -8,7 +8,6 @@
 
 <div align="center">
   <strong> Lin Lin </strong>
-  <h6> 1/26 Friday, 1 pm -- 3 pm, zoom</h6>
 </div>
 
 
