@@ -32,7 +32,7 @@
 | 11 | 4/5  |           |  Kevin Stubbs   |                                                                                                                 |
 | 12 | 4/12  |           |  Zhiyan Ding   |                                                                                                                 |
 | 13 | 4/19  |           |  Raehyun Kim   |                                                                                                                 |
-| 14 | 4/26  |           |     |                                                                                                                 |
+| 14 | 4/26  |           |  Jiasu Wang   |                                                                                                                 |
 
 ### 📃 Previous Schedules 
 
