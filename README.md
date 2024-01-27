@@ -19,7 +19,7 @@
 
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
-| 1 | 1/26  | Lindblad equation and Davies generator | Lin Lin |                                                                                                                 |
+| 1 | 1/26  | Lindblad equation and Davies generator | Lin Lin | [**Lindblad Notes**](asset/Lindblad_Notes.pdf) |
 | 2 | 2/2  | Quantum detailed balance and mixing | Lin Lin    |                                                                                                                 |
 | 3 | 2/9  |           |  Yuanran Zhu   |                                                                                                                 |
 | 4 | 2/16  |           |  Zhen Huang   |                                                                                                                 |
