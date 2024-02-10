@@ -25,7 +25,7 @@
 | 4 | 2/16  |           |  Zhen Huang   |                                                                                                                 |
 | 5 | 2/23  |           |  Gunhee Park   |                                                                                                                 |
 | 6 | 3/1  |     March Meeting Prep      | |                                                                                                                 |
-| 7 | 3/8  |           |  Gil Goldshlager   |                                                                                                                 |
+| 7 | 3/8  |           |     |                                                                                                                 |
 | 8 | 3/15  |           | Erika Ye    |                                                                                                                 |
 | 9 | 3/22  |           | Anthony Chen    |                                                                                                                 |
 | 10 | 3/29  |           |  Avijit Shee   |                                                                                                                 |
@@ -33,6 +33,7 @@
 | 12 | 4/12  |           |  Zhiyan Ding   |                                                                                                                 |
 | 13 | 4/19  |           |  Raehyun Kim   |                                                                                                                 |
 | 14 | 4/26  |           |  Jiasu Wang   |                                                                                                                 |
+| 15 | 5/3  |           |  Gil Goldshlager   |                                                                                                                 |
 
 ### 📃 Previous Schedules 
 
