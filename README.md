@@ -26,7 +26,7 @@
 | 5 | 2/23  |           |  Gunhee Park   |                                                                                                                 |
 | 6 | 3/1  |     March Meeting Prep      | |                                                                                                                 |
 | 7 | 3/8  |           |     |                                                                                                                 |
-| 8 | 3/15  |           | Erika Ye    |                                                                                                                 |
+| 8 | 3/15  | open system dynamics via influence functionals  | Erika Ye    |                                                                                                                 |
 | 9 | 3/22  |           | Anthony Chen    |                                                                                                                 |
 | 10 | 3/29  |           |  Avijit Shee   |                                                                                                                 |
 | 11 | 4/5  |           |  Kevin Stubbs   |                                                                                                                 |
