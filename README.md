@@ -21,7 +21,7 @@
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 1/26  | Lindblad equation and Davies generator | Lin Lin | [**Lindblad Notes**](asset/Lindblad_Notes.pdf) |
 | 2 | 2/2  | Quantum detailed balance and mixing | Lin Lin    |                                                                                                                 |
-| 3 | 2/9  | Hybrid hierarchical equation of motion for open quantum systems|  Yuanran Zhu   |   [**Hybrid HEOM Notes**](asset/Hybrid_HEOM_for_open_quantum_systems)                      |
+| 3 | 2/9  | Hybrid hierarchical equation of motion for open quantum systems|  Yuanran Zhu   |   [**Hybrid HEOM Notes**](asset/Hybrid_HEOM_for_open_quantum_systems.pdf)                      |
 | 4 | 2/16  |           |  Zhen Huang   |                                                                                                                 |
 | 5 | 2/23  |           |  Gunhee Park   |                                                                                                                 |
 | 6 | 3/1  |     March Meeting Prep      | |                                                                                                                 |
