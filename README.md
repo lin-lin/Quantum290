@@ -23,7 +23,7 @@
 | 2 | 2/2  | Quantum detailed balance and mixing | Lin Lin    |                                                                                                                 |
 | 3 | 2/9  | Hybrid hierarchical equation of motion for open quantum systems|  Yuanran Zhu   |   [**Hybrid HEOM Notes**](asset/Hybrid_HEOM_for_open_quantum_systems.pdf)                      |
 | 4 | 2/16  |           |  Zhen Huang   |                                                                                                                 |
-| 5 | 2/23  |           |  Gunhee Park   |                                                                                                                 |
+| 5 | 2/23  | How to represent a quantum bath for Tensor Network simulation?  |  Gunhee Park   |                                                                                                                 |
 | 6 | 3/1  |     March Meeting Prep      | |                                                                                                                 |
 | 7 | 3/8  |           |     |                                                                                                                 |
 | 8 | 3/15  | open system dynamics via influence functionals  | Erika Ye    |                                                                                                                 |
