@@ -1,6 +1,6 @@
 [![Math290](asset/quantum290-logo.svg)](https://math290.com/)
 ----------------------------
-### 🌟 Quantum many-body seminar: Fall 2023
+### 🌟 Quantum many-body seminar: Spring 2024
 
 - **When:** 🕒 Fridays 1PM-3PM
 - **Where:** Evans **891**
