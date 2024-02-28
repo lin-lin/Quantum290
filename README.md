@@ -22,7 +22,7 @@
 | 1 | 1/26  | Lindblad equation and Davies generator | Lin Lin | [**Lindblad Notes**](asset/Lindblad_Notes.pdf) |
 | 2 | 2/2  | Quantum detailed balance and mixing | Lin Lin    |                                                                                                                 |
 | 3 | 2/9  | Hybrid hierarchical equation of motion for open quantum systems|  Yuanran Zhu   |   [**Hybrid HEOM Notes**](asset/Hybrid_HEOM_for_open_quantum_systems.pdf)                      |
-| 4 | 2/16  |           |  Zhen Huang   |                                                                                                                 |
+| 4 | 2/16  |   Solving quasi-free systems        |  Zhen Huang   |    [**Notes**](asset/lindbladnotes_0216.pdf)                                                                                 |
 | 5 | 2/23  | How to represent a quantum bath for Tensor Network simulation?  |  Gunhee Park   | [**Quantum Bath for TN PPT**](asset/Quantum290_GunheePark.pdf)   |
 | 6 | 3/1  |     March Meeting Prep      | |                                                                                                                 |
 | 7 | 3/8  |           |     |                                                                                                                 |
