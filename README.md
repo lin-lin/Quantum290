@@ -25,10 +25,10 @@
 | 4 | 2/16  |   Solving quasi-free systems        |  Zhen Huang   |    [**Notes**](asset/lindbladnotes_0216.pdf)                                                                                 |
 | 5 | 2/23  | How to represent a quantum bath for Tensor Network simulation?  |  Gunhee Park   | [**Quantum Bath for TN PPT**](asset/Quantum290_GunheePark.pdf)   |
 | 6 | 3/1  |     March Meeting Prep      | |                                                                                                                 |
-| 7 | 3/8  |           |     |                                                                                                                 |
-| 8 | 3/15  | open system dynamics via influence functionals  | Erika Ye    |                                                                                                                 |
+| 7 | 3/8  |    open system dynamics via influence functionals        |   Erika Ye   |                                                                                                                 |
+| 8 | 3/15  |  |    Avijit Shee |                                                                                                                 |
 | 9 | 3/22  |           | Anthony Chen    |                                                                                                                 |
-| 10 | 3/29  |           |  Avijit Shee   |                                                                                                                 |
+| 10 | 3/29  |           |    |                                                                                                                 |
 | 11 | 4/5  |           |  Kevin Stubbs   |                                                                                                                 |
 | 12 | 4/12  |           |  Zhiyan Ding   |                                                                                                                 |
 | 13 | 4/19  |           |  Raehyun Kim   |                                                                                                                 |
