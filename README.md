@@ -30,7 +30,7 @@
 | 9 | 3/22  |           |  No seminar    |                                                                                                                 |
 | 10 | 3/29  |  |    |     No seminar                                                                                                  |
 | 11 | 4/5  |           |  No seminar   |                                                                                                                 |
-| 12 | 4/12  |           |  Zhiyan Ding   |                                                                                                                 |
+| 12 | 4/12  |           |  KevinStubbs & Zhiyan Ding   |                                                                                                                 |
 | 13 | 4/19  |           |  No seminar   |                                                                                                                 |
 | 14 | 4/26  |           |  Jiasu Wang   |                                                                                                                 |
 | 15 | 5/3  |           |  Gil Goldshlager   |                                                                                                                 |
