@@ -34,6 +34,7 @@
 | 13 | 4/19  |           |  No seminar   |                                                                                                                 |
 | 14 | 4/26  |           |  Jiasu Wang   |                                                                                                                 |
 | 15 | 5/3  |           |  Gil Goldshlager   |                                                                                                                 |
+| 16 | 5/10  |           |  Raehyun Kim   |                                                                                                                 |
 
 ### 📃 Previous Schedules 
 
