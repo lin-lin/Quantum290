@@ -12,7 +12,7 @@
 </div>
 
 
-## 📌 Schedule (2023 Fall) 
+## 📌 Schedule (2024 Spring) 
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/rhkim79/math-290-seminar), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
@@ -30,7 +30,7 @@
 | 9 | 3/22  |           |  No seminar    |                                                                                                                 |
 | 10 | 3/29  |  |    |     No seminar                                                                                                  |
 | 11 | 4/5  |           |  No seminar   |                                                                                                                 |
-| 12 | 4/12  |           |  Kevin Stubbs \ Zhiyan Ding   |                                                                                                                 |
+| 12 | 4/12  |           |  Kevin Stubbs \n & Zhiyan Ding   |                                                                                                                 |
 | 13 | 4/19  |           |  No seminar   |                                                                                                                 |
 | 14 | 4/26  |           |  Jiasu Wang   |                                                                                                                 |
 | 15 | 5/3  |           |  Gil Goldshlager   |                                                                                                                 |
