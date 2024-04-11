@@ -33,7 +33,7 @@
 | 12 | 4/12  |    Lower bounds to the spectral gap of Davies generators       |  Kevin Stubbs   |                                                                                                                 |
 | 13 | 4/15  |   Quantum Gibbs Samplers: the commuting case        |  Zhiyan Ding   |                                                                                                                 |
 | 14 | 4/19  |           |  No seminar   |                                                                                                                 |
-| 15 | 4/26  |           |  Jiasu Wang & Raehyun Kim  |                                                                                                                 |
+| 15 | 4/26  |           |  No seminar   |                                                                                                                 |
 | 16 | 5/3  |           |  Gil Goldshlager   |                                                                                                                 |
 
 ### 📃 Previous Schedules 
