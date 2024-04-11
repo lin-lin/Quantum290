@@ -30,11 +30,11 @@
 | 9 | 3/22  |           |  No seminar    |                                                                                                                 |
 | 10 | 3/29  |  |    |     No seminar                                                                                                  |
 | 11 | 4/5  |           |  No seminar   |                                                                                                                 |
-| 12 | 4/12  |           |  Kevin Stubbs & Zhiyan Ding   |                                                                                                                 |
-| 13 | 4/19  |           |  No seminar   |                                                                                                                 |
-| 14 | 4/26  |           |  Jiasu Wang   |                                                                                                                 |
-| 15 | 5/3  |           |  Gil Goldshlager   |                                                                                                                 |
-| 16 | 5/10  |           |  Raehyun Kim   |                                                                                                                 |
+| 12 | 4/12  |    Lower bounds to the spectral gap of Davies generators       |  Kevin Stubbs   |                                                                                                                 |
+| 13 | 4/15  |   Quantum Gibbs Samplers: the commuting case        |  Zhiyan Ding   |                                                                                                                 |
+| 14 | 4/19  |           |  No seminar   |                                                                                                                 |
+| 15 | 4/26  |           |  Jiasu Wang & Raehyun Kim  |                                                                                                                 |
+| 16 | 5/3  |           |  Gil Goldshlager   |                                                                                                                 |
 
 ### 📃 Previous Schedules 
 
