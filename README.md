@@ -28,9 +28,9 @@
 | 7 | 3/8  |    open system dynamics via influence functionals        |   Erika Ye   |   [**Influence Functional Notes**](asset/20240308_QI_seminar.pdf)    |
 | 8 | 3/15  | Introduction to HEOM |    Avijit Shee |                                                                                                                 |
 | 9 | 3/22  |           |  No seminar    |                                                                                                                 |
-| 10 | 3/29  |  |    |     No seminar                                                                                                  |
+| 10 | 3/29  |  |  No seminar  |                                                                                                       |
 | 11 | 4/5  |           |  No seminar   |                                                                                                                 |
-| 12 | 4/12  |    Lower bounds to the spectral gap of Davies generators       |  Kevin Stubbs   |                                                                                                                 |
+| 12 | 4/12  |    Lower bounds to the spectral gap of Davies generators       |  Kevin Stubbs   |  [**Spectral Gap of Davis Operator Notes**](asset/math_290_lindblad.pdf)                                                                                                               |
 | 13 | 4/19  |           |  No seminar   |                                                                                                                 |
 | 14 | 4/26  |   Quantum Gibbs Samplers: the commuting case        |  Zhiyan Ding   |                                                                     |
 | 15 | 5/3  |           |  Gil Goldshlager   |                                                                                                                 |
