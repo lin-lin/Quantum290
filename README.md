@@ -1,21 +1,50 @@
 [![Math290](asset/quantum290-logo.svg)](https://math290.com/)
 ----------------------------
-### 🌟 Quantum many-body seminar: Spring 2024
+### 🌟 Quantum many-body seminar: Summer & Fall 2024
 
-- **When:** 🕒 Fridays 1PM-3PM
-- **Where:** Evans **891**
+- **Topic:** Open quantum systems
+- **When:** 🕒 Mondays 1PM-3PM (Temporary)
+- **Where:** TBD
 - **Moderator**: **Zhen Huang and Raehyun Kim**
 
+#### Upcoming:
 <div align="center">
-  <strong> Lin Lin </strong>
-  Lindblad equation and Davies generator	
+   <strong> Review of recent backgrounds and perspectives on open quantum systems.</strong>
+  
+  Lin Lin, 7/29, 1-3 pm.
 </div>
 
 
-## 📌 Schedule (2024 Spring) 
+## 📌 Schedule (2024 Summer & Fall) 
 
-🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/rhkim79/math-290-seminar), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/d/cp2z-wnn-qs6/math-290), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
+| # | Date | Topic                                                          | Speaker     | References                                                                                                      |
+|---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
+| 1 | 7/29  | Review of recent backgrounds and perspectives on open quantum systems. | Lin Lin |  |
+| 2 | 8/2  | Review of recent projects | All    |                                                                                                                 |
+| 3 | 8/5  |  |    |                                                                                                                 |
+| 4 |  |  |     |                                                                                                                 |
+
+## Reading materials
+
+<strong>Quantum control</strong>: He, W., Li, T., Li, X., Li, Z., Wang, C., & Wang, K. (2024). [Efficient Optimal Control of Open Quantum Systems](http://arxiv.org/abs/2405.19245). 
+
+<strong>Quantum walk</strong> Gilyén, A., Hastings, M. B., & Vazirani, U. (2021). [(Sub)Exponential advantage of adiabatic Quantum computation with no sign problem](https://doi.org/10.1145/3406325.3451060). 
+
+<strong>Adiabatic algorithm</strong> Somma, R. D., Nagaj, D., & Kieferová, M. (2012). [Quantum speedup by quantum annealing](https://doi.org/10.1103/PhysRevLett.109.050501).
+
+<strong> Completely bounded maps </strong> [Chapter 8]( https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0E3AFAE3A777B[…]/9780511546631c8_p97-119_CBO.pdf/completely_bounded_maps.pdf) of *Completely bounded maps and operator algebras*.
+
+<strong> Metropolis sampling </strong> Jiang, J., & Irani, S. (2024). [Quantum Metropolis Sampling via Weak Measurement](http://arxiv.org/abs/2406.16023). 
+
+<strong> Non-Markovian dynamics </strong> Li, X. (2021) [Markovian embedding procedures for non-Markovian stochastic Schrödinger equations]( https://doi.org/10.1016/j.physleta.2020.127036)
+
+
+### 📃 Previous Schedules 
+
+-----
+<summary>Schedule (2024 Spring)</summary>
 
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
@@ -34,11 +63,6 @@
 | 13 | 4/19  |           |  No seminar   |                                                                                                                 |
 | 14 | 4/26  |   Quantum Gibbs Samplers: the commuting case        |  Zhiyan Ding   |                                                                     |
 | 15 | 5/3  |           |  Gil Goldshlager   |                                                                                                                 |
-
-### 📃 Previous Schedules 
-
------
-
 
 <details>
 <summary>Schedule (2023 Fall)</summary>
@@ -255,7 +279,11 @@
 
 <br>[⬆ Back to top](#)
 
-## Reading materials
+
+
+
+## Reading materials for 2023 Spring
+
 #### Derivation of Lindblad dynamics and non-Markovian systems
 1. Lidar, D. A. (n.d.). Lecture Notes on the Theory of Open Quantum Systems. arXiv:1902.00967 Chap VIII-X
 2. De Vega, I., & Alonso, D. (2017). Dynamics of non-Markovian open quantum systems. Reviews of Modern Physics, 89(1), 1–58. https://doi.org/10.1103/RevModPhys.89.015001 Sec III-IV
