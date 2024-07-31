@@ -23,8 +23,8 @@
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 7/29  | Review of recent backgrounds and perspectives on open quantum systems. | Lin Lin |  |
 | 2 | 8/2  | Review of recent projects | All    |                                                                                                                 |
-| 3 | 8/5  |  |    |                                                                                                                 |
-| 4 |  |  |     |                                                                                                                 |
+| 3 | 8/5  | Quasi-free systems |    |                                                                                                                 |
+| 4 | 8/19 | Quantum walks |   Xinzhao Wang  |     [Paper](http://gilyen.hu/papers/STOC21SubExpStoqAdiabatic.pdf)                                                                                                           |
 
 ## Reading materials
 
