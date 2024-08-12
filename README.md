@@ -2,8 +2,8 @@
 ----------------------------
 ### 🌟 Quantum many-body seminar: Summer & Fall 2024
 
-- **Topic:** Open quantum systems
-- **When:** 🕒 Mondays 1PM-3PM (Temporary)
+- **Topic:** Open quantum systems (Summer), Sampling (Fall)
+- **When:** 🕒 Mondays 1PM-3PM (Summer), 3PM-5PM (Fall)
 - **Where:** TBD
 - **Moderator**: **Zhen Huang and Raehyun Kim**
 
