@@ -25,6 +25,7 @@
 | 2 | 8/2  | Review of recent projects | All    |                                                                                                                 |
 | 3 | 8/5  | Quasi-free systems |    |                                                                                                                 |
 | 4 | 8/19 | Quantum walks |   Xinzhao Wang  |     [Paper](http://gilyen.hu/papers/STOC21SubExpStoqAdiabatic.pdf)                                                                                                           |
+| 5 | 8/30 | Quantum states | Michael Ragone | |
 
 ## Reading materials
 
