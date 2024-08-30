@@ -4,7 +4,7 @@
 
 - **Topic:** Open quantum systems (Summer), Sampling (Fall)
 - **When:** 🕒 Mondays 1PM-3PM (Summer), Friday 3PM-5PM (Fall)
-- **Where:** TBD
+- **Where:** Evans 891
 - **Moderator**: **Zhen Huang and Raehyun Kim**
 
 #### Upcoming:
