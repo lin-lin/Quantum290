@@ -17,7 +17,7 @@
 
 ## 📌 Schedule (2024 Summer & Fall) 
 
-🆕✨🔨: [**BOOK the slot for NEW semester!**](https://calendly.com/d/cp2z-wnn-qs6/math-290), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+🆕✨🔨: [**BOOK the slot for NEW semester!**]("mailto:hertz@berkeley.edu"), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
