@@ -26,6 +26,10 @@
 | 3 | 8/5  | Quasi-free systems |    |                                                                                                                 |
 | 4 | 8/19 | Quantum walks |   Xinzhao Wang  |     [Paper](http://gilyen.hu/papers/STOC21SubExpStoqAdiabatic.pdf)                                                                                                           |
 | 5 | 8/30 | Quantum states | Michael Ragone | |
+| 6 | 9/6  | Quantum states (continued) | Michael Ragone | |
+| 7 | 9/13 ||||
+|8| 9/20 ||||
+|9| 9/27 ||Yulong Dong||
 
 ## Reading materials
 
