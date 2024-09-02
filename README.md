@@ -9,15 +9,15 @@
 
 #### Upcoming:
 <div align="center">
-   <strong> Review of recent backgrounds and perspectives on open quantum systems.</strong>
+   <strong> Quantum states (continued).</strong>
   
-  Lin Lin, 7/29, 1-3 pm.
+  Michael Ragone, Sep 6th, 3-5 pm.
 </div>
 
 
 ## 📌 Schedule (2024 Summer & Fall) 
 
-🆕✨🔨: [**BOOK the slot for NEW semester!**]("mailto:hertz@berkeley.edu"), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+🆕✨🔨: [**BOOK the slot for NEW semester!**](mailto:hertz@berkeley.edu), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
