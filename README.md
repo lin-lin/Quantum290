@@ -41,7 +41,7 @@
 6. Jerrum, M., & Sinclair, A. (1993). Polynomial-Time Approximation Algorithms for the Ising Model. [SIAM Journal on Computing, 22(5), 1087–1116.](https://doi.org/10.1137/0222066)
 7. Somma, R. D., King, R., Kothari, R., O’Brien, T., & Babbush, R. (2024). Shadow Hamiltonian Simulation. [arxiv]( http://arxiv.org/abs/2407.21775)
 
-# Summer Reading materials
+<h4>Some previous reading materials</h4>
 <strong>Quantum control</strong>: He, W., Li, T., Li, X., Li, Z., Wang, C., & Wang, K. (2024). [Efficient Optimal Control of Open Quantum Systems](http://arxiv.org/abs/2405.19245). 
 
 <strong>Quantum walk</strong> Gilyén, A., Hastings, M. B., & Vazirani, U. (2021). [(Sub)Exponential advantage of adiabatic Quantum computation with no sign problem](https://doi.org/10.1145/3406325.3451060). 
