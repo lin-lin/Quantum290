@@ -32,7 +32,16 @@
 |9| 9/27 ||Yulong Dong||
 
 ## Reading materials
+<strong> Open quantum systems and mixing times</strong>
+1. Ilin, Y., & Arad, I. (2024). Dissipative variational quantum algorithms for Gibbs state preparation. [arxiv](http://arxiv.org/abs/2407.09635)
+2. Araujo de Resende, M. F. (2020). A pedagogical overview on 2D and 3D Toric Codes and the origin of their topological orders. [Reviews in Mathematical Physics, 32(02), 2030002](https://doi.org/10.1142/S0129055X20300022)
+3. Temme, K., Pastawski, F., & Kastoryano, M. J. (2014). Hypercontractivity of quasi-free quantum semigroups. [Journal of Physics A: Mathematical and Theoretical, 47(40), 1–26.](https://doi.org/10.1088/1751-8113/47/40/405303)
+4. Funo, K., & Ishizaki, A. (2024). Dynamics of a Quantum System Interacting with White Non-Gaussian Baths: Poisson Noise Master Equation. [Physical Review Letters, 132(17), 1–12.](https://doi.org/10.1103/PhysRevLett.132.170402)
+5. Guo, H., & Jerrum, M. (2018). Random cluster dynamics for the ising model is rapidly mixing. [Annals of Applied Probability, 28(2), 1292–1313.](https://doi.org/10.1214/17-AAP1335)
+6. Jerrum, M., & Sinclair, A. (1993). Polynomial-Time Approximation Algorithms for the Ising Model. [SIAM Journal on Computing, 22(5), 1087–1116.](https://doi.org/10.1137/0222066)
+7. Somma, R. D., King, R., Kothari, R., O’Brien, T., & Babbush, R. (2024). Shadow Hamiltonian Simulation. [arxiv]( http://arxiv.org/abs/2407.21775)
 
+# Summer Reading materials
 <strong>Quantum control</strong>: He, W., Li, T., Li, X., Li, Z., Wang, C., & Wang, K. (2024). [Efficient Optimal Control of Open Quantum Systems](http://arxiv.org/abs/2405.19245). 
 
 <strong>Quantum walk</strong> Gilyén, A., Hastings, M. B., & Vazirani, U. (2021). [(Sub)Exponential advantage of adiabatic Quantum computation with no sign problem](https://doi.org/10.1145/3406325.3451060). 
@@ -44,6 +53,7 @@
 <strong> Metropolis sampling </strong> Jiang, J., & Irani, S. (2024). [Quantum Metropolis Sampling via Weak Measurement](http://arxiv.org/abs/2406.16023). 
 
 <strong> Non-Markovian dynamics </strong> Li, X. (2021) [Markovian embedding procedures for non-Markovian stochastic Schrödinger equations]( https://doi.org/10.1016/j.physleta.2020.127036)
+
 
 
 ### 📃 Previous Schedules 
