@@ -28,7 +28,7 @@
 | 5 | 8/30 | Quantum states | Michael Ragone | |
 | 6 | 9/6  | Quantum states (continued) | Michael Ragone | |
 | 7 | 9/13 ||||
-|8| 9/20 ||||
+|8| 9/20 |Mixing time of the Swendsen-Wang algorithm|Ruizhe Zhang||
 |9| 9/27 ||Yulong Dong||
 
 ## Reading materials
