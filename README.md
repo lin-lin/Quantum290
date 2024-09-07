@@ -25,8 +25,8 @@
 | 2 | 8/2  | Review of recent projects | All    |                                                                                                                 |
 | 3 | 8/5  | Quasi-free systems |    |                                                                                                                 |
 | 4 | 8/19 | Quantum walks |   Xinzhao Wang  |     [Paper](http://gilyen.hu/papers/STOC21SubExpStoqAdiabatic.pdf)                                                                                                           |
-| 5 | 8/30 | Quantum states | Michael Ragone | |
-| 6 | 9/6  | Quantum states (continued) | Michael Ragone | |
+| 5 | 8/30 | Quantum states | Michael Ragone |[Notes](asset/2024Fall/Ragone_2024_08_30.pdf) |
+| 6 | 9/6  | Quantum states (continued) | Michael Ragone | [Notes](asset/2024Fall/Ragone_2024_09_06.pdf)|
 | 7 | 9/13 ||||
 |8| 9/20 |Mixing time of the Swendsen-Wang algorithm|Ruizhe Zhang||
 |9| 9/27 ||Yulong Dong||
