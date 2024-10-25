@@ -35,7 +35,7 @@
 |12|11/8|| ||
 |13|11/15||||
 |14|11/22||Jiang Hu||
-|1512/6||||
+|15|12/6||||
 
 ## Reading materials
 <strong> Open quantum systems and mixing times</strong>
