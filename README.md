@@ -36,7 +36,7 @@
 |13|11/15||Kevin Stubbs||
 |14|11/22||Jiang Hu||
 |15|12/6||Sergio Escobar||
-|16|12/13||||
+|16|12/13||Rahul Sarkar||
 |17|12/20||||
 
 ## Reading materials
