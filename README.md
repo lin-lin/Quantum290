@@ -36,6 +36,8 @@
 |13|11/15||Kevin Stubbs||
 |14|11/22||Jiang Hu||
 |15|12/6||||
+|16|12/13||||
+|17|12/20||||
 
 ## Reading materials
 <strong> Open quantum systems and mixing times</strong>
