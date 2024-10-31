@@ -33,9 +33,9 @@
 |10|10/4||Kevin Stubbs||
 |11|11/1||Jiaqi Leng||
 |12|11/8||Zhiyan Ding ||
-|13|11/15||Kevin Stubbs||
+|13|11/15||Sergio Escobar||
 |14|11/22||Jiang Hu||
-|15|12/6||Sergio Escobar||
+|15|12/6||Kevin Stubbs||
 |16|12/13||Rahul Sarkar||
 |17|12/20||||
 
