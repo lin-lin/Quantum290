@@ -27,16 +27,15 @@
 | 4 | 8/19 | Quantum walks |   Xinzhao Wang  |     [Paper](http://gilyen.hu/papers/STOC21SubExpStoqAdiabatic.pdf)                                                                                                           |
 | 5 | 8/30 | Quantum states | Michael Ragone |[Notes](asset/2024Fall/Ragone_2024_08_30.pdf) |
 | 6 | 9/6  | Quantum states (continued) | Michael Ragone | [Notes](asset/2024Fall/Ragone_2024_09_06.pdf), [Ref 1](https://nextcloud.tfk.ph.tum.de/etn/wp-content/uploads/2022/09/JvN_lecture_notes_S2016_abcde-1.pdf), [Ref 2](https://arxiv.org/abs/1311.2717), and [Ref 3, Chap 2 & 3](https://link.springer.com/book/10.1007/b128449)|
-| 7 | 9/13 ||||
-|8| 9/20 |Mixing time of the Swendsen-Wang algorithm|Ruizhe Zhang||
-|9| 9/27 |On quantum signal processing|Yulong Dong||
-|10|10/4|Applied Math Approaches to Condensed Matter Physics|Kevin Stubbs||
-|11|11/1|Accelerating Langevin sampling via Lindblad dynamics|Jiaqi Leng||
-|12|11/8|A brief introduction to overdamped Langevin dynamics for continuous sampling: convergence analysis for continuous dynamics and discretization algorithm|Zhiyan Ding ||
-|13|11/15|On quantum error correction|Sergio Escobar||
-|14|11/22||Jiang Hu||
-|15|12/6||Kevin Stubbs||
-|16|12/13||Rahul Sarkar||
+|7| 9/20 |Mixing time of the Swendsen-Wang algorithm|Ruizhe Zhang||
+|8| 9/27 |On quantum signal processing|Yulong Dong||
+|9|10/4|Applied Math Approaches to Condensed Matter Physics|Kevin Stubbs||
+|10|11/1|Accelerating Langevin sampling via Lindblad dynamics|Jiaqi Leng||
+|11|11/8|A brief introduction to overdamped Langevin dynamics for continuous sampling: convergence analysis for continuous dynamics and discretization algorithm|Zhiyan Ding ||
+|12|11/15|On quantum error correction|Sergio Escobar||
+|13|11/22|Some momentum-type methods in optimization with orthogonality constraints|Jiang Hu||
+|14|12/6||Kevin Stubbs||
+|15|12/13||Rahul Sarkar||
 
 ## Reading materials
 <strong> Open quantum systems and mixing times</strong>
