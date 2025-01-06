@@ -14,6 +14,12 @@
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](mailto:hertz@berkeley.edu), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
+<summary>Schedule (2024 Spring)</summary>
+
+| # | Date | Topic                                                          | Speaker     | References                                                                                                      |
+|---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
+| 1 | 1/17  |  | Michael Ragone |  |
+| 2 | 1/24  |  | Michael Ragone |  |
 
 ### 📃 Previous Schedules 
 
