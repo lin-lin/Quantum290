@@ -13,13 +13,26 @@
 
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
-| 1 | 1/17  |  | Michael Ragone |  |
+| 1 | 1/17  | Overview | Michael Ragone |  |
 | 2 | 1/24  |  | Michael Ragone |  |
 | 3 | 1/31 | |  | |
 
 ### Reading materials
 
 **[Wol12]** Wolf, M. M. (2012). Quantum Channels & Operations Guided Tour.  [pdf](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=afa58291b0b8bd47504acb1ab8f553f0b37685cf)
+
+- Ch 2.1-2.4
+- Ch 3.1-3.3
+- Ch 6-6.1
+- Ch 6.2-6.3
+- Ch 6.4-6.5
+- Ch 7.1
+- Ch 8.1-8.3
+- Ch 8.4-8.7
+
+
+
+### 📃 
 
 
 
