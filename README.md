@@ -1,23 +1,23 @@
-[![Math290](asset/quantum290-logo.svg)](https://math290.com/)
+![Math290](asset/quantum290-logo.svg)
 ----------------------------
-### 🌟 Quantum many-body seminar: Summer & Fall 2024
+### 🌟 Math 290 Quantum many-body seminar
 
-- **Topic:** Open quantum systems (Summer), Sampling (Fall)
-- **When:** 🕒 Mondays 1PM-3PM (Summer), Friday 3PM-5PM (Fall)
+- **When:** 🕒 Friday 1PM-3PM 
 - **Where:** Evans 891
 - **Moderator**: **Zhen Huang and Raehyun Kim**
 
 #### Upcoming:
 <div align="center">
-   <strong> Quantum states (continued).</strong>
-  
-  Michael Ragone, Sep 6th, 3-5 pm.
 </div>
 
-
-## 📌 Schedule (2024 Summer & Fall) 
+## 📌 Schedule (2025 Spring) 
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](mailto:hertz@berkeley.edu), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+
+
+### 📃 Previous Schedules 
+
+<details>
 
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
@@ -60,11 +60,12 @@
 
 <strong> Non-Markovian dynamics </strong> Li, X. (2021) [Markovian embedding procedures for non-Markovian stochastic Schrödinger equations]( https://doi.org/10.1016/j.physleta.2020.127036)
 
+</details>
 
 
-### 📃 Previous Schedules 
 
------
+
+<details>
 <summary>Schedule (2024 Spring)</summary>
 
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
@@ -84,6 +85,7 @@
 | 13 | 4/19  |           |  No seminar   |                                                                                                                 |
 | 14 | 4/26  |   Quantum Gibbs Samplers: the commuting case        |  Zhiyan Ding   |                                                                     |
 | 15 | 5/3  |           |  Gil Goldshlager   |                                                                                                                 |
+</details>
 
 <details>
 <summary>Schedule (2023 Fall)</summary>
