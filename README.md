@@ -113,6 +113,7 @@
 
 <details>
 <summary>Schedule (2023 Fall)</summary>
+
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 9/1  |    Quantum embedding based on coupled cluster theory           | Avijit Shee |                                                                                                                 |
@@ -330,7 +331,7 @@
 
 
 
-## Previous reading materials
+## Earlier reading materials
 
 See [here](oldreading.md)
 
