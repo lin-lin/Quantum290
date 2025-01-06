@@ -31,6 +31,8 @@
 
 **[Wol12]** Wolf, M. M. (2012). Quantum Channels & Operations Guided Tour.  [pdf](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=afa58291b0b8bd47504acb1ab8f553f0b37685cf)
 
+The following list is tentative and will be revised.
+
 - Ch 2.1-2.4
 - Ch 3.1-3.3
 - Ch 6-6.1
