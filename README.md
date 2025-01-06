@@ -6,20 +6,22 @@
 - **Where:** Evans 891
 - **Moderator**: **Zhen Huang and Raehyun Kim**
 
-#### Upcoming:
-<div align="center">
-</div>
 
 ## 📌 Schedule (2025 Spring) 
 
 🆕✨🔨: [**BOOK the slot for NEW semester!**](mailto:hertz@berkeley.edu), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
-<summary>Schedule (2024 Spring)</summary>
-
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 1/17  |  | Michael Ragone |  |
 | 2 | 1/24  |  | Michael Ragone |  |
+| 3 | 1/31 | |  | |
+
+### Reading materials
+
+**[Wol12]** Wolf, M. M. (2012). Quantum Channels & Operations Guided Tour.  [pdf](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=afa58291b0b8bd47504acb1ab8f553f0b37685cf)
+
+
 
 ### 📃 Previous Schedules 
 
