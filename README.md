@@ -34,14 +34,14 @@
 The following list is provided by **Michael Ragone** and may be revised during the semester.
 
 1. Section 1.6: C* algebra language, spectrum, positivity
-2. Section 1.6 continued: Von Neumann algebras and conditional expectation. (I will probably pull a bit from Eric Carlen’s matrix analysis book, Ch. 3. Debating how much I want to put in here; it’s very useful stuff but I need to choose carefully.)
+2. Section 1.6 continued: Von Neumann algebras and conditional expectation. 
 3. Section 2.1: Jamiołkowski and Choi, start Section 2.2
 4. Section 2.2: Kraus representation and Stinespring dilations
 5. Section 5.1
 6. Section 5.2: (It would be nice to have section 5.3, but this probably fits more naturally after we have reached open quantum systems.)
 7. Section 6.1
-8. Section 6.2, part I (edited)
-9. Section 6.2, part II (edited)
+8. Section 6.2, part I 
+9. Section 6.2, part II 
 10. Section 6.3
 11. Section 6.4
 12. Section 6.5
