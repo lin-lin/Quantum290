@@ -49,7 +49,8 @@ The following list is provided by **Michael Ragone** and may be revised during t
 14. Section 7.1.2, part I
 15. Section 7.1.2, part II
 
-<!--asd
+<!--
+
 - Ch 2.1-2.4
 - Ch 3.1-3.3
 - Ch 6-6.1
