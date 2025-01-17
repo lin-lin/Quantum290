@@ -16,10 +16,10 @@
 | 1 | 1/17  | 1.6 | Michael Ragone | [Notes](asset/2025Spring/Quantum_Channels_1.pdf) |
 | 2 | 1/24  | 1.6 | Michael Ragone |  |
 | 3 | 1/31 | 2.1 | Sergio | |
-| 4 | 2/14 | QIP prep talks | Joao, Jiaqi | |
+| 4 | 2/14 | QIP prep talks | Joao Basso, Jiaqi Leng, Lin Lin | |
 | 5 | 2/21 | | (May be canceled) | |
-| 6 | 3/7 | 2.2 | Joao | |
-| 7 | 3/21 | 6.2 | Zhiyan | |
+| 6 | 3/7 | 2.2 | Joao Basso | |
+| 7 | 3/21 | 6.2 | Zhiyan Ding | |
 | 8 | 4/4 | | | |
 | 9 | 4/11 | | | |
 | 10 | 4/18 | | | |
