@@ -14,7 +14,7 @@
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 1/17  | 1.6 | Michael Ragone | [Notes](asset/2025Spring/Quantum_Channels_1.pdf) |
-| 2 | 1/24  | 1.6 | Michael Ragone | [Notes](asset/2025Spring/Quantum Channels_2.pdf) |
+| 2 | 1/24  | 1.6 | Michael Ragone | [Notes](asset/2025Spring/Quantum_Channels_2.pdf) |
 | 3 | 1/31 | 2.1 | Sergio | |
 | 4 | 2/14 | QIP prep talks | Joao Basso, Jiaqi Leng, Lin Lin | |
 | 5 | 2/21 | | (May be canceled) | |
