@@ -61,6 +61,34 @@ The following list is provided by **Michael Ragone** and may be revised during t
 - Ch 8.4-8.7
 -->
 
+----------------------------
+### 🌟 Math 290 Quantum many-body seminar -- Computational
+
+- **When:** 🕒 Monday 4PM-5PM 
+- **Where:** Evans 891
+- **Moderator**: **Zhen Huang and Raehyun Kim**
+
+
+## 📌 Schedule (2025 Spring) 
+
+🆕✨🔨: [**BOOK the slot for NEW semester!**](mailto:hertz@berkeley.edu), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+
+| # | Date | Topic                                                          | Speaker     | References                                                                                                      |
+|---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
+| 1 | 1/13  |  | Yuanran Zhu /  Gil Goldshlager  | |
+| 2 | 1/27  |  | Stephene Quiton / Raehyun Kim |  |
+| 3 | 2/3 |  | Jiang Hu | |
+| 4 | 2/11 |  | Avijit Shee | |
+| 5 | 2/24 | |  | |
+| 6 | 3/3 |  | | |
+| 7 | 3/10 | |  | |
+| 8 | 3/17 | | | |
+| 9 | 3/24 | | | |
+| 10 | 3/31 | | | |
+| 11 | 4/7 | | | |
+| 12 | 4/14 | | | |
+| 13 | 4/21 | | | |
+
 
 
 
