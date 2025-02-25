@@ -79,15 +79,12 @@ The following list is provided by **Michael Ragone** and may be revised during t
 | 2 | 1/27  |  | Stephene Quiton / Raehyun Kim |  |
 | 3 | 2/3 |  | Jiang Hu | |
 | 4 | 2/11 |  | (Canceled) | |
-| 5 | 2/24 | | Avijit Shee | |
-| 6 | 3/3 |  | | |
-| 7 | 3/10 | |  | |
-| 8 | 3/17 | | | |
-| 9 | 3/24 | | | |
-| 10 | 3/31 | | | |
-| 11 | 4/7 | | | |
-| 12 | 4/14 | | | |
-| 13 | 4/21 | | | |
+| 5 | 3/3 |  | Avijit Shee | |
+| 6 | 3/10 | |  | |
+| 7 | 3/17 | | | |
+| 8 | 3/24 | | | |
+| 9 | 3/31 | | | |
+| 10 | 4/7 | | | |
 
 
 
