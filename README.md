@@ -19,7 +19,7 @@
 | 4 | 2/14 | QIP prep talks | Joao Basso, Jiaqi Leng, Lin Lin | |
 | 5 | 2/21 | | (May be canceled) | |
 | 6 | 3/7 | 2.2 | Joao Basso | |
-| 7 | 3/21 | 6.2 | Zhiyan Ding | |
+| 7 | 3/21 | 6.2 | Zhiyan Ding | [Notes](asset/2025Spring/Zhiyan_lecture_notes.pdf)|
 | 8 | 4/4 |   | (canceled) | |
 | 9 | 4/11 | 6.4 | Zherui Chen | |
 | 10 | 4/17 | 7.1.1 | Rahul Sakar |[Notes](asset/2025Spring/semigroup-notes.pdf) |
