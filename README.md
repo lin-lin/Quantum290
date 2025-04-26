@@ -24,7 +24,8 @@
 | 9 | 4/11 | 6.4 | Zherui Chen | |
 | 10 | 4/17 | 7.1.1 | Rahul Sakar |[Notes](asset/2025Spring/semigroup-notes.pdf) |
 | 11 | 4/25 | 7.1.2 | Joao Basso | |
-| 12 | 5/2 | | | |
+| 12 | 5/2 | |Zherui Chen, Jiaqi Leng
+  | |
 | 13 | 5/9 | | | |
 
 ### Reading materials
@@ -84,8 +85,6 @@ The following list is provided by **Michael Ragone** and may be revised during t
 | 7 | 3/24 | | Spring Break | |
 | 8 | 3/31 | | | |
 | 9 | 4/7 | | | |
-
-
 
 
 ### 📃 Previous Schedules 
