@@ -23,7 +23,7 @@
 | 8 | 4/4 |   | (canceled) | |
 | 9 | 4/11 | 6.4 | Zherui Chen | |
 | 10 | 4/17 | 7.1.1 | Rahul Sakar |[Notes](asset/2025Spring/semigroup-notes.pdf) |
-| 11 | 4/25 | 7.1.2 | Joao Basso | [Notes](asset/2025Spring/Quantum_Semigroups.pdf)|
+| 11 | 4/25 | 7.1.2 | Joao Basso | |
 | 12 | 5/2 | |Zherui Chen, Jiaqi Leng
   | |
 | 13 | 5/9 | | | |
