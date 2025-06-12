@@ -4,7 +4,7 @@
 
 - **When:** 🕒 Friday 1PM-3PM 
 - **Where:** Evans 891
-- **Moderator**: **Zhen Huang**
+- **Moderator**: [**Zhen Huang**]()
 
 ## 📌 Schedule (2025 Summer) 
 | # | Date |  Speaker     | References                                                                                                      |
