@@ -4,11 +4,22 @@
 
 - **When:** 🕒 Friday 1PM-3PM 
 - **Where:** Evans 891
-- **Moderator**: **Zhen Huang and Raehyun Kim**
+- **Moderator**: **Zhen Huang**
+
+## 📌 Schedule (2025 Summer) 
+| # | Date |  Speaker     | References                                                                                                      |
+|---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
+| 1 | 5/2  | Zherui Chen, Jiaqi Leng, Raehyun Kim |  |
+| 2 | 5/9  | Gil Goldshlager, Zhiyan Ding, Rahul Sarkar| |
+| 3 | 5/22 | Jiaqi Leng, Jiang Hu| |
+| 4 | 6/3  | Stephen Quiton, James Larsen| |
+| 5 | 6/13 | Group meeting | |
+| 6 | 6/20 | Joao Basso, Michael Ragone| |
 
 
-## 📌 Schedule (2025 Spring) 
-
+### 📃 Previous Schedules 
+<details>
+<summary>Schedule (2025 Spring, seminar) </summary>
 🆕✨🔨: [**BOOK the slot for NEW semester!**](mailto:hertz@berkeley.edu), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
 
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
@@ -61,18 +72,9 @@ The following list is provided by **Michael Ragone** and may be revised during t
 - Ch 8.1-8.3
 - Ch 8.4-8.7
 -->
-
-----------------------------
-### 🌟 Math 290 Quantum many-body seminar -- Computational
-
-- **When:** 🕒 Monday 4PM-5PM 
-- **Where:** Evans 891
-- **Moderator**: **Zhen Huang and Raehyun Kim**
-
-
-## 📌 Schedule (2025 Spring) 
-
-🆕✨🔨: [**BOOK the slot for NEW semester!**](mailto:hertz@berkeley.edu), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
+</details>
+<details>  
+  <summary>Schedule (2025 Spring, Computational group meeting)</summary>
 
 | # | Date | Topic                                                          | Speaker     | References                                                                                                      |
 |---|------|----------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
@@ -87,8 +89,8 @@ The following list is provided by **Michael Ragone** and may be revised during t
 | 9 | 4/7 | | | |
 
 
-### 📃 Previous Schedules 
 
+</details>
 <details>
 <summary>Schedule (2024 Summer and Fall)</summary>
 
