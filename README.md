@@ -14,7 +14,7 @@
 | 3 | 5/22 | Jiaqi Leng, Jiang Hu| |
 | 4 | 6/3  | Stephen Quiton, James Larsen| |
 | 5 | 6/13 | Group meeting | |
-| 6 | 6/20 | Joao Basso, Michael Ragone| |
+| 6 | 6/19 | Joao Basso, Michael Ragone| |
 
 
 ### 📃 Previous Schedules 
