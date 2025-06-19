@@ -15,6 +15,9 @@
 | 4 | 6/3  | Stephen Quiton, James Larsen| |
 | 5 | 6/13 | Group meeting | |
 | 6 | 6/19 | Joao Basso, Zhen Huang | |
+| 7 | 7/2 | Avijit Shee, Gil Goldshlager| |
+| 8 | 7/10 | Kevin Stubbs, Rahul Sarkar| |
+| 9 | 7/17 | Jiaqi Leng | |
 
 
 ### 📃 Previous Schedules 
