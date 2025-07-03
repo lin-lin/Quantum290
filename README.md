@@ -16,8 +16,9 @@
 | 5 | 6/13 | Group meeting | |
 | 6 | 6/19 | Joao Basso, Zhen Huang | |
 | 7 | 7/2 | Avijit Shee, Gil Goldshlager| |
-| 8 | 7/10 | Kevin Stubbs, Rahul Sarkar| |
-| 9 | 7/17 | Jiaqi Leng | |
+| 8 | 7/17 | Kevin Stubbs, Rahul Sarkar| |
+| 9 | 7/31 | Jiaqi Leng | |
+| 10 | 8/14 |  | |
 
 
 ### 📃 Previous Schedules 
