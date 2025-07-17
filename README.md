@@ -6,7 +6,10 @@
 - **Where:** Evans 891
 - **Moderator**: [**Zhen Huang**]()
 - **Time**: Tutorial talks: 40 min, Research update: 20 min.
-
+## Schedule (2025 Summer and Fall)
+| # | Date |  Tutorial talk     | Research update  
+| 1 | 7/31 | Jiaqi Leng, Yilun Yang | Joao Basso |
+| 2 | 8/14 |  |  |
 ## 📌 Schedule (2025 Summer) 
 | # | Date |  Speaker     | References                                                                                                      |
 |---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
@@ -18,8 +21,6 @@
 | 6 | 6/19 | Joao Basso, Zhen Huang | |
 | 7 | 7/2 | Avijit Shee, Gil Goldshlager| |
 | 8 | 7/17 | Kevin Stubbs, Rahul Sarkar| |
-| 9 | 7/31 | Jiaqi Leng, Yilun Yang | |
-| 10 | 8/14 |  | |
 
 
 ### 📃 Previous Schedules 
