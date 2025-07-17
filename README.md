@@ -5,6 +5,7 @@
 - **When:** 🕒 Friday 1PM-3PM 
 - **Where:** Evans 891
 - **Moderator**: [**Zhen Huang**]()
+- **Time**: Tutorial talks: 40 min, Research update: 20 min.
 
 ## 📌 Schedule (2025 Summer) 
 | # | Date |  Speaker     | References                                                                                                      |
