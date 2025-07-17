@@ -6,12 +6,20 @@
 - **Where:** Evans 891
 - **Moderator**: [**Zhen Huang**]()
 - **Time**: Tutorial talks: 40 min, Research update: 20 min.
+
+  
 ## Schedule (2025 Summer and Fall)
-| # | Date |  Tutorial talk     | Research update  
-| 1 | 7/31 | Jiaqi Leng, Yilun Yang | Joao Basso |
+| # | Date |  Tutorial talk     | Research update  |
+|---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
+| 1 | 7/31 | Joao Basso|  Jiaqi Leng, Yilun Yang |
 | 2 | 8/14 |  |  |
-## 📌 Schedule (2025 Summer) 
-| # | Date |  Speaker     | References                                                                                                      |
+
+
+### 📃 Previous Schedules 
+<details>
+<summary> Schedule (2025 Summer) </summary>
+  
+| # | Date |  Speaker     | References                                                                      |
 |---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 5/2  | Zherui Chen, Jiaqi Leng, Raehyun Kim |  |
 | 2 | 5/9  | Gil Goldshlager, Zhiyan Ding, Rahul Sarkar| |
@@ -21,9 +29,8 @@
 | 6 | 6/19 | Joao Basso, Zhen Huang | |
 | 7 | 7/2 | Avijit Shee, Gil Goldshlager| |
 | 8 | 7/17 | Kevin Stubbs, Rahul Sarkar| |
-
-
-### 📃 Previous Schedules 
+  
+</details>
 <details>
 <summary>Schedule (2025 Spring, seminar) </summary>
 🆕✨🔨: [**BOOK the slot for NEW semester!**](mailto:hertz@berkeley.edu), [UCB calendar](http://guide.berkeley.edu/academic-calendar/) 
