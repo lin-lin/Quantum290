@@ -17,7 +17,7 @@
 | 6 | 6/19 | Joao Basso, Zhen Huang | |
 | 7 | 7/2 | Avijit Shee, Gil Goldshlager| |
 | 8 | 7/17 | Kevin Stubbs, Rahul Sarkar| |
-| 9 | 7/31 | Jiaqi Leng | |
+| 9 | 7/31 | Jiaqi Leng, Yilun Yang | |
 | 10 | 8/14 |  | |
 
 
