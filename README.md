@@ -11,8 +11,8 @@
 ## Schedule (2025 Summer and Fall)
 | # | Date |  Tutorial talk     | Research update  |
 |---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
-| 1 | 7/31 | Joao Basso|  Jiaqi Leng, Yilun Yang |
-| 2 | 8/14 |  |  |
+| 1 | 7/31 | |  Jiaqi Leng, Yilun Yang |
+| 2 | 8/14 | Joao Basso |  |
 
 
 ### 📃 Previous Schedules 
