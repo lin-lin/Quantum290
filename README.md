@@ -11,9 +11,12 @@
 ## Schedule (2025 Summer and Fall)
 | # | Date |  Tutorial talk     | Research update  |
 |---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
-| 1 | 7/31 | |  Jiaqi Leng, Yilun Yang |
+| 1 | 7/31 | Michael Sonner |  Jiaqi Leng, Yilun Yang |
 | 2 | 8/14 | Joao Basso |  |
-
+| 3 | 8/22 |   |  |
+| 4 | 8/29 |   |  |
+| 5 | 9/5 |   |  |
+| 6 | 9/12 |   |Pinchen Xie  |
 
 ### 📃 Previous Schedules 
 <details>
