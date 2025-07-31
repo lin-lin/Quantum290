@@ -2,9 +2,9 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- **When:** 🕒 Friday 1PM-3PM 
-- **Where:** Evans 891
-- **Moderator**: [**Zhen Huang**]()
+- **When:** 🕒 Friday 1PM-3PM (unless otherwise noted) 
+- **Where:** Evans 939
+- **Moderator**: **Zhen Huang** and **Michael Ragone**
 - **Time**: Tutorial talks: 40 min, Research update: 20 min each.
 
   
@@ -21,7 +21,7 @@
 ### 📃 Previous Schedules 
 <details>
 <summary> Schedule (2025 Summer) </summary>
-  
+
 | # | Date |  Speaker     | References                                                                      |
 |---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 5/2  | Zherui Chen, Jiaqi Leng, Raehyun Kim |  |
@@ -32,7 +32,7 @@
 | 6 | 6/19 | Joao Basso, Zhen Huang | |
 | 7 | 7/2 | Avijit Shee, Gil Goldshlager| |
 | 8 | 7/17 | Kevin Stubbs, Rahul Sarkar| |
-  
+
 </details>
 <details>
 <summary>Schedule (2025 Spring, seminar) </summary>
