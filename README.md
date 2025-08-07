@@ -14,7 +14,7 @@
 | 1 | 7/31 | Michael Sonner |  Jiaqi Leng, Yilun Yang |
 | 2 | 8/14 | Joao Basso | Yuanran Zhu  |
 | 3 | 8/22 |   |  |
-| 4 | 8/29 | Yilun Yang  |  |
+| 4 | 8/29 | Yilun Yang  | Kevin Stubbs  |
 | 5 | 9/5 |   |  |
 | 6 | 9/12 |   |Pinchen Xie  |
 
