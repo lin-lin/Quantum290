@@ -13,7 +13,7 @@
 |---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 7/31 | Michael Sonner |  Jiaqi Leng, Yilun Yang |
 | 2 | 8/14 | Joao Basso | Yuanran Zhu, James Larsen  |
-| 3 | 8/22 |   |  | Stephen Quiton
+| 3 | 8/22 |   | Stephen Quiton | 
 | 4 | 8/29 | Yilun Yang  | Kevin Stubbs, Gil Goldshlager  |
 | 5 | 9/5 | Avijit Shee  |  |
 | 6 | 9/12 |   |Pinchen Xie  |
