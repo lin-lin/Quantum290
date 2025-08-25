@@ -16,7 +16,7 @@
 | 3 | 8/22 | Ethan Epperly   | Stephen Quiton, Zhen Huang |
 | 4 | 8/29 | Yilun Yang  | Kevin Stubbs, Gil Goldshlager  |
 | 5 | 9/5 | Avijit Shee  | Rahul Sarkar |
-| 6 | 9/12 | Jiaqing Jiang |Pinchen Xie  |
+| 6 | 9/12 | Jiaqing Jiang |Diui Liu, Pinchen Xie  |
 | 7 | 9/19 | Mingyu Kang| Zherui Chen |
 
 ### 📃 Previous Schedules 
