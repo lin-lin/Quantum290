@@ -17,6 +17,7 @@
 | 4 | 8/29 | Yilun Yang  | Kevin Stubbs, Gil Goldshlager  |
 | 5 | 9/5 | Avijit Shee  |  |
 | 6 | 9/12 | Jiaqing Jiang |Pinchen Xie  |
+| 7 | 9/19 | | Zherui Chen |
 
 ### 📃 Previous Schedules 
 <details>
