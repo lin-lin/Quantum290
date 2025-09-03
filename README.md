@@ -17,7 +17,7 @@
 | 4 | 8/29 | Yilun Yang  | Kevin Stubbs, Gil Goldshlager  |
 | 5 | 9/5 | Avijit Shee  | Rahul Sarkar, Lewis Pan |
 | 6 | 9/12 | Jiaqing Jiang |Diyi Liu, Pinchen Xie  |
-| 7 | 9/19 | Mingyu Kang| Zherui Chen |
+| 7 | 9/19 | Mingyu Kang| Zherui Chen, Joao Basso |
 
 ### 📃 Previous Schedules 
 <details>
