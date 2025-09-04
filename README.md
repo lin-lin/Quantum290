@@ -18,8 +18,8 @@
 | 5 | 9/5 | Avijit Shee  | Rahul Sarkar, Lewis Pan |
 | 6 | 9/12 | Jiaqing Jiang |Diyi Liu, Pinchen Xie  |
 | 7 | 9/19 | Mingyu Kang| Zherui Chen, Joao Basso |
-| 8 | 9/26 | Zhen Huang | Ethan Epperly |
-| 9 | 10/3 | Yilun Yang | | 
+| 8 | 9/26 | Zhen Huang | Ethan Epperly, Yilun yang |
+| 9 | 10/3 |  | | 
 | 10| 10/10 | | |
 | 11| 10/17 | | |
 | 12| 10/24 | | |
