@@ -19,7 +19,7 @@
 | 6 | 9/12 | Jiaqing Jiang |Diyi Liu, Pinchen Xie  |
 | 7 | 9/19 | Mingyu Kang| Zherui Chen,  |
 | 8 | 9/26 | Zhen Huang | Ethan Epperly, Yilun yang |
-| 9 | 10/3 |  | | 
+| 9 | 10/3 |  |Yuanran Zhu | 
 | 10| 10/10 | | |
 | 11| 10/17 | | |
 | 12| 10/24 | | |
