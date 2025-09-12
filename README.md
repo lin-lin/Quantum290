@@ -2,9 +2,10 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Talks of this week: Sep 12
-  - Zhen Huang: Rational approximation and classical Potential theory
-  - Diyi Liu: High-order Magnus Expansion for Hamiltonian Simulation
+- Upcoming tals=ks: Sep 19
+  - Mingyu Kang: Non-Gaussian bath of damped and dephased oscillators
+  - Zherui Chen: Quantum Replica Exchange
+  -  Lin Lin: 
 - **When:** 🕒
 - Friday 1PM-3PM (unless otherwise noted) 
 - **Where:** Evans 939
@@ -28,6 +29,23 @@
 | 11| 10/17 | | |
 | 12| 10/24 | | |
 | 13| 10/31 | | |
+
+### 📃 Titles of Previous Talks
+<details>
+  <summary> 2025 Fall </summary>
+- 9/12
+  - Zhen Huang: Rational approximation and classical Potential theory
+  - Diyi Liu: High-order Magnus Expansion for Hamiltonian Simulation
+- 9/5, 2025
+  - Avijit Shee: (tutorial) Wave function based many-body perturbation theory
+  - Rahul: (update) Improvements to Robins bounds for integers > 5040
+  - Lewis: (update) Adaptive DG basis sets for Hartree Fock
+- 8/28, 2025
+  - Yilun Yang: Introduction to eigenstate thermalization hypothesis
+  - Kevin Stubbs: Semimetal Behavior in TBG
+  - Gil Goldshlager: Towards Useful Theory for Natural Gradient Algorithms in Scientific Machine Learning
+  
+</details>
 
 ### 📃 Previous Schedules 
 <details>
