@@ -2,7 +2,7 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Talks of This week: Sep 12
+- Talks of this week: Sep 12
   - Zhen Huang: Rational approximation and classical Potential theory
   - Diyi Liu: High-order Magnus Expansion for Hamiltonian Simulation
 - **When:** 🕒
