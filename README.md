@@ -2,7 +2,7 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Upcoming tals=ks: Sep 19
+- Upcoming talks: Sep 19
   - Mingyu Kang: Non-Gaussian bath of damped and dephased oscillators
   - Zherui Chen: Quantum Replica Exchange
   -  Lin Lin: 
@@ -32,7 +32,8 @@
 
 ### 📃 Titles of Previous Talks
 <details>
-  <summary> 2025 Fall </summary>
+<summary> 2025 Fall </summary>
+  
 - 9/12
   - Zhen Huang: Rational approximation and classical Potential theory
   - Diyi Liu: High-order Magnus Expansion for Hamiltonian Simulation
