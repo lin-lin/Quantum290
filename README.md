@@ -2,7 +2,11 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- **When:** 🕒 Friday 1PM-3PM (unless otherwise noted) 
+- Talks of This week: Sep 12
+  - Zhen Huang: Rational approximation and classical Potential theory
+  - Diyi Liu: High-order Magnus Expansion for Hamiltonian Simulation
+- **When:** 🕒
+- Friday 1PM-3PM (unless otherwise noted) 
 - **Where:** Evans 939
 - **Moderator**: **Zhen Huang** and **Michael Ragone**
 - **Time**: Tutorial talks: 40 min, Research update: 20 min each.
