@@ -27,7 +27,7 @@
 | 9 | 10/3 | Avijit Shee |Yuanran Zhu, Joao Basso |
 | 10| 10/10 | | |
 | 11| 10/17 | Lin traveling, no seminar | |
-| 12| 10/24 | | |
+| 12| 10/24 | June Vuong| |
 | 13| 10/31 | | |
 
 ### 📃 Titles of Previous Talks
