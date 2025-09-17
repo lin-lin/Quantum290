@@ -24,16 +24,16 @@
 | 6 | 9/12 | Zhen Huang |Diyi Liu   |
 | 7 | 9/19 | Mingyu Kang| Zherui Chen, Lin Lin |
 | 8 | 9/26 | Jiaqing Jiang | Ethan Epperly, Yilun yang |
-| 9 | 10/3 | Avijit Shee |Yuanran Zhu, Joao Basso | 
+| 9 | 10/3 | Avijit Shee |Yuanran Zhu, Joao Basso |
 | 10| 10/10 | | |
-| 11| 10/17 | | |
+| 11| 10/17 | Lin traveling, no seminar | |
 | 12| 10/24 | | |
 | 13| 10/31 | | |
 
 ### 📃 Titles of Previous Talks
 <details>
 <summary> 2025 Fall </summary>
-  
+
 - 9/12, 2025
   - Zhen Huang: Rational approximation and classical Potential theory
   - Diyi Liu: High-order Magnus Expansion for Hamiltonian Simulation
@@ -46,6 +46,7 @@
   - Kevin Stubbs: Semimetal Behavior in TBG
   - Gil Goldshlager: Towards Useful Theory for Natural Gradient Algorithms in Scientific Machine Learning
   
+
 </details>
 
 ### 📃 Previous Schedules 
