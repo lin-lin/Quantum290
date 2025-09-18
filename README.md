@@ -5,7 +5,7 @@
 - Upcoming talks: Sep 19
   - Mingyu Kang: Non-Gaussian bath of damped and dephased oscillators
   - Zherui Chen: Quantum Replica Exchange
-  -  Lin Lin: 
+  - Lin Lin: An observation of spectral gaps of Lindbladians
 - **When:** 🕒
 - Friday 1PM-3PM (unless otherwise noted) 
 - **Where:** Evans 939
