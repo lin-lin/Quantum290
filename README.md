@@ -2,7 +2,7 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Upcoming talks: Sep 19
+- Upcoming talks: Sep 26
   - Jiaqing Jiang: Quantum Gibbs State Prepration
   - Ethan Epperly: 
   - Yilun Yang: QFAMES: Quantum Filtering and Analysis of Multiplicities in Eigenvalue Spectra 
