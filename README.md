@@ -3,9 +3,9 @@
 ### 🌟 Math 290 Quantum many-body seminar
 
 - Upcoming talks: Sep 19
-  - Mingyu Kang: Non-Gaussian bath of damped and dephased oscillators
-  - Zherui Chen: Quantum Replica Exchange
-  - Lin Lin: An observation of spectral gaps of Lindbladians
+  - Jiaqing Jiang: Quantum Gibbs State Prepration
+  - Ethan Epperly: 
+  - Yilun Yang: QFAMES: Quantum Filtering and Analysis of Multiplicities in Eigenvalue Spectra 
 - **When:** 🕒
 - Friday 1PM-3PM (unless otherwise noted) 
 - **Where:** Evans 939
@@ -34,9 +34,13 @@
 <details>
 <summary> 2025 Fall </summary>
 
+- 9/19, 2025
+  - Mingyu Kang: (tutorial) Non-Gaussian bath of damped and dephased oscillators
+  - Zherui Chen: (update) Quantum Replica Exchange
+  - Lin Lin: (update) An observation of spectral gaps of Lindbladians
 - 9/12, 2025
-  - Zhen Huang: Rational approximation and classical Potential theory
-  - Diyi Liu: High-order Magnus Expansion for Hamiltonian Simulation
+  - Zhen Huang: (tutorial) Rational approximation and classical Potential theory
+  - Diyi Liu: (update) High-order Magnus Expansion for Hamiltonian Simulation
 - 9/5, 2025
   - Avijit Shee: (tutorial) Wave function based many-body perturbation theory
   - Rahul: (update) Improvements to Robins bounds for integers > 5040
