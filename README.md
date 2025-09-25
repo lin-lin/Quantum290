@@ -3,8 +3,8 @@
 ### 🌟 Math 290 Quantum many-body seminar
 
 - Upcoming talks: Sep 26
-  - Jiaqing Jiang: Quantum Gibbs State Prepration
-  - Ethan Epperly: 
+  - Jiaqing Jiang: Quantum Gibbs Sampling
+  - Ethan Epperly: Active linear regression and column subset selection
   - Yilun Yang: QFAMES: Quantum Filtering and Analysis of Multiplicities in Eigenvalue Spectra 
 - **When:** 🕒
 - Friday 1PM-3PM (unless otherwise noted) 
