@@ -34,6 +34,7 @@
 ### 📃 Titles of Previous Talks
 <details>
 <summary> 2025 Fall </summary>
+  
 - 9/26, 2026
   - Jiaqing Jiang: Quantum Gibbs Sampling
   - Ethan Epperly: Active linear regression and column subset selection
