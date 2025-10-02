@@ -3,9 +3,9 @@
 ### 🌟 Math 290 Quantum many-body seminar
 
 - Upcoming talks: Sep 26
-  - Jiaqing Jiang: Quantum Gibbs Sampling
-  - Ethan Epperly: Active linear regression and column subset selection
-  - Yilun Yang: QFAMES: Quantum Filtering and Analysis of Multiplicities in Eigenvalue Spectra 
+  - Avijit Shee: 
+  - Yuanran Zhu: Strong coupling and two-point pade expansion for Hubbard model
+  - Joao Basso: Mixing times on trees via Hardy’s inequality
 - **When:** 🕒
 - Friday 1PM-3PM (unless otherwise noted) 
 - **Where:** Evans 939
@@ -34,7 +34,10 @@
 ### 📃 Titles of Previous Talks
 <details>
 <summary> 2025 Fall </summary>
-
+- 9/26, 2026
+  - Jiaqing Jiang: Quantum Gibbs Sampling
+  - Ethan Epperly: Active linear regression and column subset selection
+  - Yilun Yang: QFAMES: Quantum Filtering and Analysis of Multiplicities in Eigenvalue Spectra 
 - 9/19, 2025
   - Mingyu Kang: (tutorial) Non-Gaussian bath of damped and dephased oscillators
   - Zherui Chen: (update) Quantum Replica Exchange
