@@ -30,7 +30,11 @@
 | 12| 10/24 | June Vuong| Pinchen Xie |
 | 13| 10/31 | | |
 | 14| 11/7 | Hongrui Chen | |
-
+|15|11/14|||
+|16|11/21|||
+|17|11/28|||
+|18|12/5|||
+|19|12/12| Diyi Liu||
 ### 📃 Titles of Previous Talks
 <details>
 <summary> 2025 Fall </summary>
