@@ -31,7 +31,7 @@
 | 13| 10/31 | Haoen Li | |
 | 14| 11/7 | Hongrui Chen | Gil Goldshlager|
 |15|11/14|||
-|16|11/21|||
+|16|11/21||Haoen Li|
 |17|11/28|Thanksgiving, no seminar||
 |18|12/5|||
 |19|12/12| Diyi Liu||
