@@ -28,8 +28,8 @@
 | 10| 10/10 | Simons program, no seminar |  |
 | 11| 10/17 | Lin traveling, no seminar | |
 | 12| 10/24 | June Vuong| Pinchen Xie |
-| 13| 10/31 | | |
-| 14| 11/7 | Hongrui Chen | Haoen Li. Gil Goldshlager|
+| 13| 10/31 | Haoen Li | |
+| 14| 11/7 | Hongrui Chen | Gil Goldshlager|
 |15|11/14|||
 |16|11/21|||
 |17|11/28|||
