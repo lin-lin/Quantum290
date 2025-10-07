@@ -2,10 +2,9 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Upcoming talks: Sep 26
-  - Avijit Shee: 
-  - Yuanran Zhu: Strong coupling and two-point pade expansion for Hubbard model
-  - Joao Basso: Mixing times on trees via Hardy’s inequality
+- Upcoming talks: Oct 24
+  - June Vuong
+  - Pinchen Xie
 - **When:** 🕒
 - Friday 1PM-3PM (unless otherwise noted) 
 - **Where:** Evans 939
@@ -38,7 +37,10 @@
 ### 📃 Titles of Previous Talks
 <details>
 <summary> 2025 Fall </summary>
-  
+- 10/3, 2026
+  - Avijit Shee: 
+  - Yuanran Zhu: Strong coupling and two-point pade expansion for Hubbard model
+  - Joao Basso: Mixing times on trees via Hardy’s inequality
 - 9/26, 2026
   - Jiaqing Jiang: Quantum Gibbs Sampling
   - Ethan Epperly: Active linear regression and column subset selection
