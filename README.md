@@ -32,7 +32,7 @@
 |15|11/14|||
 |16|11/21||Haoen Li|
 |17|11/28|Thanksgiving, no seminar||
-|18|12/5|||
+|18|12/5|Jiaqi Leng||
 |19|12/12| Diyi Liu||
 ### 📃 Titles of Previous Talks
 <details>
