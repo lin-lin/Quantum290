@@ -28,7 +28,7 @@
 | 11| 10/17 | Lin traveling, no seminar | |
 | 12| 10/24 | June Vuong| Pinchen Xie, Zhen Huang |
 | 13| 10/31 | Haoen Li | |
-| 14| 11/7 | Hongrui Chen | Gil Goldshlager|
+| 14| 11/7 | Hongrui Chen | Gil Goldshlager, Jiaqing Jiang|
 |15|11/14|Yilun Yang||
 |16|11/21|Jiaqi Leng|Haoen Li|
 |17|11/28|Thanksgiving, no seminar||
