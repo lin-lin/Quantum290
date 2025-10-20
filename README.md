@@ -29,7 +29,7 @@
 | 12| 10/24 | June Vuong| Pinchen Xie, Zhen Huang |
 | 13| 10/31 | Haoen Li | |
 | 14| 11/7 | Hongrui Chen | Gil Goldshlager|
-|15|11/14|||
+|15|11/14|Yilun Yang||
 |16|11/21|Jiaqi Leng|Haoen Li|
 |17|11/28|Thanksgiving, no seminar||
 |18|12/5|Diyi Liu||
