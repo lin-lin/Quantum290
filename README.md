@@ -3,8 +3,9 @@
 ### 🌟 Math 290 Quantum many-body seminar
 
 - Upcoming talks: Oct 24
-  - June Vuong
-  - Pinchen Xie
+  - June Vuong: On quantum to classical comparison for Davies generator
+  - Pinchen Xie: Predicting open quantum dynamics with Data-Informed Quantum-Classical Dynamics
+  - Zhen Huang: Finding Lindbladian steady states in tensor network format
 - **When:** 🕒
 - Friday 1PM-3PM (unless otherwise noted) 
 - **Where:** Evans 939
