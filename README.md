@@ -2,10 +2,9 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Upcoming talks: Oct 24
-  - June Vuong: On quantum to classical comparison for Davies generator
-  - Pinchen Xie: Predicting open quantum dynamics with Data-Informed Quantum-Classical Dynamics
-  - Zhen Huang: Finding Lindbladian steady states in tensor network format
+- Upcoming talks: Oct 31
+  - June Vuong: On quantum to classical comparison for Davies generator (Part II)
+  - Haoen Li: A brief introduction to Tomita-Takesaki theory: trace inequalities without traces
 - **When:** 🕒
 - Friday 1PM-3PM (unless otherwise noted) 
 - **Where:** Evans 939
@@ -28,7 +27,7 @@
 | 10| 10/10 | Simons program, no seminar |  |
 | 11| 10/17 | Lin traveling, no seminar | |
 | 12| 10/24 | June Vuong| Pinchen Xie, Zhen Huang |
-| 13| 10/31 | Haoen Li | |
+| 13| 10/31 | June Vuong, Haoen Li | |
 | 14| 11/7 | Hongrui Chen | Gil Goldshlager, Jiaqing Jiang|
 |15|11/14|Yilun Yang||
 |16|11/21|Jiaqi Leng|Haoen Li|
