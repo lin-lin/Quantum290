@@ -2,9 +2,11 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Upcoming talks: Oct 31
-  - June Vuong: On quantum to classical comparison for Davies generator (Part II)
-  - Haoen Li: A brief introduction to Tomita-Takesaki theory: trace inequalities without traces
+- Upcoming talks: Nov 7
+  - Hongrui Chen: Convergence of Feynman Diagrams Expansion and Efficient Classical Algorithm for Weakly Interacting Fermionic systems
+  - Gil Goldshlager:
+  - Jiaqing Jiang:
+  
 - **When:** 🕒
 - Friday 1PM-3PM (unless otherwise noted) 
 - **Where:** Evans 939
@@ -29,7 +31,7 @@
 | 12| 10/24 | June Vuong| Pinchen Xie, Zhen Huang |
 | 13| 10/31 | June Vuong, Haoen Li | |
 | 14| 11/7 | Hongrui Chen | Gil Goldshlager, Jiaqing Jiang|
-|15|11/14|Yilun Yang||
+|15|11/14|Yilun Yang|Stephen Quiton|
 |16|11/21|Jiaqi Leng|Haoen Li|
 |17|11/28|Thanksgiving, no seminar||
 |18|12/5|Diyi Liu||
@@ -37,6 +39,9 @@
 <details>
 <summary> 2025 Fall </summary>
 
+- 10/31, 2025
+  - June Vuong: On quantum to classical comparison for Davies generator (Part II)
+  - Haoen Li: A brief introduction to Tomita-Takesaki theory: trace inequalities without traces
 - 10/24, 2025
   - June Vuong: On quantum to classical comparison for Davies generator
   - Pinchen Xie: Predicting open quantum dynamics with Data-Informed Quantum-Classical Dynamics
