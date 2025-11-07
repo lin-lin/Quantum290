@@ -4,8 +4,8 @@
 
 - Upcoming talks: Nov 7
   - Hongrui Chen: Convergence of Feynman Diagrams Expansion and Efficient Classical Algorithm for Weakly Interacting Fermionic systems
-  - Gil Goldshlager:
-  - Jiaqing Jiang:
+  - Gil Goldshlager: A fresh perspective on the subsampled Gauss-Newton algorithm
+  - Jiaqing Jiang: Ergodic theorem in quantum Gibbs sampling
   
 - **When:** 🕒
 - Friday 1PM-3PM (unless otherwise noted) 
