@@ -31,8 +31,8 @@
 | 12| 10/24 | June Vuong| Pinchen Xie, Zhen Huang |
 | 13| 10/31 | June Vuong, Haoen Li | |
 | 14| 11/7 | Hongrui Chen | Gil Goldshlager, Jiaqing Jiang|
-|15|11/14|Yilun Yang|Stephen Quiton|
-|16|11/21|Jiaqi Leng|Haoen Li|
+|15|11/14|Yilun Yang|Rahul Sarkar|
+|16|11/21|Jiaqi Leng|Haoen Li, Stephen Quiton|
 |17|11/28|Thanksgiving, no seminar||
 |18|12/5|Diyi Liu||
 ### 📃 Titles of Previous Talks
