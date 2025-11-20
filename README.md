@@ -2,10 +2,10 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Upcoming talks: Nov 7
-  - Hongrui Chen: Convergence of Feynman Diagrams Expansion and Efficient Classical Algorithm for Weakly Interacting Fermionic systems
-  - Gil Goldshlager: A fresh perspective on the subsampled Gauss-Newton algorithm
-  - Jiaqing Jiang: Ergodic theorem in quantum Gibbs sampling
+- Upcoming talks: Nov 21
+  - Jiaqi Leng: Gaussian-Filtered QPE and its application in Quantum Gibbs Sampling
+  - Haoen Li: Dissipative preparation of electronic excited states
+  - Rahul Sarkar: Antisymmetric polynomials as finitely generated modules over symmetric polynomials, and some bounds of the number of module generators
   
 - **When:** 🕒
 - Friday 1PM-3PM (unless otherwise noted) 
@@ -39,6 +39,16 @@
 <details>
 <summary> 2025 Fall </summary>
 
+- 11/21, 2025
+  - Jiaqi Leng: Gaussian-Filtered QPE and its application in Quantum Gibbs Sampling
+  - Haoen Li: Dissipative preparation of electronic excited states
+  - Rahul Sarkar: Antisymmetric polynomials as finitely generated modules over symmetric polynomials, and some bounds of the number of module generators
+- 11/14, 2025
+  - Yilun Yang: breakdown of ETH.
+- 11/7, 2025
+  - Hongrui Chen: Convergence of Feynman Diagrams Expansion and Efficient Classical Algorithm for Weakly Interacting Fermionic systems
+  - Gil Goldshlager: A fresh perspective on the subsampled Gauss-Newton algorithm
+  - Jiaqing Jiang: Ergodic theorem in quantum Gibbs sampling
 - 10/31, 2025
   - June Vuong: On quantum to classical comparison for Davies generator (Part II)
   - Haoen Li: A brief introduction to Tomita-Takesaki theory: trace inequalities without traces
