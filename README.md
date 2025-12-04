@@ -2,10 +2,10 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Upcoming talks: Nov 21
-  - Jiaqi Leng: Gaussian-Filtered QPE and its application in Quantum Gibbs Sampling
-  - Haoen Li: Dissipative preparation of electronic excited states
-  - Rahul Sarkar: Antisymmetric polynomials as finitely generated modules over symmetric polynomials, and some bounds of the number of module generators
+- Upcoming talks: Dec 5
+  - Lin Lin:
+  - Kevin Stubbs: Classical versus Quantum Mixing Times in the All-to-All Heisenberg Model
+  - Stephen Quiton: Singularity subtraction methods to address finite-size effects in periodic MP2 calculations
   
 - **When:** 🕒
 - Friday 1PM-3PM (unless otherwise noted) 
@@ -34,7 +34,7 @@
 |15|11/14|Yilun Yang||
 |16|11/21|Jiaqi Leng|Haoen Li, Rahul Sarkar |
 |17|11/28|Thanksgiving, no seminar||
-|18|12/5|Diyi Liu|Kevin Stubbs,Stephen Quiton|
+|18|12/5|Lin Lin|Kevin Stubbs,Stephen Quiton|
 ### 📃 Titles of Previous Talks
 <details>
 <summary> 2025 Fall </summary>
