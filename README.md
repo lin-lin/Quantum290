@@ -8,8 +8,8 @@
   - Stephen Quiton: Singularity subtraction methods to address finite-size effects in periodic MP2 calculations
   
 - **When:** 🕒
-- Friday 1PM-3PM (unless otherwise noted) 
-- **Where:** Evans 939
+- Thursday 2PM-4PM (starting 2026 Spring) 
+- **Where:** TBD 
 - **Moderator**: **Zhen Huang** and **Michael Ragone**
 - **Time**: Tutorial talks: 40 min, Research update: 20 min each.
 
@@ -17,24 +17,8 @@
 ## Schedule (2025 Summer and Fall)
 | # | Date |  Tutorial talk     | Research update  |
 |---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
-| 1 | 7/31 | Michael Sonner |  Jiaqi Leng, Yilun Yang |
-| 2 | 8/14 | Joao Basso | Yuanran Zhu, James Larsen  |
-| 3 | 8/22 | Ethan Epperly   | Stephen Quiton, Zhen Huang |
-| 4 | 8/29 | Yilun Yang  | Kevin Stubbs, Gil Goldshlager  |
-| 5 | 9/5 | Avijit Shee  | Rahul Sarkar, Lewis Pan |
-| 6 | 9/12 | Zhen Huang |Diyi Liu   |
-| 7 | 9/19 | Mingyu Kang| Zherui Chen, Lin Lin |
-| 8 | 9/26 | Jiaqing Jiang | Ethan Epperly, Yilun yang |
-| 9 | 10/3 | Avijit Shee |Yuanran Zhu, Joao Basso |
-| 10| 10/10 | Simons program, no seminar |  |
-| 11| 10/17 | Lin traveling, no seminar | |
-| 12| 10/24 | June Vuong| Pinchen Xie, Zhen Huang |
-| 13| 10/31 | June Vuong, Haoen Li | |
-| 14| 11/7 | Hongrui Chen | Gil Goldshlager, Jiaqing Jiang|
-|15|11/14|Yilun Yang||
-|16|11/21|Jiaqi Leng|Haoen Li, Rahul Sarkar |
-|17|11/28|Thanksgiving, no seminar||
-|18|12/5|Lin Lin|Kevin Stubbs,Stephen Quiton|
+| 1 | Jan 6 | Zhen Huang | |
+| 2 | Jan 22 | Michael Ragone | |
 ### 📃 Titles of Previous Talks
 <details>
 <summary> 2025 Fall </summary>
@@ -84,6 +68,32 @@
 </details>
 
 ### 📃 Previous Schedules 
+<details>
+  <summary> Schedule (2025 Summer and Fall) </summary>
+  
+  | # | Date |  Tutorial talk     | Research update  |
+|---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
+| 1 | 7/31 | Michael Sonner |  Jiaqi Leng, Yilun Yang |
+| 2 | 8/14 | Joao Basso | Yuanran Zhu, James Larsen  |
+| 3 | 8/22 | Ethan Epperly   | Stephen Quiton, Zhen Huang |
+| 4 | 8/29 | Yilun Yang  | Kevin Stubbs, Gil Goldshlager  |
+| 5 | 9/5 | Avijit Shee  | Rahul Sarkar, Lewis Pan |
+| 6 | 9/12 | Zhen Huang |Diyi Liu   |
+| 7 | 9/19 | Mingyu Kang| Zherui Chen, Lin Lin |
+| 8 | 9/26 | Jiaqing Jiang | Ethan Epperly, Yilun yang |
+| 9 | 10/3 | Avijit Shee |Yuanran Zhu, Joao Basso |
+| 10| 10/10 | Simons program, no seminar |  |
+| 11| 10/17 | Lin traveling, no seminar | |
+| 12| 10/24 | June Vuong| Pinchen Xie, Zhen Huang |
+| 13| 10/31 | June Vuong, Haoen Li | |
+| 14| 11/7 | Hongrui Chen | Gil Goldshlager, Jiaqing Jiang|
+|15|11/14|Yilun Yang||
+|16|11/21|Jiaqi Leng|Haoen Li, Rahul Sarkar |
+|17|11/28|Thanksgiving, no seminar||
+|18|12/5|Lin Lin|Kevin Stubbs,Stephen Quiton|
+  
+</details>
+
 <details>
 <summary> Schedule (2025 Summer) </summary>
 
