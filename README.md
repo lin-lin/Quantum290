@@ -2,19 +2,18 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Upcoming talks: Dec 5
-  - Lin Lin:
-  - Kevin Stubbs: Classical versus Quantum Mixing Times in the All-to-All Heisenberg Model
-  - Stephen Quiton: Singularity subtraction methods to address finite-size effects in periodic MP2 calculations
+- Upcoming talks: Jan 6
+  - Zhen Huang: TBD
+
   
 - **When:** 🕒
 - Thursday 2PM-4PM (starting 2026 Spring) 
-- **Where:** TBD 
+- **Where:** Evans 748
 - **Moderator**: **Zhen Huang** and **Michael Ragone**
 - **Time**: Tutorial talks: 40 min, Research update: 20 min each.
 
   
-## Schedule (2025 Summer and Fall)
+## Schedule (2026 Spring)
 | # | Date |  Tutorial talk     | Research update  |
 |---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | Jan 6 | Zhen Huang | |
@@ -24,7 +23,10 @@
 ### 📃 Titles of Previous Talks
 <details>
 <summary> 2025 Fall </summary>
-
+- 12/5, 2025
+  - Lin Lin: Motivating questions for studying open systems
+  - Kevin Stubbs: Classical versus Quantum Mixing Times in the All-to-All Heisenberg Model
+  - Stephen Quiton: Singularity subtraction methods to address finite-size effects in periodic MP2 calculations
 - 11/21, 2025
   - Jiaqi Leng: Gaussian-Filtered QPE and its application in Quantum Gibbs Sampling
   - Haoen Li: Dissipative preparation of electronic excited states
