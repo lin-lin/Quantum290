@@ -25,7 +25,7 @@
 | 7 | Feb 26| | |
 | 8 | Mar 5 | | |
 | 9 | Mar 12| | |
-| 10| Mar 19| March meeting, no talk| |
+| 10| Mar 19| March meeting, no talk |
 ### 📃 Titles of Previous Talks
 <details>
 <summary> 2025 Fall </summary>
