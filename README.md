@@ -20,6 +20,12 @@
 | 2 | Jan 22 | Michael Ragone | |
 | 3 | Jan 29 | | |
 | 4 | Feb 5 | | |
+| 5 | Feb 12| | |
+| 6 | Feb 19| | |
+| 7 | Feb 26| | |
+| 8 | Mar 5 | | |
+| 9 | Mar 12| | |
+| 10| Mar 19| March meeting, no talk| |
 ### 📃 Titles of Previous Talks
 <details>
 <summary> 2025 Fall </summary>
