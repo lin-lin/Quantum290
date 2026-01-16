@@ -17,7 +17,7 @@
 | # | Date |  Tutorial talk     | Research update  |
 |---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | Jan 6 | Zhen Huang | |
-| 2 | Jan 22 | Michael Ragone | |
+| 2 | Jan 22 | Michael Ragone |Juan DF Pottecher |
 | 3 | Jan 29 |Diyi Liu | |
 | 4 | Feb 5 |Joao Basso | |
 | 5 | Feb 12| | |
