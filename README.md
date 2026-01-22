@@ -5,7 +5,6 @@
 - Upcoming talks: Jan 6
   - Zhen Huang: TBD
 
-  
 - **When:** 🕒
 - Thursday 2PM-4PM (starting 2026 Spring) 
 - **Where:** Evans 748
@@ -17,7 +16,7 @@
 | # | Date |  Tutorial talk     | Research update  |
 |---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | Jan 6 | Zhen Huang | |
-| 2 | Jan 22 | Michael Ragone |Juan DF Pottecher |
+| 2 | Jan 22 | Michael Ragone |Juan DF Pottecher; Ethan Epperly |
 | 3 | Jan 29 |Diyi Liu | |
 | 4 | Feb 5 |Joao Basso | |
 | 5 | Feb 12| | |
@@ -25,7 +24,7 @@
 | 7 | Feb 26| | |
 | 8 | Mar 5 | | |
 | 9 | Mar 12| | |
-| 10| Mar 19| March meeting, no talk |
+| 10| Mar 19| March meeting, no talk ||
 ### 📃 Titles of Previous Talks
 <details>
 <summary> 2025 Fall </summary>
@@ -80,7 +79,7 @@
 ### 📃 Previous Schedules 
 <details>
   <summary> Schedule (2025 Summer and Fall) </summary>
-  
+
   | # | Date |  Tutorial talk     | Research update  |
 |---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | 7/31 | Michael Sonner |  Jiaqi Leng, Yilun Yang |
@@ -101,7 +100,7 @@
 |16|11/21|Jiaqi Leng|Haoen Li, Rahul Sarkar |
 |17|11/28|Thanksgiving, no seminar||
 |18|12/5|Lin Lin|Kevin Stubbs,Stephen Quiton|
-  
+
 </details>
 
 <details>
