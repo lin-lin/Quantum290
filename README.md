@@ -17,7 +17,7 @@
 |---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | Jan 6 | Zhen Huang | |
 | 2 | Jan 22 | Michael Ragone |Juan DF Pottecher; Ethan Epperly |
-| 3 | Jan 29 |Diyi Liu | |
+| 3 | Jan 29 |Diyi Liu | Michael Ragone  |
 | 4 | Feb 5 |Joao Basso | |
 | 5 | Feb 12| | |
 | 6 | Feb 19| | |
