@@ -25,9 +25,12 @@
 | 8 | Mar 5 | | |
 | 9 | Mar 12| | |
 | 10| Mar 19| March meeting, no talk ||
+
 ### 📃 Titles of Previous Talks
+
 <details>
 <summary> 2025 Fall </summary>
+  
 - 12/5, 2025
   - Lin Lin: Motivating questions for studying open systems
   - Kevin Stubbs: Classical versus Quantum Mixing Times in the All-to-All Heisenberg Model
