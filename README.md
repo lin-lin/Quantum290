@@ -2,8 +2,10 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Upcoming talks: Jan 6
-  - Zhen Huang: TBD
+- Upcoming talks: Jan 29
+  - Diyi Liu
+  - Michael Ragone
+  - TBD
 
 - **When:** 🕒
 - Thursday 2PM-4PM (starting 2026 Spring) 
@@ -27,6 +29,17 @@
 | 10| Mar 19| March meeting, no talk ||
 
 ### 📃 Titles of Previous Talks
+
+<details>
+  <summary> 2026 Spring </summary>
+  
+- 1/22
+  - Michael Ragone: Thermal states in the thermodynamic limit.
+  - Juan DF Pottecher: Fourier interpolation methods for reducing finite size errors.
+  - Ethan Epperly: when does random MPS act like a Gaussian vector?
+- 1/9, 2026
+  - Zhen Huang: Low scaling algorithms for quantum many body physics
+</details>
 
 <details>
 <summary> 2025 Fall </summary>
