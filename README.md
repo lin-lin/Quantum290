@@ -5,7 +5,7 @@
 - Upcoming talks: Jan 29
   - Diyi Liu
   - Michael Ragone
-  - Zhen Huang
+  - Zhen Huang: nonequilibrium OCA diagrams
 
 - **When:** 🕒
 - Thursday 2PM-4PM (starting 2026 Spring) 
@@ -18,10 +18,10 @@
 | # | Date |  Tutorial talk     | Research update  |
 |---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
 | 1 | Jan 6 | Zhen Huang | |
-| 2 | Jan 22 | Michael Ragone |Juan DF Pottecher; Ethan Epperly |
-| 3 | Jan 29 |Diyi Liu | Michael Ragone; Zhen Huang  |
+| 2 | Jan 22 | Michael Ragone |Juan DF Pottecher, Ethan Epperly |
+| 3 | Jan 29 |Diyi Liu | Michael Ragone, Zhen Huang  |
 | 4 | Feb 5 |Joao Basso | |
-| 5 | Feb 12| | |
+| 5 | Feb 12| |Kevin Stubbs |
 | 6 | Feb 19| | |
 | 7 | Feb 26| | |
 | 8 | Mar 5 | | |
