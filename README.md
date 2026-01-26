@@ -5,7 +5,7 @@
 - Upcoming talks: Jan 29
   - Diyi Liu
   - Michael Ragone
-  - TBD
+  - Zhen Huang
 
 - **When:** 🕒
 - Thursday 2PM-4PM (starting 2026 Spring) 
