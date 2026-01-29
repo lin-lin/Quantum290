@@ -20,8 +20,8 @@
 | 1 | Jan 6 | Zhen Huang | |
 | 2 | Jan 22 | Michael Ragone |Juan DF Pottecher, Ethan Epperly |
 | 3 | Jan 29 |Diyi Liu | Michael Ragone, Zhen Huang  |
-| 4 | Feb 5 |Joao Basso | |
-| 5 | Feb 12|Ethan Epperly |Kevin Stubbs |
+| 4 | Feb 5 |Joao Basso, Ethan Epperly | |
+| 5 | Feb 12||Kevin Stubbs |
 | 6 | Feb 19| | |
 | 7 | Feb 26| |Pinchen Xie |
 | 8 | Mar 5 | | |
