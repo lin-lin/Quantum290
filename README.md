@@ -28,22 +28,26 @@
 | 9 | Mar 12| | |
 | 10| Mar 19| March meeting, no talk ||
 
+## Suggested reading materials
+- Giuliani, A., Lebowitz, J. L., & Lieb, E. H. (2006). Ising models with long-range antiferromagnetic and short-range ferromagnetic interactions. Physical Review B - Condensed Matter and Materials Physics, 74(6). https://doi.org/10.1103/PhysRevB.74.064420
+
+
 ### 📃 Titles of Previous Talks
 
 <details>
   <summary> 2026 Spring </summary>
-  
+
 - 1/22
   - Michael Ragone: Thermal states in the thermodynamic limit.
   - Juan DF Pottecher: Fourier interpolation methods for reducing finite size errors.
   - Ethan Epperly: when does random MPS act like a Gaussian vector?
 - 1/9, 2026
   - Zhen Huang: Low scaling algorithms for quantum many body physics
-</details>
+  </details>
 
 <details>
 <summary> 2025 Fall </summary>
-  
+
 - 12/5, 2025
   - Lin Lin: Motivating questions for studying open systems
   - Kevin Stubbs: Classical versus Quantum Mixing Times in the All-to-All Heisenberg Model
