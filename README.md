@@ -24,7 +24,7 @@
 | 5 | Feb 12||Kevin Stubbs |
 | 6 | Feb 19| | |
 | 7 | Feb 26| |Pinchen Xie |
-| 8 | Mar 5 | | |
+| 8 | Mar 5 |Ethan Epperly | |
 | 9 | Mar 12| | |
 | 10| Mar 19| March meeting, no talk ||
 
