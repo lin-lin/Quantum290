@@ -2,10 +2,10 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Upcoming talks: Jan 29
-  - Diyi Liu: Fusion of multi-scale analysis and open system: a future of quantum materials science
-  - Michael Ragone: Spectral gap of the Davies generator for the Heisenberg model on the complete graph
-  - Zhen Huang: nonequilibrium OCA diagrams
+- Upcoming talks: Feb 5
+  - Joao Basso
+  - Ethan Epperly
+
 
 - **When:** 🕒
 - Thursday 2PM-4PM (starting 2026 Spring) 
@@ -44,6 +44,10 @@
 <details>
   <summary> 2026 Spring </summary>
 
+- 1/29
+  - Diyi Liu: Fusion of multi-scale analysis and open system: a future of quantum materials science
+  - Michael Ragone: Spectral gap of the Davies generator for the Heisenberg model on the complete graph
+  - Zhen Huang: nonequilibrium OCA diagrams
 - 1/22
   - Michael Ragone: Thermal states in the thermodynamic limit.
   - Juan DF Pottecher: Fourier interpolation methods for reducing finite size errors.
