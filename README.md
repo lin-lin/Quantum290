@@ -24,12 +24,12 @@
 | 5 | Feb 12||Kevin Stubbs |
 | 6 | Feb 19| | |
 | 7 | Feb 26| |Pinchen Xie |
-| 8 | Mar 5 |Ethan Epperly | |
-| 9 | Mar 12| | |
+| 8 | Mar 5 | | |
+| 9 | Mar 12|Ethan Epperly | |
 | 10| Mar 19| March meeting, no talk ||
 
 ## Suggested reading materials
-- Szehr, O., & Wolf, M. M. (2013). Perturbation bounds for quantum Markov processes and their fixed points. Journal of Mathematical Physics, 54(3). https://doi.org/10.1063/1.4795112
+- Szehr, O., & Wolf, M. M. (2013). Perturbation bounds for quantum Markov processes and their fixed points. Journal of Mathematical Physics, 54(3). https://doi.org/10.1063/1.4795112 (Ethan)
 - Mitrophanov, A. Y. (2005). Sensitivity and convergence of uniformly ergodic Markov chains. Journal of Applied Probability, 42(4), 1003–1014. https://doi.org/10.1239/jap/1134587812
 - Bittel, L., Mele, A. A., Eisert, J., & Leone, L. (2025). Optimal trace-distance bounds for free-fermionic states: Testing and improved tomography. 1–48. https://doi.org/10.1103/pzx6-nkfb
 - Woods, M. P., & Plenio, M. B. (2016). Dynamical error bounds for continuum discretisation via Gauss quadrature rules-A Lieb-Robinson bound approach. Journal of Mathematical Physics, 57(2), 1–19. https://doi.org/10.1063/1.4940436
