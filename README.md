@@ -3,7 +3,7 @@
 ### 🌟 Math 290 Quantum many-body seminar
 
 - Upcoming talks: Feb 5
-  - Joao Basso: Static and dynamic correspondences in Markov samplin
+  - Joao Basso: Static and dynamic correspondences in Markov sampling
   - Ethan Epperly: Gaussian random matrix product states
 
 
