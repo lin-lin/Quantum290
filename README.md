@@ -22,7 +22,7 @@
 | 3 | Jan 29 | |Diyi Liu | Michael Ragone, Zhen Huang  |
 | 4 | Feb 5 | |Joao Basso, Ethan Epperly | |
 | 5 | Feb 12|||Kevin Stubbs |
-| 6 | Feb 19| | | |
+| 6 | Feb 19|Haoen Li | | |
 | 7 | Feb 26| Kevin Stubbs| |Pinchen Xie |
 | 8 | Mar 5 | | | |
 | 9 | Mar 12|Ethan Epperly | | |
@@ -35,8 +35,8 @@
 - Mitrophanov, A. Y. (2005). Sensitivity and convergence of uniformly ergodic Markov chains. Journal of Applied Probability, 42(4), 1003–1014. https://doi.org/10.1239/jap/1134587812
 - Bittel, L., Mele, A. A., Eisert, J., & Leone, L. (2025). Optimal trace-distance bounds for free-fermionic states: Testing and improved tomography. 1–48. https://doi.org/10.1103/pzx6-nkfb (Kevin)
 - Woods, M. P., & Plenio, M. B. (2016). Dynamical error bounds for continuum discretisation via Gauss quadrature rules-A Lieb-Robinson bound approach. Journal of Mathematical Physics, 57(2), 1–19. https://doi.org/10.1063/1.4940436
-- Giuliani, A., Lebowitz, J. L., & Lieb, E. H. (2006). Ising models with long-range antiferromagnetic and short-range ferromagnetic interactions. Physical Review B - Condensed Matter and Materials Physics, 74(6). https://doi.org/10.1103/PhysRevB.74.064420
-- B. Leimkuhler, M. Sachs, Efficient Numerical Algorithms for the Generalized Langevin Equation, (2020) 1–33. http://arxiv.org/abs/2012.04245.
+- Giuliani, A., Lebowitz, J. L., & Lieb, E. H. (2006). Ising models with long-range antiferromagnetic and short-range ferromagnetic interactions. Physical Review B - Condensed Matter and Materials Physics, 74(6). https://doi.org/10.1103/PhysRevB.74.064420 (Haoen)
+- B. Leimkuhler, M. Sachs, Efficient Numerical Algorithms for the Generalized Langevin Equation, (2020) 1–33. http://arxiv.org/abs/2012.04245. (Zhen)
 - Yin, C., Surace, F. M., & Lucas, A. (2025). Theory of Metastable States in Many-Body Quantum Systems. Physical Review X, 15(1), 11064. https://doi.org/10.1103/PhysRevX.15.011064 (Jiaqing)
 - Lu, S. L., & Yau, H. T. (1993). Spectral gap and logarithmic Sobolev inequality for Kawasaki and Glauber dynamics. Communications in Mathematical Physics, 156(2), 399–433. https://doi.org/10.1007/BF02098489
 
