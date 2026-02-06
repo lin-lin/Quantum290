@@ -21,7 +21,7 @@
 | 2 | Jan 22 |  | Michael Ragone |Juan DF Pottecher, Ethan Epperly |
 | 3 | Jan 29 | |Diyi Liu | Michael Ragone, Zhen Huang  |
 | 4 | Feb 5 | |Joao Basso, Ethan Epperly | |
-| 5 | Feb 12|||Kevin Stubbs |
+| 5 | Feb 12|||Kevin Stubbs, Zherui Chen |
 | 6 | Feb 19|Haoen Li | | |
 | 7 | Feb 26| Kevin Stubbs| |Pinchen Xie |
 | 8 | Mar 5 | | | |
@@ -29,6 +29,10 @@
 | 10| Mar 19|  | March meeting, no talk ||
 | 11 | Mar 26 |  | Spring break, no talk ||
 | 12 | Apr 2 | Jiaqing Jiang |  ||
+| 13 | Apr 9 | |  ||
+| 14 | Apr 16 | |  ||
+| 15 | Apr 23 | |  ||
+| 16 | Apr 30 | |  ||
 
 ## Suggested reading materials
 - Szehr, O., & Wolf, M. M. (2013). Perturbation bounds for quantum Markov processes and their fixed points. Journal of Mathematical Physics, 54(3). https://doi.org/10.1063/1.4795112 (Ethan)
