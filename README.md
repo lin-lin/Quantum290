@@ -25,7 +25,7 @@
 | 6 | Feb 19|Haoen Li | |Rahul Sarkar |
 | 7 | Feb 26| Kevin Stubbs| |Pinchen Xie |
 | 8 | Mar 5 | | | |
-| 9 | Mar 12|Ethan Epperly | | |
+| 9 | Mar 12|Ethan Epperly, Rahul Sarkar | | |
 | 10| Mar 19|  | March meeting, no talk ||
 | 11 | Mar 26 |  | Spring break, no talk ||
 | 12 | Apr 2 | Jiaqing Jiang |  ||
@@ -36,7 +36,7 @@
 
 ## Suggested reading materials
 - Szehr, O., & Wolf, M. M. (2013). Perturbation bounds for quantum Markov processes and their fixed points. Journal of Mathematical Physics, 54(3). https://doi.org/10.1063/1.4795112 (Ethan)
-- Mitrophanov, A. Y. (2005). Sensitivity and convergence of uniformly ergodic Markov chains. Journal of Applied Probability, 42(4), 1003–1014. https://doi.org/10.1239/jap/1134587812
+- Mitrophanov, A. Y. (2005). Sensitivity and convergence of uniformly ergodic Markov chains. Journal of Applied Probability, 42(4), 1003–1014. https://doi.org/10.1239/jap/1134587812 (Rahul)
 - Bittel, L., Mele, A. A., Eisert, J., & Leone, L. (2025). Optimal trace-distance bounds for free-fermionic states: Testing and improved tomography. 1–48. https://doi.org/10.1103/pzx6-nkfb (Kevin)
 - Woods, M. P., & Plenio, M. B. (2016). Dynamical error bounds for continuum discretisation via Gauss quadrature rules-A Lieb-Robinson bound approach. Journal of Mathematical Physics, 57(2), 1–19. https://doi.org/10.1063/1.4940436
 - Giuliani, A., Lebowitz, J. L., & Lieb, E. H. (2006). Ising models with long-range antiferromagnetic and short-range ferromagnetic interactions. Physical Review B - Condensed Matter and Materials Physics, 74(6). https://doi.org/10.1103/PhysRevB.74.064420 (Haoen)
