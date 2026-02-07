@@ -22,7 +22,7 @@
 | 3 | Jan 29 | |Diyi Liu | Michael Ragone, Zhen Huang  |
 | 4 | Feb 5 | |Joao Basso, Ethan Epperly | |
 | 5 | Feb 12||Jiaqing Jiang|Kevin Stubbs, Zherui Chen |
-| 6 | Feb 19|Haoen Li | | |
+| 6 | Feb 19|Haoen Li | |Rahul Sarkar |
 | 7 | Feb 26| Kevin Stubbs| |Pinchen Xie |
 | 8 | Mar 5 | | | |
 | 9 | Mar 12|Ethan Epperly | | |
