@@ -30,7 +30,7 @@
 | 11 | Mar 26 |  | Spring break, no talk ||
 | 12 | Apr 2 | Jiaqing Jiang |  ||
 | 13 | Apr 9 | |  ||
-| 14 | Apr 16 | |  ||
+| 14 | Apr 16 |Diyi Liu |  ||
 | 15 | Apr 23 | |  ||
 | 16 | Apr 30 | |  ||
 
@@ -42,7 +42,7 @@
 - Giuliani, A., Lebowitz, J. L., & Lieb, E. H. (2006). Ising models with long-range antiferromagnetic and short-range ferromagnetic interactions. Physical Review B - Condensed Matter and Materials Physics, 74(6). https://doi.org/10.1103/PhysRevB.74.064420 (Haoen)
 - B. Leimkuhler, M. Sachs, Efficient Numerical Algorithms for the Generalized Langevin Equation, (2020) 1–33. http://arxiv.org/abs/2012.04245. (Zhen)
 - Yin, C., Surace, F. M., & Lucas, A. (2025). Theory of Metastable States in Many-Body Quantum Systems. Physical Review X, 15(1), 11064. https://doi.org/10.1103/PhysRevX.15.011064 (Jiaqing)
-- Lu, S. L., & Yau, H. T. (1993). Spectral gap and logarithmic Sobolev inequality for Kawasaki and Glauber dynamics. Communications in Mathematical Physics, 156(2), 399–433. https://doi.org/10.1007/BF02098489
+- Lu, S. L., & Yau, H. T. (1993). Spectral gap and logarithmic Sobolev inequality for Kawasaki and Glauber dynamics. Communications in Mathematical Physics, 156(2), 399–433. https://doi.org/10.1007/BF02098489 (Diyi)
 
 
 ### 📃 Titles of Previous Talks
