@@ -24,7 +24,7 @@
 | 5 | Feb 12||Jiaqing Jiang|Kevin Stubbs, Zherui Chen |
 | 6 | Feb 19|Haoen Li | |Rahul Sarkar |
 | 7 | Feb 26| Kevin Stubbs| |Pinchen Xie |
-| 8 | Mar 5 | | | |
+| 8 | Mar 5 | | Lin traveling, no talk | |
 | 9 | Mar 12|Ethan Epperly, Rahul Sarkar | | |
 | 10| Mar 19|  | March meeting, no talk ||
 | 11 | Mar 26 |  | Spring break, no talk ||
