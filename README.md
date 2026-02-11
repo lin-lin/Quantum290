@@ -5,7 +5,7 @@
 - Upcoming talks: Feb 12
   - Jiaqing Jiang:
   - Kevin Stubbs: Particle Hole Asymmetry in Models of Twisted Bilayer Graphene
-  - Zherui Chen:
+  - Zherui Chen: multi-temperature quantum replica exchange
 
 
 - **When:** 🕒
