@@ -2,9 +2,10 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Upcoming talks: Feb 5
-  - Joao Basso: Static and dynamic correspondences in Markov sampling
-  - Ethan Epperly: Gaussian random matrix product states
+- Upcoming talks: Feb 12
+  - Jiaqing Jiang:
+  - Kevin Stubbs: Particle Hole Asymmetry in Models of Twisted Bilayer Graphene
+  - Zherui Chen:
 
 
 - **When:** 🕒
