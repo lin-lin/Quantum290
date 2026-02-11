@@ -3,7 +3,7 @@
 ### 🌟 Math 290 Quantum many-body seminar
 
 - Upcoming talks: Feb 12
-  - Jiaqing Jiang:
+  - Jiaqing Jiang: Positive bias makes tensor network contraction tractable
   - Kevin Stubbs: Particle Hole Asymmetry in Models of Twisted Bilayer Graphene
   - Zherui Chen: multi-temperature quantum replica exchange
 
