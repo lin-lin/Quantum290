@@ -3,7 +3,7 @@
 ### 🌟 Math 290 Quantum many-body seminar
 
 - Upcoming talks: Feb 19
-  - Haoen Li:
+  - Haoen Li: Ising models with long-range antiferromagnetic and short-range ferromagnetic interactions
   - Rahul Sarkar: Generalization of the Silva-Lautsch Clifford normal form to single qudits of composite dimension
   - Sergio:
 
