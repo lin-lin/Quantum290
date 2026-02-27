@@ -32,7 +32,7 @@
 | 12 | Apr 2 | Jiaqing Jiang |  ||
 | 13 | Apr 9 | |  ||
 | 14 | Apr 16 |Diyi Liu |  ||
-| 15 | Apr 23 | |  ||
+| 15 | Apr 23 | | Jiaqi Leng ||
 | 16 | Apr 30 | |  ||
 
 ## Suggested reading materials
