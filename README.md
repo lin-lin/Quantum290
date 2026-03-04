@@ -2,10 +2,8 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Upcoming talks: Feb 19
-  - Haoen Li: Ising models with long-range antiferromagnetic and short-range ferromagnetic interactions
-  - Rahul Sarkar: Generalization of the Silva-Lautsch Clifford normal form to single qudits of composite dimension
-  - Sergio:
+- Upcoming talks: Mar 5
+
 
 
 - **When:** 🕒
@@ -50,7 +48,22 @@
 
 <details>
   <summary> 2026 Spring </summary>
-
+  
+- 2/26
+  - Kevin Stubbs: Optimal trace-distance bounds for free-fermionic states
+  - Pinchen Xie: A mixed quantum-classical machine learning model for solvated electron
+  - Avijit Shee: Downfolded Hamiltonian for the excited states  
+- 2/19
+  - Haoen Li: Ising models with long-range antiferromagnetic and short-range ferromagnetic interactions
+  - Rahul Sarkar: Generalization of the Silva-Lautsch Clifford normal form to single qudits of composite dimension
+  - Sergio:
+- 2/12
+  - Jiaqing Jiang: Positive bias makes tensor network contraction tractable
+  - Kevin Stubbs: Particle Hole Asymmetry in Models of Twisted Bilayer Graphene
+  - Zherui Chen: multi-temperature quantum replica exchange
+- 2/5
+  - Joao Basso: Static and dynamic correspondences in Markov sampling
+  - Ethan Epperly: Gaussian random matrix product states
 - 1/29
   - Diyi Liu: Fusion of multi-scale analysis and open system: a future of quantum materials science
   - Michael Ragone: Spectral gap of the Davies generator for the Heisenberg model on the complete graph
