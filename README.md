@@ -2,9 +2,14 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 
-- Upcoming talks: Mar 5
-
-
+- Upcoming talks: Mar 5 (Practice APS March meeting talks)
+  - Yilun Yang: Quantum Filtering and Analysis of Multiplicities in Eigenvalue Spectra 
+  - Haoen Li: Dissipative Preparation of Quantum Ground States and Excited States in Electronic Structure Theory 
+  - Kevin Stubbs: Exact Many-Body Ground States in Chiral Twisted Bilayer Graphene 
+  - Gil: New Insights and Algorithms for Training Neural Network Wavefunctions  
+  - Jiaqi Leng: Resource-efficient quantum simulation of transport phenomena via Hamiltonian embedding  
+  - Joao Basso: On quantum to classical comparison for Davies generators  
+  - Zherui Chen: Quantum Replica Exchange  
 
 - **When:** 🕒
 - Thursday 2PM-4PM (starting 2026 Spring) 
