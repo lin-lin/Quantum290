@@ -1,15 +1,9 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-
-- Upcoming talks: Mar 5 (Practice APS March meeting talks)
-  - Yilun Yang: Quantum Filtering and Analysis of Multiplicities in Eigenvalue Spectra 
-  - Haoen Li: Dissipative Preparation of Quantum Ground States and Excited States in Electronic Structure Theory 
-  - Kevin Stubbs: Exact Many-Body Ground States in Chiral Twisted Bilayer Graphene 
-  - Gil: New Insights and Algorithms for Training Neural Network Wavefunctions  
-  - Jiaqi Leng: Resource-efficient quantum simulation of transport phenomena via Hamiltonian embedding  
-  - Joao Basso: On quantum to classical comparison for Davies generators  
-  - Zherui Chen: Quantum Replica Exchange  
+125 (Practice APS March meeting talks)
+  - Ethan Epperly: Perturbation bounds for quantum Markov processes and their fixed points
+  - Rahul Sarkar: Sensitivity and convergence of uniformly ergodic Markov chains
 
 - **When:** 🕒
 - Thursday 2PM-4PM (starting 2026 Spring) 
@@ -53,7 +47,15 @@
 
 <details>
   <summary> 2026 Spring </summary>
-  
+
+- 3/4
+  - Yilun Yang: Quantum Filtering and Analysis of Multiplicities in Eigenvalue Spectra 
+  - Haoen Li: Dissipative Preparation of Quantum Ground States and Excited States in Electronic Structure Theory 
+  - Kevin Stubbs: Exact Many-Body Ground States in Chiral Twisted Bilayer Graphene 
+  - Gil: New Insights and Algorithms for Training Neural Network Wavefunctions  
+  - Jiaqi Leng: Resource-efficient quantum simulation of transport phenomena via Hamiltonian embedding  
+  - Joao Basso: On quantum to classical comparison for Davies generators  
+  - Zherui Chen: Quantum Replica Exchange  
 - 2/26
   - Kevin Stubbs: Optimal trace-distance bounds for free-fermionic states
   - Pinchen Xie: A mixed quantum-classical machine learning model for solvated electron
