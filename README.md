@@ -28,8 +28,8 @@
 | 11 | Mar 26 |  | Spring break, no talk ||
 | 12 | Apr 2 | Jiaqing Jiang |  ||
 | 13 | Apr 9 | |  ||
-| 14 | Apr 16 |Diyi Liu |  ||
-| 15 | Apr 23 | | Jiaqi Leng ||
+| 14 | Apr 16 |Diyi Liu | Jiaqi Leng ||
+| 15 | Apr 23 | | Lin traveling, no talk ||
 | 16 | Apr 30 | |  ||
 
 ## Suggested reading materials
