@@ -31,6 +31,10 @@
 | 14 | Apr 16 |Diyi Liu | Jiaqi Leng ||
 | 15 | Apr 23 | | Lin traveling, no talk ||
 | 16 | Apr 30 | |  ||
+| 17 | May 7 | | Lin traveling, no talk ||
+| 18 | May 14 | | ||
+| 19 | May 21 | | ||
+| 20 | May 28 | | ||
 
 ## Suggested reading materials
 - Szehr, O., & Wolf, M. M. (2013). Perturbation bounds for quantum Markov processes and their fixed points. Journal of Mathematical Physics, 54(3). https://doi.org/10.1063/1.4795112 (Ethan)
