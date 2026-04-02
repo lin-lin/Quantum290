@@ -1,9 +1,10 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-125 (Practice APS March meeting talks)
-  - Ethan Epperly: Perturbation bounds for quantum Markov processes and their fixed points
-  - Rahul Sarkar: Sensitivity and convergence of uniformly ergodic Markov chains
+- Upcoming talks: Apr 2
+  - Jiaqing: Theory of Metastable States in Many-Body Quantum Systems.
+  - Haoen: Dissipative Cooling Algorithms for Probing Quantum Phase Transitions
+  - Stephen: Singularity subtraction to reduce finite-size effects in periodic MP2
 
 - **When:** 🕒
 - Thursday 2PM-4PM (starting 2026 Spring) 
@@ -52,7 +53,10 @@
 <details>
   <summary> 2026 Spring </summary>
 
-- 3/4
+- 3/12
+  - Ethan Epperly: Perturbation bounds for quantum Markov processes and their fixed points
+  - Rahul Sarkar: Sensitivity and convergence of uniformly ergodic Markov chains
+- 3/5
   - Yilun Yang: Quantum Filtering and Analysis of Multiplicities in Eigenvalue Spectra 
   - Haoen Li: Dissipative Preparation of Quantum Ground States and Excited States in Electronic Structure Theory 
   - Kevin Stubbs: Exact Many-Body Ground States in Chiral Twisted Bilayer Graphene 
