@@ -29,9 +29,9 @@
 | 11 | Mar 26 |  | Spring break, no talk ||
 | 12 | Apr 2 | Jiaqing Jiang |   |Stephen Quiton, Haoen Li|
 | 13 | Apr 9 |Yilun Yang, Zhen Huang |  ||
-| 14 | Apr 16 |Diyi Liu | Jiaqi Leng ||
+| 14 | Apr 16 |Matteo Scandi | Jiaqi Leng ||
 | 15 | Apr 23 | | Lin traveling, no talk ||
-| 16 | Apr 30 | |  ||
+| 16 | Apr 30 | Diyi Liu |  ||
 | 17 | May 7 | | Lin traveling, no talk ||
 | 18 | May 14 | | ||
 | 19 | May 21 | | ||
