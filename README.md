@@ -1,10 +1,10 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- Upcoming talks: Apr 2
-  - Jiaqing: Theory of Metastable States in Many-Body Quantum Systems.
-  - Haoen: Dissipative Cooling Algorithms for Probing Quantum Phase Transitions
-  - Stephen: Singularity subtraction to reduce finite-size effects in periodic MP2
+- Upcoming talks: Apr 9
+  - Matteo Scandi:
+  - Jiaqi Leng:
+
 
 - **When:** 🕒
 - Thursday 2PM-4PM (starting 2026 Spring) 
@@ -53,7 +53,14 @@
 <details>
   <summary> 2026 Spring </summary>
 
-- 3/12
+- 4/9
+  - Yilun Yang: Dynamical error bounds for continuum discretisation via Gauss quadrature rules
+  - Zhen Huang: Efficient Numerical Algorithms for the Generalized Langevin Equation
+- 4/2
+  - Jiaqing: Theory of Metastable States in Many-Body Quantum Systems.
+  - Haoen: Dissipative Cooling Algorithms for Probing Quantum Phase Transitions
+  - Stephen: Singularity subtraction to reduce finite-size effects in periodic MP2
+-  3/12
   - Ethan Epperly: Perturbation bounds for quantum Markov processes and their fixed points
   - Rahul Sarkar: Sensitivity and convergence of uniformly ergodic Markov chains
 - 3/5
