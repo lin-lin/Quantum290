@@ -33,7 +33,7 @@
 | 15 | Apr 23 | | Lin traveling, no talk ||
 | 16 | Apr 30 | Diyi Liu |  | Jiaqi Leng|
 | 17 | May 7 | | Lin traveling, no talk ||
-| 18 | May 14 | | ||
+| 18 | May 14 | Zhen Huang | ||
 | 19 | May 21 | | ||
 | 20 | May 28 | | ||
 
