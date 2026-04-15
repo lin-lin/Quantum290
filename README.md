@@ -32,7 +32,7 @@
 | 14 | Apr 16 |Matteo Scandi | Jiaqi Leng ||
 | 15 | Apr 23 | | Lin traveling, no talk ||
 | 16 | Apr 30 | Diyi Liu |  | Jiaqi Leng|
-| 17 | May 7 | | Lin traveling, no talk ||
+| 17 | May 7 |Adam Artymowicz, Sam Scalet|   ||
 | 18 | May 14 | Zhen Huang | ||
 | 19 | May 21 | | ||
 | 20 | May 28 | | ||
