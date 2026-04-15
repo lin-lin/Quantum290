@@ -2,8 +2,8 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 - Upcoming talks: Apr 9
-  - Matteo Scandi:
-  - Jiaqi Leng:
+  - Matteo Scandi: Polynomial-time thermalization and Gibbs sampling from system bath couplings
+  - Jiaqi Leng: Derivation and KMS-Symmetric Quantum Markov Semigroups
 
 
 - **When:** 🕒
