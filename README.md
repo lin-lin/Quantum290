@@ -31,9 +31,9 @@
 | 13 | Apr 9 |Yilun Yang, Zhen Huang |  ||
 | 14 | Apr 16 |Matteo Scandi | Jiaqi Leng ||
 | 15 | Apr 23 | | Lin traveling, no talk ||
-| 16 | Apr 30 | Diyi Liu |  | Jiaqi Leng|
+| 16 | Apr 30 | Diyi Liu | Hongrui Chen | |
 | 17 | May 7 |Adam Artymowicz, Sam Scalet|   ||
-| 18 | May 14 | Zhen Huang | ||
+| 18 | May 14 | Zhen Huang | |Jiaqi Leng|
 | 19 | May 21 | | Joao Basso||
 | 20 | May 28 | | ||
 
