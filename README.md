@@ -34,7 +34,7 @@
 | 16 | Apr 30 | Diyi Liu |  | Jiaqi Leng|
 | 17 | May 7 |Adam Artymowicz, Sam Scalet|   ||
 | 18 | May 14 | Zhen Huang | ||
-| 19 | May 21 | | ||
+| 19 | May 21 | | Joao Basso||
 | 20 | May 28 | | ||
 
 ## Suggested reading materials
