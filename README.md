@@ -1,11 +1,9 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- Upcoming talks: Apr 9
-  - Matteo Scandi: Polynomial-time thermalization and Gibbs sampling from system bath couplings
-  - Jiaqi Leng: Derivation and KMS-Symmetric Quantum Markov Semigroups
-
-
+- Upcoming talks: May 7
+  - Adam: Classical comparison theorem for Davies Lindbladians of qLDPC codes
+  - Sam: Spatial Entanglement Sudden Death in Spin Chains at All Temperatures
 - **When:** 🕒
 - Thursday 2PM-4PM (starting 2026 Spring) 
 - **Where:** Evans 748
@@ -53,6 +51,12 @@
 <details>
   <summary> 2026 Spring </summary>
 
+- 4/30
+  - Diyi Liu: Beyond Lindblad Dynamics: Rigorous Guarantees for Thermal State
+  - Hongrui Chen: Overcoming the Lamb Shift in System-Bath Models via KMS Detailed Balance: High-Accuracy Thermalization with Time-Bounded Interactions
+- 4/16
+  - Matteo Scandi: Polynomial-time thermalization and Gibbs sampling from system bath couplings
+  - Jiaqi Leng: Derivation and KMS-Symmetric Quantum Markov Semigroups
 - 4/9
   - Yilun Yang: Dynamical error bounds for continuum discretisation via Gauss quadrature rules
   - Zhen Huang: Efficient Numerical Algorithms for the Generalized Langevin Equation
