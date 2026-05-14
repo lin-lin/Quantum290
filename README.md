@@ -32,8 +32,8 @@
 | 16 | Apr 30 | Diyi Liu | Hongrui Chen | |
 | 17 | May 7 |Adam Artymowicz, Sam Scalet|   ||
 | 18 | May 14 | Zhen Huang | |Jiaqi Leng|
-| 19 | May 21 | | Joao Basso||
-| 20 | May 28 | | ||
+| 19 | May 21 | | Joao Basso| Diyi Liu |
+| 20 | May 29 | | ||
 
 ## Suggested reading materials
 - Szehr, O., & Wolf, M. M. (2013). Perturbation bounds for quantum Markov processes and their fixed points. Journal of Mathematical Physics, 54(3). https://doi.org/10.1063/1.4795112 (Ethan)
