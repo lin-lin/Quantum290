@@ -1,8 +1,9 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- Upcoming talks: May 7
-  - 
+- Upcoming talks: May 21
+  - Joao Basso: Zerofreeness for sampling
+  - Diyi Liu: quantum state preparation with sampling
 - **When:** 🕒
 - Thursday 2PM-4PM (starting 2026 Spring) 
 - **Where:** Evans 748
