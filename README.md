@@ -2,8 +2,7 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 - Upcoming talks: May 7
-  - Adam: Classical comparison theorem for Davies Lindbladians of qLDPC codes
-  - Sam: Spatial Entanglement Sudden Death in Spin Chains at All Temperatures
+  - 
 - **When:** 🕒
 - Thursday 2PM-4PM (starting 2026 Spring) 
 - **Where:** Evans 748
@@ -50,6 +49,15 @@
 <details>
   <summary> 2026 Spring </summary>
 
+- 5/21
+  - Joao Basso: Zerofreeness for sampling
+  - Diyi Liu: quantum state preparation with sampling
+- 5/14
+  - Zhen Huang: Recent advances on equivalence of quasi and coupled Lindblad dynamics
+  - Jiaqi Leng: A mechanism for super-polynomial speedups in quantum optimization via continuous relaxation
+- 5/7
+  - Adam: Classical comparison theorem for Davies Lindbladians of qLDPC codes
+  - Sam: Spatial Entanglement Sudden Death in Spin Chains at All Temperatures 
 - 4/30
   - Diyi Liu: Beyond Lindblad Dynamics: Rigorous Guarantees for Thermal State
   - Hongrui Chen: Overcoming the Lamb Shift in System-Bath Models via KMS Detailed Balance: High-Accuracy Thermalization with Time-Bounded Interactions
