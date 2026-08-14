@@ -1,51 +1,27 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- Upcoming talks: May 21
-  - Joao Basso: Zerofreeness for sampling
-  - Diyi Liu: quantum state preparation with sampling
-- **When:** 🕒
-- Thursday 2PM-4PM (starting 2026 Spring) 
-- **Where:** Evans 748
-- **Moderator**: **Zhen Huang** and **Michael Ragone**
-- **Time**: Journal club: 40 min, Tutorial talks: 40 min, Research update: 20 min each.
+- Upcoming talks: Aug 19 (Wed)
+- **When:** 🕒 Wednesday TBD
+- **Where:** TBD
+- **Moderator**: **Haoen Li**
+- **Time**:
 
   
-## Schedule (2026 Spring)
-| # | Date | Journal club | Tutorial talk | Research update |
-|---|------|-------------|-----------------------------------------------------------------------------------------------------------------|---|
-| 1 | Jan 6 |  | Zhen Huang | |
-| 2 | Jan 22 |  | Michael Ragone |Juan DF Pottecher, Ethan Epperly |
-| 3 | Jan 29 | |Diyi Liu | Michael Ragone, Zhen Huang  |
-| 4 | Feb 5 | |Joao Basso, Ethan Epperly | |
-| 5 | Feb 12||Jiaqing Jiang|Kevin Stubbs, Zherui Chen |
-| 6 | Feb 19|Haoen Li | |Rahul Sarkar, Sergio |
-| 7 | Feb 26| Kevin Stubbs| |Pinchen Xie, Avijit Shee |
-| 8 | Mar 5 | |March meeting prep talks | |
-| 9 | Mar 12|Ethan Epperly, Rahul Sarkar | | |
-| 10| Mar 19|  | March meeting, no talk ||
-| 11 | Mar 26 |  | Spring break, no talk ||
-| 12 | Apr 2 | Jiaqing Jiang |   |Stephen Quiton, Haoen Li|
-| 13 | Apr 9 |Yilun Yang, Zhen Huang |  ||
-| 14 | Apr 16 |Matteo Scandi | Jiaqi Leng ||
-| 15 | Apr 23 | | Lin traveling, no talk ||
-| 16 | Apr 30 | Diyi Liu | Hongrui Chen | |
-| 17 | May 7 |Adam Artymowicz, Sam Scalet|   ||
-| 18 | May 14 | Zhen Huang | |Jiaqi Leng|
-| 19 | May 21 | | Joao Basso| Diyi Liu |
+## Schedule (2026 Summer and Fall)
 
-## Suggested reading materials
-- Szehr, O., & Wolf, M. M. (2013). Perturbation bounds for quantum Markov processes and their fixed points. Journal of Mathematical Physics, 54(3). https://doi.org/10.1063/1.4795112 (Ethan)
-- Mitrophanov, A. Y. (2005). Sensitivity and convergence of uniformly ergodic Markov chains. Journal of Applied Probability, 42(4), 1003–1014. https://doi.org/10.1239/jap/1134587812 (Rahul)
-- Bittel, L., Mele, A. A., Eisert, J., & Leone, L. (2025). Optimal trace-distance bounds for free-fermionic states: Testing and improved tomography. 1–48. https://doi.org/10.1103/pzx6-nkfb (Kevin)
-- Woods, M. P., & Plenio, M. B. (2016). Dynamical error bounds for continuum discretisation via Gauss quadrature rules-A Lieb-Robinson bound approach. Journal of Mathematical Physics, 57(2), 1–19. https://doi.org/10.1063/1.4940436 (Yilun)
-- Giuliani, A., Lebowitz, J. L., & Lieb, E. H. (2006). Ising models with long-range antiferromagnetic and short-range ferromagnetic interactions. Physical Review B - Condensed Matter and Materials Physics, 74(6). https://doi.org/10.1103/PhysRevB.74.064420 (Haoen)
-- B. Leimkuhler, M. Sachs, Efficient Numerical Algorithms for the Generalized Langevin Equation, (2020) 1–33. http://arxiv.org/abs/2012.04245. (Zhen)
-- Yin, C., Surace, F. M., & Lucas, A. (2025). Theory of Metastable States in Many-Body Quantum Systems. Physical Review X, 15(1), 11064. https://doi.org/10.1103/PhysRevX.15.011064 (Jiaqing)
-- Lu, S. L., & Yau, H. T. (1993). Spectral gap and logarithmic Sobolev inequality for Kawasaki and Glauber dynamics. Communications in Mathematical Physics, 156(2), 399–433. https://doi.org/10.1007/BF02098489 (Diyi)
+  | # | Date | Speaker | References |
+|---|------|-----------------------------------------------------------------------------------------------------------------|---|
+| 1 | Aug 13 | Muzhou Ma | [Paper](https://arxiv.org/abs/2607.28795)| 
 
 
-### 📃 Titles of Previous Talks
+
+### 📃 Topics of Previous Talks
+
+2026 Summer and Fall
+
+- 8/13
+  - Muzhou Ma: High-rate qLDPC processors
 
 <details>
   <summary> 2026 Spring </summary>
@@ -163,7 +139,46 @@
 
 ### 📃 Previous Schedules 
 <details>
-  <summary> Schedule (2025 Summer and Fall) </summary>
+  <summary> Schedule (2026 Spring) </summary>  
+  
+  | # | Date | Journal club | Tutorial talk | Research update |
+|---|------|-------------|-----------------------------------------------------------------------------------------------------------------|---|
+| 1 | Jan 6 |  | Zhen Huang | |
+| 2 | Jan 22 |  | Michael Ragone |Juan DF Pottecher, Ethan Epperly |
+| 3 | Jan 29 | |Diyi Liu | Michael Ragone, Zhen Huang  |
+| 4 | Feb 5 | |Joao Basso, Ethan Epperly | |
+| 5 | Feb 12||Jiaqing Jiang|Kevin Stubbs, Zherui Chen |
+| 6 | Feb 19|Haoen Li | |Rahul Sarkar, Sergio |
+| 7 | Feb 26| Kevin Stubbs| |Pinchen Xie, Avijit Shee |
+| 8 | Mar 5 | |March meeting prep talks | |
+| 9 | Mar 12|Ethan Epperly, Rahul Sarkar | | |
+| 10| Mar 19|  | March meeting, no talk ||
+| 11 | Mar 26 |  | Spring break, no talk ||
+| 12 | Apr 2 | Jiaqing Jiang |   |Stephen Quiton, Haoen Li|
+| 13 | Apr 9 |Yilun Yang, Zhen Huang |  ||
+| 14 | Apr 16 |Matteo Scandi | Jiaqi Leng ||
+| 15 | Apr 23 | | Lin traveling, no talk ||
+| 16 | Apr 30 | Diyi Liu | Hongrui Chen | |
+| 17 | May 7 |Adam Artymowicz, Sam Scalet|   ||
+| 18 | May 14 | Zhen Huang | |Jiaqi Leng|
+| 19 | May 21 | | Joao Basso| Diyi Liu |
+
+
+## Suggested reading materials (2026 Spring)
+- Szehr, O., & Wolf, M. M. (2013). Perturbation bounds for quantum Markov processes and their fixed points. Journal of Mathematical Physics, 54(3). https://doi.org/10.1063/1.4795112 (Ethan)
+- Mitrophanov, A. Y. (2005). Sensitivity and convergence of uniformly ergodic Markov chains. Journal of Applied Probability, 42(4), 1003–1014. https://doi.org/10.1239/jap/1134587812 (Rahul)
+- Bittel, L., Mele, A. A., Eisert, J., & Leone, L. (2025). Optimal trace-distance bounds for free-fermionic states: Testing and improved tomography. 1–48. https://doi.org/10.1103/pzx6-nkfb (Kevin)
+- Woods, M. P., & Plenio, M. B. (2016). Dynamical error bounds for continuum discretisation via Gauss quadrature rules-A Lieb-Robinson bound approach. Journal of Mathematical Physics, 57(2), 1–19. https://doi.org/10.1063/1.4940436 (Yilun)
+- Giuliani, A., Lebowitz, J. L., & Lieb, E. H. (2006). Ising models with long-range antiferromagnetic and short-range ferromagnetic interactions. Physical Review B - Condensed Matter and Materials Physics, 74(6). https://doi.org/10.1103/PhysRevB.74.064420 (Haoen)
+- B. Leimkuhler, M. Sachs, Efficient Numerical Algorithms for the Generalized Langevin Equation, (2020) 1–33. http://arxiv.org/abs/2012.04245. (Zhen)
+- Yin, C., Surace, F. M., & Lucas, A. (2025). Theory of Metastable States in Many-Body Quantum Systems. Physical Review X, 15(1), 11064. https://doi.org/10.1103/PhysRevX.15.011064 (Jiaqing)
+- Lu, S. L., & Yau, H. T. (1993). Spectral gap and logarithmic Sobolev inequality for Kawasaki and Glauber dynamics. Communications in Mathematical Physics, 156(2), 399–433. https://doi.org/10.1007/BF02098489 (Diyi)
+
+</details>
+
+
+<details>
+<summary> Schedule (2025 Summer and Fall) </summary>
 
   | # | Date |  Tutorial talk     | Research update  |
 |---|------|-------------|-----------------------------------------------------------------------------------------------------------------|
