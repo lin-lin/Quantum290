@@ -2,9 +2,8 @@
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
 - Upcoming talks: Aug 19 (Wed)
-- **When:** 🕒 Wednesday TBD
-- **Where:** TBD
-- **Time**:
+- **When:** 🕒 Wednesday 2PM
+- **Where:** Rm 213 Annenberg Center
 
   
 ## Schedule (2026 Summer and Fall)
