@@ -4,15 +4,15 @@
 - Upcoming talks: Aug 19 (Wed)
 - **When:** 🕒 Wednesday TBD
 - **Where:** TBD
-- **Moderator**: **Haoen Li**
 - **Time**:
 
   
 ## Schedule (2026 Summer and Fall)
 
   | # | Date | Speaker | References |
-|---|------|-----------------------------------------------------------------------------------------------------------------|---|
+|---|------|----------------------------------------------------------------|---|
 | 1 | Aug 13 | Muzhou Ma | [Paper](https://arxiv.org/abs/2607.28795)| 
+| 2 | Aug 19 | | | 
 
 
 
