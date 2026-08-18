@@ -1,7 +1,7 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- Upcoming talks: Aug 19 (Wed)
+- Upcoming talks: Aug 19 (Wed) Muzhou Ma: Quantum error correction and early fault-tolerant eigensolver
 - **When:** 🕒 Wednesday 2PM
 - **Where:** Rm 213 Annenberg Center
 
@@ -11,7 +11,7 @@
   | # | Date | Speaker | References |
 |---|------|----------------------------------------------------------------|---|
 | 1 | Aug 13 | Muzhou Ma | [Paper](https://arxiv.org/abs/2607.28795)| 
-| 2 | Aug 19 | | | 
+| 2 | Aug 19 | Muzhou Ma| | 
 
 
 
