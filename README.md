@@ -1,7 +1,7 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- Upcoming talks: Aug 19 (Wed) Muzhou Ma: Quantum error correction and early fault-tolerant eigensolver
+- Upcoming talks: Aug 26 (Wed) Muzhou Ma: Measurement-Based Surface-Code Hadamard Test
 - **When:** 🕒 Wednesday 2PM
 - **Where:** Rm 213 Annenberg Center
 
@@ -12,13 +12,15 @@
 |---|------|----------------------------------------------------------------|---|
 | 1 | Aug 13 | Muzhou Ma | [Paper](https://arxiv.org/abs/2607.28795)| 
 | 2 | Aug 19 | Muzhou Ma| | 
+| 3 | Aug 26 | Muzhou Ma| |
 
 
 
 ### 📃 Topics of Previous Talks
 
 2026 Summer and Fall
-
+- 8/19
+  - Muzhou Ma: Quantum error correction and early fault-tolerant eigensolver   
 - 8/13
   - Muzhou Ma: High-rate qLDPC processors
 
