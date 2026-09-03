@@ -12,7 +12,8 @@
 |---|------|----------------------------------------------------------------|---|
 | 1 | Aug 13 | Muzhou Ma | [Paper](https://arxiv.org/abs/2607.28795)| 
 | 2 | Aug 19 | Muzhou Ma| | 
-| 3 | Aug 26 | Muzhou Ma| |
+| 3 | Aug 26 | No Seminar| |
+| 4 | Sep 2  | Muzhou Ma| |
 
 
 
