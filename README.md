@@ -1,7 +1,7 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- Upcoming talks: Aug 26 (Wed) Muzhou Ma: Measurement-Based Surface-Code Hadamard Test
+- Upcoming talks:
 - **When:** 🕒 Wednesday 2PM
 - **Where:** Rm 213 Annenberg Center
 
@@ -20,6 +20,8 @@
 ### 📃 Topics of Previous Talks
 
 2026 Summer and Fall
+- 9/2
+  - Muzhou Ma: Lattice surgery and magic state injection
 - 8/19
   - Muzhou Ma: Quantum error correction and early fault-tolerant eigensolver   
 - 8/13
