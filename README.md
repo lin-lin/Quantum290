@@ -14,12 +14,15 @@
 | 2 | Aug 19 | Muzhou Ma| | 
 | 3 | Aug 26 | No Seminar| |
 | 4 | Sep 2  | Muzhou Ma| |
+| 5 | Sep 9, Sep 16 | Muzhou Ma | |
 
 
 
 ### 📃 Topics of Previous Talks
 
 2026 Summer and Fall
+- 9/9, 9/16
+  - Codesign and resource estimate of Hadamard test
 - 9/2
   - Muzhou Ma: Lattice surgery and magic state injection
 - 8/19
