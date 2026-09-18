@@ -15,6 +15,7 @@
 ### 📃 Topics of Previous Talks
 <details>
 <summary> 2026 Summer: Topics in quantum error correction</summary>
+  
 - 9/9, 9/16
   - Codesign and resource estimate of Hadamard test
 - 9/2
