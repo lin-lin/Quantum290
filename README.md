@@ -6,29 +6,23 @@
 - **Where:** Rm 213 Annenberg Center
 
   
-## Schedule (2026 Summer and Fall)
+## Schedule (2026 Fall)
 
-  | # | Date | Speaker | References |
-|---|------|----------------------------------------------------------------|---|
-| 1 | Aug 13 | Muzhou Ma | [Paper](https://arxiv.org/abs/2607.28795)| 
-| 2 | Aug 19 | Muzhou Ma| | 
-| 3 | Aug 26 | No Seminar| |
-| 4 | Sep 2  | Muzhou Ma| |
-| 5 | Sep 9, Sep 16 | Muzhou Ma | |
+
 
 
 
 ### 📃 Topics of Previous Talks
 
-2026 Summer and Fall
+2026 Summer: Topics in quantum error correction
 - 9/9, 9/16
   - Codesign and resource estimate of Hadamard test
 - 9/2
-  - Muzhou Ma: Lattice surgery and magic state injection
+  - Lattice surgery and magic state injection
 - 8/19
-  - Muzhou Ma: Quantum error correction and early fault-tolerant eigensolver   
+  - Quantum error correction and early fault-tolerant eigensolver   
 - 8/13
-  - Muzhou Ma: High-rate qLDPC processors
+  - High-rate qLDPC processors
 
 <details>
   <summary> 2026 Spring </summary>
@@ -145,6 +139,20 @@
 </details>
 
 ### 📃 Previous Schedules 
+<details>
+  <summary> Schedule (2026 Summer: Topics in quantum error correction) </summary>  
+  
+  | # | Date | Speaker | References |
+|---|------|----------------------------------------------------------------|---|
+| 1 | Aug 13 | Muzhou Ma | [Paper](https://arxiv.org/abs/2607.28795)| 
+| 2 | Aug 19 | Muzhou Ma| | 
+| 3 | Aug 26 | No Seminar| |
+| 4 | Sep 2  | Muzhou Ma| |
+| 5 | Sep 9, Sep 16 | Muzhou Ma | |
+
+
+</details>
+
 <details>
   <summary> Schedule (2026 Spring) </summary>  
   
