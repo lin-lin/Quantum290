@@ -13,8 +13,8 @@
 
 
 ### 📃 Topics of Previous Talks
-
-2026 Summer: Topics in quantum error correction
+<details>
+<summary> 2026 Summer: Topics in quantum error correction</summary>
 - 9/9, 9/16
   - Codesign and resource estimate of Hadamard test
 - 9/2
@@ -23,6 +23,7 @@
   - Quantum error correction and early fault-tolerant eigensolver   
 - 8/13
   - High-rate qLDPC processors
+  </details>
 
 <details>
   <summary> 2026 Spring </summary>
