@@ -1,14 +1,16 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- Upcoming talks:
+- **Upcoming talks:** Lin: QMEGS, BB, and STAR applied to the TFIM model
 - **When:** 🕒 Wednesday 2PM
 - **Where:** Rm 213 Annenberg Center
 
   
 ## Schedule (2026 Fall)
 
-
+  | # | Date | Speaker | References |
+|---|------|----------------------------------------------------------------|---|
+| 1 | 9/23 | Lin Lin | [[QMEGS](https://quantum-journal.org/papers/q-2024-10-02-1487/)] [[STAR](https://arxiv.org/abs/2606.25011)] [[Preskill's 2026 notes on QEC](https://preskill.caltech.edu/ph219/Ph_CS_219_2026_Claude.pdf)] |
 
 
 
