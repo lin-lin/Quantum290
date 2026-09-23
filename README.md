@@ -1,7 +1,7 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- **Upcoming talks:** Lin: QMEGS, BB, and STAR applied to the TFIM model
+- **Upcoming talks:** Lin: QMEGS, BB, and STAR applied to the TFIM model (Lecture 2: Parallel STAR resource states, Control-free, PBC and transversal fault-tolerance)
 - **When:** 🕒 Wednesday 2PM
 - **Where:** Rm 213 Annenberg Center
 
@@ -11,10 +11,15 @@
   | # | Date | Speaker | References |
 |---|------|----------------------------------------------------------------|---|
 | 1 | 9/23 | Lin Lin | [[QMEGS](https://quantum-journal.org/papers/q-2024-10-02-1487/)] [[STAR](https://arxiv.org/abs/2606.25011)] [[Preskill's 2026 notes on QEC](https://preskill.caltech.edu/ph219/Ph_CS_219_2026_Claude.pdf)] |
+| 2 | 9/30 | Lin Lin | [[QMEGS](https://quantum-journal.org/papers/q-2024-10-02-1487/)] [[STAR](https://arxiv.org/abs/2606.25011)] [[Preskill's 2026 notes on QEC](https://preskill.caltech.edu/ph219/Ph_CS_219_2026_Claude.pdf)] |
 
 
 
 ### 📃 Topics of Previous Talks
+
+ 2026 Fall
+- 9/23 Lin Lin: An Ising eigensolver using BB and STAR (Lecture 1: STAR, Review Toric code, [[42,6,6]] BB code)
+
 <details>
 <summary> 2026 Summer: Topics in quantum error correction</summary>
   
