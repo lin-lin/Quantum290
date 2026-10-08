@@ -1,19 +1,20 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- **Upcoming talks:** Lin: QMEGS, BB, and STAR applied to the TFIM model (Lecture 2: Parallel STAR resource states, Control-free, PBC and transversal fault-tolerance)
-- **When:** 🕒 Wednesday 2PM
-- **Where:** Rm 213 Annenberg Center
+- **Upcoming talks:** Yilun: Passive error correction via system-bath dynamics
+- **When:** 🕒 Friday 11AM
+- **Where:** Rm 313 Annenberg Center
 
   
 ## Schedule (2026 Fall)
 
-  | # | Date | Speaker | References |
-|---|------|----------------------------------------------------------------|---|
-| 1 | 9/23 | Lin Lin | [[QMEGS](https://quantum-journal.org/papers/q-2024-10-02-1487/)] [[STAR](https://arxiv.org/abs/2606.25011)] [[Preskill's 2026 notes on QEC](https://preskill.caltech.edu/ph219/Ph_CS_219_2026_Claude.pdf)] |
-| 2 | 9/30 | No seminar | |
-| 3 | 10/7 | Lin Lin | [[QMEGS](https://quantum-journal.org/papers/q-2024-10-02-1487/)] [[STAR](https://arxiv.org/abs/2606.25011)] [[Preskill's 2026 notes on QEC](https://preskill.caltech.edu/ph219/Ph_CS_219_2026_Claude.pdf)] |
 
+| # | Date | Speaker | Topic | References |
+|---|---|---|---|---|
+| 1 | 9/23 | Lin Lin | | [QMEGS](https://quantum-journal.org/papers/q-2024-10-02-1487/), [STAR](https://arxiv.org/abs/2606.25011), [Preskill's 2026 notes on QEC](https://preskill.caltech.edu/ph219/Ph_CS_219_2026_Claude.pdf) |
+| 2 | 9/30 | No seminar | | |
+| 3 | 10/9 | Yilun Yang | Passive error correction via system-bath dynamics | |
+| 4 | | Lin Lin | Lecture 2: Parallel STAR resource states, control-free, PBC, and transversal fault-tolerance | [QMEGS](https://quantum-journal.org/papers/q-2024-10-02-1487/), [STAR](https://arxiv.org/abs/2606.25011), [Preskill's 2026 notes on QEC](https://preskill.caltech.edu/ph219/Ph_CS_219_2026_Claude.pdf) |
 
 
 ### 📃 Topics of Previous Talks
