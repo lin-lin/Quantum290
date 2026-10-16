@@ -1,7 +1,7 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- **Upcoming talks:** Yilun: Passive error correction via system-bath dynamics
+- **Upcoming talks:** Zherui: Scalable dissipative quantum error correction for qubit codes & Autonomous quantum error correction and quantum computation
 - **When:** 🕒 Friday 11AM
 - **Where:** Rm 313 Annenberg Center
 
@@ -14,12 +14,15 @@
 | 1 | 9/23 | Lin Lin | | [QMEGS](https://quantum-journal.org/papers/q-2024-10-02-1487/), [STAR](https://arxiv.org/abs/2606.25011), [Preskill's 2026 notes on QEC](https://preskill.caltech.edu/ph219/Ph_CS_219_2026_Claude.pdf) |
 | 2 | 9/30 | No seminar | | |
 | 3 | 10/9 | Yilun Yang | Passive error correction via system-bath dynamics | |
-| 4 | | Lin Lin | Lecture 2: Parallel STAR resource states, control-free, PBC, and transversal fault-tolerance | [QMEGS](https://quantum-journal.org/papers/q-2024-10-02-1487/), [STAR](https://arxiv.org/abs/2606.25011), [Preskill's 2026 notes on QEC](https://preskill.caltech.edu/ph219/Ph_CS_219_2026_Claude.pdf) |
+| 4 | 10/16 | Zherui Chen | Scalable dissipative quantum error correction for qubit codes & Autonomous quantum error correction and quantum computation |[dissipative QEC](https://arxiv.org/abs/2507.12534), [autonomous QEC](https://arxiv.org/abs/2103.05007) |
+| 5 | | Lin Lin | Lecture 2: Parallel STAR resource states, control-free, PBC, and transversal fault-tolerance | [QMEGS](https://quantum-journal.org/papers/q-2024-10-02-1487/), [STAR](https://arxiv.org/abs/2606.25011), [Preskill's 2026 notes on QEC](https://preskill.caltech.edu/ph219/Ph_CS_219_2026_Claude.pdf) |
+
 
 
 ### 📃 Topics of Previous Talks
 
  2026 Fall
+- 10/9 Yilun: Passive error correction via system-bath dynamics
 - 9/23 Lin Lin: An Ising eigensolver using BB and STAR (Lecture 1: STAR, Review Toric code, [[42,6,6]] BB code)
 
 <details>
