@@ -24,6 +24,7 @@
 ### 📃 Topics of Previous Talks
 
  2026 Fall
+- 10/16 Zherui: Scalable dissipative quantum error correction for qubit codes & Autonomous quantum error correction and quantum computation
 - 10/9 Yilun: Passive error correction via system-bath dynamics
 - 9/23 Lin Lin: An Ising eigensolver using BB and STAR (Lecture 1: STAR, Review Toric code, [[42,6,6]] BB code)
 
