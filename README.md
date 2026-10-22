@@ -1,7 +1,7 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- **Upcoming talks:** Zherui: Scalable dissipative quantum error correction for qubit codes & Autonomous quantum error correction and quantum computation
+- **Upcoming talks:** Yilun & Zherui: Coherent quantum error correction
 - **When:** 🕒 Friday 11AM
 - **Where:** Rm 313 Annenberg Center
 
@@ -15,7 +15,7 @@
 | 2 | 9/30 | No seminar | | |
 | 3 | 10/9 | Yilun Yang | Passive error correction via system-bath dynamics | |
 | 4 | 10/16 | Zherui Chen | Scalable dissipative quantum error correction for qubit codes & Autonomous quantum error correction and quantum computation |[dissipative QEC](https://arxiv.org/abs/2507.12534), [autonomous QEC](https://arxiv.org/abs/2103.05007) |
-| 5 | 10/23 | | | |
+| 5 | 10/23 | Yilun Yang, Zherui Chen | Coherent quantum error correction | |
 | 6 | 10/30 | | | |
 | 7 | | Lin Lin | Lecture 2: Parallel STAR resource states, control-free, PBC, and transversal fault-tolerance | [QMEGS](https://quantum-journal.org/papers/q-2024-10-02-1487/), [STAR](https://arxiv.org/abs/2606.25011), [Preskill's 2026 notes on QEC](https://preskill.caltech.edu/ph219/Ph_CS_219_2026_Claude.pdf) |
 
