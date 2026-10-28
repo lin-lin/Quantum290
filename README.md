@@ -16,7 +16,7 @@
 | 3 | 10/9 | Yilun Yang | Passive error correction via system-bath dynamics | |
 | 4 | 10/16 | Zherui Chen | Scalable dissipative quantum error correction for qubit codes & Autonomous quantum error correction and quantum computation |[dissipative QEC](https://arxiv.org/abs/2507.12534), [autonomous QEC](https://arxiv.org/abs/2103.05007) |
 | 5 | 10/23 | Yilun Yang, Zherui Chen | Coherent quantum error correction | |
-| 6 | 10/30 | | | |
+| 6 | 10/30 | Nikita Zemlevskiy | | |
 | 7 | | Lin Lin | Lecture 2: Parallel STAR resource states, control-free, PBC, and transversal fault-tolerance | [QMEGS](https://quantum-journal.org/papers/q-2024-10-02-1487/), [STAR](https://arxiv.org/abs/2606.25011), [Preskill's 2026 notes on QEC](https://preskill.caltech.edu/ph219/Ph_CS_219_2026_Claude.pdf) |
 
 
