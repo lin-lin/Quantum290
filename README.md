@@ -1,11 +1,12 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- **Upcoming talks:** Nikita: Partially Fault-Tolerant Quantum Simulations
+- **Upcoming talks:** Xiaoyu: Fast classical simulation of ‘Fast, accurate, high-resolution simulation of large-scale Fermi-Hubbard models on a digital quantum processor’
 - **When:** 🕒 Friday 11AM
-- **Where:** Rm 313 Annenberg Center
+- **Where:** Rm 204 Annenberg Center
 
-  
+**Update: Group studio 204 is all set, so we're moving the seminar in there!**
+
 ## Schedule (2026 Fall)
 
 
@@ -17,13 +18,14 @@
 | 4 | 10/16 | Zherui Chen | Scalable dissipative quantum error correction for qubit codes & Autonomous quantum error correction and quantum computation |[dissipative QEC](https://arxiv.org/abs/2507.12534), [autonomous QEC](https://arxiv.org/abs/2103.05007) |
 | 5 | 10/23 | Yilun Yang, Zherui Chen | Coherent quantum error correction | |
 | 6 | 10/30 | Nikita Zemlevskiy | Partially Fault-Tolerant Quantum Simulations | [paper](https://arxiv.org/abs/2607.24947) |
-
+| 7 | 11/6 | Xiaoyu Ouyang | Fast classical simulation of ‘Fast, accurate, high-resolution simulation of large-scale Fermi-Hubbard models on a digital quantum processor’ | [paper](https://arxiv.org/abs/2608.13805) |
 
 
 
 ### 📃 Topics of Previous Talks
 
  2026 Fall
+- 10/30 Nikita: Partially Fault-Tolerant Quantum Simulations 
 - 10/23 Yilun & Zherui: Coherent quantum error correction
 - 10/16 Zherui: Scalable dissipative quantum error correction for qubit codes & Autonomous quantum error correction and quantum computation
 - 10/9 Yilun: Passive error correction via system-bath dynamics
