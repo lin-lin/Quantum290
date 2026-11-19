@@ -1,7 +1,7 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- **Upcoming talks:** Muzhou
+- **Upcoming talks:** Lin: Adiabatic theorem in subspaces
 - **When:** 🕒 Friday 11AM
 - **Where:** Rm 204 Annenberg Center
 
@@ -20,7 +20,7 @@
 | 6 | 10/30 | Nikita Zemlevskiy | Partially Fault-Tolerant Quantum Simulations | [paper](https://arxiv.org/abs/2607.24947) |
 | 7 | 11/6 | Xiaoyu Ouyang | Fast classical simulation of ‘Fast, accurate, high-resolution simulation of large-scale Fermi-Hubbard models on a digital quantum processor’ | [paper](https://arxiv.org/abs/2608.13805) |
 | 8 | 11/13 | Muzhou Ma | Temporal overheads in quantum error correction |  |
-| 9 | 11/20 |  | | |
+| 9 | 11/20 | Lin Lin | Adiabatic theorem in subspaces | |
 | 10| 11/24 (Tu) | Seonggeun Park | | 
 
 ### 📃 Topics of Previous Talks
