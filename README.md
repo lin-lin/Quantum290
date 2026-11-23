@@ -1,7 +1,7 @@
 ![Math290](asset/quantum290-logo.svg)
 ----------------------------
 ### 🌟 Math 290 Quantum many-body seminar
-- **Upcoming talks:** Lin: Adiabatic theorem in subspaces
+- **Upcoming talks:** Seonggeun: Quantum memory at nonzero temperature in a thermodynamically trivial system
 - **When:** 🕒 Friday 11AM
 - **Where:** Rm 204 Annenberg Center
 
@@ -26,6 +26,8 @@
 ### 📃 Topics of Previous Talks
 
  2026 Fall
+ 
+- 11/20 Lin: Adiabatic theorem in subspaces
 - 11/13 Muzhou: Temporal overheads in quantum error correction
 - 11/6 Xiaoyu: Fast classical simulation of ‘Fast, accurate, high-resolution simulation of large-scale Fermi-Hubbard models on a digital quantum processor’ 
 - 10/30 Nikita: Partially Fault-Tolerant Quantum Simulations 
