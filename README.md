@@ -21,7 +21,7 @@
 | 7 | 11/6 | Xiaoyu Ouyang | Fast classical simulation of ‘Fast, accurate, high-resolution simulation of large-scale Fermi-Hubbard models on a digital quantum processor’ | [paper](https://arxiv.org/abs/2608.13805) |
 | 8 | 11/13 | Muzhou Ma | Temporal overheads in quantum error correction |  |
 | 9 | 11/20 | Lin Lin | Adiabatic theorem in subspaces | |
-| 10| 11/24 (Tu) | Seonggeun Park | | 
+| 10| 11/24 (Tu) | Seonggeun Park | Quantum memory at nonzero temperature in a thermodynamically trivial system | [paper](https://www.nature.com/articles/s41467-024-55570-7) |
 
 ### 📃 Topics of Previous Talks
 
